@@ -1,0 +1,25 @@
+.card {
+  font-family: arial;
+  font-size: 20px;
+  text-align: left;
+  color: black;
+  background-color: white;
+  letter-spacing: 1px;
+}
+.center {
+  text-align: center;
+}  
+.author {
+  text-align: center;
+  font-size: 18px;
+  letter-spacing: 20px;
+}  
+.begining {
+  font-family:KaiTi;
+  font-size:18px;
+  letter-spacing: 3px;
+  text-indent: 42px;
+}
+.content {
+  text-indent: 42px;
+}
