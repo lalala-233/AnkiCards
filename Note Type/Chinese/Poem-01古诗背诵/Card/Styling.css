@@ -4,22 +4,22 @@
   text-align: left;
   color: black;
   background-color: white;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 .center {
   text-align: center;
-}  
+}
 .author {
   text-align: center;
   font-size: 18px;
-  letter-spacing: 20px;
-}  
+  letter-spacing: 26px;
+}
 .begining {
-  font-family:KaiTi;
-  font-size:18px;
-  letter-spacing: 3px;
-  text-indent: 42px;
+  font-family: KaiTi;
+  font-size: 18px;
+  letter-spacing: 4px;
+  text-indent: 44px;
 }
 .content {
-  text-indent: 42px;
+  text-indent: 44px;
 }
