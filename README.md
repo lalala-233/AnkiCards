@@ -1,10 +1,7 @@
-# Anki Backup
+# Anki Cards
 
-这是对 Anki 里面的数据的备份。
-主要是对网页代码进行备份。
+这是一个备份。
 
----
+[AnkiMaker](https://github.com/lalala-233/AnkiMaker) 的源数据文件，以及生成的可导入的 txt 文件（位于 [New](/New/) 目录下）。
 
-主要是生成 Anki 中导入的源文件。
-
-- 2023.5.2
+[Old](/Old/) 目录下存储的是一些以前的数据。
