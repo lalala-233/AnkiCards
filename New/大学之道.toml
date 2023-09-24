@@ -2,7 +2,6 @@
 author = "《礼记》"
 deck = "New::语文"
 card_template = "语文::古诗文"
-term = "高二上"
 title = "大学之道"
 
 [content]
