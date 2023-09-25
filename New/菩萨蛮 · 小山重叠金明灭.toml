@@ -1,7 +1,7 @@
 [info]
 author = "温庭筠"
-card_template = "语文::古诗文"
-deck = "New::语文"
+card_template = "语文::古诗文::挖空"
+deck = "New::语文::挖空"
 dynasty = "唐"
 title = "菩萨蛮 · 小山重叠金明灭"
 

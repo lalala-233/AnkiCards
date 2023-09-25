@@ -1,7 +1,7 @@
 [info]
 author = "王磐"
-card_template = "语文::古诗文"
-deck = "New::语文"
+card_template = "语文::古诗文::挖空"
+deck = "New::语文::挖空"
 dynasty = "明"
 title = "朝天子 · 咏喇叭"
 

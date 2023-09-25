@@ -1,7 +1,7 @@
 [info]
 author = "王实甫"
-card_template = "语文::古诗文"
-deck = "New::语文"
+card_template = "语文::古诗文::挖空"
+deck = "New::语文::挖空"
 dynasty = "元"
 title = "西厢记 · 长亭送别（节选）"
 

@@ -1,7 +1,7 @@
 [info]
 author = "杜甫"
-deck = "New::语文"
-card_template = "语文::古诗文"
+deck = "New::语文::挖空"
+card_template = "语文::古诗文::挖空"
 title = "登岳阳楼"
 
 [content]
