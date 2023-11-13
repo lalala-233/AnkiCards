@@ -1,6 +1,7 @@
 [info]
 author = "刘克庄"
 card_template = "语文::古诗文::挖空"
+mode = "poem"
 deck = "New::语文::挖空"
 dynasty = "宋"
 title = "贺新郎 · 国脉微如缕"

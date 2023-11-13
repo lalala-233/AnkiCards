@@ -1,6 +1,7 @@
 [info]
 author = "《诗经 · 秦风》"
 card_template = "语文::古诗文::挖空"
+mode = "poem"
 deck = "New::语文::挖空"
 title = "无衣"
 

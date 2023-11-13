@@ -1,6 +1,7 @@
 [info]
 author = "苏轼"
 card_template = "语文::古诗文::挖空"
+mode = "poem"
 deck = "New::语文::挖空"
 dynasty = "宋"
 title = "江城子 · 乙卯正月二十日夜记梦"

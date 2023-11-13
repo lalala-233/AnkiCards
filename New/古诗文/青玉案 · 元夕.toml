@@ -1,6 +1,7 @@
 [info]
 author = "辛弃疾"
 card_template = "语文::古诗文::挖空"
+mode = "poem"
 deck = "New::语文::挖空"
 dynasty = "宋"
 title = "青玉案 · 元夕"
