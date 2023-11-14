@@ -1,5 +1,5 @@
 #separator:|
-#html:true
+#html:false
 #notetype:语文::古诗文::挖空
 #deck:New::语文::挖空::屈原列传（节选）
 屈原列传（节选）（3-1）|司马迁||屈平疾王听之不聪也，|谗谄之蔽明也，

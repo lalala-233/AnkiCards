@@ -1,5 +1,5 @@
 #separator:|
-#html:true
+#html:false
 #notetype:语文::古诗文::挖空
 #deck:New::语文::挖空::朝天子 · 咏喇叭
 朝天子 · 咏喇叭（1-1）|（明）王磐||喇叭，|唢呐，

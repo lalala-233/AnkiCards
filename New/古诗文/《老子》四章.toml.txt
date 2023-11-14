@@ -1,5 +1,5 @@
 #separator:|
-#html:true
+#html:false
 #notetype:语文::古诗文::挖空
 #deck:New::语文::挖空::《老子》四章
 《老子》四章（1-1）|老子||（第十一章）三十辐共一毂，|当其无，

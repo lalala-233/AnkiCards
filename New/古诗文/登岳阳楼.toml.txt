@@ -1,5 +1,5 @@
 #separator:|
-#html:true
+#html:false
 #notetype:语文::古诗文::挖空
 #deck:New::语文::挖空::登岳阳楼
 登岳阳楼（1-1）|杜甫||昔闻洞庭水，|今上岳阳楼。

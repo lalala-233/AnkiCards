@@ -1,5 +1,5 @@
 #separator:|
-#html:true
+#html:false
 #notetype:语文::古诗文::挖空
 #deck:New::语文::挖空::将进酒
 将进酒（1-1）|（唐）李白||君不见黄河之水天上来，|奔流到海不复回。

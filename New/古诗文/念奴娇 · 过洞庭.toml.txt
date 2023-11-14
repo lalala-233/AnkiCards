@@ -1,5 +1,5 @@
 #separator:|
-#html:true
+#html:false
 #notetype:语文::古诗文::挖空
 #deck:New::语文::挖空::念奴娇 · 过洞庭
 念奴娇 · 过洞庭（1-1）|张孝祥||洞庭青草，|近中秋，

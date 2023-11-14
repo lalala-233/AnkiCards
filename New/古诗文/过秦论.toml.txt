@@ -1,5 +1,5 @@
 #separator:|
-#html:true
+#html:false
 #notetype:语文::古诗文::挖空
 #deck:New::语文::挖空::过秦论
 过秦论（1-1）|贾谊||秦孝公据崤函之固，|拥雍州之地，

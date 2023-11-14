@@ -1,5 +1,5 @@
 #separator:|
-#html:true
+#html:false
 #notetype:语文::古诗文::挖空
 #deck:New::语文::挖空::大学之道
 大学之道（1-1）|《礼记》||大学之道，|在明明德，

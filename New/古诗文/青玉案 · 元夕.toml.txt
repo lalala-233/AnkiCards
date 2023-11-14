@@ -1,5 +1,5 @@
 #separator:|
-#html:true
+#html:false
 #notetype:语文::古诗文::挖空
 #deck:New::语文::挖空::青玉案 · 元夕
 青玉案 · 元夕（1-1）|（宋）辛弃疾||东风夜放花千树，|更吹落，

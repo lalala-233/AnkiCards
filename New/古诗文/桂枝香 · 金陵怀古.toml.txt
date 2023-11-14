@@ -1,5 +1,5 @@
 #separator:|
-#html:true
+#html:false
 #notetype:语文::古诗文::挖空
 #deck:New::语文::挖空::桂枝香 · 金陵怀古
 桂枝香 · 金陵怀古（1-1）|王安石||登临送目，|正故国晚秋，

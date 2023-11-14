@@ -1,5 +1,5 @@
 #separator:|
-#html:true
+#html:false
 #notetype:语文::古诗文::挖空
 #deck:New::语文::挖空::人皆有不忍人之心
 人皆有不忍人之心（1-1）|《孟子》||孟子曰：|「人皆有不忍人之心。

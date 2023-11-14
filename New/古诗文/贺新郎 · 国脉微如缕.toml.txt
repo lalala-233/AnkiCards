@@ -1,5 +1,5 @@
 #separator:|
-#html:true
+#html:false
 #notetype:语文::古诗文::挖空
 #deck:New::语文::挖空::贺新郎 · 国脉微如缕
 贺新郎 · 国脉微如缕（1-1）|（宋）刘克庄||实之三和有忧边之语，|走笔答之。
