@@ -1,0 +1,9 @@
+[info]
+author = "纳兰性德"
+deck = "New::语文::挖空"
+card_template = "语文::古诗文::挖空"
+mode = "poem"
+title = "浣溪沙"
+[content]
+
+paragraph = ["身向云山那畔行，北风吹断马嘶声，深秋远塞若为情！", "一抹晚烟荒戍垒，半竿斜日旧关城。古今幽恨几时平！"]
