@@ -1,0 +1,30 @@
+#separator:|
+#html:false
+#notetype:单面::例句::单词::注释
+#deck:New::英语::单词
+"A cholera epidemic swept the country."|"霍乱席卷全国。"|"cholera
+[uncountable] noun
+/ˈkɒlərə/ /ˈkɑːlərə/
+霍乱"|
+"Was the judge too severe on the thief?"|"这个法官对小偷是不是太严厉了？"|"severe (on/with sb/sth)
+adjective
+/sɪˈvɪə(r)/ /sɪˈvɪr/
+strict or harsh in attitude or treatment; imposing stern discipline
+严格的；严厉的；苛刻的；纪律严明的"|
+"The drought is becoming increasingly severe."|"旱灾日趋严重。"|"severe
+adjective
+/sɪˈvɪə(r)/ /sɪˈvɪr/
+very bad, intense, difficult, etc
+非常恶劣、紧张、困难等"|
+"The pace of the race was too severe to be maintained for long."|"比赛的速度极快，很难持久。"|"severe
+adjective
+/sɪˈvɪə(r)/ /sɪˈvɪr/
+demanding great skill, ability, patience, etc
+（对技巧、能力、耐心等）要求很高的
+"|
+"Her plain black dress was too severe for such a cheerful occasion."|"她朴素的黑色连衣裙在如此欢快的场合显得太素了。"|"severe
+adjective
+/sɪˈvɪə(r)/ /sɪˈvɪr/
+(of style, appearance, clothing, etc) unadorned; simple
+（指风格、外貌、衣物等）无装饰的，简单的，朴素的
+"|
