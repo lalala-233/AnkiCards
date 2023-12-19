@@ -1,0 +1,674 @@
+[info]
+card_template = "单面::例句::单词::注释"
+deck = "New::英语::单词"
+mode = "emphasis"
+
+[content]
+paragraph = [
+    [
+        """He operates a private airline.""",
+        """他经营一家私人航空公司。""",
+        """airline
+noun
+/ˈeəlaɪn/ /ˈerlaɪn/""",
+    ],
+    [
+        """a magnificent view across the bay""",
+        """海湾一带的壮观景象""",
+        """bay
+[countable] noun
+/beɪ/ /beɪ/
+a part of the sea, or of a large lake, partly surrounded by a wide curve of the land
+海湾；湖湾""",
+    ],
+    [
+        """Teach arts and crafts in a school.""",
+        """在学校里教工艺美术。""",
+        """craft
+noun
+/krɑːft/ /kræft/
+occupation, esp one that needs skill in the use of the hands; such a skill or technique
+行业；（尤指）手工业；手艺；工艺
+""",
+    ],
+    [
+        """achieving by craft and guile what he could not manage by honest means""",
+        """玩弄诡计和手腕以实现其用正当手段无法实现的企图。""",
+        """craft
+[uncountable] noun
+/krɑːft/ /kræft/
+(formal, disapproving) skill in making people believe what you want them to believe
+诡计；手腕；骗术；狡诈""",
+    ],
+    [
+        """an antique oak desk""",
+        """古橡木办公桌""",
+        """antique
+adjective
+/ænˈtiːk/ /ænˈtiːk/
+belonging to the distant past 古时的
+existing since old times 自古就有的
+valuable because of age and rarity （因古老和稀少而）珍贵的""",
+    ],
+    [
+        """Priceless antiques were destroyed in the fire.""",
+        """价值连城的古董在大火中焚毁。""",
+        """antique
+noun
+/ænˈtiːk/ /ænˈtiːk/
+a piece of furniture or a work of art, that is old and valuable, esp one that is of interest to collectors
+文物；古董；古玩""",
+    ],
+    [
+        """Please try to be pleasant to our guests.""",
+        """请尽量对我们的客人客气点。""",
+        """pleasant
+adjective
+/ˈpleznt/ /ˈpleznt/
+polite and friendly
+礼貌而友好的""",
+    ],
+    [
+        """The trip brought back pleasant childhood memories.""",
+        """这次旅行带回了愉快的童年记忆。""",
+        """pleasant
+adjective
+/ˈpleznt/ /ˈpleznt/
+giving pleasure to the mind, feelings or senses; enjoyable
+使人愉快的；合意的；可喜的""",
+    ],
+    [
+        """A new difficulty has arisen.""",
+        """出现了新困难。""",
+        """arise
+[intransitive] verb
+/əˈraɪz/ /əˈraɪz/
+arose /əˈrəuz/ /əˈroz/
+arisen /əˈrɪzn/ /əˈrɪzn/
+become evident; appear; originate
+呈现；出现；发生""",
+    ],
+    [
+        """Some learning difficulties arise from the way children are taught at school.""",
+        """一些学习困难源于孩子在学校接受教育的方式。""",
+        """arise out of/from sth
+[intransitive] verb
+/əˈraɪz/ /əˈraɪz/
+arose /əˈrəuz/ /əˈroz/
+arisen /əˈrɪzn/ /əˈrɪzn/
+to happen as a result of a particular situation
+（由…）引起；（因…）产生""",
+    ],
+    [
+        """He arose at dawn.""",
+        """他黎明即起。""",
+        """arise
+[intransitive] verb
+/əˈraɪz/ /əˈraɪz/
+arose /əˈrəuz/ /əˈroz/
+arisen /əˈrɪzn/ /əˈrɪzn/
+to get out of bed; to stand up
+起床；起立；起身""",
+    ],
+    [
+        """the massive walls of the castle""",
+        """厚实坚固的城堡围墙""",
+        """massive
+adjective
+/ˈmæsɪv/ /ˈmæsɪv/
+very large, heavy and solid
+巨大的；大而重的；结实的""",
+    ],
+    [
+        """He suffered a massive heart attack.""",
+        """他的心脏病严重发作了。""",
+        """massive
+adjective
+/ˈmæsɪv/ /ˈmæsɪv/
+extremely large or serious
+巨大的；非常严重的""",
+    ],
+    [
+        """The government put massive amounts of money into the health service.""",
+        """政府向医疗服务投入了大量资金。""",
+        """massive
+adjective
+/ˈmæsɪv/ /ˈmæsɪv/
+extremely large or serious
+巨大的；非常严重的""",
+    ],
+    [
+        """When I told you to 'get lost', I didn't expect to be taken literally.""",
+        """我叫你「滚开」，并没让你按字面意思来理解呀。""",
+        """literally
+adverb
+/ˈlɪtərəli/ /ˈlɪtərəli/
+in a literal way
+按字面；字面上""",
+    ],
+    [
+        """I was literally bored to death!""",
+        """我真的腻烦死了！""",
+        """literally
+adverb
+/ˈlɪtərəli/ /ˈlɪtərəli/
+used to emphasize the truth of something that may seem surprising
+（强调事实可能令人惊讶）真正地，确实地
+(informal) used to emphasize a word or phrase, even if it is not actually true in a literal sense
+（用于加强语气，虽然并非词语的字面意义）简直""",
+    ],
+    [
+        """His breath smelt of garlic.""",
+        """他呼出的气中有蒜味。""",
+        """breath
+[uncountable] noun
+/breθ/ /breθ/
+the air that you take into your lungs and send out again
+呼吸的空气""",
+    ],
+    [
+        """He recited the whole poem in one breath.""",
+        """他一口气背出了整首诗。""",
+        """breath
+[countable] noun
+/breθ/ /breθ/
+single act of taking air into the lungs
+吸气""",
+    ],
+    [
+        """Take a deep breath and try to relax.""",
+        """深呼吸，尽量放松。""",
+        """breath
+[countable] noun
+/breθ/ /breθ/
+single act of taking air into the lungs
+吸气""",
+    ],
+    [
+        """The sheer audacity of the man took my breath away.""",
+        """这个人的胆大妄为让我大吃一惊。""",
+        """take somebody’s breath away
+to be very surprising or beautiful
+令人惊叹；让人叹绝""",
+    ],
+    [
+        """""",
+        """""",
+        """bound""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+    [
+        """""",
+        """""",
+        """""",
+    ],
+]
