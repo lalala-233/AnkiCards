@@ -5,6 +5,6 @@ deck = "New::语文::挖空"
 card_template = "语文::古诗文::挖空"
 mode = "poem"
 title = "南安军"
-[content]
 
+[content]
 paragraph = ["梅花南北路，风雨湿征衣。出岭同谁出？归乡如此归！山河千古在，城郭一时非。饿死真吾志，梦中行采薇。"]
