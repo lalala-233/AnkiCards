@@ -1,0 +1,10 @@
+[info]
+author = "王实甫"
+card_template = "语文::古诗文::挖空"
+mode = "poem"
+deck = "New::语文::挖空"
+dynasty = "元"
+title = "西厢记·长亭送别（节选）"
+
+[content]
+paragraph = ["【正宫】【端正好】碧云天，黄花地，西风紧，北雁南飞。晓来谁染霜林醉？总是离人泪。"]
