@@ -5,11 +5,12 @@ use std::time::Duration;
 
 fn main() -> std::io::Result<()> {
     // Open the input file (test.txt)
-    let input_file = File::open("选中的笔记.txt")?;
+    let file_name="初中.txt";
+    let input_file = File::open(file_name)?;
     let reader = BufReader::new(input_file);
 
     // Create or open the output file (result.txt)
-    let mut output_file = File::create("result.txt")?;
+    let mut output_file = File::create(format!("{}-result.txt",file_name))?;
     write!(
         output_file,
         "#separator:|
