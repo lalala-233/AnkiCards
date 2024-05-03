@@ -6,6 +6,7 @@ use std::time::Duration;
 fn main() -> std::io::Result<()> {
     // Open the input file (test.txt)
     let file_name="初中.txt";
+    let template="英语单词模板";
     let input_file = File::open(file_name)?;
     let reader = BufReader::new(input_file);
 
@@ -57,8 +58,8 @@ fn main() -> std::io::Result<()> {
             }
 
             let processed_line = format!(
-                "\"{}\"|\"{}\"|\"{}\"|\"{}\"|\"{}\"|\"{}\"|\"{}\"|\"notetype\"\n",
-                parts[0], parts[1], parts[2], parts[3], english, chinese, parts[6]
+                "\"{}\"|\"{}\"|\"{}\"|\"{}\"|\"{}\"|\"{}\"|\"{}\"|\"{}\"\n",
+                parts[0], parts[1], parts[2], parts[3], english, chinese, parts[6],template
             );
             // Write the processed line to the output file
 
