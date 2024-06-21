@@ -1783,7 +1783,7 @@
 "初中英语单词"|"pick"|"英[pɪk] 美[pɪk]"|"v. 拾；捡；挑选；采摘；找茬；偶然学到<br>n. 拾；捡；选择；采摘；精华；鹤嘴锄；镐；琴拨"|"I will pick you up at the airport."|"我会去机场接你。"|"初中英语单词"|"英语单词模板"
 "初中英语单词"|"tiger"|"英['taɪɡə(r)] 美['taɪɡər]"|"n. 老虎；凶残之人"|"The tiger is a representative of the cat family."|"老虎是猫科动物的典型。"|"初中英语单词"|"英语单词模板"
 "初中英语单词"|"fox"|"英[fɒks] 美[fɑːks]"|"n. 狐狸；狡猾的人；<美>迷人的时髦女郎<br>vt. 欺骗；迷惑"|"The fox lay dying in a pool of gore."|"狐狸倒在血泊中奄奄一息。"|"初中英语单词"|"英语单词模板"
-"初中英语单词"|"theatre"|"英['θɪətə(r)] 美['θiːətər]"|"n. 戏院；剧场；戏剧；手术室；战区<br>adj. 戏院的<br>=theater."|"There is a ban on smoking in the theatre."|"这剧院内禁止吸烟。"|"初中英语单词"|"英语单词模板"
+"初中英语单词"|"theatre"|"英['θɪətə(r)] 美['θiːətər]"|"n. 戏院；剧场；<美>电影院；戏剧；手术室；战区<br>adj. 戏院的<br>=theater."|"There is a ban on smoking in the theatre."|"这剧院内禁止吸烟。"|"初中英语单词"|"英语单词模板"
 "初中英语单词"|"on the left/right side"|""|"在左（右）边"|"The bookstore is on the left side of the street."|"书店在街道的左边。"|"初中英语单词"|"英语单词模板"
 "初中英语单词"|"turning"|"英['tɜːnɪŋ] 美['tɜːrnɪŋ]"|"n. 旋转；回转；转向"|"Unscrew the bonnet by turning counterclockwise."|"反时针方向旋转拧松阀盖。"|"初中英语单词"|"英语单词模板"
 "初中英语单词"|"had better do"|""|"最好做某事；表示某人应该做某事或最好做某事"|"You had better start preparing for the exam early if you want to do well."|"你最好早点开始准备考试，如果你想考得好的话。"|"初中英语单词"|"英语单词模板"
