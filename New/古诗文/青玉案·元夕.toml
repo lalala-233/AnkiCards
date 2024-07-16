@@ -1,6 +1,6 @@
 [info]
 author = "辛弃疾"
-card_template = "语文::古诗文::挖空"
+notetype = "语文::古诗文::挖空"
 mode = "poem"
 deck = "New::语文::挖空"
 dynasty = "宋"

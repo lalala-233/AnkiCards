@@ -1,8 +1,7 @@
-
 [info]
 author = "辛弃疾"
 deck = "New::语文::挖空"
-card_template = "语文::古诗文::挖空"
+notetype = "语文::古诗文::挖空"
 mode = "poem"
 title = "破阵子·为陈同甫赋壮词以寄之"
 

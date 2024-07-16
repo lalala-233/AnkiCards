@@ -1,5 +1,5 @@
 [info]
-card_template = "双面::正面::反面::注释"
+notetype = "双面::正面::反面::注释"
 deck = "New::语文::成语"
 mode = "emphasis"
 

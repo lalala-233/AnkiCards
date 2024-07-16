@@ -1,6 +1,6 @@
 [info]
 deck = "New::语文::挖空"
-card_template = "语文::古诗文::挖空"
+notetype = "语文::古诗文::挖空"
 mode = "poem"
 title = "十五从军征"
 
