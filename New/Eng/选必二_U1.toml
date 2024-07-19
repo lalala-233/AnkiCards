@@ -1,7 +1,7 @@
 [info]
 notetype = "单面::例句::单词::注释"
 deck = "New::英语::单词"
-mode = "emphasis"
+mode = "default"
 
 [content]
 paragraph = [
