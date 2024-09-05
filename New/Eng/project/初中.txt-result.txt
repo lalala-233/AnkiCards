@@ -248,7 +248,7 @@
 "初中英语单词"|"How do you do?"|""|"你好！"|"How do you do? I do not think we have met."|"你好。我想我们以前还没有见过面。"|"初中英语单词"|"英语单词模板"
 "初中英语单词"|"seat"|"英[siːt] 美[siːt]"|"n. 座位；底座；席位；臀部；所在地<br>vt. 使坐下；可容纳<br>vi. 坐"|"He sat down on the nearest available seat."|"他在最近的空座位上坐下来。"|"初中英语单词"|"英语单词模板"
 "初中英语单词"|"have a seat"|""|"坐下"|"Please have a seat for a minute."|"请坐下等一分钟。"|"初中英语单词"|"英语单词模板"
-"初中英语单词"|"like"|"英[laɪk] 美[laɪk]"|"prep. 像<br>conj. 如同<br>adv. 大概；和……一样<br>adj. 相似的；同样的<br>v. 喜欢；想；愿意<br>n. 类似的人或物"|"At a distance he looks a bit like James Bond."|"从远处看，他有点像詹姆斯·邦德。"|"初中英语单词"|"英语单词模板"
+"初中英语单词"|"like"|"英[laɪk] 美[laɪk]"|"prep. 像<br>conj. 如同<br>adv. 大概；和……一样<br>adj. 相似的；同样的<br>v. 喜欢；想；愿意<br>n. 类似的人或物"|"At a distance he looks a bit like James Bond."|"从远处看，他有点像詹姆斯・邦德。"|"初中英语单词"|"英语单词模板"
 "初中英语单词"|"look like"|"英[lʊk laɪk] 美[lʊk laɪk]"|"看上去像；与…相似"|"He looked like a postman but he was really a fake."|"他看上去像个邮递员，但实际上是假冒的。"|"初中英语单词"|"英语单词模板"
 "初中英语单词"|"hat"|"英[hæt] 美[hæt]"|"n. 帽子<br>vt. 给……戴帽子<br>vi. 提供帽子；制造帽子"|"She bought a hat yesterday."|"她昨天买了一顶帽子。"|"初中英语单词"|"英语单词模板"
 "初中英语单词"|"doctor"|"英['dɒktə(r)] 美['dɑːktər]"|"n. 博士；医生<br>v. 篡改，伪造；阉割"|"He is a Doctor of Philosophy."|"他是一位哲学博士。"|"初中英语单词"|"英语单词模板"
