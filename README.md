@@ -18,7 +18,11 @@
 
 [Old](/Old/) 目录下存储的是一些以前的数据，仅作备份。
 
-## TODO
+## english for 分支
+
+目标：整理英语单词。
+
+我将提供不同阶段的单词，并使用[一个 Rust 程序](/New/Eng/project/src/main.rs)来对单词进行整理。整理完后的单词应通过 [TODO.md](/New/Eng/project/TODO.md) 的检查，并将生成的 result 文件合并会主分支，最后删除该分支。
 
 - [] 整理英语单词
 - - [x] 初中
