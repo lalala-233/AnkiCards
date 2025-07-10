@@ -2,7 +2,7 @@
 author = "魏征"
 notetype = "语文::古诗文::挖空"
 mode = "poem"
-deck = "古诗文填空"
+deck = "古诗文挖空"
 title = "谏太宗十思疏"
 
 [content]

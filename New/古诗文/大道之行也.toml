@@ -2,7 +2,7 @@
 author = "《礼记》"
 notetype = "语文::古诗文::挖空"
 mode = "poem"
-deck = "古诗文填空"
+deck = "古诗文挖空"
 title = "大道之行也"
 
 [content]
