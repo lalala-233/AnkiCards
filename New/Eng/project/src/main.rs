@@ -3,7 +3,7 @@ use std::io::{BufRead, BufReader, Write};
 
 fn main() -> std::io::Result<()> {
     // Open the input file (test.txt)
-    let file_name = "初中.txt";
+    let file_name = &std::env::args().nth(1).expect("Please provide a file name");
     let template = "英语单词模板";
     let input_file = File::open(file_name)?;
     let reader = BufReader::new(input_file);
