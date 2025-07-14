@@ -292,7 +292,7 @@
 英语::初中英语单词|purse|英[pɜːs] 美[pɜːrs]|n. 钱包；小钱袋；（获奖）奖金<br>vt. 皱起；放进钱包|When did you first miss your purse?|你什么时候发现丢了钱包的？|初中英语单词|英语单词模板
 英语::初中英语单词|money|英['mʌni] 美['mʌni]|n. 财产；钱；货币|He robs her of money.|他抢夺她的财产。|初中英语单词|英语单词模板
 英语::初中英语单词|worry|英['wʌri] 美['wɜːri]|vt. 撕咬；使烦恼；使焦虑<br>vi. 担心；发愁<br>n. 担心；烦恼；忧虑|The dog was worrying a rat.|那条狗撕咬著一只老鼠。|初中英语单词|英语单词模板
-英语::初中英语单词|Let me see.||让我想想。|Let me see...where did I leave my hat?|让我想想看……我把帽子落在哪儿了？|初中英语单词|英语单词模板
+英语::初中英语单词|Let me see.||让我想想。|Let me see... where did I leave my hat?|让我想想看……我把帽子落在哪儿了？|初中英语单词|英语单词模板
 英语::初中英语单词|fifty|英['fɪfti] 美['fɪfti]|num. 五十|He fathered a daughter at the age of fifty.|他五十岁时生下一个女儿。|初中英语单词|英语单词模板
 英语::初中英语单词|colour|英['kʌlə(r)] 美['kʌlər]|n. 颜色；颜料；彩色；肤色<br>vt. 给……着色；渲染；影响<br>vi. 染色；脸红<br>=color（美）|She painted the window sills a bright colour.|她把窗台漆上鲜艳的颜色。|初中英语单词|英语单词模板
 英语::初中英语单词|black|英[blæk] 美[blæk]|adj. 黑的；不加牛奶的；很脏的；愤怒的；令人沮丧的；邪恶的；阴沉的；机密的；黑色幽默的<br>n. 黑色；黑人；黑色物<br>v. 抵制；（使）变黑|Do you have a black jacket?|你有一件黑夹克吗？|初中英语单词|英语单词模板
@@ -581,7 +581,7 @@
 英语::初中英语单词|bring|英[brɪŋ] 美[brɪŋ]|vt. 带来；促使；引起；劝诱<br>vi. 产生|She brought her boyfriend to the party.|她带着男朋友来参加聚会。|初中英语单词|英语单词模板
 英语::初中英语单词|foreign|英['fɒrən] 美['fɔːrən]|adj. 外来的；外国的；异质的；不相符的|Our foreign trade has expanded during recent years.|近年来我们的对外贸易有所增加。|初中英语单词|英语单词模板
 英语::初中英语单词|difference|英['dɪfrəns] 美['dɪfrəns]|n. 差异；不同；差额；分歧<br>vt.<罕见用法>区别|How do you account for the difference between them?|你怎样来解释它们之间的差异呢？|初中英语单词|英语单词模板
-英语::初中英语单词|each|英[iːtʃ] 美[iːtʃ]|pron. 每个；个人；个自<br>adj. 每；每个<br>adv. 每个|We each have our private views about it.|我们每个人对这件事都有自己的看法。|初中英语单词|英语单词模板
+英语::初中英语单词|each|英[iːtʃ] 美[iːtʃ]|pron. 每个；个人；个自<br>adj. 每；每个<br>adv. 每个|We respect each other's personal views.|我们尊重彼此的个人观点。|初中英语单词|英语单词模板
 英语::初中英语单词|each other|英[iːtʃ 'ʌðə(r)] 美[iːtʃ 'ʌðər]|pron. 互相；各自|They took out their resentments on each other.|他们互相发泄怨气。|初中英语单词|英语单词模板
 英语::初中英语单词|talk about|英[tɔːk ə'baʊt] 美[tɔːk ə'baʊt]|谈论，谈及；谈到，讨论；说起想…，考虑要…|His talk about apartheid created agitation.|他的关于种族隔离的谈话激起了骚动。|初中英语单词|英语单词模板
 英语::初中英语单词|Australia|英[ɒ'streɪlɪə] 美[ɔ'streljə]|n. 澳大利亚|My foreign teacher came from Australia.|我的外籍教师来自澳大利亚。|初中英语单词|英语单词模板
@@ -1027,7 +1027,7 @@
 英语::初中英语单词|workplace|英['wɜːkpleɪs] 美['wɜːrkpleɪs]|n. 工作场所|The balanced workplace isn't exactly new.|均势工作场所确切地说并不是新名词。|初中英语单词|英语单词模板
 英语::初中英语单词|seem|英[siːm] 美[siːm]|vi. 似乎；好像|He seems to know everything.|他似乎什么都懂。|初中英语单词|英语单词模板
 英语::初中英语单词|Italy|英['ɪtəli] 美['ɪtəli]|n. 意大利|Italy is a peninsula.|意大利是一个半岛。|初中英语单词|英语单词模板
-英语::初中英语单词|either|英['aɪðə(r)] 美['iðər]|adj. 任一的；两方的<br>pron. 任一<br>adv. 也（用于否定句中）<br>conj. 或者（常用于 either...or... 的结构中）|The thief was put in the police car with a policeman on either side of him.|窃贼被送到警车上，身旁各坐着一个警察。|初中英语单词|英语单词模板
+英语::初中英语单词|either|英['aɪðə(r)] 美['iðər]|adj. 任一的；两方的<br>pron. 任一<br>adv. 也（用于否定句中）<br>conj. 或者（常用于 either ... or ... 的结构中）|The thief was put in the police car with a policeman on either side of him.|窃贼被送到警车上，身旁各坐着一个警察。|初中英语单词|英语单词模板
 英语::初中英语单词|anything|英['eniθɪŋ] 美['eniθɪŋ]|pron. 任何事；任何东西；重要事物<br>adv. 在任何程度上|If you remember anything at all, please let us know.|你要是想起什么来，就告诉我们。|初中英语单词|英语单词模板
 英语::初中英语单词|neither|英['naɪðə(r)] 美['niːðər]|pron. 两者都不<br>adj. 两者都不的<br>adv. 也不<br>conj. 也不；既不|Neither of my parents enjoys music.|我父母都不喜欢音乐。|初中英语单词|英语单词模板
 英语::初中英语单词|nor|英[nɔː(r)] 美[nɔːr]|conj. 也不；也没有<br>adv. 也不；也没有|It is neither hot nor cold in winter here.|这里冬天既不热也不冷。|初中英语单词|英语单词模板
@@ -1749,19 +1749,19 @@
 英语::初中英语单词|This way, please.||请走这边。|This way, please. This is your table.|请这边走，这是你的桌位。|初中英语单词|英语单词模板
 英语::初中英语单词|Let's go||我们一起去；让我们走吧；表示建议或邀请一起去做某事<br>=Let us go|Let's go to the movies.|我们去看电影吧。|初中英语单词|英语单词模板
 英语::初中英语单词|have a look||看一看|Let me have a look at the map.|让我看看这张地图。|初中英语单词|英语单词模板
-英语::初中英语单词|What about...?||（询问消息、征求意见）……怎么样？|What about going to the movies tonight?|今晚去看电影怎么样？|初中英语单词|英语单词模板
+英语::初中英语单词|What about ...||（询问消息、征求意见）……怎么样？|What about going to the movies tonight?|今晚去看电影怎么样？|初中英语单词|英语单词模板
 英语::初中英语单词|have supper||吃晚餐|Have you had supper already?|你吃过晚饭了吗？|初中英语单词|英语单词模板
 英语::初中英语单词|p.m.||下午，午后|The meeting is scheduled for 3 p.m. tomorrow.|会议定于明天下午 3 点举行。|初中英语单词|英语单词模板
 英语::初中英语单词|a piece of||一片（一张、块）|Would you please give me a piece of paper?|能给我一张纸吗？|初中英语单词|英语单词模板
-英语::初中英语单词|give...a hand||给予……帮助|The team needed extra volunteers, so I decided to give them a hand.|团队需要额外的志愿者，所以我决定去帮忙。|初中英语单词|英语单词模板
-英语::初中英语单词|from…to…||从…到…|I have classes from Monday to Friday.|我从星期一到星期五上课。|初中英语单词|英语单词模板
+英语::初中英语单词|give ... a hand||给予……帮助|The team needed extra volunteers, so I decided to give them a hand.|团队需要额外的志愿者，所以我决定去帮忙。|初中英语单词|英语单词模板
+英语::初中英语单词|from ... to ...||从…到…|I have classes from Monday to Friday.|我从星期一到星期五上课。|初中英语单词|英语单词模板
 英语::初中英语单词|after class||课后|Please wait behind after class today.|今天课後请你留下。|初中英语单词|英语单词模板
-英语::初中英语单词|help...with||帮助（某人）做（某事）|We need someone to help us with planning the event.|我们需要有人帮助我们计划这个活动。|初中英语单词|英语单词模板
+英语::初中英语单词|help ... with||帮助（某人）做（某事）|We need someone to help us with planning the event.|我们需要有人帮助我们计划这个活动。|初中英语单词|英语单词模板
 英语::初中英语单词|use|英[juːs] 美[juːs]|n. 使用；用法；使用权；运用<br>v. 利用；对待；使用；<口>吸（烟）；<口>服用（毒品）|The present phone boxes will go out of use next year.|现有的公共电话亭明年就不再使用了。|初中英语单词|英语单词模板
-英语::初中英语单词|learn...from||向……学习|We can learn a lot from history.|我们可以从历史中学到很多东西。|初中英语单词|英语单词模板
+英语::初中英语单词|learn ... from||向……学习|We can learn a lot from history.|我们可以从历史中学到很多东西。|初中英语单词|英语单词模板
 英语::初中英语单词|building|英['bɪldɪŋ] 美['bɪldɪŋ]|n. 建筑物|The heat had blistered the paint of the building.|酷热使建筑物上的油漆起了浮泡。|初中英语单词|英语单词模板
 英语::初中英语单词|English-speaking||说英语的|Australia is an English speaking nation.|澳大利亚是一个讲英语的国家。|初中英语单词|英语单词模板
-英语::初中英语单词|not...at all||一点也不|I'm not tired at all after jogging.|我跑步后一点也不累。|初中英语单词|英语单词模板
+英语::初中英语单词|not ... at all||一点也不|I'm not tired at all after jogging.|我跑步后一点也不累。|初中英语单词|英语单词模板
 英语::初中英语单词|a shop assistant||售货员，店员|As a shop assistant, it's important to greet customers with a smile.|作为一名店员，用微笑问候顾客是很重要的。|初中英语单词|英语单词模板
 英语::初中英语单词|after school||放学后，下课后|The teacher kept the pupils after school.|老师在放学後把学生留下不让回家。|初中英语单词|英语单词模板
 英语::初中英语单词|bridge|英[brɪdʒ] 美[brɪdʒ]|n. 桥梁；纽带；桥牌；鼻梁；（音乐）琴马；齿桥<br>vt. 架桥；渡过；缩短……差距|The bridge is not strong enough to allow the passage of vehicles.|这座桥不够牢固，车辆不能通行。|初中英语单词|英语单词模板
@@ -1774,7 +1774,7 @@
 英语::初中英语单词|manager|英['mænɪdʒə(r)] 美['mænɪdʒər]|n. 经理；管理者；管家|The manager let us cut the cackle.|经理让我们不要闲谈。|初中英语单词|英语单词模板
 英语::初中英语单词|lesson|英['lesn] 美['lesn]|n. 教训；课，功课，课业；榜样，典范<br>vt. 教训，告诫，训斥；给……上课|Such a lesson should be treasured in our memories.|这样的宝贵教训应该铭记在心。|初中英语单词|英语单词模板
 英语::初中英语单词|given name||（对姓而言的）名字（=first name）；（受洗礼时起的）教名|Is this your family name or your given name?|这是你的姓，还是你的名？|初中英语单词|英语单词模板
-英语::初中英语单词|not...any more||不再|She used to be afraid of the dark, but she's not scared of it anymore.|她过去害怕黑暗，但现在不再害怕了。|初中英语单词|英语单词模板
+英语::初中英语单词|not ... any more||不再|She used to be afraid of the dark, but she's not scared of it anymore.|她过去害怕黑暗，但现在不再害怕了。|初中英语单词|英语单词模板
 英语::初中英语单词|salesgirl|英['seɪlzɡɜːl] 美['seɪlzɡɜːrl]|n. 女售货员|The customer was angry with the salesgirl for her impolite answer.|那位顾客对女店员不客气的回答感到忿怒。|初中英语单词|英语单词模板
 英语::初中英语单词|come over|英[kʌm 'əʊvə] 美[kʌm 'oʊvər]|v. 从远处来；改变立场；顺便来访；突然感觉；有清晰的收听或收看效果；欺骗|He has come over to China for the summer.|他不远万里来中国度暑假。|初中英语单词|英语单词模板
 英语::初中英语单词|in the open air||在户外，在野外|They used to take the air in the evening.|他们过去常在傍晚时去户外散步。|初中英语单词|英语单词模板
@@ -1810,8 +1810,8 @@
 英语::初中英语单词|during|英['djʊərɪŋ] 美['dʊrɪŋ]|prep. 在……期间|He swims every day during the summer.|他夏天每天游泳。|初中英语单词|英语单词模板
 英语::初中英语单词|salt|英[sɔːlt] 美[sɔːlt]|n. 盐；刺激；盐类<br>vt. 用盐腌；加盐于|Salt water is more buoyant than fresh water.|盐水比淡水浮力大。|初中英语单词|英语单词模板
 英语::初中英语单词|spoon|英[spuːn] 美[spuːn]|n. 匙；调羹；匙状物<br>vt. 以匙舀起<br>vi. 调情|The spoon has been rusty from disuse.|汤匙因弃置不用而生锈了。|初中英语单词|英语单词模板
-英语::初中英语单词|either...or...||或者……或者……|You can either study for your exam or go to the party tonight.|你可以要么复习考试，要么今晚去参加派对。|初中英语单词|英语单词模板
-英语::初中英语单词|neither...nor...||既不……也不……|Neither Tom nor Mary can speak French fluently.|汤姆和玛丽都不会流利地说法语。|初中英语单词|英语单词模板
+英语::初中英语单词|either ... or ...||或者……或者……|You can either study for your exam or go to the party tonight.|你可以要么复习考试，要么今晚去参加派对。|初中英语单词|英语单词模板
+英语::初中英语单词|neither ... nor ...||既不……也不……|Neither Tom nor Mary can speak French fluently.|汤姆和玛丽都不会流利地说法语。|初中英语单词|英语单词模板
 英语::初中英语单词|cross|英[krɒs] 美[krɔːs]|v. 穿过；交叉；杂交；反对；勾掉；碰见；阻挠<br>n. 十字架；十字形；杂交动植物；苦难<br>adj. 交叉的；相反的；生气的；杂交的|It's very dangerous for children to cross the busy street.|对孩子们来说，穿过车来车往的街道很危险。|初中英语单词|英语单词模板
 英语::初中英语单词|wait for|英[weɪt fɔː] 美[weɪt fɔːr]|等候；等待|She has impatience to wait for the bus.|她没有耐心等公共汽车到来。|初中英语单词|英语单词模板
 英语::初中英语单词|physics|英['fɪzɪks] 美['fɪzɪks]|n. 物理学|He does well in physics.|他的物理学得很好。|初中英语单词|英语单词模板
@@ -1826,9 +1826,9 @@
 英语::初中英语单词|have a headache||（患）头痛|He had a headache yesterday.|昨天他感到头痛。|初中英语单词|英语单词模板
 英语::初中英语单词|wake|英[weɪk] 美[weɪk]|v. 醒来；唤醒；意识到<br>n. 航迹；守夜|I usually wake up early.|我通常醒得很早。|初中英语单词|英语单词模板
 英语::初中英语单词|as soon as|英[æz suːn æz] 美[æz sʊn æz]|conj. 一……就|I'll write you as soon as I get there.|我一到那儿，就给你写信。|初中英语单词|英语单词模板
-英语::初中英语单词|stop...from||阻止……做|The police officer stopped the thief from escaping.|警察阻止了小偷的逃跑。|初中英语单词|英语单词模板
+英语::初中英语单词|stop ... from||阻止……做|The police officer stopped the thief from escaping.|警察阻止了小偷的逃跑。|初中英语单词|英语单词模板
 英语::初中英语单词|awake|英[ə'weɪk] 美[ə'weɪk]|adj. 醒着的；警觉的<br>v. 唤起；唤醒；醒来|The children are still wide awake.|孩子们仍然完全醒着。|初中英语单词|英语单词模板
-英语::初中英语单词|too...to||太……而不能|He is too tired to go to the party tonight.|他太累了，今晚无法去参加聚会。|初中英语单词|英语单词模板
+英语::初中英语单词|too ... to||太……而不能|He is too tired to go to the party tonight.|他太累了，今晚无法去参加聚会。|初中英语单词|英语单词模板
 英语::初中英语单词|anywhere|英['eniweə(r)] 美['eniwer]|adv. 任何地方<br>n. 任何（一个）地方|The city welcomes visitors from anywhere.|这座城市欢迎来自任何地方的来访客人。|初中英语单词|英语单词模板
 英语::初中英语单词|believe|英[bɪ'liːv] 美[bɪ'liːv]|v. 相信；认为|We believe in his ability.|我们相信他的才干。|初中英语单词|英语单词模板
 英语::初中英语单词|circle|英['sɜːkl] 美['sɜːrkl]|n. 圆圈；圈子；包厢<br>v. 划圈；包围；盘旋；环绕|The dancers were standing in a circle around the fire.|舞者们围着篝火站成一圈。|初中英语单词|英语单词模板
@@ -1841,11 +1841,11 @@
 英语::初中英语单词|poor|英[pʊə(r)] 美[pʊr]|adj. 可怜的；贫穷的；低劣的<br>n. 穷人|The poor horse looked all skin and bone.|这匹马骨瘦如柴，看起来很可怜。|初中英语单词|英语单词模板
 英语::初中英语单词|knock at||敲（门、窗等）|Did you hear the knocks at the door?|你听到敲门声了吗？|初中英语单词|英语单词模板
 英语::初中英语单词|look up|英[lʊk ʌp] 美[lʊk ʌp]|v. 查阅；好转；仰视；看望|You can look up this word in the vocabulary.|你可以在词汇表里查这个词。|初中英语单词|英语单词模板
-英语::初中英语单词|leave...behind||把……遗留在（留下）|Let's leave our worries behind and enjoy the vacation.|让我们把烦恼抛在脑后，享受假期吧。|初中英语单词|英语单词模板
+英语::初中英语单词|leave ... behind||把……遗留在（留下）|Let's leave our worries behind and enjoy the vacation.|让我们把烦恼抛在脑后，享受假期吧。|初中英语单词|英语单词模板
 英语::初中英语单词|starting/finishing line||起点/终点线|He sprinted towards the finishing line with all his strength.|他全力冲向终点线。|初中英语单词|英语单词模板
 英语::初中英语单词|pass on|英[pɑːs ɒn] 美[pæs ɑːn]|v. 传递；传授；向前；死亡；审核；对…发表意见|Please hand on the document to others.|请把这份文件依次传递给他人。|初中英语单词|英语单词模板
-英语::初中英语单词|as...as||与……一样|This cake is as delicious as the one we had yesterday.|这个蛋糕和我们昨天吃的那个一样好吃。|初中英语单词|英语单词模板
-英语::初中英语单词|not as/so...as||与……不一样|This book is not as easy to read as the last one.|这本书没有上一本那么容易读。|初中英语单词|英语单词模板
+英语::初中英语单词|as ... as||与……一样|This cake is as delicious as the one we had yesterday.|这个蛋糕和我们昨天吃的那个一样好吃。|初中英语单词|英语单词模板
+英语::初中英语单词|not as/so ... as||与……不一样|This book is not as easy to read as the last one.|这本书没有上一本那么容易读。|初中英语单词|英语单词模板
 英语::初中英语单词|rather|英['rɑːðə(r)] 美['ræðər]|adv. 相当；宁愿；有点儿<br>int.<英口>好呀|Poultry is rather cheap now.|现在的禽肉相当便宜。|初中英语单词|英语单词模板
 英语::初中英语单词|loudspeaker|英[ˌlaʊd'spiːkə(r)] 美[ˌlaʊd'spiːkər]|n. 扬声器；喇叭|The nurse paged the doctor on the loudspeaker.|护士通过广播喊叫那位医生。|初中英语单词|英语单词模板
 英语::初中英语单词|do one's best||尽力|We shall certainly do our best to realize it.|而且本公司将尽力做到这一点。|初中英语单词|英语单词模板
@@ -1881,12 +1881,12 @@
 英语::初中英语单词|pay|英[peɪ] 美[peɪ]|v. 支付；赢利；受益；付出代价<br>n. 薪资；雇用；有良好信用的人<br>adj. 要钱的；具有开采价值的|I'd like to pay with my credit card.|我想用信用卡支付。|初中英语单词|英语单词模板
 英语::初中英语单词|sadly|英['sædli] 美['sædli]|adv. 悲哀地；遗憾的是；<口>极为|Her head drooped sadly.|她悲哀地垂着头。|初中英语单词|英语单词模板
 英语::初中英语单词|bookmark|英['bʊkmɑːk] 美['bʊkmɑːrk]|n. 书签|I put a beautiful bookmark into his book.|我把一张漂亮的书签放入了他的书里。|初中英语单词|英语单词模板
-英语::初中英语单词|get…back||退还；送回去；取回|She worked hard to get her health back on track.|她努力让自己的健康重回正轨。|初中英语单词|英语单词模板
-英语::初中英语单词|pick…up||拾起；捡起|I pick up the book and start reading.|我拾起那本书开始阅读。|初中英语单词|英语单词模板
+英语::初中英语单词|get ... back||退还；送回去；取回|She worked hard to get her health back on track.|她努力让自己的健康重回正轨。|初中英语单词|英语单词模板
+英语::初中英语单词|pick ... up||拾起；捡起|I pick up the book and start reading.|我拾起那本书开始阅读。|初中英语单词|英语单词模板
 英语::初中英语单词|surf|英[sɜːf] 美[sɜːrf]|vi. 冲浪；浏览<br>vt. 浏览<br>n. 激浪；碎浪|In wintertime he will don a wet suit and go right on surfing.|到冬季，他就穿上橡皮紧身衣去冲浪。|初中英语单词|英语单词模板
 英语::初中英语单词|all over||遍及|I ache all over.|我浑身疼痛。|初中英语单词|英语单词模板
 英语::初中英语单词|large numbers of||许多|He had included a large number of funny stories in the speech.|他在讲话中加进了许多引人发笑的故事。|初中英语单词|英语单词模板
-英语::初中英语单词|both…and…||……和……都|Both his parents and his friends came to his graduation ceremony.|他的父母和朋友都来参加了他的毕业礼。|初中英语单词|英语单词模板
+英语::初中英语单词|both ... and ...||……和……都|Both his parents and his friends came to his graduation ceremony.|他的父母和朋友都来参加了他的毕业礼。|初中英语单词|英语单词模板
 英语::初中英语单词|although|英[ɔːl'ðəʊ] 美[ɔːl'ðoʊ]|conj. 虽然；尽管；然而；可是|Although my uncle is old, he looks very strong and healthy.|我的叔叔虽然老了，但他看上去还是很健壮。|初中英语单词|英语单词模板
 英语::初中英语单词|prize|英[praɪz] 美[praɪz]|n. 奖品；奖金；奖赏<br>vt. 珍视；估价<br>adj. 奖品的；得奖的；一流的|The boys competed with each other for the prize.|那些男孩子为赢得奖品而互相竞争。|初中英语单词|英语单词模板
 英语::初中英语单词|be proud of||以……自豪（兴奋）|I confess to being proud of my son's success.|我自认以儿子的成功为荣。|初中英语单词|英语单词模板
@@ -1969,7 +1969,7 @@
 英语::初中英语单词|shut down|英[ʃʌt daʊn] 美[ʃʌt daʊn]|关闭； （使）停工|Some coal-mines had to shut down.|有些煤矿不得不关闭。|初中英语单词|英语单词模板
 英语::初中英语单词|set one's mind to do||下定决心做某事|If you set your mind to achieve your goal, nothing can stop you.|如果你下定决心要实现你的目标，没有什么能阻挡你。|初中英语单词|英语单词模板
 英语::初中英语单词|put off|英[pʊt ɒf] 美[pʊt ɔːf]|vt. 不安；延期；摆脱；欺诈|Never put off till tomorrow what you can do today.|今日事今日毕。|初中英语单词|英语单词模板
-英语::初中英语单词|multiply…by…||乘以…|Multiply five by six to get thirty.|把五乘以六，得到三十。|初中英语单词|英语单词模板
+英语::初中英语单词|multiply ... by ...||乘以…|Multiply five by six to get thirty.|把五乘以六，得到三十。|初中英语单词|英语单词模板
 英语::初中英语单词|challenge|英['tʃælɪndʒ] 美['tʃælɪndʒ]|n. 挑战；邀请比赛；盘问；质疑<br>v. 向……挑战；盘问；质疑|The crossing of this dangerous river was a challenge to most of us.|对我们大多数人来说，横渡这条充满危险的大河确实是个挑战。|初中英语单词|英语单词模板
 英语::初中英语单词|at the beginning of||起初，开始|At the beginning of the speech the chairman cracked a joke.|在演讲开头主席开了一个玩笑。|初中英语单词|英语单词模板
 英语::初中英语单词|beg one's pardon||请原谅；请你再说一遍|Pardon me for not writing to you sooner.|请原谅我未能及早给你写信。|初中英语单词|英语单词模板
@@ -1980,7 +1980,7 @@
 英语::初中英语单词|a place of interest||名胜|Do you know any place of renown around here?|你知道这儿有什么名胜吗？|初中英语单词|英语单词模板
 英语::初中英语单词|lend|英[lend] 美[lend]|v. 借给；贷款；借（出）|Would you please lend me your pencil?|请把铅笔借给我用用好吗？|初中英语单词|英语单词模板
 英语::初中英语单词|before long|英[bɪ'fɔː lɒŋ] 美[bɪ'fɔːr lɔːŋ]|不久以后|It looks as if it will rain before long.|看起来一会儿就要下雨了。|初中英语单词|英语单词模板
-英语::初中英语单词|regard…as||把…当作，当作|I regard her as my best friend.|我把她当作我最好的朋友。|初中英语单词|英语单词模板
+英语::初中英语单词|regard ... as||把…当作，当作|I regard her as my best friend.|我把她当作我最好的朋友。|初中英语单词|英语单词模板
 英语::初中英语单词|exactly|英[ɪɡ'zæktli] 美[ɪɡ'zæktli]|adv. 精确地；确切地；完全地；严密地；正是|The train arrived at exactly 8 o'clock.|火车八点钟准时到达。|初中英语单词|英语单词模板
 英语::初中英语单词|two-story||两层|They live in a two-story house.|他们住在一栋两层楼的房子里。|初中英语单词|英语单词模板
 英语::初中英语单词|crash|英[kræʃ] 美[kræʃ]|v. 撞击；坠毁；发出巨响；崩溃；破产；<俚>宿夜<br>n. 轰隆声；猛撞；崩溃；暴跌；垮台；粗布<br>adj. 速成的|He crashed his car into a wall.|他的汽车撞到了墙上。|初中英语单词|英语单词模板
