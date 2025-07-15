@@ -2,6 +2,7 @@ use super::prelude::*;
 const VALID_SYMBOL: &[char] = &[
     '\"', '\'', '-', ' ', '(', ')', ',', '.', '?', '!', '/', '%', ':', ';', '$',
 ];
+const VALID_END_WORD_CHAR: &[char] = &['.', '?', '!'];
 const ALLOWED_COMBINATIONS: &[&str] = &[
     // before whitespace
     "; ", "% ", "! ", "? ", ") ", ", ", "' ", /* ones' something */
@@ -17,17 +18,33 @@ pub fn check_english_sentence(sentence: &str) -> Result<(), String> {
         && have_valid_combination(sentence, VALID_SYMBOL, ALLOWED_COMBINATIONS)
         && have_special_handle(sentence, SPECIAL_HANDLE_COMBINATION, "...")
         && have_valid_quotation_mark(sentence)
+        && have_appropriate_length(sentence)
         && is_starts_and_ends_with_valid_english_char(sentence)
     {
         return Ok(());
     }
     Err(sentence.to_string())
 }
+const fn have_appropriate_length(checked_str: &str) -> bool {
+    checked_str.len() >= 25 && checked_str.len() <= 100
+}
 fn have_valid_quotation_mark(checked_str: &str) -> bool {
     checked_str.matches('\"').count() % 2 == 0 && checked_str.matches("\"\"").count() == 0
 }
 fn is_valid_english_sentence_char(c: char) -> bool {
     c.is_ascii_alphanumeric() || VALID_SYMBOL.contains(&c)
+}
+fn is_starts_and_ends_with_valid_english_char(checked_str: &str) -> bool {
+    let start = checked_str.chars().next().unwrap();
+    let end = checked_str.chars().last().unwrap();
+    is_valid_english_start_char(start) && is_valid_english_end_char(end)
+}
+
+const fn is_valid_english_start_char(c: char) -> bool {
+    c.is_ascii_alphanumeric()
+}
+fn is_valid_english_end_char(c: char) -> bool {
+    VALID_END_WORD_CHAR.contains(&c)
 }
 #[cfg(test)]
 mod tests {
@@ -50,7 +67,9 @@ mod tests {
             "The man was gone: his footsteps made no sound.", // for `: `
             "\"Feather is very light, so that we say \"as light as a feather\".", // for extra `"`
             "This answer must be a crib: it's exactly the same as Jones's.", // for `: ` because I don't want to include `:`
-            "Go on doing sth., Go on to do sth.", // for `.,`
+            "Go on doing sth., Go on to do sth.",                            // for `.,`
+            "Allocate rations for a week - long camping trip.",              // for `-`
+            "These are my books.",                                           // too short
         ];
         for sentence in VALID {
             assert_eq!(check_english_sentence(sentence), Ok(()));

@@ -31,17 +31,19 @@ mod impure {
     }
     pub fn print_statistic(lens: &[usize]) {
         println!(
-            "min: {}, max: {}, average: {}",
+            "min: {}, max: {}, average: {}, <20: {} and >100: {}",
             lens.iter().min().unwrap(),
             lens.iter().max().unwrap(),
-            lens.iter().sum::<usize>()  / lens.len() 
+            lens.iter().sum::<usize>() / lens.len(),
+            lens.iter().filter(|&&x| x < 20).count(),
+            lens.iter().filter(|&&x| x > 100).count(),
         );
     }
     pub fn copy_error(error_info: Option<(usize, String)>, len_of_line: usize) {
         if let Some((line, s)) = error_info {
             let mut board = arboard::Clipboard::new().unwrap();
             board.set_text(&s).unwrap();
-            sleep(Duration::from_millis(25));
+            sleep(Duration::from_millis(100));
             panic!("Invalid `{s}` at {line}/{len_of_line}",);
         }
     }
