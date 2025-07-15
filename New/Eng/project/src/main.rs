@@ -4,8 +4,10 @@ fn main() -> std::io::Result<()> {
     let file_name = impure::read_env();
     let binding = impure::read_to_string(&file_name)?;
     let (_, content) = split_header(&binding);
+    let len = check::count_english_len(content);
+    impure::print_statistic(&len);
     let error_info = check::check(content);
-    impure::copy_error(error_info, binding.lines().count());
+    impure::copy_error(error_info, content.lines().count());
     Ok(())
 }
 
@@ -26,6 +28,14 @@ mod impure {
     pub fn _write_to_file(file_name: &str, header: &str, content: &str) -> std::io::Result<()> {
         let mut file = File::create(file_name)?;
         write!(file, "{header}{content}")
+    }
+    pub fn print_statistic(lens: &[usize]) {
+        println!(
+            "min: {}, max: {}, average: {}",
+            lens.iter().min().unwrap(),
+            lens.iter().max().unwrap(),
+            lens.iter().sum::<usize>()  / lens.len() 
+        );
     }
     pub fn copy_error(error_info: Option<(usize, String)>, len_of_line: usize) {
         if let Some((line, s)) = error_info {
