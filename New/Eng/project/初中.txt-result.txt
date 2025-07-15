@@ -15,7 +15,7 @@
 英语::初中英语单词|gravel|英['ɡrævl] 美['ɡrævl]|n. 碎石|the path to the house was covered with gravel.|通往这房子的小径布满了碎石。|初中英语单词|英语单词模板
 英语::初中英语单词|what|英[wɒt] 美[wɑːt]|pron. 什么<br>adj. 什么；哪个<br>adv. 用于感叹句中<br>int. 什么|What are you having for dinner?|你晚饭吃什么？|初中英语单词|英语单词模板
 英语::初中英语单词|is|英[ɪz] 美[ɪz]|v. 是（be 的第三人称单数一般现在时）|Spain is our favorite holiday spot.|西班牙是我们喜欢的度假地点。|初中英语单词|英语单词模板
-英语::初中英语单词|what's|英[wɒts] 美[wɒts]|什么是|What's the date today, please?|请问今天几号 ?|初中英语单词|英语单词模板
+英语::初中英语单词|what's|英[wɒts] 美[wɒts]|什么是|What's the date today, please?|请问今天几号？|初中英语单词|英语单词模板
 英语::初中英语单词|your|英[jɔː(r)] 美[jʊr]|adj. 你的；你们的|Your work falls short of my expentatiocs.|你的工作未达到我的期望。|初中英语单词|英语单词模板
 英语::初中英语单词|name|英[neɪm] 美[neɪm]|n. 名称；姓名；名义；名誉；名人<br>v. 命名；取名；说出（ ……的名字）<br>adj. 著名的|The committee's name has been acronymed NACA.|该委员会的名称被缩合成 NACA。|初中英语单词|英语单词模板
 英语::初中英语单词|my|英[maɪ] 美[maɪ]|adj. 我的（I 的所有格形式）<br>int. 哎呦（用于表示惊讶的感叹词）|You mistook my meaning entirely.|你完全误解了我的意思。|初中英语单词|英语单词模板
@@ -524,7 +524,7 @@
 英语::初中英语单词|team|英[tiːm] 美[tiːm]|n. 队；组<br>v. 使相配；使合作；结成一队<br>adj. 团队的|John is the spark plug on his rowing team.|约翰是划船队的中坚分子。|初中英语单词|英语单词模板
 英语::初中英语单词|every|英['evri] 美['evri]|adj. 每个；一切的；所有可能的；每隔；最大的|Every citizen should be obedient to the law.|每个公民都应当是遵守法律的。|初中英语单词|英语单词模板
 英语::初中英语单词|Friday|英['fraɪdeɪ] 美['fraɪdeɪ]|n. 星期五|They reached London on Friday.|他们星期五到达伦敦。|初中英语单词|英语单词模板
-英语::初中英语单词|make|英[meɪk] 美[meɪk]|v. 做；制造；使得；赚（钱）；成功；达成<br>n. 性格；式样；制造；生产量|If I had the time, I 'd make something better.|如果有时间的话，我会做些更好吃的东西。|初中英语单词|英语单词模板
+英语::初中英语单词|make|英[meɪk] 美[meɪk]|v. 做；制造；使得；赚（钱）；成功；达成<br>n. 性格；式样；制造；生产量|If I had the time, I'd make something better.|如果有时间的话，我会做些更好吃的东西。|初中英语单词|英语单词模板
 英语::初中英语单词|make the bed|英[meɪk ðə bed] 美[meɪk ðə bed]|整理床铺|Do she make the bed in the morning?|她是在早上整理床铺吗？|初中英语单词|英语单词模板
 英语::初中英语单词|homework|英['həʊmwɜːk] 美['hoʊmwɜːrk]|n. 家庭作业|He has done only a fraction of his homework.|他只做了家庭作业的一小部分。|初中英语单词|英语单词模板
 英语::初中英语单词|do homework|英[du: 'həʊmwə:k] 美[du: 'hoʊmwə:k]|做作业|The boys hate doing homework on Sundays.|男孩们讨厌在星期日做家庭作业。|初中英语单词|英语单词模板
@@ -754,7 +754,7 @@
 英语::初中英语单词|never|英['nevə(r)] 美['nevər]|adv. 永不；绝不；从不；未曾|I will never forget your kindness.|我永远忘不了你的好意。|初中英语单词|英语单词模板
 英语::初中英语单词|afraid|英[ə'freɪd] 美[ə'freɪd]|adj. 抱歉的；担心的；害怕的|I'm afraid we can't come.|很抱歉，我们不能来。|初中英语单词|英语单词模板
 英语::初中英语单词|live|英[lɪv] 美[lɪv]|v. 活着；居住；过着<br>adj. 活的；直播的；现场的；带电的；燃烧着的；当前的<br>adv. 现场|After she died he had nothing to live for.|她去世后，他便没有了生活目标。|初中英语单词|英语单词模板
-英语::初中英语单词|sound|英[saʊnd] 美[saʊnd]|n. 声音；嘈杂声；音乐风格；曲调；印象；感觉；海峡；鱼鳔；探针<br>v. 听起来；感觉起来；发出声音；发音；探测深度；探询<br>adj. 有效的；合理的；可靠的；全面的；健康的；完好的；酣睡的；严厉的<br>adv. 酣畅地|The man was gone: his footsteps made no sound.|那人走了，他的脚步没有发出一点声音。|初中英语单词|英语单词模板
+英语::初中英语单词|sound|英[saʊnd] 美[saʊnd]|n. 声音；嘈杂声；音乐风格；曲调；印象；感觉；海峡；鱼鳔；探针<br>v. 听起来；感觉起来；发出声音；发音；探测深度；探询<br>adj. 有效的；合理的；可靠的；全面的；健康的；完好的；酣睡的；严厉的<br>adv. 酣畅地|The sound of rain on the roof helped me fall asleep quickly.|雨打在屋顶上的声音让我很快入睡。|初中英语单词|英语单词模板
 英语::初中英语单词|have to|英['hævtə] 美['hævtə]|必须；只好，势必，不得不（后跟动词原形）|We have to bait here and take some food.|我们必须在这休息一会，吃点东西。|初中英语单词|英语单词模板
 英语::初中英语单词|more|英[mɔː(r)] 美[mɔːr]|pron. 更多的；另外的；更大的<br>adv. 更多；再；另外；进一步|There are more cars on the road in the summer than in the winter.|夏天路上的车子比冬天多。|初中英语单词|英语单词模板
 英语::初中英语单词|laugh|英[lɑːf] 美[læf]|v. 发笑；笑；嘲笑<br>n. 笑声；笑；笑料|She always makes me laugh.|她总是让我发笑。|初中英语单词|英语单词模板
@@ -860,7 +860,7 @@
 英语::初中英语单词|metre|英['miːtə(r)] 美['miːtər]|n. 米；公尺；计量器<br>n.（诗的）韵律；格律<br>=meter（美）.|This cloth is sold by the metre.|这种布按米出售。|初中英语单词|英语单词模板
 英语::初中英语单词|kilometre|英['kɪləmiːtə(r)] 美['kɪləmiːtər]|n. 公里；千米|The bridge is almost 2 kilometres long.|这座桥差不多有两公里长。|初中英语单词|英语单词模板
 英语::初中英语单词|coin|英[kɔɪn] 美[kɔɪn]|n. 硬币；金钱<br>vt. 铸造（钱币）；创造（新词）<br>adj. 硬币的；投币的|He put a coin into the insertion slot.|他往投币孔投入一枚硬币。|初中英语单词|英语单词模板
-英语::初中英语单词|keep|英[kiːp] 美[kiːp]|v. 保持；保留；继续；贮藏；经营；遵守；供给；照管；饲养；耽搁；保持食物不变质；健康状况如何；保守（秘密@）；记录；遵守；保护<br>n. 生计；保存；城堡主楼；监狱；围墙|Here's a five-pound note-- you can keep the change.|这是五镑的钞票－－零钱不用找了。|初中英语单词|英语单词模板
+英语::初中英语单词|keep|英[kiːp] 美[kiːp]|v. 保持；保留；继续；贮藏；经营；遵守；供给；照管；饲养；耽搁；保持食物不变质；健康状况如何；保守（秘密@）；记录；遵守；保护<br>n. 生计；保存；城堡主楼；监狱；围墙|He always keeps his promises.|他向来信守承诺。|初中英语单词|英语单词模板
 英语::初中英语单词|as|英[əz] 美[əz]|adv. 同样地；例如；被认为<br>prep. 作为；如同<br>conj. 因为；像；当……之时；像……一样；结果；尽管|As you said, it is important.|正如你所说，这很重要。|初中英语单词|英语单词模板
 英语::初中英语单词|next to|英[nekst tu] 美[nekst tu]|邻近；紧靠|Please put the chair next to the table.|请把椅子放在桌子旁边。|初中英语单词|英语单词模板
 英语::初中英语单词|around|英[ə'raʊnd] 美[ə'raʊnd]|prep. 到处；在……附近；围绕；大约；符合<br>adv. 到处；在周围；现有；闲散地；转弯；掉头<br>adj. 存在的；在风行的|He runs around the playground.|他在运动场上到处跑。|初中英语单词|英语单词模板
@@ -882,7 +882,7 @@
 英语::初中英语单词|ago|英[ə'ɡəʊ] 美[ə'ɡoʊ]|adv. 以前|The dinosaurs disappeared long ago.|恐龙很久以前就绝种了。|初中英语单词|英语单词模板
 英语::初中英语单词|enjoy|英[ɪn'dʒɔɪ] 美[ɪn'dʒɔɪ]|v. 享受；喜欢|Now that I am free, I can enjoy music for a while.|既然有空，我可以享受一下音乐。|初中英语单词|英语单词模板
 英语::初中英语单词|world|英[wɜːld] 美[wɜːrld]|n. 世界；地球；世人；世间；领域<br>adj. 世界的|He is the richest man in the world.|他是世界上最富有的人。|初中英语单词|英语单词模板
-英语::初中英语单词|a moment ago||一会儿之前，刚才|My passport has disappeared: it was in my pocket a moment ago.|我的护照丢了，刚才还在口袋里呢。|初中英语单词|英语单词模板
+英语::初中英语单词|a moment ago||一会儿之前，刚才|I saw her a moment ago, but now she's gone.|我刚刚还看见她，现在她就不见了。|初中英语单词|英语单词模板
 英语::初中英语单词|just now|英[dʒʌst naʊ] 美[dʒʌst naʊ]|刚才；此刻|Just now he came by me.|他刚刚从我身边走过。|初中英语单词|英语单词模板
 英语::初中英语单词|reply|英[rɪ'plaɪ] 美[rɪ'plaɪ]|v. 回答；答复；回应<br>n. 回答；答复|What a sage reply you gave!|多聪明的回答啊！|初中英语单词|英语单词模板
 英语::初中英语单词|by the way|英[baɪ ðə weɪ] 美[baɪ ðə weɪ]|顺便说；顺便问一下|Love to Bob, by the way.|请便代向鲍勃问好。|初中英语单词|英语单词模板
@@ -1403,9 +1403,9 @@
 英语::初中英语单词|disappear|英[ˌdɪsə'pɪə(r)] 美[ˌdɪsə'pɪr]|vi. 消失；不见；失踪|The sun disappeared behind a cloud.|太阳消失在一片云后面。|初中英语单词|英语单词模板
 英语::初中英语单词|disappearance|英[ˌdɪsə'pɪərəns] 美[ˌdɪsə'pɪərəns]|n. 消失；失踪；绝迹|Scientists try to explain their disappearance.|科学家试着解释它们消失的原因。|初中英语单词|英语单词模板
 英语::初中英语单词|discover|英[dɪ'skʌvə(r)] 美[dɪ'skʌvər]|v. 发现；偶然撞见；发觉|He was later discovered to have been a spy.|后来发现他原来是间谍。|初中英语单词|英语单词模板
-英语::初中英语单词|feather|英['feðə(r)] 美['feðər]|n. 羽毛；翎毛；种类<br>vt. 用羽毛装饰<br>vi. 长出羽毛|"Feather is very light, so that we say "as light as a feather".|羽毛很轻，因此我们说「轻如鸿毛」。|初中英语单词|英语单词模板
+英语::初中英语单词|feather|英['feðə(r)] 美['feðər]|n. 羽毛；翎毛；种类<br>vt. 用羽毛装饰<br>vi. 长出羽毛|Feather is very light, so that we say "as light as a feather".|羽毛很轻，因此我们说「轻如鸿毛」。|初中英语单词|英语单词模板
 英语::初中英语单词|entrance|英['entrəns] 美['entrəns]|n. 入口；进入；登场；进入权<br>vt. 使入迷；使狂喜|There is an entrance just around the corner.|拐角处有个入口。|初中英语单词|英语单词模板
-英语::初中英语单词|parking|英['pɑːkɪŋ] 美['pɑːrkɪŋ]|n. 停车；停车处<br>adj. 停车的<br>动词 park 的现在分词。|No parking on the pavement.|人行道/路面上不许停车。|初中英语单词|英语单词模板
+英语::初中英语单词|parking|英['pɑːkɪŋ] 美['pɑːrkɪŋ]|n. 停车；停车处<br>adj. 停车的<br>动词 park 的现在分词。|No parking is allowed on this street after 8 PM.|这条街在晚上 8 点后禁止停车。|初中英语单词|英语单词模板
 英语::初中英语单词|danger|英['deɪndʒə(r)] 美['deɪndʒər]|n.【U】危险<br>n.【C】危险物（或人）；威胁|She was on the danger list, but is much better now.|她曾一度病危，现在好多了。|初中英语单词|英语单词模板
 英语::初中英语单词|pause|英[pɔːz] 美[pɔːz]|n. 暂停；中止；犹豫不决<br>vi. 停顿；中止|There will be a brief pause in the program.|这个计划可能需要暂停一下。|初中英语单词|英语单词模板
 英语::初中英语单词|teapot|英['tiːpɒt] 美['tiːpɑːt]|n. 茶壶|This teapot doesn't pour well.|这个茶壶不好倒。|初中英语单词|英语单词模板
@@ -1428,7 +1428,7 @@
 英语::初中英语单词|farmland|英['fɑːmlænd] 美['fɑːrmlænd]|n. 农田|They are working in the farmland.|他们正在农田里工作。|初中英语单词|英语单词模板
 英语::初中英语单词|point|英[pɔɪnt] 美[pɔɪnt]|n. 观点；看法；要点；重点；特点；点；地点；小数点；尖端；岬角；海角；意义；目标；分数；（罗盘上的）方位点；（温度的）点；插座；（字体）磅值<br>v. 指；指向；朝向；瞄准；灰泥或水泥勾（某物）的砖缝|I have tried to get my point across.|我已尽力让我的观点清晰明了。|初中英语单词|英语单词模板
 英语::初中英语单词|point to|英[pɔɪnt tu] 美[pɔːɪnt tu]|指向；意味着|He pointed to a tower on the distant horizon.|他指向远处地平线上的一座塔。|初中英语单词|英语单词模板
-英语::初中英语单词|thanks to|英[θæŋks tu] 美[θæŋks tu]|由于；归功于|The speaker closed (the meeting) with a word of thanks to the chairman.|演讲者向主席道了谢，（会议）就结束了。|初中英语单词|英语单词模板
+英语::初中英语单词|thanks to|英[θæŋks tu] 美[θæŋks tu]|由于；归功于|Thanks to your help, I finished my homework on time.|多亏了你的帮助，我按时完成了作业。|初中英语单词|英语单词模板
 英语::初中英语单词|the more the better||多多益善|The more the well is used,the more water it gives.|常用井出水多。|初中英语单词|英语单词模板
 英语::初中英语单词|correct|英[kə'rekt] 美[kə'rekt]|adj. 正确的；得体的<br>v. 改正；纠正|Your answer to the question is correct.|你对这个问题的回答是正确的。|初中英语单词|英语单词模板
 英语::初中英语单词|hand in|英[hænd ɪn] 美[hænd ɪn]|交上；递交|Please hand in your paper before June thirtieth.|请在六月三十日前交论文。|初中英语单词|英语单词模板
@@ -1612,7 +1612,7 @@
 英语::初中英语单词|popular|英['pɒpjələ(r)] 美['pɑːpjələr]|adj. 受欢迎的；通俗的；流行的；大众的|Her charm of manner made her very popular.|她风度优雅，备受欢迎。|初中英语单词|英语单词模板
 英语::初中英语单词|strong|英[strɒŋ] 美[strɔːŋ]|adj. 强烈的；坚强的；强壮的；强劲的；强大的；确凿的；有影响力的；坚定的；浓的；浓烈的；结实的；可能性大的；擅长的；大量的；稳固的；坚挺的；景气的；强硬的；重读的|A strong light impinged on his eyes.|一道强烈的光刺着他的眼睛。|初中英语单词|英语单词模板
 英语::初中英语单词|were|英[wɜː(r)] 美[wɜːr]|v. 是，在，有（be 动词的复数过去式）|He is, as it were, a walking dictionary.|他可说是个活字典。|初中英语单词|英语单词模板
-英语::初中英语单词|grow up|英[ɡrəʊ ʌp] 美[ɡroʊ ʌp]|长大；成长|Oh, grow up! ie Behave in a more mature way.|噢，别那麽不懂事了（表现得成熟些吧）!|初中英语单词|英语单词模板
+英语::初中英语单词|grow up|英[ɡrəʊ ʌp] 美[ɡroʊ ʌp]|长大；成长|He grew up in a small village by the sea.|他在海边的一个小村庄长大。|初中英语单词|英语单词模板
 英语::初中英语单词|at the same time|英[æt ðə seɪm taɪm] 美[æt ðə seɪm taɪm]|同时；尽管如此|My free time does not coincide with his.|我和他不是同时有空。|初中英语单词|英语单词模板
 英语::初中英语单词|drive|英[draɪv] 美[draɪv]|vt. 开车；驱赶；迫使<br>n. 驾车；驱使；推进力；路；快车道；街；[计]驱动器|He is too little to drive a car.|他太小了，不能开车。|初中英语单词|英语单词模板
 英语::初中英语单词|make telephone calls||打电话|I need to make some telephone calls this afternoon.|我今天下午需要打几个电话。|初中英语单词|英语单词模板
@@ -1629,7 +1629,7 @@
 英语::初中英语单词|opposite|英['ɒpəzɪt] 美['ɑːpəzət]|adj. 相反的；对面的；对立的<br>prep. 在……对面；演对手戏<br>adv. 在对面地；处于相反位置地<br>n. 对立物；对立者；对手|She hurried away in the opposite direction.|她朝着相反的方向匆匆离去了。|初中英语单词|英语单词模板
 英语::初中英语单词|radio|英['reɪdiəʊ] 美['reɪdioʊ]|n. 收音机；无线电<br>v. 用无线电通讯|I'm afraid this old radio is beyond repair.|恐怕这台旧收音机不能修了。|初中英语单词|英语单词模板
 英语::初中英语单词|sandwich|英['sænwɪtʃ] 美['sænwɪtʃ]|n. 三明治<br>vt. 插入；夹在中间|I had a ham sandwich as lunch.|我吃了一个火腿三明治作午餐。|初中英语单词|英语单词模板
-英语::初中英语单词|the same as|英[ðə seɪm æz] 美[ðə seɪm æz]|与……同样的|This answer must be a crib: it's exactly the same as Jones's.|这个答案可能是抄袭来的，跟琼斯的答案一模一样。|初中英语单词|英语单词模板
+英语::初中英语单词|the same as|英[ðə seɪm æz] 美[ðə seɪm æz]|与……同样的|Her opinion is the same as mine about this movie.|她对这部电影的看法和我一样。|初中英语单词|英语单词模板
 英语::初中英语单词|turn over|英[tɜːn 'əʊvə] 美[tɜːrn 'oʊvər]|v. 滚动；翻过来；营业额为；周转；移交；翻阅|If you turn over you might find it easier to get to sleep.|你翻翻身，就容易睡着了。|初中英语单词|英语单词模板
 英语::初中英语单词|less|英[les] 美[les]|adj. 更少的；较少的<br>adv. 更少地；较少地<br>n. 少量；次要<br>prep. 减|It would be good to have less pollution.|如果污染更少的话就好了。|初中英语单词|英语单词模板
 英语::初中英语单词|Rome|英[rəʊm] 美[roʊm]|n. 罗马（意大利首都）|We stopped at Paris en route from Rome to London.|我们从罗马去伦敦的途中曾在巴黎停留。|初中英语单词|英语单词模板
@@ -1671,7 +1671,7 @@
 英语::初中英语单词|relay|英['riːleɪ] 美['riːleɪ]|vt. 转播；转达；中继；接力；接替<br>n. 继电器；接力赛；替班|I will relay your opinion to the headmaster.|我愿把你的意见转告校长。|初中英语单词|英语单词模板
 英语::初中英语单词|loud|英[laʊd] 美[laʊd]|adj. 大声的；吵闹的；引人注目的<br>adv. 大声地；响亮地|I gave a loud yawn, but he just kept on talking.|我大声打了个呵欠，可他还是不停地讲下去。|初中英语单词|英语单词模板
 英语::初中英语单词|lap|英[læp] 美[læp]|n. 膝部；（衣服的）下摆；控制范围<br>n. 重叠部分；（跑道的）一圈<br>n. 舐；（波浪）拍打声<br>v. 包围；（使）重叠；领先一圈<br>v. 舔食；轻拍|The child sat on its mother's lap.|小孩坐在妈妈的膝上。|初中英语单词|英语单词模板
-英语::初中英语单词|go on doing sth||继续做某事|Go on doing sth., Go on to do sth.|相关的词组还有。|初中英语单词|英语单词模板
+英语::初中英语单词|go on doing sth||继续做某事|She went on reading her book despite the noise outside.|尽管外面很吵，她还是继续读她的书。|初中英语单词|英语单词模板
 英语::初中英语单词|well done|英[wel dʌn] 美[wel dʌn]|干得好|The work is well done in a way.|这工作就算做得不错。|初中英语单词|英语单词模板
 英语::初中英语单词|person|英['pɜːsn] 美['pɜːrsn]|n. 人；本人；身体|You are just the person I want to see.|你正是我要见的人。|初中英语单词|英语单词模板
 英语::初中英语单词|large|英[lɑːdʒ] 美[lɑːrdʒ]|adj. 大的；大量的；大号的；广泛的<br>adv. 夸大地；[航海]顺风地<br>v. 狂欢作乐|Shanghai is a large city.|上海是一个大城市。|初中英语单词|英语单词模板
@@ -1817,7 +1817,7 @@
 英语::初中英语单词|physics|英['fɪzɪks] 美['fɪzɪks]|n. 物理学|He does well in physics.|他的物理学得很好。|初中英语单词|英语单词模板
 英语::初中英语单词|key|英[kiː] 美[kiː]|n. 键；关键；钥匙；答案<br>adj. 关键的；主要的<br>vt. 键入；用钥匙锁上；为……调音|He is striking the key of his typewrite.|他敲打着打字机的字键。|初中英语单词|英语单词模板
 英语::初中英语单词|be/get lost||迷失（道路）|He got lost in the forest while hiking alone.|他一个人徒步旅行时在森林里迷路了。|初中英语单词|英语单词模板
-英语::初中英语单词|just then||正在那时|Just then, our host whirled me away to meet some of the other guests.|就在那时，我们的主人很快地把我带走去会见一些其他的来宾。．|初中英语单词|英语单词模板
+英语::初中英语单词|just then||正在那时|I was about to leave when, just then, the phone rang.| 我正要离开，就在这时电话响了。|初中英语单词|英语单词模板
 英语::初中英语单词|disturb|英[dɪ'stɜːb] 美[dɪ'stɜːrb]|v. 扰乱；妨碍；使……不安；打破……的平静；打乱……的治安|They took the phone off the hook so no calls would disturb them.|他们摘下电话听筒，以免电话打扰他们。|初中英语单词|英语单词模板
 英语::初中英语单词|get on||上（车）|She got on the bus and picked a seat up front.|她上了公车，找了个最前面的座位。|初中英语单词|英语单词模板
 英语::初中英语单词|stand in line||站（在）队（里）|The students all stand in line to get their new books.|学生们排队取新书。|初中英语单词|英语单词模板
