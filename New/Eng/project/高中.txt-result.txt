@@ -157,7 +157,7 @@
 英语::高中英语单词|appetite|英['æpɪtaɪt] 美['æpɪtaɪt]|n.食欲；嗜好；欲望|She is suffering from lack of appetite.|她食欲不振。|高中英语单词|英语单词模板
 英语::高中英语单词|applaud|英[ə'plɔːd] 美[ə'plɔːd]|vi.拍手喝彩<br>vt.称赞；赞成；鼓掌|He leaped to his feet and began to applaud.|他跳起来开始鼓掌。|高中英语单词|英语单词模板
 英语::高中英语单词|applicant|英['æplɪkənt] 美['æplɪkənt]|n.申请人|He gave every new applicant the once-over.|他匆匆地看一下每一个新来的申请人。|高中英语单词|英语单词模板
-英语::高中英语单词|application|英[ˌæplɪ'keɪʃn] 美[ˌæplɪ'keɪʃn]|n.应用；申请；专心；应用程序|The application of new scientific discoveries to industrial production methods usually increases efficiency.|把新的科学发现运用到工业生产上，通常可以提高效率。|高中英语单词|英语单词模板
+英语::高中英语单词|application|英[ˌæplɪ'keɪʃn] 美[ˌæplɪ'keɪʃn]|n.应用；申请；专心；应用程序|The job application deadline is next Friday.|这份工作的申请截止日期是下周五。|高中英语单词|英语单词模板
 英语::高中英语单词|apply|英[ə'plaɪ] 美[ə'plaɪ]|vt.应用；涂；使专心从事<br>vi.申请；有关联|We should not only know the theory but also how to apply it to practice.|我们不仅要知道理论，还要知道怎样把理论应用于实践。|高中英语单词|英语单词模板
 英语::高中英语单词|appoint|英[ə'pɔɪnt] 美[ə'pɔɪnt]|v.任命；委派；指定；约定|The company decided to appoint a new treasurer.|公司决定任命一位新司库。|高中英语单词|英语单词模板
 英语::高中英语单词|appointment|英[ə'pɔɪntmənt] 美[ə'pɔɪntmənt]|n.约会；任命；设备；职位|I've made an appointment for a facial next week.|我已经预约了下周去美容。|高中英语单词|英语单词模板
@@ -213,7 +213,7 @@
 英语::高中英语单词|athletic|英[æθ'letɪk] 美[æθ'letɪk]|adj.运动的；活跃的；健壮的|Athletic sports are good to the health.|体育运动有益健康。|高中英语单词|英语单词模板
 英语::高中英语单词|athletics|英[æθ'letɪks] 美[æθ'letɪks]|n.体育运动；田径|She showed us the athletics awards she had won.|她给我们看她赢得的体育运动奖。|高中英语单词|英语单词模板
 英语::高中英语单词|Atlantic|英[æt'læntɪk] 美[æt'læntɪk]|adj.大西洋的<br>n.大西洋|It took them several days to cross the Atlantic Ocean.|他们花了好几天的时间穿越大西洋。|高中英语单词|英语单词模板
-英语::高中英语单词|the Atlantic Ocean||大西洋|A legendary island in the Atlantic Ocean west of Gibraltar, said by Plato to have sunk beneath the sea during an earthquake.|亚特兰蒂斯大西洋中一传说岛屿，位于直布罗陀西部，柏拉图声称在一场地震中沉入海底|高中英语单词|英语单词模板
+英语::高中英语单词|the Atlantic Ocean||大西洋|The Atlantic Ocean separates North America from Europe.|大西洋将北美与欧洲分隔开来。|高中英语单词|英语单词模板
 英语::高中英语单词|atmosphere|英['ætməsfɪə(r)] 美['ætməsfɪr]|n.大气；空气；气氛；气压|The burning of fossil fuels results in the pollution of the atmosphere.|矿物燃料的燃烧导致了大气污染。|高中英语单词|英语单词模板
 英语::高中英语单词|atom|英['ætəm] 美['ætəm]|n.原子；微粒|Scientists have unlocked the secret of the atom.|科学家已经揭开了原子的秘密。|高中英语单词|英语单词模板
 英语::高中英语单词|attach|英[ə'tætʃ] 美[ə'tætʃ]|v.附上；系上；贴上；使依附；使附属；使附着|I attach a copy of my notes for your information.|我附上笔记一份供你参考。|高中英语单词|英语单词模板
@@ -232,7 +232,7 @@
 英语::高中英语单词|autonomous|英[ɔː'tɒnəməs] 美[ɔː'tɑːnəməs]|adj.自治的|Each of the U.S. states has an autonomous government.|美国的每个州都有一个自治政府。|高中英语单词|英语单词模板
 英语::高中英语单词|available|英[ə'veɪləbl] 美[ə'veɪləbl]|adj.可利用的；可得到的；有空的；有效的；<贬>【政】有资格的，适合的|Do you have a room available?|你们有空房间吗？|高中英语单词|英语单词模板
 英语::高中英语单词|avenue|英['ævənjuː] 美['ævənuː]|n.林荫道；大街；途径手段|He stands on the corner of a wide avenue.|他站在宽阔的林荫道的角落里。|高中英语单词|英语单词模板
-英语::高中英语单词|average|英['ævərɪdʒ] 美['ævərɪdʒ]|n.平均数；平均水平<br>adj.平均的；一般的；通常的<br>v.取平均值；达到平均水平|The average of 4,6 and 8 is 6.|4,6, 8的平均数是6。|高中英语单词|英语单词模板
+英语::高中英语单词|average|英['ævərɪdʒ] 美['ævərɪdʒ]|n.平均数；平均水平<br>adj.平均的；一般的；通常的<br>v.取平均值；达到平均水平|The average of 4,6 and 8 is 6.|4、6、8的平均数是 6。|高中英语单词|英语单词模板
 英语::高中英语单词|avoid|英[ə'vɔɪd] 美[ə'vɔɪd]|vt.避免；逃避；[律]使无效；撤销|You should avoid unnecessary repetition.|你应避免不必要的重复。|高中英语单词|英语单词模板
 英语::高中英语单词|award|英[ə'wɔːd] 美[ə'wɔːrd]|n.奖品；奖<br>v.授予；给予；判给|It is impossible to honor her with the award.|奖品授给她是不可能的。|高中英语单词|英语单词模板
 英语::高中英语单词|aware|英[ə'weə(r)] 美[ə'wer]|adj.知道的；意识到的|If you were aware of all that, you would change your mind.|如果你知道了那一切，你会改变主意的。|高中英语单词|英语单词模板
@@ -265,7 +265,7 @@
 英语::高中英语单词|bargain|英['bɑːgɪn] 美['bɑːrɡən]|n.交易；便宜货；契约<br>v.讨价还价；议价；（谈价钱后）卖|He made a satisfactory bargain with them.|他和他们做了一笔满意的交易。|高中英语单词|英语单词模板
 英语::高中英语单词|bark|英[bɑːk] 美[bɑːrk]|v.（狗）吠；咆哮<br>v.剥皮；擦伤<br>n.狗吠；咆哮<br>n.树皮|The dog barked when the stranger came near.|当陌生人走近时，狗叫了起来。|高中英语单词|英语单词模板
 英语::高中英语单词|barrier|英['bæriə(r)] 美['bæriər]|n.栅栏；障碍物；屏障|The ice skater rammed into the barrier.|溜冰者撞到护栏上了。|高中英语单词|英语单词模板
-英语::高中英语单词|basement|英['beɪsmənt] 美['beɪsmənt]|n.根基；地下室|Dam Monitoring Dam monitoring at a mountain water reservoir during the basement stablization.|大坝监测水库大坝监测在根基稳定期间。|高中英语单词|英语单词模板
+英语::高中英语单词|basement|英['beɪsmənt] 美['beɪsmənt]|n.根基；地下室|They converted their basement into a home theater.|他们把地下室改造成了家庭影院。|高中英语单词|英语单词模板
 英语::高中英语单词|basin|英['beɪsn] 美['beɪsn]|n.脸盆；盆地；流域；水池|This basin is made of iron.|这个盆子是铁做的。|高中英语单词|英语单词模板
 英语::高中英语单词|basis|英['beɪsɪs] 美['beɪsɪs]|n.基础；根据；基底|His research formed the basis of his new book.|他的研究成果是他这本新书的基础。|高中英语单词|英语单词模板
 英语::高中英语单词|bat|英[bæt] 美[bæt]|n.球棒；球拍<br>n.蝙蝠<br>v.用棒击打；拍打<br>v.眨眼睛|He just tipped the ball with his bat.|他只是用球棒擦击来球。|高中英语单词|英语单词模板
@@ -526,7 +526,7 @@
 英语::高中英语单词|comma|英['kɒmə] 美['kɑːmə]|n.逗号；停顿；间歇；银纹多角蛱蝶|The clause should be set off by a comma.|这个从句应该用逗号隔开。|高中英语单词|英语单词模板
 英语::高中英语单词|command|英[kə'mɑːnd] 美[kə'mænd]|n.命令；指挥；掌握；[计算机] DOS 命令：引用辅助命令处理器<br>v.命令；指挥；掌握；博得|He growled a command to her to stop.|他咆哮着命令她停下来。|高中英语单词|英语单词模板
 英语::高中英语单词|comment|英['kɒment] 美['kɑːment]|n.注释；评论；闲话<br>v.评论；注释|The comment is recorded in the event log.|此注释将记录在事件日志中。|高中英语单词|英语单词模板
-英语::高中英语单词|commit|英[kə'mɪt] 美[kə'mɪt]|v.犯错，犯罪；投入；承诺，承担；委托；托付|He committed all his energy to the startup.|他把全部精力都投入到创业中。|高中英语单词|英语单词模板
+英语::高中英语单词|commit|英[kə'mɪt] 美[kə'mɪt]|v.犯错，犯罪；投入；承诺，承担；委托；托付|We committed to using only recycled materials in production.|我们承诺生产中只使用再生材料。|高中英语单词|英语单词模板
 英语::高中英语单词|commitment|英[kə'mɪtmənt] 美[kə'mɪtmənt]|n.承诺；保证；信奉；献身；委任；交押|The program requires a six-month commitment.|该计划需要六个月的投入。|高中英语单词|英语单词模板
 英语::高中英语单词|committee|英[kə'mɪti] 美[kə'mɪti]|n.委员会|The committee meets at three today.|委员会今天三点开会。|高中英语单词|英语单词模板
 英语::高中英语单词|common|英['kɒmən] 美['kɑːmən]|adj.常见的；共同的；普通的；平常的；平凡的；粗俗的<br>n.公地；平民；普通；公园|Windmills are a common sight in Holland.|风车是荷兰常见的景色。|高中英语单词|英语单词模板
