@@ -17,12 +17,12 @@
 英语::高中英语单词|abstract|英['æbstrækt] 美['æbstrækt]|adj.抽象的；理论的；抽象派的<br>n.摘要；抽象派艺术作品<br>v.(/æbˈstrækt/）把…抽象出；提取；抽取；转移（注意力等）；做…的摘要；<婉>偷|We may talk of beautiful things, but beauty itself is abstract.|我们尽可谈论美的事物，然而美本身却是抽象的。|高中英语单词|英语单词模板
 英语::高中英语单词|absurd|英[əb'sɜːd] 美[əb'sɜːrd]|adj.荒唐的；可笑的；不合理的<br>n.荒唐|He finally recovered from an absurd infatuation.|他终于从荒唐的迷恋中醒悟过来。|高中英语单词|英语单词模板
 英语::高中英语单词|abundant|英[ə'bʌndənt] 美[ə'bʌndənt]|adj.丰富的；充裕的|Indonesia is abundant in petroleum deposits.|印尼的石油蕴藏量丰富。|高中英语单词|英语单词模板
-英语::高中英语单词|abuse|英[ə'bjuːs] 美[ə'bjuːs]|n.滥用；恶习<br>vt.滥用；辱骂；虐待|The government has set up a working party to look into the problem of drug abuse.|政府已成立工作组调查滥用毒品问题。|高中英语单词|英语单词模板
+英语::高中英语单词|abuse|英[ə'bjuːs] 美[ə'bjuːs]|n.滥用；恶习<br>vt.滥用；辱骂；虐待|Using company funds for personal trips is financial abuse.|将公司资金用于个人旅行属于财务滥用。|高中英语单词|英语单词模板
 英语::高中英语单词|academic|英[ˌækə'demɪk] 美[ˌækə'demɪk]|adj.学院的；学术的；理论的<br>n.大学教师，大学生；学者，学究|Sir Lawrence Alma-Tadema was an English painter in the academic tradition.|阿尔玛·台德玛是学院派的英国画家。|高中英语单词|英语单词模板
 英语::高中英语单词|academy|英[ə'kædəmi] 美[ə'kædəmi]|n.学院；学会；专科学校|He is a student in an academy of music.|他是一所音乐学院的学生。|高中英语单词|英语单词模板
 英语::高中英语单词|accelerate|英[ək'seləreɪt] 美[ək'seləreɪt]|v.加速；提前；跳级|Our present task is to accelerate economic growth.|加速经济发展是我们当前的任务。|高中英语单词|英语单词模板
 英语::高中英语单词|accent|英['æksent] 美['æksent]|n.重音；口音；强调<br>vt.重读；强调|The accent falls on the third syllable.|重音落在第三个音节上。|高中英语单词|英语单词模板
-英语::高中英语单词|accept|英[ək'sept] 美[ək'sept]|vt.接受；同意；承担（责任等）<br>vi.接受|We gave him a present,but he did not accept it.|我们给他一件礼物，但他不肯接受。|高中英语单词|英语单词模板
+英语::高中英语单词|accept|英[ək'sept] 美[ək'sept]|vt.接受；同意；承担（责任等）<br>vi.接受|We gave him a present, but he did not accept it.|我们给他一件礼物，但他不肯接受。|高中英语单词|英语单词模板
 英语::高中英语单词|access|英['ækses] 美['ækses]|n.入口；通道<br>n.接近（的机会）；使用之权<br>vt.进入；（电脑）存取|This is the only means of access to the building.|这是进入这栋楼的唯一入口。|高中英语单词|英语单词模板
 英语::高中英语单词|accessible|英[ək'sesəbl] 美[ək'sesəbl]|adj.可得到的；易接近的；可进入的；易受影响的；易理解的|Such information is not really accessible.|这种信息不是很容易得到的。|高中英语单词|英语单词模板
 英语::高中英语单词|accommodation|英[əˌkɒmə'deɪʃn] 美[əˌkɑːmə'deɪʃn]|n.膳宿；和解；住处；适应|There travelling students found accommodation at moderate terms.|旅游的学生们感到那儿的膳宿费是公道的。|高中英语单词|英语单词模板
@@ -45,10 +45,10 @@
 英语::高中英语单词|acquisition|英[ˌækwɪ'zɪʃn] 美[ˌækwɪ'zɪʃn]|n.获得；所获之物；采集|Life is a process about the acquisition of knowledge, wealth and happiness.|生命就是一个获得知识、财富和幸福的过程。|高中英语单词|英语单词模板
 英语::高中英语单词|acre|英['eɪkə(r)] 美['eɪkər]|n.英亩|The shepherd has penned up the sheep in the four acre field.|牧羊人把羊群围在那块四英亩的土地上。|高中英语单词|英语单词模板
 英语::高中英语单词|act|英[ækt] 美[ækt]|n.行为；行动；法案；（戏剧、歌剧等的）一幕；假装<br>v.行动；举止；假装；表演；扮演；充当；有效果|It is an act of kindness to help a blind man across the street.|帮助盲人过街是慈善的行为。|高中英语单词|英语单词模板
-英语::高中英语单词|action|英['ækʃn] 美['ækʃn]|n.行为；活动；措施；效用；交战；情节；事件；姿态；起诉；机能|After the security incident, you should create an action report that includes three simple goals.|这次安全事故后，你要撰写一个包括三个简单目标的活动报告。|高中英语单词|英语单词模板
+英语::高中英语单词|action|英['ækʃn] 美['ækʃn]|n.行为；活动；措施；效用；交战；情节；事件；姿态；起诉；机能|We need to take action immediately.|我们需要立即采取行动。|高中英语单词|英语单词模板
 英语::高中英语单词|actor|英['æktə(r)] 美['æktər]|n.演员；行动者|The young actor pretended to be Hamlet.|那个年轻演员扮演哈姆雷特。|高中英语单词|英语单词模板
 英语::高中英语单词|actress|英['æktrəs] 美['æktrəs]|n.女演员|The actress received numerous floral tributes.|那位女演员接受了许多献花。|高中英语单词|英语单词模板
-英语::高中英语单词|actual|英['æktʃuəl] 美['æktʃuəl]|adj.实际的；事实上的|The actual cause of the quake itself is the rupturing or breaking of rocks at or below the earth's surface.|地震本身的真正原因是地球表面的或地底下的岩石断裂或破裂。|高中英语单词|英语单词模板
+英语::高中英语单词|actual|英['æktʃuəl] 美['æktʃuəl]|adj.实际的；事实上的|The movie is based on actual events.|这部电影基于真实事件改编。|高中英语单词|英语单词模板
 英语::高中英语单词|acute|英[ə'kjuːt] 美[ə'kjuːt]|adj.严重的；敏锐的；急性的；剧烈的|He suffers from acute depression.|他患有严重的抑郁症。|高中英语单词|英语单词模板
 英语::高中英语单词|adapt|英[ə'dæpt] 美[ə'dæpt]|vt.改编；使适应<br>vi.适应；适合|This novel has been adapted for radio from the Russian original.|这部小说已由俄文原著改编成无线电广播节目。|高中英语单词|英语单词模板
 英语::高中英语单词|adaptation|英[ˌædæp'teɪʃn] 美[ˌædæp'teɪʃn]|n.改编；改编成的作品；适应；【心】（感官）适应，适应性变化|This story lends itself to film adaptation.|这个故事适合改编拍电影。|高中英语单词|英语单词模板
@@ -69,8 +69,8 @@
 英语::高中英语单词|adore|英[ə'dɔː(r)] 美[ə'dɔːr]|vt.爱慕；崇拜；很喜欢|Men can only adore women who are adorable.|男人们只爱慕那些让人爱慕的女人。|高中英语单词|英语单词模板
 英语::高中英语单词|adult|英['ædʌlt] 美['ædʌlt]|n.成年人；成年动物<br>adj.成年的；理智的；适合成年人的；成熟的|The bear was a fully grown adult.|那只熊已完全发育成熟。|高中英语单词|英语单词模板
 英语::高中英语单词|advance|英[əd'vɑːns] 美[əd'væns]|n.前进；进展；预付金<br>v.前进；预付；增长；推进<br>adj.预先的；提前的|Advance in the jungle was very slow.|在丛林中行进很慢。|高中英语单词|英语单词模板
-英语::高中英语单词|advantage|英[əd'vɑːntɪdʒ] 美[əd'væntɪdʒ]|n.优势；有利条件<br>vt.有利于|For a goalkeeper,it's a great advantage to have big hands.|对于守门员来说，有一双大手是很大的优势。|高中英语单词|英语单词模板
-英语::高中英语单词|adventure|英[əd'ventʃə(r)] 美[əd'ventʃər]|n.冒险；奇遇<br>vt.冒险；尝试<br>vi.冒险；大胆进行|No matter how hard he tried, he couldn't persuade his friends to give up the adventure.|无论他怎么努力，都不能说服他的朋友们放弃冒险。|高中英语单词|英语单词模板
+英语::高中英语单词|advantage|英[əd'vɑːntɪdʒ] 美[əd'væntɪdʒ]|n.优势；有利条件<br>vt.有利于|Modern technology gives students many learning advantages.|现代技术给学生带来许多学习优势。|高中英语单词|英语单词模板
+英语::高中英语单词|adventure|英[əd'ventʃə(r)] 美[əd'ventʃər]|n.冒险；奇遇<br>vt.冒险；尝试<br>vi.冒险；大胆进行|Reading adventure novels fuels my imagination.|阅读冒险小说激发我的想象力。|高中英语单词|英语单词模板
 英语::高中英语单词|advertise|英['ædvətaɪz] 美['ædvərtaɪz]|v.登广告；宣传；告知|We decided to advertise our new product.|我们决定为我们的新产品做广告。|高中英语单词|英语单词模板
 英语::高中英语单词|advertisement|英[əd'vɜːtɪsmənt] 美[ˌædvər'taɪzmənt]|n.广告|A lot of people replied to our advertisement.|有许多人对我们的广告作出了反应。|高中英语单词|英语单词模板
 英语::高中英语单词|advice|英[əd'vaɪs] 美[əd'vaɪs]|n.劝告；忠告；建议|Tell me the reason (why) he refused to listen to my advice.|告诉我为何他拒绝听从我的劝告。|高中英语单词|英语单词模板
@@ -84,7 +84,7 @@
 英语::高中英语单词|agency|英['eɪdʒənsi] 美['eɪdʒənsi]|n.代理；代理处；政府机构|I hope we can see eye to eye about the other terms of the agency then.|我希望到那时候我们能在代理协议的其他条款上能取得一致意见。|高中英语单词|英语单词模板
 英语::高中英语单词|agenda|英[ə'dʒendə] 美[ə'dʒendə]|n.议事日程|This agenda will form the basis of our next meeting.|本议程将成为下次会议的中心议题。|高中英语单词|英语单词模板
 英语::高中英语单词|agent|英['eɪdʒənt] 美['eɪdʒənt]|n.代理人；代理商；药剂；特工人员|I have been instructed by my agent that you still owe me 100 pounds.|我的代理人通知我，你还欠我 100 磅。|高中英语单词|英语单词模板
-英语::高中英语单词|aggression|英[ə'ɡreʃn] 美[ə'ɡreʃn]|n.进攻；侵犯；侵害；侵略|For a dog,an erect tail indicates aggression.|对狗而言，竖立起来的尾巴表示进攻。|高中英语单词|英语单词模板
+英语::高中英语单词|aggression|英[ə'ɡreʃn] 美[ə'ɡreʃn]|n.进攻；侵犯；侵害；侵略|The zoo keeper handled the lion's aggression carefully.|动物园管理员小心应对狮子的攻击行为。|高中英语单词|英语单词模板
 英语::高中英语单词|aggressive|英[ə'ɡresɪv] 美[ə'ɡresɪv]|adj.侵略的；进攻性的；好斗的；有进取心的|He has an aggressive manner.|他的态度咄咄逼人。|高中英语单词|英语单词模板
 英语::高中英语单词|agreement|英[ə'ɡriːmənt] 美[ə'ɡriːmənt]|n.同意；一致；协议|We are in agreement with their decision.|我们同意他们的决定。|高中英语单词|英语单词模板
 英语::高中英语单词|agricultural|英[ˌæɡrɪ'kʌltʃərəl] 美[ˌæɡrɪ'kʌltʃərəl]|adj.农业的|Agricultural development simply must precede economic development.|农业的发展必须在整个经济发展中处于领先地位。|高中英语单词|英语单词模板
@@ -117,7 +117,7 @@
 英语::高中英语单词|amateur|英['æmətə(r)] 美['æmətər]|n.外行；业余爱好者<br>adj.业余（爱好者）的|An amateur shouldn't play roulette for high stakes.|外行不该下大赌注赌轮盘赌。|高中英语单词|英语单词模板
 英语::高中英语单词|amaze|英[ə'meɪz] 美[ə'meɪz]|vt.使吃惊；使惊异<br>vi.惊讶<br>n.吃惊；好奇|He amazed me by his audacity.|他的无理让我惊骇。|高中英语单词|英语单词模板
 英语::高中英语单词|ambassador|英[æm'bæsədə(r)] 美[æm'bæsədər]|n.大使；代表|He was appointed ambassador to the United States.|他被任命为驻美国大使。|高中英语单词|英语单词模板
-英语::高中英语单词|ambiguous|英[æm'bɪɡjuəs] 美[æm'bɪɡjuəs]|adj.模棱两可的；含糊不清的|He gave us an ambiguous answer .|他给了我们一个模棱两可的答复。|高中英语单词|英语单词模板
+英语::高中英语单词|ambiguous|英[æm'bɪɡjuəs] 美[æm'bɪɡjuəs]|adj.模棱两可的；含糊不清的|He gave us an ambiguous answer.|他给了我们一个模棱两可的答复。|高中英语单词|英语单词模板
 英语::高中英语单词|ambition|英[æm'bɪʃn] 美[æm'bɪʃn]|n.雄心；抱负；野心；精力<br>vt.追求；有……野心|You should persist in your ambition.|你应该坚持你的雄心大志。|高中英语单词|英语单词模板
 英语::高中英语单词|ambulance|英['æmbjʊləns] 美['æmbjələns]|n.救护车|An ambulance dashed to the scene of the accident.|救护车风驰电掣赶往事故现场。|高中英语单词|英语单词模板
 英语::高中英语单词|American|英[ə'merɪkən] 美[ə'merɪkən]|n.美国人；美洲人<br>adj.美国的；美洲的|His accent proclaimed that he was an American.|他的口音表明他是一个美国人。|高中英语单词|英语单词模板
@@ -144,8 +144,8 @@
 英语::高中英语单词|antique|英[æn'tiːk] 美[æn'tiːk]|adj.古代的；古老的；过时的<br>n.古董；古物|The antique table went to the lady in the pink hat.|这张古董桌子卖给那位戴粉红色帽子的女士了。|高中英语单词|英语单词模板
 英语::高中英语单词|anxiety|英[æŋ'zaɪəti] 美[æŋ'zaɪəti]|n.焦虑；担心；渴望|It proved difficult to disguise his anxiety.|他的焦虑难以掩饰。|高中英语单词|英语单词模板
 英语::高中英语单词|anxious|英['æŋkʃəs] 美['æŋkʃəs]|adj.渴望的；忧虑的|The whole country was anxious for peace.|全国上下都渴望和平。|高中英语单词|英语单词模板
-英语::高中英语单词|anyhow|英['enihaʊ] 美['enihaʊ]|adv.无论如何；不管怎样|Anyhow,Spring will return to us.|春，无论如何也会回到人间。|高中英语单词|英语单词模板
-英语::高中英语单词|anyway|英['eniweɪ] 美['eniweɪ]|adv.不管怎样；无论如何|Anyway she said what was in her mind.|不管怎样，她说了心里话。。|高中英语单词|英语单词模板
+英语::高中英语单词|anyhow|英['enihaʊ] 美['enihaʊ]|adv.无论如何；不管怎样|Anyhow, we should focus on finding a solution.|无论如何，我们应该专注于寻找解决方案。|高中英语单词|英语单词模板
+英语::高中英语单词|anyway|英['eniweɪ] 美['eniweɪ]|adv.不管怎样；无论如何|Anyway, don't worry about it too much.|总之，别太担心这个。|高中英语单词|英语单词模板
 英语::高中英语单词|apart|英[ə'pɑːt] 美[ə'pɑːrt]|adv.相距；分开地；分别地<br>adj.分开的；分离的|The two villages are three miles apart.|这两个村子相距三英里。|高中英语单词|英语单词模板
 英语::高中英语单词|apartment|英[ə'pɑːtmənt] 美[ə'pɑːrtmənt]|n.一套公寓房间|I have an apartment in downtown Manhattan.|我在曼哈顿中心区有一套住房。|高中英语单词|英语单词模板
 英语::高中英语单词|apologize|英[ə'pɒlədʒaɪz] 美[ə'pɑːlədʒaɪz]|vi.道歉；赔罪|He apologizes to her for not going to her party.|他因未出席她的派对向她表示歉意。|高中英语单词|英语单词模板
@@ -526,8 +526,8 @@
 英语::高中英语单词|comma|英['kɒmə] 美['kɑːmə]|n.逗号；停顿；间歇；银纹多角蛱蝶|The clause should be set off by a comma.|这个从句应该用逗号隔开。|高中英语单词|英语单词模板
 英语::高中英语单词|command|英[kə'mɑːnd] 美[kə'mænd]|n.命令；指挥；掌握；[计算机] DOS 命令：引用辅助命令处理器<br>v.命令；指挥；掌握；博得|He growled a command to her to stop.|他咆哮着命令她停下来。|高中英语单词|英语单词模板
 英语::高中英语单词|comment|英['kɒment] 美['kɑːment]|n.注释；评论；闲话<br>v.评论；注释|The comment is recorded in the event log.|此注释将记录在事件日志中。|高中英语单词|英语单词模板
-英语::高中英语单词|commit|英[kə'mɪt] 美[kə'mɪt]|v.犯罪；承诺；委托；托付|They committed outrages on innocent citizens.|他们对无辜的市民犯下了暴行。|高中英语单词|英语单词模板
-英语::高中英语单词|commitment|英[kə'mɪtmənt] 美[kə'mɪtmənt]|n.承诺；保证；信奉；献身；委任；交押|If you are serious about our relationship, you should make a commitment.|如果你对我们的关系很认真，你就应该给个承诺。|高中英语单词|英语单词模板
+英语::高中英语单词|commit|英[kə'mɪt] 美[kə'mɪt]|v.犯错，犯罪；投入；承诺，承担；委托；托付|He committed all his energy to the startup.|他把全部精力都投入到创业中。|高中英语单词|英语单词模板
+英语::高中英语单词|commitment|英[kə'mɪtmənt] 美[kə'mɪtmənt]|n.承诺；保证；信奉；献身；委任；交押|The program requires a six-month commitment.|该计划需要六个月的投入。|高中英语单词|英语单词模板
 英语::高中英语单词|committee|英[kə'mɪti] 美[kə'mɪti]|n.委员会|The committee meets at three today.|委员会今天三点开会。|高中英语单词|英语单词模板
 英语::高中英语单词|common|英['kɒmən] 美['kɑːmən]|adj.常见的；共同的；普通的；平常的；平凡的；粗俗的<br>n.公地；平民；普通；公园|Windmills are a common sight in Holland.|风车是荷兰常见的景色。|高中英语单词|英语单词模板
 英语::高中英语单词|communicate|英[kə'mjuːnɪkeɪt] 美[kə'mjuːnɪkeɪt]|v.传达；沟通；交流|He has communicated his wishes to me.|他已经把他的愿望告诉了我。|高中英语单词|英语单词模板
@@ -619,7 +619,7 @@
 英语::高中英语单词|crazy|英['kreɪzi] 美['kreɪzi]|adj.疯狂的；荒唐的；着迷的<br>n.荒唐的人<br>adv.疯狂地|It drives me crazy.|它使我快要发疯了。|高中英语单词|英语单词模板
 英语::高中英语单词|create|英[kri'eɪt] 美[kri'eɪt]|v.创造；造成<br>adj.<古>创造的|Some people believe that God created the world.|有些人相信上帝创造了世界。|高中英语单词|英语单词模板
 英语::高中英语单词|creature|英['kriːtʃə(r)] 美['kriːtʃər]|n.生物；动物；人|This creature lives in the depth of the ocean.|这种生物生活在海洋深处。|高中英语单词|英语单词模板
-英语::高中英语单词|crime|英[kraɪm] 美[kraɪm]|n.犯罪；恶行|He was acquitted of the crime.|他被宣告无罪。|高中英语单词|英语单词模板
+英语::高中英语单词|crime|英[kraɪm] 美[kraɪm]|n.犯罪；恶行|Poverty often leads to increased crime rates.|贫困常常导致犯罪率上升。|高中英语单词|英语单词模板
 英语::高中英语单词|criminal|英['krɪmɪnl] 美['krɪmɪnl]|n.罪犯<br>adj.犯罪的；刑事的；违法的|The criminal was sentenced to prison for theft.|那个犯人因偷窃被判入狱。|高中英语单词|英语单词模板
 英语::高中英语单词|crew|英[kruː] 美[kruː]|n.全体船员；全体乘务员；（一组）工作人员；划艇队员<br>v.当船员；当机务人员|The ship set sail after all the crew came on board.|全体船员上船后，船就开了。|高中英语单词|英语单词模板
 英语::高中英语单词|criterion|英[kraɪ'tɪəriən] 美[kraɪ'tɪriən]|n.标准；准则|Practice is the sole criterion for testing truth.|实践是检验真理的唯一标准。|高中英语单词|英语单词模板
@@ -1358,7 +1358,7 @@
 英语::高中英语单词|Ms.|英['mɪz] 美['mɪz]|n.女士，小姐|Ms Lucy, as a professional sociologist and committed feminist, is, however, not surprised. Nor is she amused.|但是，作为一位职业社会学家和女权运动者，露西小姐并不觉得奇怪。她也不在乎。|高中英语单词|英语单词模板
 英语::高中英语单词|mud|英[mʌd] 美[mʌd]|n.泥；泥浆；诽谤<br>vt.弄脏；抹泥|My car's stuck in the mud, and it won't budge.|我的车陷入泥中，一动也不动。|高中英语单词|英语单词模板
 英语::高中英语单词|muddy|英['mʌdi] 美['mʌdi]|adj.泥泞的；浑浊的；糊涂的<br>v.使沾上烂泥；使……混浊；使迷惑|It's muddy underfoot.|地上很泥泞。|高中英语单词|英语单词模板
-英语::高中英语单词|murder|英['mɜːdə(r)] 美['mɜːrdər]|n.谋杀；谋杀案；<俚>要命的事<br>vt.谋杀；糟蹋；损坏<br>vi.谋杀|He did a long stretch for attempted murder.|他因谋杀未遂罪坐了很长时间的牢。|高中英语单词|英语单词模板
+英语::高中英语单词|murder|英['mɜːdə(r)] 美['mɜːrdər]|n.谋杀；谋杀案；<俚>要命的事<br>vt.谋杀；糟蹋；损坏<br>vi.谋杀|The murder rate in the city has decreased by 20% this year.|今年该市谋杀率下降了20%。|高中英语单词|英语单词模板
 英语::高中英语单词|mushroom|英['mʌʃrʊm] 美['mʌʃrʊm]|n.蘑菇；菌菇状物；暴发户<br>vi.采蘑菇；雨后春笋般涌现；迅速增加|Some mushrooms are poisonous.|有些蘑菇有毒。|高中英语单词|英语单词模板
 英语::高中英语单词|musical|英['mjuːzɪkl] 美['mjuːzɪkl]|adj.音乐的；喜欢音乐的；悦耳的<br>n.音乐片|The mother found that her son had a musical talent.|母亲发现儿子有音乐天赋。|高中英语单词|英语单词模板
 英语::高中英语单词|musician|英[mju'zɪʃn] 美[mju'zɪʃn]|n.音乐家|That musician is very famous.|那位音乐家非常有名。|高中英语单词|英语单词模板
