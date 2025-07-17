@@ -5,7 +5,7 @@ const VALID_SYMBOL: &[char] = &[
 const VALID_END_WORD_CHAR: &[char] = &['.', '?', '!'];
 const ALLOWED_COMBINATIONS: &[&str] = &[
     // before whitespace
-    "; ", "% ", "! ", "? ", ") ", ", ", "' ", /* ones' something */
+    ": ", "; ", "% ", "! ", "? ", ") ", ", ", "' ", /* ones' something */
     // after whitespace
     " $", "\" ", " (", // special handle
     ". ", "..", " .",  // something else
@@ -19,26 +19,15 @@ pub fn check_english_sentence(sentence: &str) -> Result<(), String> {
         && have_special_handle(sentence, SPECIAL_HANDLE_COMBINATION, "...")
         && have_valid_quotation_mark(sentence)
         && have_appropriate_length(sentence)
-        && is_starts_and_ends_with_valid_english_char(sentence)
-        && is_comma_followed_by_space_or_number(sentence)
+        && is_starts_and_ends_with_valid_char(sentence)
+        && basic_english_checks(sentence)
     {
         return Ok(());
     }
     Err(sentence.to_string())
 }
-fn is_comma_followed_by_space_or_number(sentence: &str) -> bool {
-    let left_chars = sentence.chars();
-    let right_chars = sentence.chars().skip(1);
-    left_chars.zip(right_chars).all(|(left, right)| {
-        if left == ',' {
-            right == ' ' || right.is_numeric()
-        } else {
-            true
-        }
-    })
-}
 const fn have_appropriate_length(checked_str: &str) -> bool {
-    checked_str.len() >= 20 && checked_str.len() <= 100
+    checked_str.len() >= 20 && checked_str.len() <= 80
 }
 fn have_valid_quotation_mark(checked_str: &str) -> bool {
     checked_str.matches('\"').count() % 2 == 0 && checked_str.matches("\"\"").count() == 0
@@ -46,16 +35,16 @@ fn have_valid_quotation_mark(checked_str: &str) -> bool {
 fn is_valid_english_sentence_char(c: char) -> bool {
     c.is_ascii_alphanumeric() || VALID_SYMBOL.contains(&c)
 }
-fn is_starts_and_ends_with_valid_english_char(checked_str: &str) -> bool {
+fn is_starts_and_ends_with_valid_char(checked_str: &str) -> bool {
     let start = checked_str.chars().next().unwrap();
     let end = checked_str.chars().last().unwrap();
-    is_valid_english_start_char(start) && is_valid_english_end_char(end)
+    is_valid_sentence_start_char(start) && is_valid_sentence_end_char(end)
 }
 
-const fn is_valid_english_start_char(c: char) -> bool {
+const fn is_valid_sentence_start_char(c: char) -> bool {
     c.is_ascii_alphanumeric()
 }
-fn is_valid_english_end_char(c: char) -> bool {
+fn is_valid_sentence_end_char(c: char) -> bool {
     VALID_END_WORD_CHAR.contains(&c)
 }
 #[cfg(test)]
@@ -73,16 +62,17 @@ mod tests {
             "Don't laugh at him; he's very sensitive.",
             "There is no so-called \"recipe for success\".",
             "I value this necklace at $5,000.",
+            "English has five main vowel letters: A, E, I, O, U.",
         ];
         const INVALID: &[&str] = &[
             "If I had the time, I 'd make something better.", // for ` '`
-            "The man was gone: his footsteps made no sound.", // for `: `
             "\"Feather is very light, so that we say \"as light as a feather\".", // for extra `"`
-            "This answer must be a crib: it's exactly the same as Jones's.", // for `: ` because I don't want to include `:`
-            "Go on doing sth., Go on to do sth.",                            // for `.,`
-            "Allocate rations for a week - long camping trip.",              // for `-`
-            "These are my books.",                                           // too short
+            "Go on doing sth., Go on to do sth.",             // for `.,`
+            "Allocate rations for a week - long camping trip.", // for `-`
+            "These are my books.",                            // too short
             "If a horse refuses a jump,penalty points are added to the score.", // for `,` without following space
+            "Some of them--alas--will never return.",                           // for `--`
+            "Late last year an allied Taliban faction tried to seize large tracts of the Swat valley in the North-West Frontier Province.", // too long
         ];
         for sentence in VALID {
             assert_eq!(check_english_sentence(sentence), Ok(()));

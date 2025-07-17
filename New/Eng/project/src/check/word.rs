@@ -14,6 +14,7 @@ pub fn check_word(word: &str) -> Result<(), String> {
         && have_valid_combination(word, VALID_WORD_SYMBOL, ALLOWED_COMBINATIONS)
         && have_special_handle(word, SPECIAL_HANDLE_COMBINATION, "...")
         && is_starts_and_ends_with_valid_char(word)
+        && basic_english_checks(word)
     {
         return Ok(());
     }

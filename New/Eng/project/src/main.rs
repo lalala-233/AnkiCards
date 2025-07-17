@@ -31,12 +31,12 @@ mod impure {
     }
     pub fn print_statistic(lens: &[usize]) {
         println!(
-            "min: {}, max: {}, average: {}, <20: {} and >100: {}",
+            "min: {}, max: {}, average: {}, <20: {} and >80: {}",
             lens.iter().min().unwrap(),
             lens.iter().max().unwrap(),
             lens.iter().sum::<usize>() / lens.len(),
             lens.iter().filter(|&&x| x < 20).count(),
-            lens.iter().filter(|&&x| x > 100).count(),
+            lens.iter().filter(|&&x| x > 80).count(),
         );
     }
     pub fn copy_error(error_info: Option<(usize, String)>, len_of_line: usize) {

@@ -53,6 +53,7 @@ mod tests {
             "火车正快速驶向下一个车站。 ",            // for ` `
             " 我正要离开，就在这时电话响了。",        // for ` `
             "人民大会堂于 1959 年 9 月对外开放，",    // for `，`
+            "他们 35 年的婚姻生活一直保持着浪漫色彩", // for missing `。`
         ];
         for sentence in VALID {
             assert_eq!(check_chinese_sentence(sentence), Ok(()));
