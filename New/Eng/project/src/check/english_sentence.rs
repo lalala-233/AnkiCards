@@ -20,13 +20,25 @@ pub fn check_english_sentence(sentence: &str) -> Result<(), String> {
         && have_valid_quotation_mark(sentence)
         && have_appropriate_length(sentence)
         && is_starts_and_ends_with_valid_english_char(sentence)
+        && is_comma_followed_by_space_or_number(sentence)
     {
         return Ok(());
     }
     Err(sentence.to_string())
 }
+fn is_comma_followed_by_space_or_number(sentence: &str) -> bool {
+    let left_chars = sentence.chars();
+    let right_chars = sentence.chars().skip(1);
+    left_chars.zip(right_chars).all(|(left, right)| {
+        if left == ',' {
+            right == ' ' || right.is_numeric()
+        } else {
+            true
+        }
+    })
+}
 const fn have_appropriate_length(checked_str: &str) -> bool {
-    checked_str.len() >= 25 && checked_str.len() <= 100
+    checked_str.len() >= 20 && checked_str.len() <= 100
 }
 fn have_valid_quotation_mark(checked_str: &str) -> bool {
     checked_str.matches('\"').count() % 2 == 0 && checked_str.matches("\"\"").count() == 0
@@ -70,6 +82,7 @@ mod tests {
             "Go on doing sth., Go on to do sth.",                            // for `.,`
             "Allocate rations for a week - long camping trip.",              // for `-`
             "These are my books.",                                           // too short
+            "If a horse refuses a jump,penalty points are added to the score.", // for `,` without following space
         ];
         for sentence in VALID {
             assert_eq!(check_english_sentence(sentence), Ok(()));
