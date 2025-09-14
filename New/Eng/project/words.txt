@@ -1921,7 +1921,7 @@
 英语::Words|savor|英['seɪvə] 美['seɪvə]|n.味道；气味；滋味<br>vi.有……的味道或风味<br>vt.调味；品尝；欣赏<br>=savour（英）|Love life, only to survive in order to savor the taste of life, and feel the warmth of life, and create a brilliant life!|珍爱生命，只有生存下去，才能体味生命的滋味，感受生命的温暖，创造生命的辉煌！|Word|英语单词模板
 英语::Words|superpower|英['suːpəpaʊə(r)] 美['suːpərpaʊər]|n.超级大国；超能力|The superpowers are unlikely to disarm completely.|超级大国不太可能彻底裁军。|Word|英语单词模板
 英语::Words|ledge|英[ledʒ] 美[ledʒ]|n.架状突出物；壁架；暗礁；岩脊|He keeps some books on the window ledge.|他把一些书放在窗台上。|Word|英语单词模板
-英语::Words|crooked|英['krʊkɪd] 美['krʊkɪd]|adj.弯曲的；歪的；不老实的；不正直的<br>动词 crook 的过去式和过去分词。|He bent a crooked circle straight.|他把弯曲的铁丝弄直。|Word|英语单词模板
+英语::Words|crooked|英['krʊkɪd] 美['krʊkɪd]|adj.弯曲的；歪的；不老实的；不正直的<br>动词 crook 的过去式和过去分词。|They followed the crooked trail up the mountain.|他们沿着弯弯曲曲的小径上山。|Word|英语单词模板
 英语::Words|modernity|英[mə'dɜːnəti] 美[mə'dɜːrnəti]|n.现代性；现代作风；现代性的东西|Modernity gives birth to the forces against itself.|现代性孕育出了与其自身对抗的力量。|Word|英语单词模板
 英语::Words|impending|英[ɪm'pendɪŋ] 美[ɪm'pendɪŋ]|adj.即将发生的；迫在眉睫的<br>动词 impend 的现在分词。|The dark clouds suggest an impending storm.|乌云表明暴风雨即将来临。|Word|英语单词模板
 英语::Words|mediation|英[ˌmiːdi'eɪʃn] 美[ˌmiːdi'eɪʃn]|n.调停；调解；仲裁|Under the mediation of the photographer, all of these will end up with a harmonious entity unfolding in front of us.|而这一切，在摄影家的调停之下，最终又归结为一个和谐的整体向我们展开。|Word|英语单词模板
