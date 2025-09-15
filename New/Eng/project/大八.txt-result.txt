@@ -259,7 +259,7 @@
 英语::大学八级英语单词|boo|英[buː] 美[buː]|int.（表示不满、轻蔑等）嘘；呸<br>n.嘘声（pl<br>v.发出嘘声|Even if you don't like one of the players you should not boo and hiss at them.|即使是你不喜欢其中的一个球员，你不应该对他们发出嘘声。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|boon|英[buːn] 美[buːn]|n.恩惠；所感激的事<br>adj.合得来的|Remember the hurt that we give to others, forget the boon.|记住自己对别人的伤害，忘掉自己对别人的恩惠。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|boor|英[bʊə(r)] 美[bʊr]|n.粗野的人；不懂礼貌的人；农民；乡下人|Only a boor would ignore the rules.|只有粗人才会无视规则。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|bootless|英['buːtlɪs] 美['buːtlɪs]|adj.无用的；无益的|"I "trouble deaf heaven with my bootless cries".|我「哭天天不应」。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|bootless|英['buːtlɪs] 美['buːtlɪs]|adj.无用的；无益的|I "trouble deaf heaven with my bootless cries".|我「哭天天不应」。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|bouquet|英[bu'keɪ] 美[bu'keɪ]|n.花束；称赞；酒香|He bought a bouquet at the florist.|他在花店买了一束花。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|bracing|英['breɪsɪŋ] 美['breɪsɪŋ]|n.撑杆；支撑<br>adj.令人振奋的；提神的<br>动词 brace 的现在分词。|Transverse bracing was installed between the two shafts.|两根立柱之间设置了横撑。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|bracket|英['brækɪt] 美['brækɪt]|n.档次；括号；支架<br>vt.支撑；放在括号内；归入一类|Their incomes are brought into a higher bracket.|他们的收入已进入一个较高的等级段。|大学八级英语单词|英语单词模板
@@ -292,7 +292,7 @@
 英语::大学八级英语单词|burnish|英['bɜːnɪʃ] 美['bɜːrnɪʃ]|v.磨光；使光亮<br>n.光泽；抛光|He is burnishing the knife.|他正在磨刀。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|burrow|英['bʌrəʊ] 美['bɜːroʊ]|n.（兔子等）所掘的地洞<br>vt.挖掘（洞穴）；钻进<br>vi.翻寻；挖洞|The ideal riverbank is crumbly enough for the birds to excavate a nesting burrow with their beaks.|理想的河岸边土壤很松软，这些鸟可以很轻松的用自己喙去凿出适合做窝的地洞。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|buttress|英['bʌtrəs] 美['bʌtrəs]|n.扶墙；拱壁<br>v.支持|He was a buttress against extremism in the party.|他是党内反对极端主义的中坚分子。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|byline|英['baɪlaɪn] 美['baɪlaɪn]|n.（报刊等的文章开头或结尾）标出作者名字的一行|"The Times" ran a wrap-up under the byline of Walter.|《泰晤士报》连续刊载一篇署名为沃尔特的新闻摘要报道。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|byline|英['baɪlaɪn] 美['baɪl`aɪn]|n.（报刊等的文章开头或结尾）标出作者名字的一行|"The Times" ran a wrap-up under the byline of Walter.|《泰晤士报》连续刊载一篇署名为沃尔特的新闻摘要报道。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|byzantine|英[baɪ'zæntaɪn] 美['bɪzəntiːn]|adj.拜占庭的；拜占庭式建筑风格的；错综复杂的；暗中的<br>n.拜占庭人|That is a bill to simplify the Byzantine tax structure.|那是一项简化错综复杂的财税结构的议案。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|cabal|英[kə'bæl] 美[kə'bæl]|n.（尤指政治上的）阴谋；阴谋集团；秘密结社<br>v.密谋策划|Next is the role of Cabal Online.|接下来是黑色阴谋的角色。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|cache|英[kæʃ] 美[kæʃ]|n.隐藏所；藏身处；【计】高速缓冲存储器；缓存<br>v.把……藏起来；【计】把……储存于超高速缓冲存储器|One of the patrols discovered an arms cache.|巡逻队中有一人发现了一批武器的藏匿之处。|大学八级英语单词|英语单词模板
@@ -376,8 +376,8 @@
 英语::大学八级英语单词|cliche|英['kliːʃeɪ] 美[kliː'ʃeɪ]|n.陈腔滥调|I know that's a cliche, but some cliches are true.|我知道这是陈腔滥调，但是有些陈腔滥调则是正确的。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|clique|英[kliːk] 美[kliːk]|n.派系；小集团|I always hang out and eat lunch with my clique.|我总是和我那群朋友出去和一起去吃午餐。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|clog|英[klɒɡ] 美[klɑːɡ]|vt.阻塞；妨碍<br>vi.阻塞；结块；跳木屐舞<br>n.木屐；障碍|Heavy traffic clogged the freeways.|拥挤的交通堵塞了高速公路。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|clot|英[klɒt] 美[klɑːt]|n.凝块；一群；<非正式>笨蛋<br>v.凝结；阻塞|"The pipe under the bathroom sink was jammed by a huge clot of hair.|浴室洗手台下的水管被一大团头发堵塞了。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|cloture|英['kləʊtʃə] 美['kloʊtʃə]|n.讨论终结<br>vt.结束辩论|"To apply cloture to(a parliamentary debate).|结束辩论而付诸表决采用终结辩论以表决的方法结束（国会辩论）|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|clot|英[klɒt] 美[klɑːt]|n.凝块；一群；<非正式>笨蛋<br>v.凝结；阻塞|The pipe under the bathroom sink was jammed by a huge clot of hair.|浴室洗手台下的水管被一大团头发堵塞了。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|cloture|英['kləʊtʃə] 美['kloʊtʃə]|n.讨论终结<br>vt.结束辩论|To apply cloture to(a parliamentary debate).|结束辩论而付诸表决采用终结辩论以表决的方法结束（国会辩论）|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|cloudburst|英['klaʊdbɜːst] 美['klaʊdbɜːrst]|n.倾盆大雨；暴雨|The bus was delayed by a cloudburst.|由于大暴雨，公共汽车来迟了。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|clout|英[klaʊt] 美[klaʊt]|n.猛击；影响力<br>[英]破布。<br>v.猛击|He has a lot of clout with the board of directors.|他对董事会有很大的影响力。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|cloying|英['klɔɪɪŋ] 美['klɔɪɪŋ]|adj.因过量而厌烦的；甜得发腻的；过于感性的<br>动词 cloy 的现在分词形式。|The pleasures of idleness soon cloy.|无所事事的享乐很快就使人厌烦了。|大学八级英语单词|英语单词模板
@@ -500,8 +500,8 @@
 英语::大学八级英语单词|crest|英[krest] 美[krest]|n.浪尖；冠；饰章；顶部<br>v.到达顶部；到达最高点|A surfboard fin sliced the crest of a wave.|冲浪板尾部划破浪尖。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|crestfallen|英['krestfɔːlən] 美['krestfɔːlən]|adj.垂头丧气的；气馁的|He looked a little crestfallen (or depressed).|他看起来有点灰溜溜的样子。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|cronyism|英['krəʊniɪzəm] 美['kroʊniɪzəm]|n.任人唯亲|But several countries in Asia have grown rapidly at a time when cronyism was common, including Indonesia and South Korea in their time.|但是亚洲不少国家一度迅速增长之时，任人唯亲也很普遍，包括印尼和南韩当时都是如此。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|croon|英[kruːn] 美[kruːn]|v.低声歌唱；低吟；轻哼<br>n.低吟声；轻哼声|"She gently crooned a lullaby.|她轻声哼唱了一支摇篮曲。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|crouch|英[kraʊtʃ] 美[kraʊtʃ]|v.蹲下；屈膝<br>n.蹲伏；蜷缩|"He crouched down among the tangled foliage.|他蹲下把身子藏在紊乱的叶丛中。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|croon|英[kruːn] 美[kruːn]|v.低声歌唱；低吟；轻哼<br>n.低吟声；轻哼声|She gently crooned a lullaby.|她轻声哼唱了一支摇篮曲。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|crouch|英[kraʊtʃ] 美[kraʊtʃ]|v.蹲下；屈膝<br>n.蹲伏；蜷缩|He crouched down among the tangled foliage.|他蹲下把身子藏在紊乱的叶丛中。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|crucial|英['kruːʃl] 美['kruːʃl]|adj.决定性的；关键的|Her work has been crucial to the project's success.|她的工作对项目的成功至关重要。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|crumple|英['krʌmpl] 美['krʌmpl]|v.（使）起皱；（使）崩溃；压垮<br>n.压痕；皱痕|He put on a crumpled suit.|他穿上一件皱巴巴的西装。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|crutch|英[krʌtʃ] 美[krʌtʃ]|n.拐杖；支柱<br>v.支撑|He is lame in one leg and walks with the help of a crutch.|他的一条腿跛了，走路借助于拐杖。|大学八级英语单词|英语单词模板
@@ -517,7 +517,7 @@
 英语::大学八级英语单词|cynic|英['sɪnɪk] 美['sɪnɪk]|n.愤世嫉俗者；悲观者；犬儒主义者；好挖苦的人<br>adj.犬儒学派的；好讥讽的|I'm too much of a cynic to believe that he'll keep his promise.|我太愤世嫉俗了，不能相信他会遵守诺言。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|dabbler|英['dæblə] 美['dæblə]|n.戏水者；业余家；半玩半认真做的人|He's not a dedicated musician but a dabbler.|他并不是专门的音乐家，只不过是个业余家。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|daft|英[dɑːft] 美[dæft]|adj.愚蠢可笑的|Don't be so daft!|别那麽傻了！|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|daguerreotype|英[də'ɡerətaɪp] 美[də'ɡerətaɪp]|n.（早期）银板照相；银版照片<br>v.用银版法拍摄|French artist and inventor of the daguerreotype process for obtaining positive photographic prints.|"达盖尔，路易斯·雅克·曼德1789－1851法国艺术家和发明家，发明了银版摄影术，能洗出照片的正画|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|daguerreotype|英[də'ɡerətaɪp] 美[də'ɡerətaɪp]|n.（早期）银板照相；银版照片<br>v.用银版法拍摄|French artist and inventor of the daguerreotype process for obtaining positive photographic prints.|达盖尔，路易斯·雅克·曼德1789－1851法国艺术家和发明家，发明了银版摄影术，能洗出照片的正画|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|dally|英['dæli] 美['dæli]|v.浪费时间；戏耍；玩弄；赋闲；调情|Come on and don't dally.|好了，别浪费时间了。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|damper|英['dæmpə(r)] 美['dæmpər]|n.风阀；减音器；阻尼器；抑制|Damper actuators and air quality control document should be sent today.|今天应当发送风阀执行器及空气质量控制文件。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|dandy|英['dændi] 美['dændi]|adj.<口>极好的<br>n.花花公子；好打扮的人|He's well-learned and full of dandy ideas.|他学习很好，并且有许多好主意。|大学八级英语单词|英语单词模板
@@ -533,7 +533,7 @@
 英语::大学八级英语单词|debacle|英[deɪ'bɑːkl] 美[deɪ'bɑːkl]|n.惨败；溃逃；灾难；狂流|His first performance was a debacle: the audience booed him off the stage.|他的首场演出一败涂地，观众发出嘘声把他轰下了台。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|debark|英[dɪ'bɑːk] 美[dɪ'bɑːk]|vt.卸载<br>v.（使）下船；（使）登陆|After the long flight, the passengers quickly debarked from the airplane.|经过漫长的航程，乘客们迅速从飞机上下来。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|debase|英[dɪ'beɪs] 美[dɪ'beɪs]|v.降低质量、地位或价值；贬低|Sport is being debased by commercialism.|体育运动的价值受商业化的影响而逐渐下降。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|debilitate|英[dɪ'bɪlɪteɪt] 美[dɪ'bɪlɪteɪt]|vt.使……衰弱|"The patient had been so debilitate by the fever that he lacked the strength to sit up.|这病人因发烧而一直很虚弱，以至于连坐起来的力气都没有。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|debilitate|英[dɪ'bɪlɪteɪt] 美[dɪ'bɪlɪteɪt]|vt.使……衰弱|The patient had been so debilitate by the fever that he lacked the strength to sit up.|这病人因发烧而一直很虚弱，以至于连坐起来的力气都没有。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|debris|英['debriː] 美[də'briː]|n.碎片；残骸|Falling debris rained on us from above.|碎片从上面像雨点儿一样落在我们身上。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|debunk|英[ˌdiː'bʌŋk] 美[ˌdiː'bʌŋk]|v.揭穿真相；暴露|A lot of people used to believe that, but now it's been completely debunked.|过去很多人相信那种想法，但现已真相大白。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|debut|英['deɪbjuː] 美[deɪ'bjuː]|n.首次露面；初次登场<br>v.初次登场；首次推出|His debut marks him out for future success.|他的首次亮相预示了将来的成功。|大学八级英语单词|英语单词模板
@@ -605,7 +605,7 @@
 英语::大学八级英语单词|didactic|英[daɪ'dæktɪk] 美[daɪ'dæktɪk]|adj.教诲的；说教的|This novel was intended to be neither didactic nor aggressive.|这部书的本意，既不想教训人，也不想攻击人。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|diehard|英['daɪhɑːd] 美['daɪhɑːrd]|n.顽固分子<br>adj.顽固的|He was much annoyed at my remark and called me a diehard.|他听了非常不高兴，竟骂我思想顽固。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|diffident|英['dɪfɪdənt] 美['dɪfɪdənt]|adj.无自信的；客客气气的；羞怯的|He was too diffident to express his opinion.|他太不自信，不敢发表自己的见解。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|diffuse|英[dɪ'fjuːz] 美[dɪ'fjuːz]|vt.扩散；散开；传播<br>vi.弥漫；扩散<br>adj.冗长的；四散的|"The problem is how to diffuse power without creating anarchy.|问题在于如何将权力分散而不造成无政府状态。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|diffuse|英[dɪ'fjuːz] 美[dɪ'fjuːz]|vt.扩散；散开；传播<br>vi.弥漫；扩散<br>adj.冗长的；四散的|The problem is how to diffuse power without creating anarchy.|问题在于如何将权力分散而不造成无政府状态。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|digit|英['dɪdʒɪt] 美['dɪdʒɪt]|n.数字；位数；手指；脚趾|One digit always precedes the decimal point.|小数点前总有一个数字。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|digress|英[daɪ'ɡres] 美[daɪ'ɡres]|v.走向岔道；离开本题；扯到枝节上|Don't digress from the subject when lecturing.|讲课时不要扯到枝节上。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|dilapidate|英[dɪ'læpɪdeɪt] 美[də'læpəˌdeɪt]|v.（使）荒废；（使）毁坏|Second, they may indulge in it, thus dilapidate their study, which isn't rare.|其次，他们会沉迷其中以致荒废了学习，这是不罕见。|大学八级英语单词|英语单词模板
@@ -743,10 +743,10 @@
 英语::大学八级英语单词|egoism|英['eɡəʊɪzəm] 美['eɡoʊɪzəm]|n.自我主义；利己主义|The egoism of an artist sometimes seem natural.|艺术家的自负有时看起来是自然的。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|elate|英[ɪ'leɪt] 美[ɪ'leɪt]|v.使兴奋；使得意<br>adj.得意的|He was elated at the news.|这个消息使他很兴奋。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|eleemosynary|英[ˌeliː'mɒsɪnərɪ] 美[ˌelə'mɒsənˌerɪ]|adj.施舍的；慈善的；接受接济的|The charity organization operates on an eleemosynary basis, relying on donations to support its work.|这家慈善机构是以施舍的方式运作的，依靠捐赠来支持其工作。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|elegy|英['elədʒi] 美['elədʒi]|n.悲歌；哀歌；挽歌|"Critics have spent entire books interpreting Gray's "Elegy.|批评家们整本整本的书长篇累牍的来诠释格雷的「挽歌」。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|elegy|英['elədʒi] 美['elədʒi]|n.悲歌；哀歌；挽歌|Critics have spent entire books interpreting Gray's "Elegy.|批评家们整本整本的书长篇累牍的来诠释格雷的「挽歌」。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|elephantine|英[ˌelɪ'fæntaɪn] 美[ˌelɪ'fæntiːn]|adj.象的；巨大的；粗笨的|Their daughter is quite plump but their son is positively elephantine.|他们的女儿很胖；可是儿子呢，简直像大象。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|elicit|英[i'lɪsɪt] 美[i'lɪsɪt]|vt.引出；诱出；探出|The detectives tried to elicit where he had hidden his loot.|侦探试图诱使他说出他藏匿赃物的地方。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|ellipsis|英[ɪ'lɪpsɪs] 美[ɪ'lɪpsɪs]|n.省略；省略号|"There is an ellipsis of "that" in that sentence.|那个句子省略了「that」。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|ellipsis|英[ɪ'lɪpsɪs] 美[ɪ'lɪpsɪs]|n.省略；省略号|There is an ellipsis of "that" in that sentence.|那个句子省略了「that」。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|elucidate|英[i'luːsɪdeɪt] 美[i'luːsɪdeɪt]|v.阐明；说明|There is no need for him to elucidate.|他没有必要去详细阐明。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|emaciate|英[ɪ'meɪʃɪeɪt] 美[ɪ'meɪʃɪˌeɪt]|v.（使）消瘦；（使）憔悴|Her illness caused her to emaciate, losing a significant amount of weight.|她的病让她消瘦下去，大幅减轻了体重。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|emancipate|英[ɪ'mænsɪpeɪt] 美[ɪ'mænsɪpeɪt]|vt.释放；解放|Women have been struggling to emancipate from old restrictions of various kinds.|妇女们一直在为摆脱各种旧束缚而斗争。|大学八级英语单词|英语单词模板
@@ -793,7 +793,7 @@
 英语::大学八级英语单词|episode|英['epɪsəʊd] 美['epɪsoʊd]|n.一段情节；片段；轶事；插曲|One of the funniest episodes in the book occurs in chapter 6.|书中最有趣的情节是在第 6 章。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|epistemology|英[ɪˌpɪstə'mɒlədʒi] 美[ɪˌpɪstə'mɑːlədʒi]|n.认识论|In epistemology, he admitted thinking people can reflect the reality.|在认识论上，他承认人的思维能反映现实。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|epitaph|英['epɪtɑːf] 美['epɪtæf]|n.墓志铭|He tried to read the epitaph on the monument.|他试图读出墓碑上的铭文。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|epithet|英['epɪθet] 美['epɪθet]|n.性质描述词；称号；浑名|"What's wrong here is the epithet "stinking".|错就错在那个「臭」字上。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|epithet|英['epɪθet] 美['epɪθet]|n.性质描述词；称号；浑名|What's wrong here is the epithet "stinking".|错就错在那个「臭」字上。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|epitome|英[ɪ'pɪtəmi] 美[ɪ'pɪtəmi]|n.缩影；化身；摘要（古）|The divisions we see in this school are the epitome of those occurring throughout the whole country.|我们在这所学校中看到的各个部门是全国各校的缩影。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|equable|英['ekwəbl] 美['ekwəbl]|adj.性情温和的；变动小的|It's lucky that his parents are so equable.|值得庆幸的是他双亲性情非常温和。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|equipoise|英['iːkwɪpɔɪz] 美['iːkwɪpɔɪz]|n.平衡；平衡力；均衡<br>vt.使平衡|The japenese food pay attention to nourishment is equipoise.|日本食品讲究营养均衡。|大学八级英语单词|英语单词模板
@@ -1043,7 +1043,7 @@
 英语::大学八级英语单词|guzzle|英['ɡʌzl] 美['ɡʌzl]|v.狂饮；大量消耗|He's always guzzling.|他总是大吃大喝的。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|habitable|英['hæbɪtəbl] 美['hæbɪtəbl]|adj.可居住的；适于居住的|It will take a lot of spit and polish to get this room habitable again.|要想使这间屋子能住人的话，那将要好好打扫一下。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|hack|英[hæk] 美[hæk]|n.劈或砍；乱踢；咳嗽<br>n.供出租的马车；雇佣文人；（美口）出租车<br>vt.非法侵入（他人计算机系统）<br>vi.劈或砍；咳嗽|She gave Scarlett a glare as she saw her look longingly at the hack.|嬷嬷看见思嘉仍在恋恋不舍地打量那辆出租马车，便恶狠狠地瞪了她一眼。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|hackneyed|英['hæknid] 美['hæknid]|adj.（指词语﹑言辞等）陈腐的；老生常谈的<br>动词 hackney 的过去式和过去分词形式。|"Yes, it's a hackneyed phrase, but politics is the art of the possible.|没错，这是一条陈腐的词语，但政治的确是一种可能事件的艺术。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|hackneyed|英['hæknid] 美['hæknid]|adj.（指词语﹑言辞等）陈腐的；老生常谈的<br>动词 hackney 的过去式和过去分词形式。|Yes, it's a hackneyed phrase, but politics is the art of the possible.|没错，这是一条陈腐的词语，但政治的确是一种可能事件的艺术。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|halcyon|英['hælsiən] 美['hælsiən]|adj.宁静的；平稳的<br>n.翡翠鸟；传说中的太平鸟|He yearned for the halcyon daysof his childhood.|他怀念儿时宁静幸福的日子。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|hale|英[heɪl] 美[heɪl]|adj.（尤指老人）健壮的；矍铄的<br>v.强拉硬拖|Although he is over eighty, he looks hale and healthy.|尽管他已经八十多岁了，看上去还很健壮。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|half-baked||adj.半生不熟的；未完成的；不完整的|The half-baked cake needed more time in the oven to cook thoroughly.|半成品的蛋糕需要更多的时间在烤箱里烤熟。|大学八级英语单词|英语单词模板
@@ -1083,7 +1083,7 @@
 英语::大学八级英语单词|herpetologist|英[hɜːpə'tɒlədʒɪst] 美[hɜːpə'tɒlədʒɪst]|n.爬虫学家|Felix became a herpetologist instead.|费利克斯而是成为了一位爬虫学家。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|hesitance|英['hezɪtəns] 美['hezətəns]|n.踌躇；犹豫<br>=hesitancy.|That's why Thompson doesn't believe the drug industry's hesitance to develop male hormonal birth control is merely about money.|所以汤普森不认为制药厂商犹豫开发男性荷尔蒙计生药品仅仅是由于资金的束缚。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|heterodox|英['hetərədɒks] 美['hetərədɑːks]|adj.异端的；非正统的|His opinions have always been distinctly heterodox.|他的观点时常带有明显的异端色彩。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|hidebound|英['haɪdbaʊnd] 美['haɪdbaʊnd]|adj.墨守成规的；死板的；（动物）皮包骨的；（树木）紧皮的|"Hidebound be to bring about liverish main reason?|营养不良是导致肝病的主要原因？|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|hidebound|英['haɪdbaʊnd] 美['haɪdbaʊnd]|adj.墨守成规的；死板的；（动物）皮包骨的；（树木）紧皮的|Hidebound be to bring about liverish main reason?|营养不良是导致肝病的主要原因？|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|hideous|英['hɪdiəs] 美['hɪdiəs]|adj.丑陋的；可怕的；可憎的；令人惊骇的|As punishment, she transformed him into a hideous beast and placed a spell on everyone in the castle.|为了惩罚王子，她把王子变成了一头丑陋的野兽，还对城堡里的每个人都施了魔法。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|hie|英[haɪ] 美[haɪ]|v.快走；赶紧；催促|Hie yourself to home.|快回家吧。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|hieroglyph|英['haɪərəɡlɪf] 美['haɪərəɡlɪf]|n.象形文字；图画文字；秘密文字|As a hieroglyph this symbol represents the unification of Upper and Lower Egypt.|如一个象形文字那样，这个符号表现了上埃及和下埃及的统一。|大学八级英语单词|英语单词模板
@@ -1266,7 +1266,7 @@
 英语::大学八级英语单词|irk|英[ɜːk] 美[ɜːrk]|v.使厌倦；使苦恼<br>n.厌倦；苦恼|It irks me to see money being wasted.|我看著浪费金钱就讨厌。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|ironclad|英['aɪənklæd] 美['aɪərnklæd]|adj.坚固的；铁定的；不容置疑的；装铁甲的<br>n.铁甲舰|The ironclad contract offered her clients complete legal protection.|这份铁板钉钉的合同为她的客户提供了全面的法律保障。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|irradicable|英[ɪ'rædɪkəbl] 美[ɪ'rædɪkəbəl]|adj.不能根除的|The irradicable disease continues to spread despite efforts to stop it.|这种根治不了的疾病仍在持续蔓延，尽管人们努力想要阻止它。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|irreducible|英[ˌɪrɪ'djuːsəbl] 美[ˌɪrɪ'duːsəbl]|adj.不能复归的；不能削减的；不可约的|"It is the irreducible seat of strength.|这是不可逆的力量的席位。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|irreducible|英[ˌɪrɪ'djuːsəbl] 美[ˌɪrɪ'duːsəbl]|adj.不能复归的；不能削减的；不可约的|It is the irreducible seat of strength.|这是不可逆的力量的席位。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|isthmus|英['ɪsməs] 美['ɪsməs]|n.地峡；[解]峡，管峡|In which part of the world is the Isthmus located?|苏伊士地峡位于世界的哪一部分？|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|itinerary|英[aɪ'tɪnərəri] 美[aɪ'tɪnəreri]|n.旅行计划，行程表；旅程；游记<br>adj.旅程的；巡回的；游历的|I need to discuss our itinerary with you.|我得和你讨论我们的旅行计划。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|jabber|英['dʒæbə(r)] 美['dʒæbər]|v.快而不清楚地说话<br>n.含糊不清的话|What is he jabbering about now?|他在叽里咕噜地说什么呢？|大学八级英语单词|英语单词模板
@@ -1298,7 +1298,7 @@
 英语::大学八级英语单词|knead|英[niːd] 美[niːd]|v.揉（面粉等）；按摩；捏制|The little boy kneaded the dough into a ball.|那个小男孩把面团揉成了球状。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|knotty|英['nɒti] 美['nɑːti]|adj.有结的；多节的；多瘤的；复杂的；棘手的|This is a knotty passage.|这是一段复杂难懂的文字。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|kudos|英['kjuːdɒs] 美['kuːdɑːs]|n.光荣；荣誉；称赞|She did most of the work,but all the kudos went to him.|工作大部分是她做的，可是荣誉都归他了。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|labile|英['leɪbail] 美['leɪbəl]|adj.易变的；不稳定的|"Such physical entanglements are usually labile.|这种物理缠结往往是不稳定的。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|labile|英['leɪbail] 美['leɪbəl]|adj.易变的；不稳定的|Such physical entanglements are usually labile.|这种物理缠结往往是不稳定的。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|labored|英['leɪbəd] 美['leɪbəd]|adj.（动作、呼吸等）困难的；吃力的<br>动词 labor 的过去式和过去分词形式。|An old woman labored up.|老妇人吃力地爬上。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|labyrinth|英['læbərɪnθ] 美['læbərɪnθ]|n.迷宫；难解的事件|The old building was a labyrinth of dark corridors.|那古老建筑是一座长廊纵横光线昏暗的迷宫。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|lackluster|英['lækˌlʌstə] 美['lækˌlʌstə]|adj.无光泽的；暗淡的；无生气的<br>n.无光泽；暗淡无生气；平凡|This morning I felt tired and lackluster.|今天早上觉得很累，而且没有精神。|大学八级英语单词|英语单词模板
@@ -1358,7 +1358,7 @@
 英语::大学八级英语单词|lucid|英['luːsɪd] 美['luːsɪd]|adj.明白易懂的；清晰的；神智清醒的|He had great powers of lucid exposition.|他具有清晰的表述能力。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|lucubration|英['luːkjuːˌbreɪʃən] 美['luːkjuːˌbreɪʃən]|n.刻苦研究<br>（复）lucubrations：学术著作；苦心的作品。|It proves the important value of the lucubration to the monetary policy of China exactly.|该部分的分析确立了对我国货币政策有效性进行深入研究的重要价值。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|lug|英[lʌɡ] 美[lʌɡ]|n.柄；突出部；螺帽<br>n. （英）耳朵<br><俚>笨蛋<br>vt.拖；拉；用力拖动|The striker has a lug that interacts with the sear and is used to hold the striker in the cocked position.|下手帮手有一个与柄互动的那枯萎的而且用来在被耸立的位置中捉住下手帮手。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|lugubrious|英[lə'ɡuːbriəs] 美[lə'ɡuːbriəs]|adj.悲哀的；阴郁的|"That long, lugubrious howl rose on the night air again!|夜空中又传来了那又长又凄凉的狗叫声。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|lugubrious|英[lə'ɡuːbriəs] 美[lə'ɡuːbriəs]|adj.悲哀的；阴郁的|That long, lugubrious howl rose on the night air again!|夜空中又传来了那又长又凄凉的狗叫声。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|lull|英[lʌl] 美[lʌl]|v.使安静；使入睡；哄骗；平息<br>n.暂停；间歇|The mother lulled the baby to sleep.|母亲哄着孩子入睡了。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|lullaby|英['lʌləbaɪ] 美['lʌləbaɪ]|n.摇篮曲；催眠曲；任何轻柔的音乐<br>v.唱摇篮曲使安眠；使安静|The mother was crooning a lullaby to her baby.|母亲正对婴儿哼着摇篮曲。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|lumen|英['luːmen] 美['luːmen]|n.内腔；流明（光流的强度单位）|The innermost region of cotton is called lumen.|棉纤维的最内层组织叫内腔。|大学八级英语单词|英语单词模板
@@ -1400,7 +1400,7 @@
 英语::大学八级英语单词|meager|英['miːgə] 美['miːgə]|adj.贫乏的；不足的；瘦的|She had to survive on a meager budget every month.|她每个月只能靠微薄的预算过日子。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|meander|英[mi'ændə(r)] 美[mi'ændər]|v.缓慢而弯曲地流动；漫步；闲聊<br>n.河流的曲折；漫步；迂回曲折的进程|They tumble down mountainsides; they meander through flat farmlands.|它们滚滚冲下山脊，蜿蜒穿过平坦的农田。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|measly|英['miːzli] 美['miːzli]|adj.（俚）微不足道的；患麻疹的|What a measly birthday present!|多麽小气的生日礼物哇！|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|measured|英['meʒəd] 美['meʒərd]|adj.量过的；慎重的；缓慢有节奏的；有韵律的<br>动词 measure 的过去式和过去分词。|"Econometrics deals with measurable and measured quantities in economics.|计量经济学的对象是经济学中可测量和已测出的量。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|measured|英['meʒəd] 美['meʒərd]|adj.量过的；慎重的；缓慢有节奏的；有韵律的<br>动词 measure 的过去式和过去分词。|Econometrics deals with measurable and measured quantities in economics.|计量经济学的对象是经济学中可测量和已测出的量。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|meddle|英['medl] 美['medl]|v.干涉|Don't meddle in my affairs.|别干预我的事情。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|mediate|英['miːdieɪt] 美['miːdieɪt]|v.调停；斡旋<br>adj.居间的；间接的|He attempted to mediate their differences.|他试图调停他们的分歧。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|mediocre|英[ˌmiːdi'əʊkə(r)] 美[ˌmiːdi'oʊkər]|adj.平庸的；平凡的|This leads to mediocre training, fitness, and performance.|这将导致平庸的训练，体能和成绩。|大学八级英语单词|英语单词模板
@@ -1570,7 +1570,7 @@
 英语::大学八级英语单词|overbearing|英[ˌəʊvə'beərɪŋ] 美[ˌəʊvə'beərɪŋ]|adj.傲慢的；骄傲自大的；蛮横的|No one liked his overbearing manners.|没有人喜欢他那傲慢的样子。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|overt|英[əʊ'vɜːt] 美[oʊ'vɜːrt]|adj.公开的；明显的；公然的|In many emerging economies corruption is egregious and overt.|许多新兴经济体中的腐败是异乎寻常的和公开的。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|overture|英['əʊvətʃʊə(r)] 美['oʊvərtʃər]|n.提议；提案；主动表示；序曲<br>v.提议；建议|And, knowing little about Geely, it didn't take the overture seriously, according to people familiar with the situation.|据知情人士透露，由于对吉利知之甚少，福特汽车没有认真对待这一提议。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|oxymoron|英[ˌɒksɪ'mɔːrɒn] 美[ˌɑːksɪ'mɔːrɑːn]|n.矛盾修饰法|"Accurate Estimates - the ultimate oxymoron?|精确估计？|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|oxymoron|英[ˌɒksɪ'mɔːrɒn] 美[ˌɑːksɪ'mɔːrɑːn]|n.矛盾修饰法|Accurate Estimates - the ultimate oxymoron?|精确估计？|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|pachyderm|英['pækidɜːm] 美['pækidɜːrm]|n.厚皮动物|Soar high above Fantasyland aboard everyone's favorite pachyderm.|登上人见人爱的小飞象，在幻想世界的天空里展翅高飞。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|pacify|英['pæsɪfaɪ] 美['pæsɪfaɪ]|v.使……平静；抚慰；安慰|She knew that he had become delirious, and tried to pacify him.|她知道他已经神志昏迷起来了，极力想使他镇静下来。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|padding|英['pædɪŋ] 美['pædɪŋ]|n.垫充；垫塞；填料；废话|Some of these had padding at the ears also to deafen the wearer to some degree and these would be put on girls who were truly rebellious.|有些面具在耳朵的部分还有填料，可以让佩带者无法听到声音，那些真正反抗的女孩可能会被带上这样的面具。|大学八级英语单词|英语单词模板
@@ -1633,7 +1633,7 @@
 英语::大学八级英语单词|penitent|英['penɪtənt] 美['penɪtənt]|adj.忏悔的；悔悟的<br>n.改过迁善的人；忏悔的人；悔罪者|Since he has been penitent,I don't think he will do that again.|既然他已经忏悔了，我认为他不会再那样做了。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|pensive|英['pensɪv] 美['pensɪv]|adj.沉思的；愁眉苦脸的|He subsided into a pensive state.|他陷入了沉思。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|penury|英['penjəri] 美['penjəri]|n.贫穷；拮据|Laid-off workers fall into penury.|下岗职工陷入贫困。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|perambulate|英[pə'ræmbjuleɪt] 美[pə'ræmbjuleɪt]|vt.巡行；巡视<br>vi.漫步|"Via spot perambulate, extraction convict footmark.|经现场勘查，提取罪犯足迹一枚。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|perambulate|英[pə'ræmbjuleɪt] 美[pə'ræmbjuleɪt]|vt.巡行；巡视<br>vi.漫步|Via spot perambulate, extraction convict footmark.|经现场勘查，提取罪犯足迹一枚。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|perceptible|英[pə'septəbl] 美[pər'septəbl]|adj.可察觉的；能感觉得到的；看得见的|These changes were already perceptible before the war.|这些变化在战前就已经感觉得出来了。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|peremptory|英[pə'remptəri] 美[pə'remptəri]|adj.专横的；不容反抗的；强制的|His peremptory tone irritated everybody.|他那专横的口气激怒了大家。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|perfervid|英[pɜː'fɜːvɪd] 美[pɜː'fɜːvɪd]|adj.极端或过分热情的|Thank you!But i perfervid my way.|谢谢。但是我喜欢这么说。|大学八级英语单词|英语单词模板
@@ -1782,7 +1782,7 @@
 英语::大学八级英语单词|prosaic|英[prə'zeɪɪk] 美[prə'zeɪɪk]|adj.单调乏味的；散文的；平淡无奇的；无想象力的|It was a prosaic description of the scene.|这是对场景没有想象力的一个描述。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|proscribe|英[prə'skraɪb] 美[proʊ'skraɪb]|v.禁止；放逐；排斥；剥夺…的公权|The sale of narcotics is proscribed by law.|法律禁止贩卖毒品。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|prosecution|英[ˌprɒsɪ'kjuːʃn] 美[ˌprɑːsɪ'kjuːʃn]|n.起诉；原告；实行|Tony has brought a prosecution against them.|汤尼已对他们提出起诉。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|proselytize|英['prɒsələtaɪz] 美['prɑːsələtaɪz]|v.使改宗；劝诱改宗|"A wise man will not proselytize you.|智者不会对你改宗劝诱。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|proselytize|英['prɒsələtaɪz] 美['prɑːsələtaɪz]|v.使改宗；劝诱改宗|A wise man will not proselytize you.|智者不会对你改宗劝诱。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|prostrate|英['prɒstreɪt] 美['prɑːstreɪt]|adj.卧倒的；拜倒的；瓦解的；无能为力的<br>v.拜倒；倒下；无能为力；筋疲力尽；虚脱|The prisoners were forced to lie prostrate in front of their captors.|囚犯们被迫在逮捕他们的那些人面前卧倒。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|protean|英['prəʊtiən] 美['proʊtiən]|adj.千变万化的；变化不定的|Yet in protean China, one constant is that opposing the Communist state brings down a mailed fist.|然而，在千变万化的中国，常有的现象是反对共产主义国家会导致铁腕手段。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|protocol|英['prəʊtəkɒl] 美['proʊtəkɔːl]|n.外交礼仪；草案；协议；规章制度；【医】记录；科学实验报告|It was a gross breach of protocol.|这是粗暴违反外交礼节的行为。|大学八级英语单词|英语单词模板
@@ -1815,7 +1815,7 @@
 英语::大学八级英语单词|pungent|英['pʌndʒənt] 美['pʌndʒənt]|adj.刺鼻的；辛辣的；尖锐的；刻薄的|With less fat to balance out the pungent flavors, you can really taste the natural piquancy of lush spring fields.|以少量的脂肪来平衡辛辣的香草味，你能真正品尝到春天郁郁葱葱的野外所特有的自然辛辣味。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|puny|英['pjuːni] 美['pjuːni]|adj.微小的；瘦弱的；微不足道的|They laughed at my puny efforts at rock-climbing.|他们取笑我在攀岩活动中的那可怜劲儿。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|purlieu|英['pɜːljuː] 美['pɜːluː]|n.边缘地；常去的地方；范围；界限|purlieu men|[古]御猎场内的土地所有人|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|purloin|英[pɜː'lɔɪn] 美[pɜːr'lɔɪn]|vt.偷窃|"What person purloin be after all their money?|究竟是什么人盗取了他们的钱呢？|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|purloin|英[pɜː'lɔɪn] 美[pɜːr'lɔɪn]|vt.偷窃|What person purloin be after all their money?|究竟是什么人盗取了他们的钱呢？|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|purvey|英[pə'veɪ] 美[pər'veɪ]|v.供给；供应|They purvey food for the army.|他们供应食品给军队。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|pusillanimous|英[ˌpjuːsɪ'lænɪməs] 美[ˌpjuːsɪ'lænɪməs]|adj.懦弱的；胆小的|The pusillanimous politician backed down from the difficult decision.|这位胆小的政客在艰难的决定面前退缩了。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|quack|英[kwæk] 美[kwæk]|n.（鸭子）嘎嘎叫声；庸医；冒充内行的人<br>v.嘎嘎地叫；大声闲谈；冒充内行<br>adj.骗人的|She discovered that the man was a quack.|她发现那人是个庸医。|大学八级英语单词|英语单词模板
@@ -1964,7 +1964,7 @@
 英语::大学八级英语单词|riveting|英['rɪvɪtɪŋ] 美['rɪvɪtɪŋ]|adj.动听的；令人着迷的；非常精彩的<br>动词 rivet 的现在分词形式。|Can I fasten these metal plates with rivets?|我可以用铆钉把这些金属板固定在一起吗？|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|rivulet|英['rɪvjələt] 美['rɪvjələt]|n.小河；小溪|The school is located near the rivulet.|学校坐落在小河附近。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|robust|英[rəʊ'bʌst] 美[roʊ'bʌst]|adj.强健的；稳固的；耐用的；粗野的；浓的|She was almost 90, but still very robust.|她将近 90 岁了，但身体仍然十分强健。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|rodent|英['rəʊdnt] 美['roʊdnt]|n.啮齿动物<br>adj.啮齿目的|"I'll dig like a psychotic rodent if I have to.|我可以挖的像发疯的啮齿动物。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|rodent|英['rəʊdnt] 美['roʊdnt]|n.啮齿动物<br>adj.啮齿目的|I'll dig like a psychotic rodent if I have to.|我可以挖的像发疯的啮齿动物。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|roil|英[rɔɪl] 美[rɔɪl]|vt.搅浑；激怒<br>vi.动荡|The sea was roiled by a strong storm, churning up waves that crashed against the shore.|强烈的风暴使海面翻腾，激起的波涛汹涌地拍打着海岸。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|roister|英['rɔɪstə] 美['rɔɪstə]|vi.摆架子；喝酒喧嚣|The college students spent their weekends roistering around town, enjoying life to the fullest.|大学生们周末在城里尽情狂欢，尽情享受生活。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|rookie|英['rʊki] 美['rʊki]|n.新手|I was a rookie in my office last year.|去年我在办公室里还是新手一名。|大学八级英语单词|英语单词模板
@@ -2026,7 +2026,7 @@
 英语::大学八级英语单词|scotch|英[skɒtʃ] 美[skɑːtʃ]|n.伤口；刻痕<br>v.粉碎；消灭；阻止|The doctor scotched her false story.|医生戳穿了她的骗局。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|scour|英['skaʊə(r)] 美['skaʊər]|v.擦洗；搜寻；腹泻<br>n.擦洗；腹泻|He scoured off the dirt from the floor.|他擦去地板上的污垢。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|scowl|英[skaʊl] 美[skaʊl]|n.愁容；皱眉<br>v.皱眉；（天空）变阴沉晦暗|That scowl he's wearing on his face should tell you so.|他满脸的愁容告诉你他准备好了。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|scrappy|英['skræpi] 美['skræpi]|adj.零碎的；好斗的；斗志旺盛的；零乱的|"The concert was rather a scrappy affair.|"这场音乐会真可说是一个七拼八凑的大杂烩。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|scrappy|英['skræpi] 美['skræpi]|adj.零碎的；好斗的；斗志旺盛的；零乱的|The concert was rather a scrappy affair.|这场音乐会真可说是一个七拼八凑的大杂烩。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|scrawl|英[skrɔːl] 美[skrɔːl]|v.乱涂；潦草地写<br>n.瞎画；潦草的笔迹|The little child was cautioned not to scrawl on the white wall.|这个小孩被警告不能在雪白的墙上涂鸦。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|scribble|英['skrɪbl] 美['skrɪbl]|v.潦草地书写；乱写<br>n.潦草的写法|The speaker spoke so fast that he could only scribble down several broken words.|演讲者讲得太快了，他只能匆匆记下几个支离破碎的字。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|script|英[skrɪpt] 美[skrɪpt]|n.剧本；脚本；手稿；手迹；字体；考卷|The script won't play well.|那个剧本不适于在舞台上演出。|大学八级英语单词|英语单词模板
@@ -2076,7 +2076,7 @@
 英语::大学八级英语单词|shun|英[ʃʌn] 美[ʃʌn]|v.避开；回避；避免|His friends shunned him.|他的朋友都避开他。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|sidereal|英[saɪ'dɪəriəl] 美[saɪ'dɪriəl]|adj.恒星的|The sidereal year is not used to construct a calendar.|恒星年不用于编制年历。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|sidestep|英['saɪdstep] 美['saɪdstep]|v.向旁侧避让；回避|He cleverly sidestepped the tackle.|他巧妙地一晃，绕过阻截队员。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|simper|英['sɪmpə(r)] 美['sɪmpər]|v.傻笑；假笑；傻笑着说<br>n.傻笑；假笑|"They leer, they simper at her shame: Gay.|他们斜视着这个乞丐；他在别人的斜视中抬起了头。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|simper|英['sɪmpə(r)] 美['sɪmpər]|v.傻笑；假笑；傻笑着说<br>n.傻笑；假笑|They leer, they simper at her shame: Gay.|他们斜视着这个乞丐；他在别人的斜视中抬起了头。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|simpleton|英['sɪmpltən] 美['sɪmpltən]|n.笨蛋；傻子|He tells of a Cuban fisherman who is a simpleton.|他讲的是个愚蠢的古巴渔民。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|simulate|英['sɪmjuleɪt] 美['sɪmjuleɪt]|vt.假装；模拟；模仿|These insects can simulate dead leaves .|这些昆虫可以伪装成枯叶。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|sinecure|英['sɪnɪkjʊə(r)] 美['saɪnɪkjʊr]|n.挂名职务；闲差事；<古>领干薪的牧师职位|This is hardly a [not a, no] sinecure.|这哪里是[不是]闲差事（（很忙）)。|大学八级英语单词|英语单词模板
@@ -2091,7 +2091,7 @@
 英语::大学八级英语单词|slab|英[slæb] 美[slæb]|n.平板；厚板；厚片<br>v.切成厚板；以平板盖上|The top of the table was formed by a stone slab.|桌面是一块石板。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|slake|英[sleɪk] 美[sleɪk]|vt.消除；满足；（石灰）熟化|We had to slake ourselves with rainwater in the desert.|在沙漠中我们不得不用雨水解渴。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|slant|英[slɑːnt] 美[slænt]|n.倾斜；斜面；个人的观点或见解；倾向性；偏见<br>vt.使倾斜；歪曲<br>vi.倾斜|The wooden floor has a noticeable slant.|这木地板可以看得出有些倾斜。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|slate|英[sleɪt] 美[sleɪt]|n.板岩；石板；石片；石板色；候选人名单<br>adj.暗蓝灰色的；含板岩的<br>vt.用石板覆盖；严厉批评；提名；预订|"Only a skilled workman can split slate into layers.|只有能工巧匠才能把板岩劈成石片。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|slate|英[sleɪt] 美[sleɪt]|n.板岩；石板；石片；石板色；候选人名单<br>adj.暗蓝灰色的；含板岩的<br>vt.用石板覆盖；严厉批评；提名；预订|Only a skilled workman can split slate into layers.|只有能工巧匠才能把板岩劈成石片。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|slew|英[sluː] 美[sluː]|n.沼地；回转；许多<br>v.转向<br>动词 slay 的过去式。|He faced a whole slew of problems.|他面临了一大堆的问题。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|slink|英[slɪŋk] 美[slɪŋk]|v.偷偷溜走；扭捏招摇地走；早产<br>n.早产的动物<br>adj.早产的|The thief slunk down the dark alley.|那个贼偷偷钻进黑胡同里。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|slipshod|英['slɪpʃɒd] 美['slɪpʃɑːd]|adj.穿塌跟鞋的；粗枝大叶的；不整洁的|You' re too slipshod about your presentation.|你表达得太不认真。|大学八级英语单词|英语单词模板
@@ -2137,7 +2137,7 @@
 英语::大学八级英语单词|speck|英[spek] 美[spek]|n.斑点；灰尘；污点；少量<br>v.用斑点标记|You can't eat bread covered with dark specks.|你可不能吃满是黑斑的面包啊。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|spendthrift|英['spendθrɪft] 美['spendθrɪft]|n.浪费的人<br>adj.浪费的；挥霍无度的|It is hard to imagine the consumers returning to their spendthrift ways anytime soon.|很难想像消费者短期内会恢复以往挥霍无度的生活方式。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|spent|英[spent] 美[spent]|adj.失效的；精疲力竭的<br>动词 spend 的过去式和过去分词|He fired a shot, then ejected the spent cartridge.|他开了一枪，然后倒出了用过的弹夹。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|spindly|英['spɪndli] 美['spɪndli]|adj.细长的；纤弱的|He was followed by a sallow, spindly lawyer.|"跟在他后面的是一个面色灰黄，细长个子的律师。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|spindly|英['spɪndli] 美['spɪndli]|adj.细长的；纤弱的|He was followed by a sallow, spindly lawyer.|跟在他后面的是一个面色灰黄，细长个子的律师。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|spiny|英['spaɪni] 美['spaɪni]|adj.多刺的；尖刺状的；困难的；麻烦的|This is the Asiatic ornamental shrub with spiny branches and pink or red blossoms.|这就是亚洲的一种观赏灌木，具有多刺的枝和粉红色或红色的花。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|spire|英['spaɪə(r)] 美['spaɪər]|n.（教堂的）尖塔；尖顶；螺旋<br>v.给……装尖顶；塔状矗立|We could see the spire of the church in the distance.|我们可以看到远处教堂的尖塔。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|spleen|英[spliːn] 美[spliːn]|n.脾；脾气；怒气|The spleen is the source of phlegm production.|脾为生痰之源。|大学八级英语单词|英语单词模板
@@ -2168,7 +2168,7 @@
 英语::大学八级英语单词|stench|英[stentʃ] 美[stentʃ]|n.臭气；恶臭|The stench of treachery hung in the air.|到处都是可耻的叛变的气息。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|stencil|英['stensl] 美['stensl]|n.模版；型版；蜡纸<br>v.用模版印刷|The stencil and print process will not change.|模板和印刷工艺无需更改。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|stentorian|英[sten'tɔːriən] 美[sten'tɔːriən]|adj.极洪亮的；非常响亮的|The stentorian tones of the auctioneer, calling out to clear the way, now announced that the sale was about to commence.|拍卖人用洪亮的声音招呼大家闪开一点，然后宣布拍卖即将开始。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|sterile|英['steraɪl] 美['sterəl]|adj.贫瘠的；无生气的；无生育能力的；无结果的；无菌的|"Sterile land does produce good crops.|贫瘠的土地也能出产优质的庄稼。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|sterile|英['steraɪl] 美['sterəl]|adj.贫瘠的；无生气的；无生育能力的；无结果的；无菌的|Sterile land does produce good crops.|贫瘠的土地也能出产优质的庄稼。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|stickler|英['stɪklə(r)] 美['stɪklər]|n.坚持……的人；难题|She's a stickler for the truth.|她是个坚持实事求是的人。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|stifle|英['staɪfl] 美['staɪfl]|vt.使窒息；扼杀；扑灭；抑制<br>vi.窒息<br>n.（马的）后膝关节|The gas stifled them.|他们被煤气熏得透不过气来。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|stigma|英['stɪɡmə] 美['stɪɡmə]|n.耻辱；污名<br>n.柱头|There should be no stigma attached to being poor.|贫穷不应该与耻辱扯上任何关系。|大学八级英语单词|英语单词模板
@@ -2289,8 +2289,8 @@
 英语::大学八级英语单词|ticklish|英['tɪklɪʃ] 美['tɪklɪʃ]|adj.难对付的；易怒的；怕痒的|The news is quite ticklish to the ear.|这消息听起来使人觉得有些难办。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|tiff|英[tɪf] 美[tɪf]|n.一口；小争吵；小口角<br>vi.小争吵；生气|A petty quarrel or argument; a tiff.|无谓的争吵不重要的争吵或争论；口角|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|tightfisted|英['taɪt'fɪstɪd] 美['taɪt'fɪstɪd]|adj.吝啬的|His tightfisted employer is unwilling to give him a raise.|他那吝啬的雇主不肯给他加薪。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|timeworn|英['taɪmwɔːn] 美['taɪmˌwoʊrn]|adj.陈旧的；老朽的|"It is not some timeworn practice integral to the games.|这不是奥运会原始就具有的一部分。|大学八级英语单词|英语单词模板
-英语::大学八级英语单词|timorous|英['tɪmərəs] 美['tɪmərəs]|adj.胆怯的；羞怯的|"He was the most timorous person in that event.|在那次事件中他是个胆小鬼。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|timeworn|英['taɪmwɔːn] 美['taɪmˌwoʊrn]|adj.陈旧的；老朽的|It is not some timeworn practice integral to the games.|这不是奥运会原始就具有的一部分。|大学八级英语单词|英语单词模板
+英语::大学八级英语单词|timorous|英['tɪmərəs] 美['tɪmərəs]|adj.胆怯的；羞怯的|He was the most timorous person in that event.|在那次事件中他是个胆小鬼。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|tinge|英[tɪndʒ] 美[tɪndʒ]|n.淡色；些微气味（常与 with 连用）；一丝痕迹<br>v.微染|There is a tinge of red in her cheeks.|她双颊红润。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|tinker|英['tɪŋkə(r)] 美['tɪŋkər]|n.修补匠；焊锅<br>vi.做焊锅匠；笨拙地修补<br>vt.修补；调整；改进|Sure enough, he saw the tinker walking toward him.|果然，他看到小炉匠向他走过来。|大学八级英语单词|英语单词模板
 英语::大学八级英语单词|tint|英[tɪnt] 美[tɪnt]|n.色彩；浅色；染发剂<br>vt.给……染色|Tint leaves the footage colors but wipes out darks.|著色使得画面的色彩，但清除掉深色衣物。|大学八级英语单词|英语单词模板
