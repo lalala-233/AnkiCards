@@ -544,7 +544,7 @@
 英语::Words|twenty-five|英['twentɪfaɪv] 美['twentɪfaɪv]|num.二十五|The packet weighs twenty - five grams.|这个包裹重二十五克。|Word|英语单词模板
 英语::Words|preservation|英[ˌprezə'veɪʃn] 美[ˌprezər'veɪʃn]|n.保存；维护；防腐|The paintings were in an excellent state of preservation.|这些画保存的非常好。|Word|英语单词模板
 英语::Words|affordable|英[ə'fɔːdəbl] 美[ə'fɔːdəbl]|adj.支付得起的；不太昂贵的|Prepaid billing and affordable handsets on their own are not enough to ensure a rapid adoption of mobile phones, however.|然而，预付费系统以及支付得起的手机本身并并不足以确保移动电话的快速普及。|Word|英语单词模板
-英语::Words|abruptly|英[ə'brʌptli] 美[ə'brʌptli]|adv.突然地；莽撞地；陡峭地；不连贯地|We did not know what had come over him to make him change his mind so abruptly.|我们不知道发生了什么情况使他这样突然地改变了主意。|Word|英语单词模板
+英语::Words|abruptly|英[ə'brʌptli] 美[ə'brʌptli]|adv.突然地；莽撞地；陡峭地；不连贯地|He turned abruptly and walked away without saying goodbye.|他突然转身，没有告别就走开了。|Word|英语单词模板
 英语::Words|cult|英[kʌlt] 美[kʌlt]|n.宗教膜拜仪式；异教；狂热崇拜；个人崇拜|The cult of the Virgin Mary was extremely popular.|对圣母马利亚的膜拜当时非常流行。|Word|英语单词模板
 英语::Words|enlist|英[ɪn'lɪst] 美[ɪn'lɪst]|vt.征募；使入伍；获得……支持<br>vi.入伍；参与|We must enlist more men.|我们必须征募更多士兵。|Word|英语单词模板
 英语::Words|disclosure|英[dɪs'kləʊʒə(r)] 美[dɪs'kloʊʒər]|n.揭发；公开；透露|That is a startling disclosure of police brutality.|那是一个揭发警察暴行的惊人消息。|Word|英语单词模板
