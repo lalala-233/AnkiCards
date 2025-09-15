@@ -2029,7 +2029,7 @@
 英语::Words|mystical|英['mɪstɪkl] 美['mɪstɪkl]|adj.神秘的；神秘主义的|He is an expert on the world's mystical religions.|他精通世界上的神秘宗教。|Word|英语单词模板
 英语::Words|deceased|英[dɪ'siːst] 美[dɪ'siːst]|adj.已故的<br>动词 decease 的过去式和过去分词。|The deceased man left no will.|死者没有留下遗嘱。|Word|英语单词模板
 英语::Words|restrictive|英[rɪ'strɪktɪv] 美[rɪ'strɪktɪv]|adj.限制的；拘束的；限定的<br>n.限定词|A category, especially an overly restrictive one.|分类，类别分类，尤指受过度限制分类|Word|英语单词模板
-英语::Words|intuition|英[ˌɪntju'ɪʃn] 美[ˌɪntu'ɪʃn]|n.直觉；直觉的知识|He takes his ground on intuition.|他的意见是凭直觉。|Word|英语单词模板
+英语::Words|intuition|英[ˌɪntju'ɪʃn] 美[ˌɪntu'ɪʃn]|n.直觉；直觉的知识|He trusted his intuition when making important decisions.|他在做重要决定时相信自己的直觉。|Word|英语单词模板
 英语::Words|sociologist|英[ˌsəʊsi'ɒlədʒɪst] 美[ˌsoʊsi'ɑːlədʒɪst]|n.社会学家|A year ago, Ms Estemirova gave an interview to a sociologist.|一年以前，爱斯蒂米洛娃接受了一位社会学家的采访。|Word|英语单词模板
 英语::Words|enthusiast|英[ɪn'θjuːziæst] 美[ɪn'θuːziæst]|n.热心人；热衷者|With the help of the enthusiast, I had no difficult finding his home.|在这个热心人的帮助下，我毫不费力地找到了他的家。|Word|英语单词模板
 英语::Words|volcanic|英[vɒl'kænɪk] 美[vɑːl'kænɪk]|adj.火山的；猛烈的|It was a real volcanic eruption?|是真的火山喷发了呢？|Word|英语单词模板
@@ -10016,3 +10016,4 @@
 英语::Words|dominant|英['dɒmɪnənt] 美['dɑːmɪnənt]|adj.主要的；占优势的；显性的<br>n.主宰者；显性基因|Peace was the dominant theme of the conference.|和平是大会的首要议题。|Word|英语单词模板
 英语::Words|shit|英[ʃɪt] 美[ʃɪt]|int.表示愤怒、厌恶等的感叹词<br>n.胡说；大便；可鄙的人<br>v.拉屎|You do talk a load of shit!|你胡说八道！|Word|英语单词模板
 英语::Words|leave out|英[liːv aʊt] 美[liːv aʊt]|遗漏; 省略; 未顾及；不包括；不提及；忽略|Don't leave out any important details in your report.|在你的报告中不要遗漏任何重要细节。|Word|英语单词模板
+英语::Words|either way||不管怎样；无论哪种方式|Either way, we need to make a decision by tomorrow.|无论哪种方式，我们都需要在明天之前做出决定。|Word|英语单词模板
