@@ -10017,3 +10017,4 @@
 英语::Words|shit|英[ʃɪt] 美[ʃɪt]|int.表示愤怒、厌恶等的感叹词<br>n.胡说；大便；可鄙的人<br>v.拉屎|You do talk a load of shit!|你胡说八道！|Word|英语单词模板
 英语::Words|leave out|英[liːv aʊt] 美[liːv aʊt]|遗漏；省略；未顾及；不包括；不提及；忽略|Don't leave out any important details in your report.|在你的报告中不要遗漏任何重要细节。|Word|英语单词模板
 英语::Words|either way||不管怎样；无论哪种方式|Either way, we need to make a decision by tomorrow.|无论哪种方式，我们都需要在明天之前做出决定。|Word|英语单词模板
+英语::Words|fill out||填写；变胖；变厚；变圆|Please fill out this application form completely.|请完整填写这份申请表。|Word|英语单词模板

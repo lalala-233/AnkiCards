@@ -1,7 +1,7 @@
 use super::prelude::*;
 const VALID_WORD_SYMBOL: &[char] = &['\'', '-', ' ', '(', ')', ',', '.', '?', '!', '/', '%'];
 const SPECIAL_HANDLE_COMBINATION: &[&str] = &[". ", " .", ".."];
-const VALID_END_WORD_CHAR: &[char] = &['.', '?', '!'];
+const VALID_END_WORD_CHAR: &[char] = &['.', '?', '!', ')'];
 const ALLOWED_COMBINATIONS: &[&str] = &[
     // before whitespace
     ") ", ", ", "' ", /* ones' something */
