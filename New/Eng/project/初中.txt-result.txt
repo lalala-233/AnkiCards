@@ -417,7 +417,7 @@
 英语::初中英语单词|empty|英['empti] 美['empti]|adj. 空的；空洞的；空虚的；空腹的<br>v. 倒空；变空；排空<br>n. 空物|The classroom was empty after school.|放学后教室空无一人。|初中英语单词|英语单词模板
 英语::初中英语单词|certainly|英['sɜːtnli] 美['sɜːrtnli]|adv. 当然；一定|You are certainly a talented artist.|你当然是位有天赋的艺术家。|初中英语单词|英语单词模板
 英语::初中英语单词|full|英[fʊl] 美[fʊl]|adj. 满的；充满的；完全的<br>n. 全部；极点<br>adv. 非常；直接地<br>vt. 使衣服宽松；增厚|He gave a boring speech full of stale jokes.|他的发言很乏味，满是陈腐的笑话。|初中英语单词|英语单词模板
-英语::初中英语单词|be full of||充满……的|The park is full of beautiful flowers in spring.|春天，公园里到处都是美丽的花朵。|初中英语单词|英语单词模板
+英语::初中英语单词|be full of||充满……的|The garden is full of beautiful flowers in spring.|春天，花园里开满了美丽的花朵。|初中英语单词|英语单词模板
 英语::初中英语单词|carry|英['kæri] 美['kæri]|v. 携带；运送；搬运；带有；传播；承载<br>n.【计】进位；运载|She came in carrying an important-looking piece of paper.|她进来时，拿着一份看来很重要的文件。|初中英语单词|英语单词模板
 英语::初中英语单词|so|英[səʊ] 美[soʊ]|adv. 那么；这样；如此<br>adj. 真的；非常<br>pron. 这样<br>conj. 因此；所以；以便|He felt pity for a man suffering so much.|他对那个受过那么多痛苦的人感到同情。|初中英语单词|英语单词模板
 英语::初中英语单词|listen to|英['lɪsn tu] 美['lɪsən tu]|听|She liked to listen to children talk.|她喜欢听孩子们谈话。|初中英语单词|英语单词模板
@@ -535,7 +535,7 @@
 英语::初中英语单词|cook|英[kʊk] 美[kʊk]|n. 厨师；炊事员<br>v. 烹调；烧煮；捏造；纂改（账目）|The cook went to see the cake left in the oven.|炊事员去照看炉子里的蛋糕了。|初中英语单词|英语单词模板
 英语::初中英语单词|talk|英[tɔːk] 美[tɔːk]|v. 交谈；商讨；演讲；阐述；劝服<br>n. 谈话；会谈；讨论；讲话；空谈|I wish to talk with you in private.|我希望能私下里同你谈话。|初中英语单词|英语单词模板
 英语::初中英语单词|talk with||和……交谈|Don't talk with your mouth full.|嘴里有东西时不要说话。|初中英语单词|英语单词模板
-英语::初中英语单词|close|英[kləʊs] 美[kloʊs]|v. 关；合拢；不开放；停业；结束；收盘；（使）缩小；牢牢握住或抓住；（使）靠拢；同意；短兵相接<br>adj. 亲近的；近的；几乎的；闷热的；严密的；紧凑的；剪得很短的；守口如瓶的；吝啬的；势均力敌的<br>adv. 接近；靠近；紧紧地<br>n. 死胡同；完结；结论|If you close your eyes, you can't see anything.|如果你闭上眼睛，就什么也看不见了。|初中英语单词|英语单词模板
+英语::初中英语单词|close|英[kləʊs] 美[kloʊs]|v. 关；合拢；不开放；停业；结束；收盘；（使）缩小；牢牢握住或抓住；（使）靠拢；同意；短兵相接<br>adj. 亲近的；近的；几乎的；闷热的；严密的；紧凑的；剪得很短的；守口如瓶的；吝啬的；势均力敌的<br>adv. 接近；靠近；紧紧地<br>n. 死胡同；完结；结论|Please close the door when you leave the room.|离开房间时请关上门。|初中英语单词|英语单词模板
 英语::初中英语单词|take photos|英[teɪk 'fəʊtəʊz] 美[teɪk 'foʊtoʊz]|照相|I want to take photos of my big tummy!|我要给大肚子照相！|初中英语单词|英语单词模板
 英语::初中英语单词|wear|英[weə(r)] 美[wer]|v. 磨损；穿戴；使疲劳<br>n. 磨损；穿着；耐久性|The inscription on the stone had worn away.|刻在石头上的文字已磨损了。|初中英语单词|英语单词模板
 英语::初中英语单词|Sunday|英['sʌndeɪ] 美['sʌndeɪ]|n. 星期日<br>adj. 星期日的|Sunday is the first day of the week.|星期日是一周的第一天。|初中英语单词|英语单词模板
@@ -789,7 +789,7 @@
 英语::初中英语单词|ninth|英[naɪnθ] 美[naɪnθ]|num. 第九；九分之一|My house is the ninth on the right side.|我的房子是右边第九幢。|初中英语单词|英语单词模板
 英语::初中英语单词|mid-autumn||n. 中秋|It's the Mid-Autumn Day today, isn't it?|今天是中秋节，是吗？|初中英语单词|英语单词模板
 英语::初中英语单词|mooncake|英['muːnkeɪk] 美['muːnkeɪk]|n. 月饼|I ate one quarter of a mooncake.|我吃了四分之一的月饼。|初中英语单词|英语单词模板
-英语::初中英语单词|nut|英[nʌt] 美[nʌt]|n. 坚果；果仁<br>n. 螺母；螺帽；难对付的人（事）<br>vi. 采坚果|He carefully cracked a nut and then give it to me.|他仔细敲开一颗坚果，然后递给了我。|初中英语单词|英语单词模板
+英语::初中英语单词|nut|英[nʌt] 美[nʌt]|n. 坚果；果仁<br>n. 螺母；螺帽<br>n. 难对付的人（事）<br>n. 专注于某事的人；……迷<br>vi. 采坚果|Squirrels spend autumn gathering nuts for the winter.|松鼠在秋天收集坚果以备过冬。|初中英语单词|英语单词模板
 英语::初中英语单词|sweet|英[swiːt] 美[swiːt]|adj. 甜的；芳香的；悦耳的；漂亮的<br>n. 甜食；糖|Do you like sweet or dry sherry?|你喜欢甜的还是不甜的雪利酒？|初中英语单词|英语单词模板
 英语::初中英语单词|thanksgiving|英[ˌθæŋks'ɡɪvɪŋ] 美[ˌθæŋks'ɡɪvɪŋ]|n. 感恩节<br>=Thanksgiving Day|We always have turkey for our Thanksgiving meal.|我们在感恩节总是吃火鸡。|初中英语单词|英语单词模板
 英语::初中英语单词|get together|英['ɡetəˌɡeðə] 美['ɡettəˌɡeðər]|聚会；聚集；达成一致|Let's get together sometime.|有时间我们聚一下吧。|初中英语单词|英语单词模板
@@ -1646,7 +1646,7 @@
 英语::初中英语单词|DVD|英[ˌdiːviː'diː] 美[ˌdiːviː'diː]|abbr. 光碟；影碟（=digital video disk）|The DVD can be rented from your local store.|这光盘可在你们当地的商店租借。|初中英语单词|英语单词模板
 英语::初中英语单词|passenger|英['pæsɪndʒə(r)] 美['pæsɪndʒər]|n. 乘客；旅客|The mysterious woman passenger vanished.|这位神秘的女乘客突然不见了。|初中英语单词|英语单词模板
 英语::初中英语单词|queue|英[kjuː] 美[kjuː]|n. 长队；行列；辫子<br>v. 排队|People had to stand in a queue for hours to buy a ticket.|人们买票得排几小时的队。|初中英语单词|英语单词模板
-英语::初中英语单词|visitor|英['vɪzɪtə(r)] 美['vɪzɪtər]|n. 参观者；访问者；访客|One day, a visitor came to the village.|有一天，一个游客来到这个村庄。|初中英语单词|英语单词模板
+英语::初中英语单词|visitor|英['vɪzɪtə(r)] 美['vɪzɪtər]|n. 参观者；访问者；访客；游客|One day, a visitor came to the village.|有一天，一个游客来到这个村庄。|初中英语单词|英语单词模板
 英语::初中英语单词|hurt|英[hɜːt] 美[hɜːrt]|vt. 损害；伤害；使疼痛<br>vi. 疼痛；造成损失<br>n. 创伤；伤害；打击|The rumors hurt his reputation badly.|流言语大大地损害了他的名誉。|初中英语单词|英语单词模板
 英语::初中英语单词|have a good time||玩得痛快|I hope you have a good time exploring the city.|希望你在探索这座城市时玩得很愉快。|初中英语单词|英语单词模板
 英语::初中英语单词|at midnight||在半夜|The revellersunmasked (ie took off their masks) at midnight.|狂欢的人在午夜摘下了面具。|初中英语单词|英语单词模板
@@ -1925,7 +1925,7 @@
 英语::初中英语单词|pollute|英[pə'luːt] 美[pə'luːt]|v. 污染；弄脏|Our store never sells books which pollute the mind.|我们书店从不出售污染心灵的书籍。|初中英语单词|英语单词模板
 英语::初中英语单词|deal|英[diːl] 美[diːl]|n. 协定；交易；大量<br>v. 应付；分配；处理；交易；经营|We did a deal with the management on overtime.|在加班问题上我们与管理部门达成一项协议。|初中英语单词|英语单词模板
 英语::初中英语单词|shark|英[ʃɑːk] 美[ʃɑːrk]|n. 鲨鱼<br>n. 贪婪的人；放高利贷的人；老手<br>v. 诈取；诈骗|The shark snapped its jaws shut.|鲨鱼啪嗒一声把嘴合上了。|初中英语单词|英语单词模板
-英语::初中英语单词|Africa|英['æfrɪkə] 美['æfrɪkə]|n. 非洲|Africa is full of adventurers.|在非洲有很多冒险家。|初中英语单词|英语单词模板
+英语::初中英语单词|Africa|英['æfrɪkə] 美['æfrɪkə]|n. 非洲|The climate in northern Africa is mostly hot and dry.|非洲北部的气候大多炎热干燥。|初中英语单词|英语单词模板
 英语::初中英语单词|warn|英[wɔːn] 美[wɔːrn]|vt. 警告；告诫；预先通知<br>vi. 发出警告|He warned me against going there at night.|他警告我晚上不要到那去。|初中英语单词|英语单词模板
 英语::初中英语单词|appear|英[ə'pɪə(r)] 美[ə'pɪr]|vi. 出现；出版；显得；好像；登场|A ship appeared on the horizon.|船出现在水平线上。|初中英语单词|英语单词模板
 英语::初中英语单词|able|英['eɪbl] 美['eɪbl]|adj. 能够的；有能力的；能干的|We shall be able to deal with all sorts of problem.|我们应该能够应付各种困难。|初中英语单词|英语单词模板

@@ -8,12 +8,12 @@
 英语::Words|institutional|英[ˌɪnstɪ'tjuːʃənl] 美[ˌɪnstɪ'tuːʃənl]|adj.制度上的；惯例的；机构的；学会的|Law is a main institutional component of human society.|法律是人类社会制度的重要部分。|Word|英语单词模板
 英语::Words|depict|英[dɪ'pɪkt] 美[dɪ'pɪkt]|vt.描述；描绘；画|Her novel depicts life in modern London.|她的小说描写的是伦敦现代的生活。|Word|英语单词模板
 英语::Words|operating|英['ɒpəreɪtɪŋ] 美['ɒpəreɪtɪŋ]|adj.操作的；手术的<br>动词 operate 的现在分词形式。|Net diagrams are as an important tool for cupola operating practice.|网形图是指导冲天炉熔炼操作的重要工具。|Word|英语单词模板
-英语::Words|habitat|英['hæbɪtæt] 美['hæbɪtæt]|n.栖息地；产地|The moth's habitat is being destroyed and it has nearly died out.|这种蛾子因栖息地正受到破坏，几乎绝种了。|Word|英语单词模板
+英语::Words|habitat|英['hæbɪtæt] 美['hæbɪtæt]|n.栖息地；产地|Pollution in the river is damaging the fish habitat.|河流污染正在破坏鱼类的栖息地。|Word|英语单词模板
 英语::Words|nomination|英[ˌnɒmɪ'neɪʃn] 美[ˌnɑːmɪ'neɪʃn]|n.提名；任命；提名权|Competition for the nomination was very keen.|争取提名的竞争非常激烈。|Word|英语单词模板
 英语::Words|odds|英[ɒdz] 美[ɑːdz]|n.机率；可能性；差别；投注赔率；让步；优势|The odds are against us.|我们成功的机会很小。|Word|英语单词模板
 英语::Words|frustration|英[frʌ'streɪʃn] 美[frʌ'streɪʃn]|n.挫折；失败；令人沮丧的东西|It's healthier to release frustration than to bottle it up.|受挫折后发泄一通比强忍着对身体有益。|Word|英语单词模板
 英语::Words|physically|英['fɪzɪkli] 美['fɪzɪkli]|adv.身体上地；实际上|The male is physically stronger than the female.|男性在身体上要比女性强壮。|Word|英语单词模板
-英语::Words|ah|英[ˌeɪ'eɪtʃ] 美[ˌeɪ'eɪtʃ]|int.啊；哈<br>=aah.|Ah,now we're getting at the truth,he interposed sarcastically.|哈，现在我们找到真理了，他讽刺性地插话道。|Word|英语单词模板
+英语::Words|ah|英[ˌeɪ'eɪtʃ] 美[ˌeɪ'eɪtʃ]|int.啊；哈<br>=aah.|Ah, what a beautiful sunset!|啊，多美的日落啊！|Word|英语单词模板
 英语::Words|fighting|英['faɪtɪŋ] 美['faɪtɪŋ]|n.对抗；打架；加油，拼搏<br>adj.战斗的；有勇气的|They're fighting for the world title tonight.|他们今晚争夺世界冠军。|Word|英语单词模板
 英语::Words|portray|英[pɔː'treɪ] 美[pɔːr'treɪ]|vt.描写；描绘；饰演|It is difficult to portray feelings in words.|感情很难用言语来描写。|Word|英语单词模板
 英语::Words|continued|英[kən'tɪnjuːd] 美[kən'tɪnjuːd]|adj.继续的；延续的<br>动词 continue 的过去式和过去分词。|The cause is worthy of our continued support.|这一事业值得我们继续不断的支持。|Word|英语单词模板
@@ -22,7 +22,7 @@
 英语::Words|tactic|英['tæktɪk] 美['tæktɪk]|n.战略；策略|The new tactic was put into operation early in 1939.|这个新的战略是在 1939 年初开始运用的。|Word|英语单词模板
 英语::Words|nonetheless|英[ˌnʌnðə'les] 美[ˌnʌnðə'les]|adv.尽管如此（仍然）|Nonetheless, the science is pushing forward at a rapid pace.|尽管如此，研究正在迅速向前推进。|Word|英语单词模板
 英语::Words|quarterback|英['kwɔːtəbæk] 美['kwɔːrtərbæk]|n.（橄榄球赛中指挥反攻的）四分卫<br>v.指挥……的行动；（橄榄球）指挥……的进攻；担任四分卫|He ran interference for the quarterback.|他奔跑阻截对方的四分卫手。|Word|英语单词模板
-英语::Words|African-American||非洲裔美国人（指美国黑人）|American, or rather Afro- american is good at Jazz music.|美国人，或者更确切地说非洲裔美国人擅长爵士音乐。|Word|英语单词模板
+英语::Words|African-American||非洲裔美国人（指美国黑人）|African-American culture has made significant contributions to American music.|非裔美国人文化为美国音乐做出了重要贡献。|Word|英语单词模板
 英语::Words|recording|英[rɪ'kɔːdɪŋ] 美[rɪ'kɔːrdɪŋ]|n.录音<br>动词 record 的现在分词。|They sent the recording for our preview.|他们把那录音送来给我们预先审查。|Word|英语单词模板
 英语::Words|changing|英['tʃeɪndʒɪŋ] 美['tʃeɪndʒɪŋ]|变更；换车；兑换|He is changing from this train at the next stop.|他在下一站换车。|Word|英语单词模板
 英语::Words|colonial|英[kə'ləʊniəl] 美[kə'loʊniəl]|adj.殖民地的<br>n.殖民地居民|France was once a colonial power.|法国一度是占有殖民地的强国。|Word|英语单词模板

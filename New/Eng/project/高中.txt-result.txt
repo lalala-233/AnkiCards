@@ -41,7 +41,7 @@
 英语::高中英语单词|acid|英['æsɪd] 美['æsɪd]|n.酸；酸性物质；<俚>迷幻药<br>adj.酸的；酸性的；尖酸的|Acids react with bases to form salts.|酸与碱反应生成盐。|高中英语单词|英语单词模板
 英语::高中英语单词|acknowledge|英[ək'nɒlɪdʒ] 美[ək'nɑːlɪdʒ]|vt.承认；告知收到；公认；表示感谢；注意到|We acknowledged the need for reform.|我们承认改革的需要。|高中英语单词|英语单词模板
 英语::高中英语单词|acquaintance|英[ə'kweɪntəns] 美[ə'kweɪntəns]|n.熟人；相识；了解|He is not a friend of mine, only an acquaintance.|他不是朋友我的，只是个熟人。|高中英语单词|英语单词模板
-英语::高中英语单词|acquire|英[ə'kwaɪə(r)] 美[ə'kwaɪər]|vt.获得；学到；取得|We should try to acquire good habits.|我们应该努力养成良好的习惯。|高中英语单词|英语单词模板
+英语::高中英语单词|acquire|英[ə'kwaɪə(r)] 美[ə'kwaɪər]|vt.获得；学到，习得；取得；购得|The library acquires new books every month.|图书馆每月都会购入新书。|高中英语单词|英语单词模板
 英语::高中英语单词|acquisition|英[ˌækwɪ'zɪʃn] 美[ˌækwɪ'zɪʃn]|n.获得；所获之物；采集|Life is a process about the acquisition of knowledge, wealth and happiness.|生命就是一个获得知识、财富和幸福的过程。|高中英语单词|英语单词模板
 英语::高中英语单词|acre|英['eɪkə(r)] 美['eɪkər]|n.英亩|The shepherd has penned up the sheep in the four acre field.|牧羊人把羊群围在那块四英亩的土地上。|高中英语单词|英语单词模板
 英语::高中英语单词|act|英[ækt] 美[ækt]|n.行为；行动；法案；（戏剧、歌剧等的）一幕；假装<br>v.行动；举止；假装；表演；扮演；充当；有效果|It is an act of kindness to help a blind man across the street.|帮助盲人过街是慈善的行为。|高中英语单词|英语单词模板
@@ -324,7 +324,7 @@
 英语::高中英语单词|blank|英[blæŋk] 美[blæŋk]|adj.空白的；茫然的<br>空白；空白处|Give me a blank sheet of paper, please.|请给我一张空白的纸。|高中英语单词|英语单词模板
 英语::高中英语单词|blanket|英['blæŋkɪt] 美['blæŋkɪt]|n.毛毯；覆盖物；排字版<br>vt.覆盖；用毯子裹；扑灭；挡风；使包含<br>adj.包含所有的；适用于所有情形的|He threw a blanket over the injured man.|他急忙给受伤的人披上条毯子。|高中英语单词|英语单词模板
 英语::高中英语单词|bleed|英[bliːd] 美[bliːd]|v.流血；渗色；榨取；放掉（水或气体）；给……抽血|All the young soldiers are ready to bleed for the country.|所有的年轻战士都愿意为祖国洒热血。|高中英语单词|英语单词模板
-英语::高中英语单词|bless|英[bles] 美[bles]|vt.保佑；祝福；赐福；有幸具有|God bless you!|愿上帝保佑你！|高中英语单词|英语单词模板
+英语::高中英语单词|bless|英[bles] 美[bles]|vt.保佑；祝福；赐福；有幸具有|The grandmother blessed her granddaughter before she left for college.|祖母在孙女离家上大学前为她祈福。|高中英语单词|英语单词模板
 英语::高中英语单词|block|英[blɒk] 美[blɑːk]|n.街区；木块；石块；大楼；一组；阻塞（物）；障碍（物）<br>v.阻塞|Walk two blocks down the street and go past the city hall.|顺这条街走两个街区，过市政厅。|高中英语单词|英语单词模板
 英语::高中英语单词|blood|英[blʌd] 美[blʌd]|n.血；血统；仇恨<br>vt.流血|The dog's fur was matted with blood.|那只狗的毛皮上沾有血迹。|高中英语单词|英语单词模板
 英语::高中英语单词|board|英[bɔːd] 美[bɔːrd]|n.木板；布告板；董事会；船舷或机舱；伙食；舞台<br>v.登（飞机、车、船等）；接受乘客；有偿提供食宿；搭伙；用木板覆盖|Will you draw the nails from this board?|请你把钉子从这块木板上拔出来好吗？|高中英语单词|英语单词模板
@@ -341,7 +341,7 @@
 英语::高中英语单词|booth|英[buːð] 美[buːθ]|n.货摊；电话亭；小间|Would you please watch over my booth?|请您照料一下我的摊位好吗？|高中英语单词|英语单词模板
 英语::高中英语单词|telephone booth|英['telɪfəʊn buːð] 美['telɪfoʊn buːθ]|电话亭|The car dashed against a telephone booth.|那车子猛地撞在一间电话亭上。|高中英语单词|英语单词模板
 英语::高中英语单词|border|英['bɔːdə(r)] 美['bɔːrdər]|n.边界；边境；边缘<br>vt.与……接壤；加边于<br>vi.近似；毗邻|We have a herbaceous border round our garden.|我们的花园四周种有草本植物。|高中英语单词|英语单词模板
-英语::高中英语单词|bored|英[bɔːd] 美[bɔːrd]|adj.无聊的；厌烦的；郁闷的|Some people use their teisure for such activities because they are lonely or bored.|有些人因为寂寞或无聊，才利用闲暇时间从事这些活动。|高中英语单词|英语单词模板
+英语::高中英语单词|bored|英[bɔːd] 美[bɔːrd]|adj.无聊的；厌烦的；郁闷的|The students looked bored during the long lecture.|学生们在漫长的讲座期间显得很无聊。|高中英语单词|英语单词模板
 英语::高中英语单词|boss|英[bɒs] 美[bɔːs]|n.老板；上司；首脑<br>v.管理；指挥|My boss is a football fan.|我的上司是一位足球迷。|高中英语单词|英语单词模板
 英语::高中英语单词|botanical|英[bə'tænɪkl] 美[bə'tænɪkl]|adj.植物学的；植物的<br>n.植物制剂|My botanical interest is largely confined to the reproductive processes in vascular plants.|我对植物学的兴趣主要限于维管植物的生殖过程。|高中英语单词|英语单词模板
 英语::高中英语单词|botany|英['bɒtəni] 美['bɑːtəni]|n.植物学；植物|To what degree are you interested in botany?|你对植物学的兴趣达到什么程度？|高中英语单词|英语单词模板
@@ -2099,7 +2099,7 @@
 英语::高中英语单词|symptom|英['sɪmptəm] 美['sɪmptəm]|n.症状；征兆|Cigarettes can aggravate the symptoms of a cold.|抽烟会加重感冒症状。|高中英语单词|英语单词模板
 英语::高中英语单词|system|英['sɪstəm] 美['sɪstəm]|n.系统；体系；身体；制度|The drainage system has been aged.|排水系统已经老化了。|高中英语单词|英语单词模板
 英语::高中英语单词|systematic|英[ˌsɪstə'mætɪk] 美[ˌsɪstə'mætɪk]|adj.有系统的；分类的；体系的；有条理的|He is making a systematic study of the subject.|他在对那一科目作系统的研究。|高中英语单词|英语单词模板
-英语::高中英语单词|tablet|英['tæblət] 美['tæblət]|n.药片；匾；片状物；平板电脑|Fill a glass with water and dissolve this tablet in it.|倒杯水把药片放进去溶解了。|高中英语单词|英语单词模板
+英语::高中英语单词|tablet|英['tæblət] 美['tæblət]|n.药片；匾；片状物；平板电脑|Fill a glass with water and dissolve this tablet in it.|​把杯子装满水，将药片溶解在里面。​|高中英语单词|英语单词模板
 英语::高中英语单词|tailor|英['teɪlə(r)] 美['teɪlər]|n.裁缝<br>vt.缝制；调整使适合<br>vi.做裁缝|This tailor is famous for making good suit.|这位裁缝以做高级西装而出名。|高中英语单词|英语单词模板
 英语::高中英语单词|tale|英[teɪl] 美[teɪl]|n.故事；叙述；传说<br>v.谈论，讲述，搬弄是非|Their love story sounds like a fairy tale.|他们的爱情故事听起来像童话。|高中英语单词|英语单词模板
 英语::高中英语单词|talent|英['tælənt] 美['tælənt]|n.天赋；才能，才艺；天才；人才；<英俚>美人|He has great talent, but he has lost his faith.|他很有天赋，但是他已经丧失了信心。|高中英语单词|英语单词模板
