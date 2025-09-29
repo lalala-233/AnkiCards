@@ -422,7 +422,7 @@
 英语::初中英语单词|so|英[səʊ] 美[soʊ]|adv. 那么；这样；如此<br>adj. 真的；非常<br>pron. 这样<br>conj. 因此；所以；以便|He felt pity for a man suffering so much.|他对那个受过那么多痛苦的人感到同情。|初中英语单词|英语单词模板
 英语::初中英语单词|listen to|英['lɪsn tu] 美['lɪsən tu]|听|She liked to listen to children talk.|她喜欢听孩子们谈话。|初中英语单词|英语单词模板
 英语::初中英语单词|tape|英[teɪp] 美[teɪp]|n. 磁带；胶布；终点<br>v. 录音；录像；用胶布粘；用绳子捆绑；用卷尺测量|I've got all the Beethoven symphonies on tape.|我有贝多芬交响乐全部的录音带。|初中英语单词|英语单词模板
-英语::初中英语单词|basket|英['bɑːskɪt] 美['bæskɪt]|n. 篮；篓；筐；[篮]球篮；投篮得分|Several baskets of fruit were eaten at the party.|宴会上，大家吃掉了好几篮水果。|初中英语单词|英语单词模板
+英语::初中英语单词|basket|英['bɑːskɪt] 美['bæskɪt]|n. 篮；篓；筐；[篮]球篮；投篮得分|Please put your used paper in the recycling basket.|请把废纸放进回收篮里。|初中英语单词|英语单词模板
 英语::初中英语单词|bottle|英['bɒtl] 美['bɑːtl]|n. 瓶子<br>vt. 抑制；把……装入瓶内|Why don't we crack open a bottle of champagne to celebrate?|我们何不开瓶香槟酒庆祝一下呢？|初中英语单词|英语单词模板
 英语::初中英语单词|a bottle of||一瓶……|They sank a bottle of gin between them.|他们俩喝了一瓶杜松子酒。|初中英语单词|英语单词模板
 英语::初中英语单词|juice|英[dʒuːs] 美[dʒuːs]|n. 果汁；肉汁；消化液；汽油；精力<br>vt. 挤出汁来；使有活力|I like to drink coconut juice.|我喜欢喝椰子汁。|初中英语单词|英语单词模板
@@ -623,7 +623,6 @@
 英语::初中英语单词|housework|英['haʊswɜːk] 美['haʊswɜːrk]|n. 家务劳动|Housework is usually miscellaneous and toilsome.|家务劳动通常是繁杂的。|初中英语单词|英语单词模板
 英语::初中英语单词|machine|英[mə'ʃiːn] 美[mə'ʃiːn]|n. 机器；做事效率高的人；工具；车辆<br>v. 以机器制造|This machine has been specially adapted for underwater use.|这机器是为水下使用而特别改装的。|初中英语单词|英语单词模板
 英语::初中英语单词|again|英[ə'ɡen] 美[ə'ɡen]|adv. 再；又|Say that again, please.|请再说一遍。|初中英语单词|英语单词模板
-英语::初中英语单词|make phone calls||打电话|How did they make phone calls without telephones?|没有电话机他们怎么打电话？|初中英语单词|英语单词模板
 英语::初中英语单词|wash|英[wɒʃ] 美[wɑːʃ]|n. 洗；洗涤<br>v. 洗；洗涤；洗清|This dress material shrinks in the wash.|这种衣料一洗要缩水。|初中英语单词|英语单词模板
 英语::初中英语单词|dish|英[dɪʃ] 美[dɪʃ]|n. 盘；碟；一道菜；菜肴；碟状物<br>vt. 使成碟状；装盘<br>vi. 闲谈|The careless waiter dropped the dish onto the ground.|那个粗心的侍者把盘子摔到了地上。|初中英语单词|英语单词模板
 英语::初中英语单词|electronic|英[ɪˌlek'trɒnɪk] 美[ɪˌlek'trɑːnɪk]|adj. 电子的；电子学的|This dictionary is available in electronic version.|这部词典有电子版。|初中英语单词|英语单词模板
@@ -631,7 +630,7 @@
 英语::初中英语单词|smoke|英[sməʊk] 美[smoʊk]|n. 烟；抽烟；无常的事物<br>v. 吸烟；以烟熏；冒烟|The stove let out a puff of smoke.|炉子里冒出一股烟。|初中英语单词|英语单词模板
 英语::初中英语单词|fog|英[fɒɡ] 美[fɔːɡ]|n. 雾；朦胧；迷惑<br>v. 以雾笼罩；使模糊；迷惑|The headlamps penetrated the fog.|车的前灯的光射进雾中。|初中英语单词|英语单词模板
 英语::初中英语单词|smog|英[smɒɡ] 美[smɑːɡ]|n. 烟雾|Black smog reduced visibility to about fifty yards.|黑色的烟雾使能见度降到大约五十码左右。|初中英语单词|英语单词模板
-英语::初中英语单词|dance|英[dɑːns] 美[dæns]|n. 舞会；跳舞；舞蹈；舞步<br>vi. 跳舞；手舞足蹈<br>vt. 跳舞；使跳跃|The girls are making up for the dance.|女孩子们为了参加舞会正在化装。|初中英语单词|英语单词模板
+英语::初中英语单词|dance|英[dɑːns] 美[dæns]|n. 舞会；跳舞；舞蹈；舞步<br>vi. 跳舞；手舞足蹈<br>vt. 跳舞；使跳跃|The butterflies dance among the flowers.|蝴蝶在花间翩翩起舞。|初中英语单词|英语单词模板
 英语::初中英语单词|living room|英['liviŋ ru:m] 美['lɪvɪŋ ru:m]|n. 起居室；客厅|There is a beautiful antique screen in their living room.|在他们的客厅里有一个漂亮的古董屏风。|初中英语单词|英语单词模板
 英语::初中英语单词|dining room|英['daɪnɪŋ ruːm] 美['daɪnɪŋ ruːm]|餐厅|The end of the dining room is curtained off to room a private meeting room.|餐厅的尽头用帐帷隔开，作为一个单独的会议室。|初中英语单词|英语单词模板
 英语::初中英语单词|driver|英['draɪvə(r)] 美['draɪvər]|n. 驾驶员；司机；驱动器|The driver slacked up on the gas pedal.|驾驶员松开油门减速。|初中英语单词|英语单词模板
@@ -739,7 +738,8 @@
 英语::初中英语单词|company|英['kʌmpəni] 美['kʌmpəni]|n. 公司；商号；陪伴；同伴；客人；[军]连；一群<br>v. 陪伴|I work in a small company.|我在一家小公司工作。|初中英语单词|英语单词模板
 英语::初中英语单词|century|英['sentʃəri] 美['sentʃəri]|n. 百年；世纪<br>adj. 百年的|This book was written centuries ago.|这本书是几百年前写的。|初中英语单词|英语单词模板
 英语::初中英语单词|traffic|英['træfɪk] 美['træfɪk]|n.（人或车等）交通流量；不正当生意（走私）<br>v. 做生意（多指违法的）；游览|Traffic reaches a peak between 8 and 9 in the morning.|早晨八九点钟是交通的高峰时刻。|初中英语单词|英语单词模板
-英语::初中英语单词|matter|英['mætə(r)] 美['mætər]|n. 事情；事态；问题；关于……的事情；物质；重要性<br>v. 有关系；要紧|I don't talk with my boss about my private matters.|我不和我的老板谈私事。|初中英语单词|英语单词模板
+英语::初中英语单词|matter|英['mætə(r)] 美['mætər]|n. 事情；事态；问题；关于……的事情；物质；重要性<br>v. 有关系；要紧|What's the matter with you?|你怎么了？|初中英语单词|英语单词模板
+英语::初中英语单词|matter (2)|英['mætə(r)] 美['mætər]|n. 事情；事态；问题；关于……的事情；物质；重要性<br>v. 有关系；要紧|What you think matters to me.|你的想法对我很重要。|初中英语单词|英语单词模板
 英语::初中英语单词|on time|英[ɒn taɪm] 美[ɑːn taɪm]|adv. 准时|To our astonishment, they arrived on time.|使我们惊讶的是，他们准时到了。|初中英语单词|英语单词模板
 英语::初中英语单词|September|英[sep'tembə(r)] 美[sep'tembər]|n. 九月|The temperature drops in September.|气温在九月间下降。|初中英语单词|英语单词模板
 英语::初中英语单词|happy|英['hæpi] 美['hæpi]|adj. 高兴的；幸福的；幸运的；乐意的|I am so happy to hear of your engagement.|听到你订婚我很高兴。|初中英语单词|英语单词模板
@@ -777,7 +777,7 @@
 英语::初中英语单词|go hiking||去徒步旅行|If it doesn't rain tomorrow, we shall go hiking.|如果明天不下雨我们就要去徒步旅行。|初中英语单词|英语单词模板
 英语::初中英语单词|the day after tomorrow|英[ðə deɪ 'ɑːftə tə'mɒrəʊ] 美[ðə deɪ 'æftər tə'mɔːroʊ]|后天|Your film will be processed the day after tomorrow.|你的胶卷后天就可以冲洗出来。|初中英语单词|英语单词模板
 英语::初中英语单词|top|英[tɒp] 美[tɑːp]|n. 顶部；顶；上面；极点；陀螺<br>adj. 最高的；顶端的<br>vt. 形成顶部；达到…的顶端；处于…的最前头<br>vi. 总结；超越；高耸；结束|The mountain tops are covered with snow.|白雪覆盖着山顶。|初中英语单词|英语单词模板
-英语::初中英语单词|start|英[stɑːt] 美[stɑːrt]|v. 开始；出发；震惊<br>n. 开始；震动；领先优势；起推动作用的外力|I used to start work at 9 o'clock every day.|我过去常在每天 9：00 开始工作。|初中英语单词|英语单词模板
+英语::初中英语单词|start|英[stɑːt] 美[stɑːrt]|v. 开始；出发；震惊<br>n. 开始；震动；领先优势；起推动作用的外力|The game will start in five minutes.|游戏将在五分钟后开始。|初中英语单词|英语单词模板
 英语::初中英语单词|tired|英['taɪəd] 美['taɪərd]|adj. 疲倦的；疲劳的；累的；厌烦的<br>动词 tire 的过去式和过去分词形式。|I am not in the least tired.|我一点也不疲倦。|初中英语单词|英语单词模板
 英语::初中英语单词|hurry|英['hʌri] 美['hɜːri]|v. 匆忙；催促；赶紧<br>n. 匆忙；仓促；急忙|She hurried to the airport.|她匆匆赶往机场。|初中英语单词|英语单词模板
 英语::初中英语单词|hurry up|英['hʌri ʌp] 美['hɜːri ʌp]|赶快|Hurry up or else you'll be late.|快，否则你就要来不及了。|初中英语单词|英语单词模板
@@ -1014,7 +1014,7 @@
 英语::初中英语单词|wine|英[waɪn] 美[waɪn]|n. 葡萄酒；酒；紫红色；使人沉醉的东西<br>vi. 喝酒<br>vt. 请……喝酒<br>adj. 深红色的|He likes to drink red wine at supper.|他喜欢在晚饭时喝红葡萄酒。|初中英语单词|英语单词模板
 英语::初中英语单词|beer|英[bɪə(r)] 美[bɪr]|n. 啤酒|He bought a barrel of beer.|他买了一桶啤酒。|初中英语单词|英语单词模板
 英语::初中英语单词|fork|英[fɔːk] 美[fɔːrk]|n. 叉；叉状物<br>vi. 分叉<br>vt. 使成叉形；用叉叉起|He stabbed the meat with his fork/stabbed his fork into the meat.|他用叉子叉肉。|初中英语单词|英语单词模板
-英语::初中英语单词|chopsticks|英['tʃɒpstɪks] 美['tʃɑːpstɪks]|n. 筷子（名词 chopstick 的复数形式）|She is still awkward with chopsticks.|她用筷子还不熟练。|初中英语单词|英语单词模板
+英语::初中英语单词|chopsticks|英['tʃɒpstɪks] 美['tʃɑːpstɪks]|n. 筷子（名词 chopstick 的复数形式）|These chopsticks are made of bamboo.|这些筷子是竹子做的。|初中英语单词|英语单词模板
 英语::初中英语单词|cabbage|英['kæbɪdʒ] 美['kæbɪdʒ]|n. 卷心菜；洋白菜|He is busy pricking out some cabbage seedlings.|他正忙于移植一些卷心菜秧。|初中英语单词|英语单词模板
 英语::初中英语单词|pea|英[piː] 美[piː]|n. 豌豆|This kind of pea has a long pod.|这种豌豆长着长豆荚。|初中英语单词|英语单词模板
 英语::初中英语单词|butter|英['bʌtə(r)] 美['bʌtər]|n. 黄油；奶油<br>vt. 涂黄油；奉承|My mother asked me to cream the butter and sugar together.|妈妈让我把黄油和糖搅成奶油状。|初中英语单词|英语单词模板
@@ -1401,7 +1401,7 @@
 英语::初中英语单词|Gobi Desert||戈壁[蒙古和中国西北部]|The Gobi Desert is inching south.|戈壁沙漠正在向南扩大。|初中英语单词|英语单词模板
 英语::初中英语单词|human being|英['hjuːmən 'biːɪŋ] 美['hjuːmən 'biːɪŋ]|n. 人类|The human being struggles with his environment.|人类和竞境环争。|初中英语单词|英语单词模板
 英语::初中英语单词|disappear|英[ˌdɪsə'pɪə(r)] 美[ˌdɪsə'pɪr]|vi. 消失；不见；失踪|The sun disappeared behind a cloud.|太阳消失在一片云后面。|初中英语单词|英语单词模板
-英语::初中英语单词|disappearance|英[ˌdɪsə'pɪərəns] 美[ˌdɪsə'pɪərəns]|n. 消失；失踪；绝迹|Scientists try to explain their disappearance.|科学家试着解释它们消失的原因。|初中英语单词|英语单词模板
+英语::初中英语单词|disappearance|英[ˌdɪsə'pɪərəns] 美[ˌdɪsə'pɪərəns]|n. 消失；失踪；绝迹|The cat's disappearance made the child sad.|小猫的消失让孩子很伤心。|初中英语单词|英语单词模板
 英语::初中英语单词|discover|英[dɪ'skʌvə(r)] 美[dɪ'skʌvər]|v. 发现；偶然撞见；发觉|He was later discovered to have been a spy.|后来发现他原来是间谍。|初中英语单词|英语单词模板
 英语::初中英语单词|feather|英['feðə(r)] 美['feðər]|n. 羽毛；翎毛；种类<br>vt. 用羽毛装饰<br>vi. 长出羽毛|Feather is very light, so that we say "as light as a feather".|羽毛很轻，因此我们说「轻如鸿毛」。|初中英语单词|英语单词模板
 英语::初中英语单词|entrance|英['entrəns] 美['entrəns]|n. 入口；进入；登场；进入权<br>vt. 使入迷；使狂喜|There is an entrance just around the corner.|拐角处有个入口。|初中英语单词|英语单词模板
@@ -1448,7 +1448,7 @@
 英语::初中英语单词|point at||指着，指向|The teacher is pointing at the map on the wall and pointing out Paris on it.|教师指着墙上的地图并指出了在地图上巴黎的位置。|初中英语单词|英语单词模板
 英语::初中英语单词|universe|英['juːnɪvɜːs] 美['juːnɪvɜːrs]|n. 宇宙；万物；世界|The universe exists in space.|宇宙存在于太空。|初中英语单词|英语单词模板
 英语::初中英语单词|man-made|英[mæn meɪd] 美[mæn meɪd]|adj. 人造的；人为的|The rumor has been traced back to a bad man.|那谣言经追查是个坏人造的。|初中英语单词|英语单词模板
-英语::初中英语单词|space|英[speɪs] 美[speɪs]|n. 空间；处所；太空；空地；空闲；空格；间隙<br>v. 留间隔；分隔；走神；忘记|I only have a small working space.|我只有一间很小的办公室。|初中英语单词|英语单词模板
+英语::初中英语单词|space|英[speɪs] 美[speɪs]|n. 空间；处所；太空；空地；空闲；空格；间隙<br>v. 留间隔；分隔；走神；忘记|We need to create more green spaces in our cities.|我们需要在城市中创造更多的绿色空间。|初中英语单词|英语单词模板
 英语::初中英语单词|spaceship|英['speɪsʃɪp] 美['speɪsʃɪp]|n. 宇宙飞船|The computer decelerated the spaceship.|计算机使宇宙飞船减速。|初中英语单词|英语单词模板
 英语::初中英语单词|send|英[send] 美[send]|vt. 发送；派遣；使处于……的状态；放出；运输<br>vi. 差遣；发出；传送|You are now ready to send messages.|现在你可以可以发送消息了。|初中英语单词|英语单词模板
 英语::初中英语单词|send up|英['sendˌʌp] 美['sendˌʌp]|使上升；发射；判……入狱；取笑某人|Did you know that Peter was sent up for ten years?|你知道彼得被判处 10 年徒刑吗？|初中英语单词|英语单词模板
@@ -1477,7 +1477,7 @@
 英语::初中英语单词|path|英[pɑːθ] 美[pæθ]|n. 路线；小路；小径；轨道；路程|A bullet describes a curved path in the air.|子弹在空中作曲线运动。|初中英语单词|英语单词模板
 英语::初中英语单词|Brazil|英[brə'zɪl] 美[brə'zɪl]|n. 巴西|Brazil exports a lot of coffee.|巴西出口大量咖啡。|初中英语单词|英语单词模板
 英语::初中英语单词|excited|英[ɪk'saɪtɪd] 美[ɪk'saɪtɪd]|adj. 感到兴奋的；激动的|Sara was excited to see the rock band.|莎拉看到摇滚乐团很兴奋。|初中英语单词|英语单词模板
-英语::初中英语单词|be excited about||对……感到兴奋|You must be excited about leaving for America.|对去美国一定很兴奋。|初中英语单词|英语单词模板
+英语::初中英语单词|be excited about||对……感到兴奋|He's excited about the opportunity to study abroad.|他对出国学习的机会感到兴奋。|初中英语单词|英语单词模板
 英语::初中英语单词|leather|英['leðə(r)] 美['leðər]|n. 皮革；皮制品<br>adj. 皮革制的<br>vt. 用皮鞭抽打；用皮革覆盖|This wallet feels to me like leather.|我觉得这钱包像是皮的。|初中英语单词|英语单词模板
 英语::初中英语单词|wear out|英[weə aʊt] 美[wer aʊt]|穿破；磨损； （使）筋疲力尽；耗尽|After half an hour, his patience began to wear out.|不到半小时后，他开始有点忍耐不住了。|初中英语单词|英语单词模板
 英语::初中英语单词|yen|英[jen] 美[jen]|n. 日元<br>n. 上瘾<br>vi. 对……上瘾|I gave the beggar as much as 1,000 yen.|我给了这乞丐整整一千日元。|初中英语单词|英语单词模板
@@ -1815,7 +1815,7 @@
 英语::初中英语单词|cross|英[krɒs] 美[krɔːs]|v. 穿过；交叉；杂交；反对；勾掉；碰见；阻挠<br>n. 十字架；十字形；杂交动植物；苦难<br>adj. 交叉的；相反的；生气的；杂交的|It's very dangerous for children to cross the busy street.|对孩子们来说，穿过车来车往的街道很危险。|初中英语单词|英语单词模板
 英语::初中英语单词|wait for|英[weɪt fɔː] 美[weɪt fɔːr]|等候；等待|She has impatience to wait for the bus.|她没有耐心等公共汽车到来。|初中英语单词|英语单词模板
 英语::初中英语单词|physics|英['fɪzɪks] 美['fɪzɪks]|n. 物理学|He does well in physics.|他的物理学得很好。|初中英语单词|英语单词模板
-英语::初中英语单词|key|英[kiː] 美[kiː]|n. 键；关键；钥匙；答案<br>adj. 关键的；主要的<br>vt. 键入；用钥匙锁上；为……调音|He is striking the key of his typewrite.|他敲打着打字机的字键。|初中英语单词|英语单词模板
+英语::初中英语单词|key|英[kiː] 美[kiː]|n. 键；关键；钥匙；答案<br>adj. 关键的；主要的<br>vt. 键入；用钥匙锁上；为……调音|Press the Enter key to continue.|按回车键继续。|初中英语单词|英语单词模板
 英语::初中英语单词|be/get lost||迷失（道路）|He got lost in the forest while hiking alone.|他一个人徒步旅行时在森林里迷路了。|初中英语单词|英语单词模板
 英语::初中英语单词|just then||正在那时|I was about to leave when, just then, the phone rang.|我正要离开，就在这时电话响了。|初中英语单词|英语单词模板
 英语::初中英语单词|disturb|英[dɪ'stɜːb] 美[dɪ'stɜːrb]|v. 扰乱；妨碍；使……不安；打破……的平静；打乱……的治安|They took the phone off the hook so no calls would disturb them.|他们摘下电话听筒，以免电话打扰他们。|初中英语单词|英语单词模板

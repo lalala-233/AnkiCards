@@ -1,4 +1,5 @@
 use super::prelude::*;
+use crate::check::{MAX_LENGTH_OF_ENGLISH_SENTENCE, MIN_LENGTH_OF_ENGLISH_SENTENCE};
 const VALID_SYMBOL: &[char] = &[
     '\"', '\'', '-', ' ', '(', ')', ',', '.', '?', '!', '/', '%', ':', ';', '$',
 ];
@@ -27,7 +28,8 @@ pub fn check_english_sentence(sentence: &str) -> Result<(), String> {
     Err(sentence.to_string())
 }
 const fn have_appropriate_length(checked_str: &str) -> bool {
-    checked_str.len() >= 20 && checked_str.len() <= 80
+    checked_str.len() >= MIN_LENGTH_OF_ENGLISH_SENTENCE
+        && checked_str.len() <= MAX_LENGTH_OF_ENGLISH_SENTENCE
 }
 fn have_valid_quotation_mark(checked_str: &str) -> bool {
     checked_str.matches('\"').count().is_multiple_of(2) && checked_str.matches("\"\"").count() == 0
@@ -63,7 +65,7 @@ mod tests {
             "There is no so-called \"recipe for success\".",
             "I value this necklace at $5,000.",
             "English has five main vowel letters: A, E, I, O, U.",
-            "You can abbreviate \"Example\" to \"e.g.\" in formal writing."
+            "You can abbreviate \"Example\" to \"e.g.\" in formal writing.",
         ];
         const INVALID: &[&str] = &[
             "If I had the time, I 'd make something better.", // for ` '`

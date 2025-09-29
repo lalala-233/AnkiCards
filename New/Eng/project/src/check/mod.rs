@@ -2,6 +2,8 @@ mod chinese_sentence;
 mod english_sentence;
 mod prelude;
 mod word;
+pub const MAX_LENGTH_OF_ENGLISH_SENTENCE: usize = 80;
+pub const MIN_LENGTH_OF_ENGLISH_SENTENCE: usize = 20;
 pub fn check(checked_str: &str) -> Option<(usize, String)> {
     checked_str
         .lines()
@@ -48,20 +50,5 @@ fn check_line(line: &str) -> Result<(), String> {
     Ok(())
 }
 fn extract_line(line: &str) -> Option<[&str; 8]> {
-    let mut iter = line.split('|');
-    let result = [
-        iter.next().unwrap(),
-        iter.next().unwrap(),
-        iter.next().unwrap(),
-        iter.next().unwrap(),
-        iter.next().unwrap(),
-        iter.next().unwrap(),
-        iter.next().unwrap(),
-        iter.next().unwrap(),
-    ];
-    if iter.next().is_some() {
-        None
-    } else {
-        Some(result)
-    }
+    line.split('|').collect::<Vec<_>>().try_into().ok()
 }
