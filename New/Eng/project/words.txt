@@ -10,7 +10,7 @@
 英语::Words|operating|英['ɒpəreɪtɪŋ] 美['ɒpəreɪtɪŋ]|adj.操作的；手术的<br>动词 operate 的现在分词形式。|Net diagrams are as an important tool for cupola operating practice.|网形图是指导冲天炉熔炼操作的重要工具。|Word|英语单词模板
 英语::Words|habitat|英['hæbɪtæt] 美['hæbɪtæt]|n.栖息地；产地|Pollution in the river is damaging the fish habitat.|河流污染正在破坏鱼类的栖息地。|Word|英语单词模板
 英语::Words|nomination|英[ˌnɒmɪ'neɪʃn] 美[ˌnɑːmɪ'neɪʃn]|n.提名；任命；提名权|Competition for the nomination was very keen.|争取提名的竞争非常激烈。|Word|英语单词模板
-英语::Words|odds|英[ɒdz] 美[ɑːdz]|n.机率；可能性；差别；投注赔率；让步；优势|The odds are against us.|我们成功的机会很小。|Word|英语单词模板
+英语::Words|odds|英[ɒdz] 美[ɑːdz]|n.机率；可能性<br>n.不利条件；逆境<br>n.投注赔率|The odds are against us.|形势对我们不利。|Word|英语单词模板
 英语::Words|frustration|英[frʌ'streɪʃn] 美[frʌ'streɪʃn]|n.挫折；失败；令人沮丧的东西|It's healthier to release frustration than to bottle it up.|受挫折后发泄一通比强忍着对身体有益。|Word|英语单词模板
 英语::Words|physically|英['fɪzɪkli] 美['fɪzɪkli]|adv.身体上地；实际上|The male is physically stronger than the female.|男性在身体上要比女性强壮。|Word|英语单词模板
 英语::Words|ah|英[ˌeɪ'eɪtʃ] 美[ˌeɪ'eɪtʃ]|int.啊；哈<br>=aah.|Ah, what a beautiful sunset!|啊，多美的日落啊！|Word|英语单词模板
@@ -26,7 +26,7 @@
 英语::Words|recording|英[rɪ'kɔːdɪŋ] 美[rɪ'kɔːrdɪŋ]|n.录音<br>动词 record 的现在分词。|They sent the recording for our preview.|他们把那录音送来给我们预先审查。|Word|英语单词模板
 英语::Words|changing|英['tʃeɪndʒɪŋ] 美['tʃeɪndʒɪŋ]|变更；换车；兑换|He is changing from this train at the next stop.|他在下一站换车。|Word|英语单词模板
 英语::Words|colonial|英[kə'ləʊniəl] 美[kə'loʊniəl]|adj.殖民地的<br>n.殖民地居民|France was once a colonial power.|法国一度是占有殖民地的强国。|Word|英语单词模板
-英语::Words|pregnancy|英['preɡnənsi] 美['preɡnənsi]|n.怀孕；妊娠；含蓄；丰富|Her second pregnancy was easy.|她第二次怀孕很轻松|Word|英语单词模板
+英语::Words|pregnancy|英['preɡnənsi] 美['preɡnənsi]|n.怀孕；妊娠；含蓄；丰富|Regular exercise during pregnancy can be beneficial for both mother and baby.|怀孕期间定期锻炼对母亲和婴儿都有益。|Word|英语单词模板
 英语::Words|cognitive|英['kɒɡnətɪv] 美['kɑːɡnətɪv]|adj.认识的；认知的；有认识力的|Thinking in terms of dualisms is common in our cognitive culture.|我们的认识文化通常具有两重性思考。|Word|英语单词模板
 英语::Words|homeless|英['həʊmləs] 美['hoʊmləs]|adj.无家可归的|Let's chip in some money to help the homeless.|让我们捐款援助那些无家可归的人。|Word|英语单词模板
 英语::Words|defendant|英[dɪ'fendənt] 美[dɪ'fendənt]|n.被告|The plaintiff accused the defendant of fraud.|原告指控被告欺诈。|Word|英语单词模板
@@ -42,7 +42,7 @@
 英语::Words|trading|英['treɪdɪŋ] 美['treɪdɪŋ]|n.买卖；贸易<br>trade 的现在分词。|Trading on the Stock Exchange was light today.|证券交易所今日交投平平。|Word|英语单词模板
 英语::Words|combat|英['kɒmbæt] 美['kɑːmbæt]|n.战斗；试图解决<br>v.战斗；与……斗争；试图解决<br>adj.战斗的|The fighter planes quickly disengaged from the combat.|歼击机很快从战斗中撤出了。|Word|英语单词模板
 英语::Words|rape|英[reɪp] 美[reɪp]|n.强奸；蹂躏；破坏<br>v.强奸；掠夺；蹂躏|She showed a prurient interest in the details of the rape case.|她对那强奸案的细节津津乐道。|Word|英语单词模板
-英语::Words|counsel|英['kaʊnsl] 美['kaʊnsl]|n.劝告；建议；诉讼律师<br>v.提供建议；劝告|Good counsel has no price.|[谚]忠言无价。|Word|英语单词模板
+英语::Words|counsel|英['kaʊnsl] 美['kaʊnsl]|n.劝告；建议；诉讼律师<br>v.提供建议；劝告|Good counsel has no price.|忠言无价。|Word|英语单词模板
 英语::Words|presidency|英['prezɪdənsi] 美['prezɪdənsi]|n.总统（总裁、主席等）的职位（或任期）|He wants to run for the presidency.|他想竞选总统。|Word|英语单词模板
 英语::Words|serving|英['sɜːvɪŋ] 美['sɜːrvɪŋ]|n.服务；服役；（供一人食用饮用的）一份；一客<br>动词 serve 的现在分词。|The meaning of life lies in serving.|生命的意义是为了服务。|Word|英语单词模板
 英语::Words|drinking|英['drɪŋkɪŋ] 美['drɪŋkɪŋ]|n.喝；喝酒<br>动词 drink 的现在分词。|The water is unfit for drinking.|这水不宜饮用。|Word|英语单词模板
