@@ -1,11 +1,11 @@
 use crate::check::prelude::have_valid_combination;
 
 const VALID_CHINESE_SENTENCE_CHAR: &[char] = &[
-    '，', '。', '：', '！', '？', '《', '》', '…', ' ', '—', '、', '「', '」', '·',
+    '，', '。', '：', '！', '？', '《', '》', '…', ' ', '—', '、', '「', '」', '·', '.',
 ];
 const VALID_CHINESE_START_CHAR: &[char] = &['《', '「'];
 const VALID_CHINESE_END_CHAR: &[char] = &['。', '？', '！', '…', '」'];
-const ALLOWED_CHINESE_COMBINATION: &[&str] = &["……", "——", "」。", "。」"];
+const ALLOWED_CHINESE_COMBINATION: &[&str] = &["……", "——", "」。", "。」", ".」"];
 pub fn check_chinese_sentence(sentence: &str) -> Result<(), String> {
     if sentence.chars().all(is_valid_sentence_char)
         && is_valid_str(sentence)
@@ -46,6 +46,7 @@ mod tests {
             "羽毛很轻，因此我们说「轻如鸿毛」。",
             "亚伯拉罕·林肯在美国废除了奴隶制。",
             "《钢琴家》是第 4 部获得最佳影片提名的电影。",
+            "在正式写作中，你可以将「Example」缩写为「e.g.」。",
         ];
         const INVALID: &[&str] = &[
             "人行道/路面上不许停车。",                // for `/``

@@ -4,10 +4,13 @@ fn main() -> std::io::Result<()> {
     let file_name = impure::read_env();
     let binding = impure::read_to_string(&file_name)?;
     let (_, content) = split_header(&binding);
+
     let len = check::count_english_len(content);
     impure::print_statistic(&len);
+
     let error_info = check::check(content);
     impure::copy_error(error_info, content.lines().count());
+
     Ok(())
 }
 

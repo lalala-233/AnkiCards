@@ -8,8 +8,8 @@ const ALLOWED_COMBINATIONS: &[&str] = &[
     ": ", "; ", "% ", "! ", "? ", ") ", ", ", "' ", /* ones' something */
     // after whitespace
     " $", "\" ", " (", // special handle
-    ". ", "..", " .",  // something else
-    "\".", // something else check
+    ". ", "..", " .", // something else
+    "\".", ".\"", // something else check
     " \"",
 ];
 const SPECIAL_HANDLE_COMBINATION: &[&str] = &[" .", ".."];
@@ -30,7 +30,7 @@ const fn have_appropriate_length(checked_str: &str) -> bool {
     checked_str.len() >= 20 && checked_str.len() <= 80
 }
 fn have_valid_quotation_mark(checked_str: &str) -> bool {
-    checked_str.matches('\"').count() % 2 == 0 && checked_str.matches("\"\"").count() == 0
+    checked_str.matches('\"').count().is_multiple_of(2) && checked_str.matches("\"\"").count() == 0
 }
 fn is_valid_english_sentence_char(c: char) -> bool {
     c.is_ascii_alphanumeric() || VALID_SYMBOL.contains(&c)
@@ -63,6 +63,7 @@ mod tests {
             "There is no so-called \"recipe for success\".",
             "I value this necklace at $5,000.",
             "English has five main vowel letters: A, E, I, O, U.",
+            "You can abbreviate \"Example\" to \"e.g.\" in formal writing."
         ];
         const INVALID: &[&str] = &[
             "If I had the time, I 'd make something better.", // for ` '`
