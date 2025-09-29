@@ -30,8 +30,8 @@
 英语::Words|cognitive|英['kɒɡnətɪv] 美['kɑːɡnətɪv]|adj.认识的；认知的；有认识力的|Thinking in terms of dualisms is common in our cognitive culture.|我们的认识文化通常具有两重性思考。|Word|英语单词模板
 英语::Words|homeless|英['həʊmləs] 美['hoʊmləs]|adj.无家可归的|Let's chip in some money to help the homeless.|让我们捐款援助那些无家可归的人。|Word|英语单词模板
 英语::Words|defendant|英[dɪ'fendənt] 美[dɪ'fendənt]|n.被告|The plaintiff accused the defendant of fraud.|原告指控被告欺诈。|Word|英语单词模板
-英语::Words|dramatically|英[drə'mætɪkli] 美[drə'mætɪkli]|adv.戏剧地；引人注目地|The city break market has grown dramatically since the mid-1980s.|城市休息市场从 1980 年代中期开始大量涌现。|Word|英语单词模板
-英语::Words|highlight|英['haɪlaɪt] 美['haɪlaɪt]|vt.强调；照亮；加亮；使……显得重要；使突出<br>n.加亮区；精彩部分；最重要的细节或事件；闪光点<br>[计算机]醒目|Both books highlight the human element of science.|两本书都重点谈到科学中人的因素。|Word|英语单词模板
+英语::Words|dramatically|英[drə'mætɪkli] 美[drə'mætɪkli]|adv.戏剧地；引人注目地|The use of smartphones has risen dramatically in the past decade.|过去十年，智能手机的使用量急剧上升。|Word|英语单词模板
+英语::Words|highlight|英['haɪlaɪt] 美['haɪlaɪt]|vt.强调；照亮；加亮；使……显得重要；使突出<br>n.加亮区；精彩部分；最重要的细节或事件；闪光点<br>[计算机]醒目|The report will highlight the main findings of the research.|这份报告将重点介绍研究的主要发现。|Word|英语单词模板
 英语::Words|couch|英[kaʊtʃ] 美[kaʊtʃ]|n.长椅；睡椅；长沙发；兽穴<br>vt.表达；躺下<br>vi.埋伏；躺下|Dad is sleeping on the couch.|爸爸在长椅上睡觉。|Word|英语单词模板
 英语::Words|alliance|英[ə'laɪəns] 美[ə'laɪəns]|n.联盟；联姻；结盟<br>Alliance [地理名词].|They broke up the alliance.|他们中止了联盟。|Word|英语单词模板
 英语::Words|boyfriend|英['bɔɪfrend] 美['bɔɪfrend]|n.男朋友|Your boyfriend called you just now.|刚才你男朋友给你打电话了。|Word|英语单词模板
@@ -49,10 +49,10 @@
 英语::Words|ethical|英['eθɪkl] 美['eθɪkl]|adj.伦理的；道德的；凭处方出售的|You can't divorce science from ethical questions.|不能把科学与伦理问题截然分开。|Word|英语单词模板
 英语::Words|essence|英['esns] 美['esns]|n.精髓；本质；要素；香精|Flavor of life is always sweet, because they always taste the essence of life.|生活的味道总是甜蜜的，因为他们总是品尝到生活的精髓。|Word|英语单词模板
 英语::Words|closet|英['klɒzɪt] 美['klɑːzət]|n.壁橱；衣帽间；密室；厕所<br>adj.隐藏的；不公开的；空谈的<br>vt.把……关在房间里|Put the coats back into the closet.|请把大衣放回到壁橱里。|Word|英语单词模板
-英语::Words|suburban|英[sə'bɜːbən] 美[sə'bɜːrbən]|adj.市郊的；郊区的|Its newspapers include the Hartford Courant in Connecticut, a number of suburban Philadelphia newspapers and the Trentonian near Philadelphia.|其运营的报纸包括位于康涅狄格的哈特福德报，及费城市郊的诸多报纸。|Word|英语单词模板
+英语::Words|suburban|英[sə'bɜːbən] 美[sə'bɜːrbən]|adj.市郊的；郊区的|They moved to a suburban area for better schools and a quieter environment.|他们搬到了郊区，为了更好的学校和更安静的环境。|Word|英语单词模板
 英语::Words|pitcher|英['pɪtʃə(r)] 美['pɪtʃər]|n.水罐；[棒球]投手；[植]瓶状叶|The pitcher contains enough water for all of us.|那水罐可容纳足够我们全体饮用的水。|Word|英语单词模板
 英语::Words|estimated|英['estɪmetɪd] 美['estɪmetɪd]|adj.估计的|It is estimated that the damage was over one million dollars.|据估计，损失超过了一百万元。|Word|英语单词模板
-英语::Words|correlation|英[ˌkɒrə'leɪʃn] 美[ˌkɔːrə'leɪʃn]|n.相互关系；相关；关联|Are you familiar with their correlation ?|你了解他们的相互关系吗？|Word|英语单词模板
+英语::Words|correlation|英[ˌkɒrə'leɪʃn] 美[ˌkɔːrə'leɪʃn]|n.相互关系；相关；关联|Are you familiar with their correlation?|你了解他们的相互关系吗？|Word|英语单词模板
 英语::Words|developer|英[dɪ'veləpə(r)] 美[dɪ'veləpər]|n.开发者；显影剂|I was an operating system developer.|我是一个操作系统开发者。|Word|英语单词模板
 英语::Words|excitement|英[ɪk'saɪtmənt] 美[ɪk'saɪtmənt]|n.激动；兴奋|The excitement quickened my pulse.|激动使我的心跳加快。|Word|英语单词模板
 英语::Words|administrative|英[əd'mɪnɪstrətɪv] 美[əd'mɪnɪstreɪtɪv]|adj.行政的；管理的|This job is mainly administrative.|这份工作主要是行政性的。|Word|英语单词模板
@@ -63,7 +63,7 @@
 英语::Words|plead|英[pliːd] 美[pliːd]|v.辩护；恳求；提出借口；认罪|You should get a lawyer to plead for your case.|你该请一位律师为你的案子辩护。|Word|英语单词模板
 英语::Words|mainstream|英['meɪnstriːm] 美['meɪnstriːm]|n.主流<br>adj.主流的<br>v.把……编入学校正规班级；把……纳入主流|There is no problem to be outside the mainstream.|远离主流是没有问题的。|Word|英语单词模板
 英语::Words|rumor|英['ruːmə] 美['ruːmə]|n.谣言；传闻<br>vt.谣传<br>=<英>rumour|I'm rather bored by the rumor.|这谣传我真听厌烦了。|Word|英语单词模板
-英语::Words|implementation|英[ˌɪmplɪmen'teɪʃn] 美[ˌɪmplɪmen'teɪʃn]|n.履行；落实；装置|So far, the implementation of the five-day week initiative has not impacted on performance pledge compliance.|直到目前，实施五天工作周对履行服务承诺并无影响。|Word|英语单词模板
+英语::Words|implementation|英[ˌɪmplɪmen'teɪʃn] 美[ˌɪmplɪmen'teɪʃn]|n.履行；落实；装置|Effective implementation of the law is as important as its creation.|法律的有效实施与其制定同样重要。|Word|英语单词模板
 英语::Words|longtime|英['lɒŋtaɪm] 美['lɒŋtaɪm]|adj.长期的（持久的）|The unrest follows the death of Guinea's longtime President Lansana Conte on Monday.|动荡的局面是在几内亚长期的总统孔戴于周一去世之后发生。|Word|英语单词模板
 英语::Words|legislative|英['ledʒɪslətɪv] 美['ledʒɪsleɪtɪv]|adj.立法的；有立法权的<br>n.立法机构；立法权|The legislative system needs reforming.|立法机构需要改革。|Word|英语单词模板
 英语::Words|effectiveness|英[ɪˌfek'tɪvnɪs] 美[ɪˌfek'tɪvnɪs]|n.有效性；效力|I doubt the effectiveness of the medicine.|我怀疑这种药的有效性。|Word|英语单词模板
