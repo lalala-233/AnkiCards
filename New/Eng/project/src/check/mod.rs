@@ -1,6 +1,7 @@
 mod chinese_sentence;
 mod english_sentence;
 mod prelude;
+mod pronunciation;
 mod word;
 pub const MAX_LENGTH_OF_ENGLISH_SENTENCE: usize = 80;
 pub const MIN_LENGTH_OF_ENGLISH_SENTENCE: usize = 20;
@@ -33,7 +34,7 @@ fn check_line(line: &str) -> Result<(), String> {
         [
             _deck,
             word,
-            _pronunciation,
+            pronunciation,
             _chinese,
             english_sentence,
             chinese_sentence,
@@ -45,6 +46,7 @@ fn check_line(line: &str) -> Result<(), String> {
         return Err('|'.to_string());
     };
     word::check_word(word)?;
+    pronunciation::check_pronunciation(pronunciation)?;
     english_sentence::check_english_sentence(english_sentence)?;
     chinese_sentence::check_chinese_sentence(chinese_sentence)?;
     Ok(())

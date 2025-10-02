@@ -17,7 +17,7 @@ const SPECIAL_HANDLE_COMBINATION: &[&str] = &[" .", ".."];
 pub fn check_english_sentence(sentence: &str) -> Result<(), String> {
     if sentence.chars().all(is_valid_english_sentence_char)
         && have_valid_combination(sentence, VALID_SYMBOL, ALLOWED_COMBINATIONS)
-        && have_special_handle(sentence, SPECIAL_HANDLE_COMBINATION, "...")
+        // && have_special_handle(sentence, SPECIAL_HANDLE_COMBINATION, "...")
         && have_valid_quotation_mark(sentence)
         && have_appropriate_length(sentence)
         && is_starts_and_ends_with_valid_char(sentence)
