@@ -1,6 +1,4 @@
-use super::prelude::*;
 /// 英语国际音标完整列表 (IPA)
-/// 完整的英语国际音标列表，包含详细例词注释
 pub const VALID_SYMBOL: &[&str] = &[
     // ========== 元音 Vowels ==========
     // 短元音 (Short vowels)
