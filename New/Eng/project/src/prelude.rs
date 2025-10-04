@@ -17,12 +17,6 @@ pub fn have_valid_combination(
 pub fn is_valid_ellipsis_if_present(checked_str: &str) -> bool {
     !checked_str.contains("..") || checked_str.contains("...")
 }
-pub fn if_special_then_check(checked_str: &str, special_str: &[&str], special_check: &str) -> bool {
-    if special_str.iter().any(|s| checked_str.contains(s)) {
-        return checked_str.contains(special_check);
-    }
-    true
-}
 
 fn cartesian_product(chars_1: &[char], chars_2: &[char]) -> Vec<String> {
     chars_1

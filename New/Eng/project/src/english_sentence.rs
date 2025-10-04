@@ -15,12 +15,10 @@ const ALLOWED_COMBINATIONS: &[&str] = &[
     // `"` should be matched
     "\".", ".\"", " \"",
 ];
-const SPECIAL_COMBINATION: &[&str] = &[" .", ".."];
-const SPECIAL_CHECK: &str = "...";
 pub fn check_english_sentence(sentence: &str) -> Result<(), Error> {
     if sentence.chars().all(is_valid_english_sentence_char)
         && have_valid_combination(sentence, VALID_SYMBOL, ALLOWED_COMBINATIONS)
-        && if_special_then_check(sentence, SPECIAL_COMBINATION, SPECIAL_CHECK)
+        && is_valid_ellipsis_if_present(sentence)
         && have_valid_quotation_mark(sentence)
         && have_appropriate_length(sentence)
         && is_starts_and_ends_with_valid_char(sentence)

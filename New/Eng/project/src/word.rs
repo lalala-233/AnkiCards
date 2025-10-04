@@ -1,7 +1,5 @@
 use super::prelude::*;
 const VALID_WORD_SYMBOL: &[char] = &['\'', '-', ' ', '(', ')', ',', '.', '?', '!', '/', '%'];
-const SPECIAL_COMBINATION: &[&str] = &[". ", " .", ".."];
-const SPECIAL_CHECK: &str = "...";
 const VALID_END_WORD_CHAR: &[char] = &['.', '?', '!', ')'];
 const ALLOWED_COMBINATIONS: &[&str] = &[
     // before whitespace
@@ -13,7 +11,7 @@ const ALLOWED_COMBINATIONS: &[&str] = &[
 pub fn check_word(word: &str) -> Result<(), Error> {
     if word.chars().all(is_valid_english_word_char)
         && have_valid_combination(word, VALID_WORD_SYMBOL, ALLOWED_COMBINATIONS)
-        && if_special_then_check(word, SPECIAL_COMBINATION, SPECIAL_CHECK)
+        && is_valid_ellipsis_if_present(word)
         && is_starts_and_ends_with_valid_char(word)
         && check_symbol_followed_by_space_or_number(word)
     {
