@@ -6,22 +6,25 @@ const VALID_SYMBOL: &[char] = &[
 const VALID_END_WORD_CHAR: &[char] = &['.', '?', '!'];
 const ALLOWED_COMBINATIONS: &[&str] = &[
     // before whitespace
-    ": ", "; ", "% ", "! ", "? ", ") ", ", ", "' ", /* ones' something */
+    ": ", "; ", "% ", "! ", "? ", ") ", ", ", // placeholder for cargo fmt
+    "' ", // as in `teachers' day`
     // after whitespace
-    " $", "\" ", " (", // special handle
-    ". ", "..", " .", // something else
-    "\".", ".\"", // something else check
-    " \"",
+    " $", "\" ", " (", // placeholder for cargo fmt
+    // special check `...`
+    ". ", "..", " .", // placeholder for cargo fmt
+    // `"` should be matched
+    "\".", ".\"", " \"",
 ];
-const SPECIAL_HANDLE_COMBINATION: &[&str] = &[" .", ".."];
+const SPECIAL_COMBINATION: &[&str] = &[" .", ".."];
+const SPECIAL_CHECK: &str = "...";
 pub fn check_english_sentence(sentence: &str) -> Result<(), Error> {
     if sentence.chars().all(is_valid_english_sentence_char)
         && have_valid_combination(sentence, VALID_SYMBOL, ALLOWED_COMBINATIONS)
-        // && have_special_handle(sentence, SPECIAL_HANDLE_COMBINATION, "...")
+        && if_special_then_check(sentence, SPECIAL_COMBINATION, SPECIAL_CHECK)
         && have_valid_quotation_mark(sentence)
         && have_appropriate_length(sentence)
         && is_starts_and_ends_with_valid_char(sentence)
-        && basic_english_checks(sentence)
+        && check_symbol_followed_by_space_or_number(sentence)
     {
         return Ok(());
     }
@@ -66,6 +69,7 @@ mod tests {
             "I value this necklace at $5,000.",
             "English has five main vowel letters: A, E, I, O, U.",
             "You can abbreviate \"Example\" to \"e.g.\" in formal writing.",
+            "Let me see... where did I leave my hat?",
         ];
         const INVALID: &[&str] = &[
             "If I had the time, I 'd make something better.", // for ` '`
@@ -76,6 +80,7 @@ mod tests {
             "If a horse refuses a jump,penalty points are added to the score.", // for `,` without following space
             "Some of them--alas--will never return.",                           // for `--`
             "Late last year an allied Taliban faction tried to seize large tracts of the Swat valley in the North-West Frontier Province.", // too long
+            "Let me see.. where did I leave my hat?", // for `..`
         ];
         for sentence in VALID {
             assert_eq!(check_english_sentence(sentence), Ok(()));
