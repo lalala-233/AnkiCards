@@ -18,10 +18,9 @@ fn split_header(file: &str) -> (&str, &str) {
     let index = file.match_indices('\n').nth(HEADER_LENGTH - 1).unwrap().0; // nth count from 0
     file.split_at(index + '\n'.len_utf8())
 }
-pub enum Error {}
 
 mod impure {
-    use checker::{MAX_LENGTH_OF_ENGLISH_SENTENCE, MIN_LENGTH_OF_ENGLISH_SENTENCE};
+    use checker::{error::Error, MAX_LENGTH_OF_ENGLISH_SENTENCE, MIN_LENGTH_OF_ENGLISH_SENTENCE};
     use std::{fs::File, io::Write, thread::sleep, time::Duration};
     pub fn read_env() -> String {
         std::env::args().nth(1).expect("Please provide a file name")
@@ -47,10 +46,10 @@ mod impure {
                 .count(),
         );
     }
-    pub fn copy_error(error_info: Option<(usize, String)>, len_of_line: usize) {
+    pub fn copy_error(error_info: Option<(usize, Error)>, len_of_line: usize) {
         if let Some((line, s)) = error_info {
             let mut board = arboard::Clipboard::new().unwrap();
-            board.set_text(&s).unwrap();
+            board.set_text(s.to_string()).unwrap();
             sleep(Duration::from_millis(100));
             panic!(
                 "Invalid `{s}` at {}/{}",

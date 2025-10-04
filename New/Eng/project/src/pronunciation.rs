@@ -1,3 +1,4 @@
+use crate::prelude::*;
 /// 英语国际音标完整列表 (IPA)
 pub const VALID_SYMBOL: &[&str] = &[
     // ========== 元音 Vowels ==========
@@ -67,7 +68,7 @@ const START_STR: &[&str] = &["英[", "美["];
 const END_STR: &str = "]";
 const VALID_WHITESPACE: &str = "  ";
 
-pub fn check_pronunciation(pronunciation: &str) -> Result<(), String> {
+pub fn check_pronunciation(pronunciation: &str) -> Result<(), Error> {
     if pronunciation.is_empty() {
         return Ok(());
     }
@@ -81,7 +82,7 @@ pub fn check_pronunciation(pronunciation: &str) -> Result<(), String> {
     {
         return Ok(());
     }
-    Err(pronunciation.to_string())
+    Err(Error::Pronunciation(pronunciation.to_string()))
 }
 fn have_valid_whitespace(checked_str: &str) -> bool {
     checked_str.matches(VALID_WHITESPACE).count() == 0
@@ -128,11 +129,14 @@ mod tests {
             "英[ɒˈstreɪlɪə] 美[ɔˈstreljə]",           // for invalid `ɔ`
             "英[ˈtiː,ʃɜːt] 美[ˈti,ʃɜːrt]",            // for invalid `,`
         ];
-        for sentence in VALID {
+        for &sentence in VALID {
             assert_eq!(check_pronunciation(sentence), Ok(()));
         }
-        for sentence in INVALID {
-            assert_eq!(check_pronunciation(sentence), Err((*sentence).to_string()));
+        for &sentence in INVALID {
+            assert_eq!(
+                check_pronunciation(sentence),
+                Err(Error::Pronunciation(sentence.to_string()))
+            );
         }
     }
 }

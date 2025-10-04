@@ -14,7 +14,7 @@ const ALLOWED_COMBINATIONS: &[&str] = &[
     " \"",
 ];
 const SPECIAL_HANDLE_COMBINATION: &[&str] = &[" .", ".."];
-pub fn check_english_sentence(sentence: &str) -> Result<(), String> {
+pub fn check_english_sentence(sentence: &str) -> Result<(), Error> {
     if sentence.chars().all(is_valid_english_sentence_char)
         && have_valid_combination(sentence, VALID_SYMBOL, ALLOWED_COMBINATIONS)
         // && have_special_handle(sentence, SPECIAL_HANDLE_COMBINATION, "...")
@@ -25,7 +25,7 @@ pub fn check_english_sentence(sentence: &str) -> Result<(), String> {
     {
         return Ok(());
     }
-    Err(sentence.to_string())
+    Err(Error::EnglishSentence(sentence.to_string()))
 }
 const fn have_appropriate_length(checked_str: &str) -> bool {
     checked_str.len() >= MIN_LENGTH_OF_ENGLISH_SENTENCE
@@ -80,10 +80,10 @@ mod tests {
         for sentence in VALID {
             assert_eq!(check_english_sentence(sentence), Ok(()));
         }
-        for sentence in INVALID {
+        for &sentence in INVALID {
             assert_eq!(
                 check_english_sentence(sentence),
-                Err((*sentence).to_string())
+                Err(Error::EnglishSentence(sentence.to_string()))
             );
         }
     }

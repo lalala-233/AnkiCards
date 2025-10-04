@@ -1,13 +1,15 @@
 mod chinese_sentence;
 mod english_sentence;
-mod error;
+pub mod error;
 mod prelude;
 mod pronunciation;
 mod word;
+use error::Error;
+pub const SEPARATOR_NUMBER: usize = 8;
 pub const MAX_LENGTH_OF_ENGLISH_SENTENCE: usize = 80;
 pub const MIN_LENGTH_OF_ENGLISH_SENTENCE: usize = 20;
 #[must_use]
-pub fn check(checked_str: &str) -> Option<(usize, String)> {
+pub fn check(checked_str: &str) -> Option<(usize, Error)> {
     checked_str
         .lines()
         .enumerate()
@@ -17,7 +19,7 @@ pub fn check(checked_str: &str) -> Option<(usize, String)> {
 pub fn count_english_len(checked_str: &str) -> Vec<usize> {
     checked_str
         .lines()
-        .filter_map(|line| extract_line(line))
+        .flat_map(|line| extract_line(line))
         .map(
             |[
                 _deck,
@@ -32,8 +34,9 @@ pub fn count_english_len(checked_str: &str) -> Vec<usize> {
         )
         .collect()
 }
-fn check_line(line: &str) -> Result<(), String> {
-    let Some(
+fn check_line(line: &str) -> Result<(), Error> {
+    let result = extract_line(line);
+    let Ok(
         [
             _deck,
             word,
@@ -44,9 +47,9 @@ fn check_line(line: &str) -> Result<(), String> {
             _tag,
             _notetype,
         ],
-    ) = extract_line(line)
+    ) = result
     else {
-        return Err('|'.to_string());
+        return Err(Error::WrongSeparatorNumber(result.unwrap_err().len()));
     };
     word::check_word(word)?;
     pronunciation::check_pronunciation(pronunciation)?;
@@ -54,6 +57,6 @@ fn check_line(line: &str) -> Result<(), String> {
     chinese_sentence::check_chinese_sentence(chinese_sentence)?;
     Ok(())
 }
-fn extract_line(line: &str) -> Option<[&str; 8]> {
-    line.split('|').collect::<Vec<_>>().try_into().ok()
+fn extract_line(line: &str) -> Result<[&str; SEPARATOR_NUMBER], Vec<&str>> {
+    line.split('|').collect::<Vec<_>>().try_into()
 }

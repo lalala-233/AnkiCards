@@ -6,14 +6,14 @@ const VALID_CHINESE_SENTENCE_CHAR: &[char] = &[
 const VALID_CHINESE_START_CHAR: &[char] = &['《', '「'];
 const VALID_CHINESE_END_CHAR: &[char] = &['。', '？', '！', '…', '」'];
 const ALLOWED_CHINESE_COMBINATION: &[&str] = &["……", "——", "」。", "。」", ".」"];
-pub fn check_chinese_sentence(sentence: &str) -> Result<(), String> {
+pub fn check_chinese_sentence(sentence: &str) -> Result<(), Error> {
     if sentence.chars().all(is_valid_sentence_char)
         && is_valid_str(sentence)
         && is_starts_and_ends_with_valid_char(sentence)
     {
         return Ok(());
     }
-    Err(sentence.to_string())
+    Err(Error::ChineseSentence(sentence.to_string()))
 }
 fn is_starts_and_ends_with_valid_char(checked_str: &str) -> bool {
     let start = checked_str.chars().next().unwrap();
@@ -61,10 +61,10 @@ mod tests {
         for sentence in VALID {
             assert_eq!(check_chinese_sentence(sentence), Ok(()));
         }
-        for sentence in INVALID {
+        for &sentence in INVALID {
             assert_eq!(
                 check_chinese_sentence(sentence),
-                Err((*sentence).to_string())
+                Err(Error::ChineseSentence(sentence.to_string()))
             );
         }
     }

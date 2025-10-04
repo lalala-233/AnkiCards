@@ -1,6 +1,6 @@
+pub use crate::error::Error;
 const ENGLISH_CHARS_FOLLOWED_BY_SPACE: &[char] = &[';'];
 const ENGLISH_CHARS_FOLLOWED_BY_SPACE_OR_NUMBER: &[char] = &[',', ':'];
-
 pub fn have_valid_combination(
     checked_str: &str,
     valid_symbol: &[char],

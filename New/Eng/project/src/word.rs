@@ -9,7 +9,7 @@ const ALLOWED_COMBINATIONS: &[&str] = &[
     " (", // special handle
     ". ", "..", " .",
 ];
-pub fn check_word(word: &str) -> Result<(), String> {
+pub fn check_word(word: &str) -> Result<(), Error> {
     if word.chars().all(is_valid_english_word_char)
         && have_valid_combination(word, VALID_WORD_SYMBOL, ALLOWED_COMBINATIONS)
         && have_special_handle(word, SPECIAL_HANDLE_COMBINATION, "...")
@@ -18,7 +18,7 @@ pub fn check_word(word: &str) -> Result<(), String> {
     {
         return Ok(());
     }
-    Err(word.to_string())
+    Err(Error::Word(word.to_string()))
 }
 fn is_valid_english_word_char(c: char) -> bool {
     c.is_ascii_alphanumeric() || VALID_WORD_SYMBOL.contains(&c)
