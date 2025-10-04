@@ -1,5 +1,5 @@
-use super::prelude::*;
-use crate::check::{MAX_LENGTH_OF_ENGLISH_SENTENCE, MIN_LENGTH_OF_ENGLISH_SENTENCE};
+use crate::prelude::*;
+use crate::{MAX_LENGTH_OF_ENGLISH_SENTENCE, MIN_LENGTH_OF_ENGLISH_SENTENCE};
 const VALID_SYMBOL: &[char] = &[
     '\"', '\'', '-', ' ', '(', ')', ',', '.', '?', '!', '/', '%', ':', ';', '$',
 ];

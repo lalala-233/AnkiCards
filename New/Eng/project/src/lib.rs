@@ -1,16 +1,19 @@
 mod chinese_sentence;
 mod english_sentence;
+mod error;
 mod prelude;
 mod pronunciation;
 mod word;
 pub const MAX_LENGTH_OF_ENGLISH_SENTENCE: usize = 80;
 pub const MIN_LENGTH_OF_ENGLISH_SENTENCE: usize = 20;
+#[must_use]
 pub fn check(checked_str: &str) -> Option<(usize, String)> {
     checked_str
         .lines()
         .enumerate()
         .find_map(|(count_of_line, line)| check_line(line).err().map(|s| (count_of_line, s)))
 }
+#[must_use]
 pub fn count_english_len(checked_str: &str) -> Vec<usize> {
     checked_str
         .lines()

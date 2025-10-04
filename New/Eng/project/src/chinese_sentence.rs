@@ -1,4 +1,4 @@
-use crate::check::prelude::have_valid_combination;
+use crate::prelude::*;
 
 const VALID_CHINESE_SENTENCE_CHAR: &[char] = &[
     '，', '。', '：', '！', '？', '《', '》', '…', ' ', '—', '、', '「', '」', '·', '.',
@@ -55,6 +55,8 @@ mod tests {
             " 我正要离开，就在这时电话响了。",        // for ` `
             "人民大会堂于 1959 年 9 月对外开放，",    // for `，`
             "他们 35 年的婚姻生活一直保持着浪漫色彩", // for missing `。`
+            #[allow(clippy::invisible_characters)]
+            "我们对宇宙了解得越多，产生的问题也就越多。​", // for invisible character \u{200B}
         ];
         for sentence in VALID {
             assert_eq!(check_chinese_sentence(sentence), Ok(()));

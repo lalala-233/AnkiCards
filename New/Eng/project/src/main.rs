@@ -1,4 +1,3 @@
-mod check;
 const HEADER_LENGTH: usize = 5;
 fn main() -> std::io::Result<()> {
     // Open the input file (test.txt)
@@ -6,10 +5,10 @@ fn main() -> std::io::Result<()> {
     let binding = impure::read_to_string(&file_name)?;
     let (_, content) = split_header(&binding);
 
-    let len = check::count_english_len(content);
+    let len = checker::count_english_len(content);
     impure::print_statistic(&len);
 
-    let error_info = check::check(content);
+    let error_info = checker::check(content);
     impure::copy_error(error_info, content.lines().count());
 
     Ok(())
@@ -22,7 +21,7 @@ fn split_header(file: &str) -> (&str, &str) {
 pub enum Error {}
 
 mod impure {
-    use crate::check::{MAX_LENGTH_OF_ENGLISH_SENTENCE, MIN_LENGTH_OF_ENGLISH_SENTENCE};
+    use checker::{MAX_LENGTH_OF_ENGLISH_SENTENCE, MIN_LENGTH_OF_ENGLISH_SENTENCE};
     use std::{fs::File, io::Write, thread::sleep, time::Duration};
     pub fn read_env() -> String {
         std::env::args().nth(1).expect("Please provide a file name")
