@@ -4,7 +4,8 @@
 #deck column:1
 #tags column:7
 英语::大学六级英语单词|abbreviation|英[əˌbriːviˈeɪʃn] 美[əˌbriːviˈeɪʃn]|n.缩写|All abbreviations are to be written out.|所有的缩写都要完整地写出来。|大学六级英语单词|英语单词模板
-英语::大学六级英语单词|abide|英[əˈbaɪd] 美[əˈbaɪd]|v.遵守；忍受；坚持|Everyone must abide by the law.|所有的人都应遵守法律。|大学六级英语单词|英语单词模板
+英语::大学六级英语单词|abide|英[əˈbaɪd] 美[əˈbaɪd]|v.遵守；忍受；坚持|We must abide by the rules of the game.|我们必须遵守游戏规则。|大学六级英语单词|英语单词模板
+英语::大学六级英语单词|abide (2)|英[əˈbaɪd] 美[əˈbaɪd]|v.遵守；忍受；坚持|I cannot abide people who are constantly late.|我无法忍受经常迟到的人。|大学六级英语单词|英语单词模板
 英语::大学六级英语单词|absorption|英[əbˈsɔːpʃn] 美[əbˈsɔːrpʃn]|n.吸收，吸收作用；全神贯注，专心致志；合并；同化|Exercise can promote absorption of nutrients by the body.|运动可以促进身体吸收营养。|大学六级英语单词|英语单词模板
 英语::大学六级英语单词|abundance|英[əˈbʌndəns] 美[əˈbʌndəns]|n.丰富；充裕|At the party there is food and drink in abundance.|宴会中有丰富的食物和饮料。|大学六级英语单词|英语单词模板
 英语::大学六级英语单词|acquaint|英[əˈkweɪnt] 美[əˈkweɪnt]|vt.使了解；使熟知；告知|We should first try to acquaint ourselves with the facts.|我们先要想法了解事实。|大学六级英语单词|英语单词模板
@@ -747,7 +748,7 @@
 英语::大学六级英语单词|revive|英[rɪˈvaɪv] 美[rɪˈvaɪv]|vt.使重生；恢复精神；唤醒<br>vi.复生|We tried to revive him but without avail.|我们试图使他苏醒，但没有成功。|大学六级英语单词|英语单词模板
 英语::大学六级英语单词|revolve|英[rɪˈvɒlv] 美[rɪˈvɑːlv]|v.旋转；考虑；围绕|The wheels began to revolve slowly.|车轮开始慢慢转动。|大学六级英语单词|英语单词模板
 英语::大学六级英语单词|ridicule|英[ˈrɪdɪkjuːl] 美[ˈrɪdɪkjuːl]|n.嘲笑；愚弄；笑柄<br>v.嘲笑；愚弄|To choose such a line of work is to invite ridicule.|选择从事这个行业会惹人嘲笑。|大学六级英语单词|英语单词模板
-英语::大学六级英语单词|rigorous|英[ˈrɪɡərəs] 美[ˈrɪɡərəs]|adj.严格的；严厉的；严峻的；细致的|The planes have to undergo rigorous safety checks.|​​这些飞机必须要经过严格的安检。​|大学六级英语单词|英语单词模板
+英语::大学六级英语单词|rigorous|英[ˈrɪɡərəs] 美[ˈrɪɡərəs]|adj.严格的；严厉的；严峻的；细致的|The planes have to undergo rigorous safety checks.|这些飞机必须要经过严格的安检。|大学六级英语单词|英语单词模板
 英语::大学六级英语单词|rim|英[rɪm] 美[rɪm]|n.边；框<br>vt.镶边<br>vi.形成边缘|The water was even with the rim of the basin.|盆里的水与盆边平齐了。|大学六级英语单词|英语单词模板
 英语::大学六级英语单词|rinse|英[rɪns] 美[rɪns]|v.清洗；冲洗<br>n.清洗；染发；柔顺剂|Rinse the clay from the face with a wet washcloth.|用一块湿毛巾将泥清洗干净。|大学六级英语单词|英语单词模板
 英语::大学六级英语单词|riot|英[ˈraɪət] 美[ˈraɪət]|n.暴乱；骚乱；喧闹；（色彩）丰富；<俚>有趣的人<br>v.闹事；骚乱|The military were called in to deal with the riot.|已将军队调来镇压暴乱。|大学六级英语单词|英语单词模板
