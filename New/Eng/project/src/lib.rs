@@ -52,11 +52,17 @@ fn check_line(line: &str) -> Result<(), Error> {
     else {
         return Err(Error::WrongSeparatorNumber(result.unwrap_err().len()));
     };
-    word::check_word(word)?;
-    pronunciation::check_pronunciation(pronunciation)?;
+    word::check_word(word).map_err(|error| Error::Word {
+        word: word.to_string(),
+        error,
+    })?;
+    pronunciation::check_pronunciation(pronunciation).map_err(|error| Error::Pronunciation {
+        pronunciation: pronunciation.to_string(),
+        error,
+    })?;
     english_sentence::check_english_sentence(english_sentence).map_err(|error| {
         Error::EnglishSentence {
-            sentence: chinese_sentence.to_string(),
+            sentence: english_sentence.to_string(),
             error,
         }
     })?;

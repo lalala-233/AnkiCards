@@ -1,10 +1,10 @@
 use crate::prelude::*;
 use crate::{MAX_LENGTH_OF_ENGLISH_SENTENCE, MIN_LENGTH_OF_ENGLISH_SENTENCE};
-const VALID_SYMBOL: &[char] = &[
+const VALID_SYMBOLS: &[char] = &[
     '\"', '\'', '-', ' ', '(', ')', ',', '.', '?', '!', '/', '%', ':', ';', '$',
 ];
 const VALID_END_CHAR: &[char] = &['.', '?', '!'];
-const ALLOWED_COMBINATIONS: &[&str] = &[
+const VALID_COMBINATIONS: &[&str] = &[
     // before whitespace
     ": ", "; ", "% ", "! ", "? ", ") ", ", ", // placeholder for cargo fmt
     "' ", // as in `teachers' day`
@@ -16,6 +16,12 @@ const ALLOWED_COMBINATIONS: &[&str] = &[
     "\".", ".\"", " \"",
 ];
 pub fn check_english_sentence(sentence: &str) -> Result<(), String> {
+    if sentence.is_empty() {
+        return Err("Empty sentence".to_string());
+    }
+    if sentence.contains("  ") {
+        return Err("Contains multiple spaces".to_string());
+    }
     if !have_valid_ellipsis_if_present(sentence) {
         return Err("Invalid ellipsis `..` number".to_string());
     }
@@ -26,7 +32,7 @@ pub fn check_english_sentence(sentence: &str) -> Result<(), String> {
         return Err(format!("Invalid length {}", sentence.len()));
     }
     if !check_symbol_followed_by_space_or_number(sentence) {
-        return Err("some symbol not followed by space or number".to_string());
+        return Err("Some symbol not followed by space or number".to_string());
     }
     find_invalid_sentence_char(sentence)?;
     find_invalid_symbol(sentence)?;
@@ -36,7 +42,7 @@ pub fn check_english_sentence(sentence: &str) -> Result<(), String> {
     Ok(())
 }
 fn find_invalid_symbol(sentence: &str) -> Result<(), String> {
-    find_invalid_symbol_combination(sentence, VALID_SYMBOL, ALLOWED_COMBINATIONS)
+    find_invalid_symbol_combination(sentence, VALID_SYMBOLS, VALID_COMBINATIONS)
         .map(|s| format!("Invalid symbol: {s}"))
         .map_or(Ok(()), Err)
 }
@@ -55,25 +61,21 @@ fn have_valid_quotation_mark(checked_str: &str) -> bool {
     checked_str.matches('\"').count().is_multiple_of(2) && checked_str.matches("\"\"").count() == 0
 }
 fn is_valid_english_sentence_char(c: char) -> bool {
-    c.is_ascii_alphanumeric() || VALID_SYMBOL.contains(&c)
+    c.is_ascii_alphanumeric() || VALID_SYMBOLS.contains(&c)
 }
 
 fn find_invalid_end_char(sentence: &str) -> Result<(), String> {
-    let end = sentence.chars().last().unwrap();
-
-    if VALID_END_CHAR.contains(&end) {
+    if sentence.ends_with(VALID_END_CHAR) {
         Ok(())
     } else {
-        Err(end.to_string())
+        Err("End with invalid char".to_string())
     }
 }
 fn find_invalid_start_char(sentence: &str) -> Result<(), String> {
-    let start = sentence.chars().next().unwrap();
-
-    if start.is_ascii_alphanumeric() {
+    if sentence.starts_with(|c: char| c.is_ascii_alphanumeric()) {
         Ok(())
     } else {
-        Err(start.to_string())
+        Err("Start with invalid char".to_string())
     }
 }
 

@@ -8,20 +8,23 @@ pub enum Error {
     EnglishSentence { sentence: String, error: String },
     #[error("{sentence}")]
     ChineseSentence { sentence: String, error: String },
-    #[error("{0}")]
-    Pronunciation(String),
-    #[error("{0}")]
-    Word(String),
+    #[error("{pronunciation}")]
+    Pronunciation {
+        pronunciation: String,
+        error: String,
+    },
+    #[error("{word}")]
+    Word { word: String, error: String },
 }
 impl Error {
     #[must_use]
-    pub fn inner(&self) -> &str {
+    pub fn error(&self) -> &str {
         match self {
             Self::WrongSeparatorNumber(_) => SEPARATOR,
-            Self::EnglishSentence { .. }
-            | Self::ChineseSentence { .. }
-            | Self::Pronunciation(_)
-            | Self::Word(_) => todo!(),
+            Self::EnglishSentence { error, .. }
+            | Self::ChineseSentence { error, .. }
+            | Self::Pronunciation { error, .. }
+            | Self::Word { error, .. } => error,
         }
     }
 }

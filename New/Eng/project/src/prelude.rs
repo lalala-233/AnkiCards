@@ -7,11 +7,11 @@ const ENGLISH_CHARS_FOLLOWED_BY_SPACE_OR_NUMBER: &[char] = &[
 pub fn find_invalid_symbol_combination(
     checked_str: &str,
     symbols: &[char],
-    valid_combination: &[&str],
+    valid_combinations: &[&str],
 ) -> Option<String> {
     cartesian_product(symbols, symbols)
         .into_iter()
-        .filter(|s| !valid_combination.contains(&s.as_str()))
+        .filter(|s| !valid_combinations.contains(&s.as_str()))
         .find(|invalid| checked_str.contains(invalid))
 }
 pub fn have_valid_ellipsis_if_present(checked_str: &str) -> bool {

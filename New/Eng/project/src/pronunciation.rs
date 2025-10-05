@@ -66,37 +66,53 @@ pub const VALID_SYMBOL: &[&str] = &[
 
 const START_STR: &[&str] = &["英[", "美["];
 const END_STR: &str = "]";
-const VALID_WHITESPACE: &str = "  ";
 
-pub fn check_pronunciation(pronunciation: &str) -> Result<(), Error> {
+pub fn check_pronunciation(pronunciation: &str) -> Result<(), String> {
     if pronunciation.is_empty() {
         return Ok(());
     }
-    if have_valid_whitespace(pronunciation)
-        && have_balanced_symbol(pronunciation)
-        && START_STR
-            .iter()
-            .any(|prefix| pronunciation.starts_with(prefix))
-        && pronunciation.ends_with(END_STR)
-        && is_composited_by_valid_symbol(pronunciation)
-    {
-        return Ok(());
+    if pronunciation.contains("  ") {
+        return Err("Contains multiple spaces".to_string());
     }
-    Err(Error::Pronunciation(pronunciation.to_string()))
+    if !have_balanced_symbol(pronunciation) {
+        return Err("Unbalanced symbol".to_string());
+    }
+    find_invalid_start(pronunciation)?;
+    find_invalid_end(pronunciation)?;
+    find_invalid_symbol(pronunciation)?;
+    Ok(())
 }
-fn have_valid_whitespace(checked_str: &str) -> bool {
-    checked_str.matches(VALID_WHITESPACE).count() == 0
+fn find_invalid_start(pronunciation: &str) -> Result<(), String> {
+    if START_STR
+        .iter()
+        .any(|prefix| pronunciation.starts_with(prefix))
+    {
+        Ok(())
+    } else {
+        Err("Invalid start".to_string())
+    }
 }
+fn find_invalid_end(pronunciation: &str) -> Result<(), String> {
+    if pronunciation.ends_with(END_STR) {
+        Ok(())
+    } else {
+        Err("Invalid end".to_string())
+    }
+}
+
 fn have_balanced_symbol(checked_str: &str) -> bool {
     checked_str.matches('[').count() == checked_str.matches(']').count()
         && (checked_str.matches('(').count() == checked_str.matches(')').count())
 }
-fn is_composited_by_valid_symbol(checked_str: &str) -> bool {
-    checked_str.is_empty()
-        || VALID_SYMBOL
+fn find_invalid_symbol(checked_str: &str) -> Result<(), String> {
+    if checked_str.is_empty() {
+        Ok(())
+    } else {
+        VALID_SYMBOL
             .iter()
-            .find_map(|valid_symbol| checked_str.strip_prefix(valid_symbol))
-            .is_some_and(is_composited_by_valid_symbol)
+            .find_map(|sym| checked_str.strip_prefix(sym))
+            .map_or_else(|| Err(checked_str.to_string()), find_invalid_symbol)
+    }
 }
 
 #[cfg(test)]
@@ -133,10 +149,7 @@ mod tests {
             assert_eq!(check_pronunciation(sentence), Ok(()));
         }
         for &sentence in INVALID {
-            assert_eq!(
-                check_pronunciation(sentence),
-                Err(Error::Pronunciation(sentence.to_string()))
-            );
+            assert!(check_pronunciation(sentence).is_err(), "{sentence}");
         }
     }
 }

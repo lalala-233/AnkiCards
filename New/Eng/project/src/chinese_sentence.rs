@@ -1,12 +1,18 @@
 use crate::prelude::*;
 
-const VALID_CHINESE_SENTENCE_CHAR: &[char] = &[
+const VALID_SYMBOLS: &[char] = &[
     '，', '。', '：', '！', '？', '《', '》', '…', ' ', '—', '、', '「', '」', '·', '.',
 ];
 const VALID_CHINESE_START_CHAR: &[char] = &['《', '「'];
 const VALID_CHINESE_END_CHAR: &[char] = &['。', '？', '！', '…', '」'];
-const ALLOWED_CHINESE_COMBINATION: &[&str] = &["……", "——", "」。", "。」", ".」"];
+const VALID_COMBINATIONS: &[&str] = &["……", "——", "」。", "。」", ".」"];
 pub fn check_chinese_sentence(sentence: &str) -> Result<(), String> {
+    if sentence.is_empty() {
+        return Err("Empty sentence".to_string());
+    }
+    if sentence.contains("  ") {
+        return Err("Contains multiple spaces".to_string());
+    }
     find_invalid_sentence_char(sentence)?;
     find_invalid_symbol(sentence)?;
     find_invalid_start_char(sentence)?;
@@ -31,22 +37,22 @@ fn find_invalid_end_char(sentence: &str) -> Result<(), String> {
     }
 }
 fn find_invalid_start_char(sentence: &str) -> Result<(), String> {
-    let start = sentence.chars().next().unwrap();
-
-    if start.is_alphanumeric() || VALID_CHINESE_START_CHAR.contains(&start) {
+    if sentence.starts_with(VALID_CHINESE_START_CHAR)
+        || sentence.starts_with(|c: char| c.is_alphanumeric())
+    {
         Ok(())
     } else {
-        Err(start.to_string())
+        Err("End with invalid char".to_string())
     }
 }
 fn is_valid_sentence_char(c: char) -> bool {
-    c.is_alphanumeric() || VALID_CHINESE_SENTENCE_CHAR.contains(&c)
+    c.is_alphanumeric() || VALID_SYMBOLS.contains(&c)
 }
 fn find_invalid_symbol(sentence: &str) -> Result<(), String> {
     find_invalid_symbol_combination(
         sentence,
-        VALID_CHINESE_SENTENCE_CHAR,
-        ALLOWED_CHINESE_COMBINATION,
+        VALID_SYMBOLS,
+        VALID_COMBINATIONS,
     )
     .map(|s| format!("Invalid symbol: {s}"))
     .map_or(Ok(()), Err)

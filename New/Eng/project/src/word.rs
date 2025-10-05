@@ -1,35 +1,58 @@
 use super::prelude::*;
-const VALID_WORD_SYMBOL: &[char] = &['\'', '-', ' ', '(', ')', ',', '.', '?', '!', '/', '%'];
+const VALID_SYMBOLS: &[char] = &['\'', '-', ' ', '(', ')', ',', '.', '?', '!', '/', '%'];
 const VALID_END_WORD_CHAR: &[char] = &['.', '?', '!', ')'];
-const ALLOWED_COMBINATIONS: &[&str] = &[
+const VALID_COMBINATIONS: &[&str] = &[
     // before whitespace
     ") ", ", ", "' ", /* ones' something */
     // after whitespace
     " (", // special handle
     ". ", "..", " .",
 ];
-pub fn check_word(word: &str) -> Result<(), Error> {
-    if word.chars().all(is_valid_english_word_char)
-        // && have_valid_symbol_combination(word, VALID_WORD_SYMBOL, ALLOWED_COMBINATIONS)
-        && have_valid_ellipsis_if_present(word)
-        && is_starts_and_ends_with_valid_char(word)
-        && check_symbol_followed_by_space_or_number(word)
-    {
-        return Ok(());
+pub fn check_word(word: &str) -> Result<(), String> {
+    if word.is_empty() {
+        return Err("Empty word".to_string());
     }
-    Err(Error::Word(word.to_string()))
+    if word.contains("  ") {
+        return Err("Contains multiple spaces".to_string());
+    }
+    if !have_valid_ellipsis_if_present(word) {
+        return Err("Invalid ellipsis `..` number".to_string());
+    }
+    if !check_symbol_followed_by_space_or_number(word) {
+        return Err("Some symbol not followed by space or number".to_string());
+    }
+    find_invalid_word_char(word)?;
+    find_invalid_symbol(word)?;
+    find_invalid_start_char(word)?;
+    find_invalid_end_char(word)?;
+    Ok(())
+}
+fn find_invalid_symbol(word: &str) -> Result<(), String> {
+    find_invalid_symbol_combination(word, VALID_SYMBOLS, VALID_COMBINATIONS)
+        .map(|s| format!("Invalid symbol: {s}"))
+        .map_or(Ok(()), Err)
+}
+
+fn find_invalid_word_char(word: &str) -> Result<(), String> {
+    word.chars()
+        .find(|&c| !is_valid_english_word_char(c))
+        .map(|c| format!("Invalid char: {c}"))
+        .map_or(Ok(()), Err)
 }
 fn is_valid_english_word_char(c: char) -> bool {
-    c.is_ascii_alphanumeric() || VALID_WORD_SYMBOL.contains(&c)
+    c.is_ascii_alphanumeric() || VALID_SYMBOLS.contains(&c)
 }
-fn is_starts_and_ends_with_valid_char(checked_str: &str) -> bool {
-    let start = checked_str.chars().next().unwrap();
-    let end = checked_str.chars().last().unwrap();
-    is_valid_start_char(start) && is_valid_end_char(end)
+fn find_invalid_start_char(word: &str) -> Result<(), String> {
+    if word.starts_with(|c: char| c.is_ascii_alphanumeric()) {
+        Ok(())
+    } else {
+        Err("Start with invalid char".to_string())
+    }
 }
-const fn is_valid_start_char(c: char) -> bool {
-    c.is_ascii_alphanumeric()
-}
-fn is_valid_end_char(c: char) -> bool {
-    c.is_ascii_alphabetic() || VALID_END_WORD_CHAR.contains(&c)
+fn find_invalid_end_char(word: &str) -> Result<(), String> {
+    if word.starts_with(VALID_END_WORD_CHAR) || word.ends_with(|c: char| c.is_ascii_alphabetic()) {
+        Ok(())
+    } else {
+        Err("End with invalid char".to_string())
+    }
 }
