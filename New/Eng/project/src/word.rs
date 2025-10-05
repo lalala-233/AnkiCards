@@ -1,6 +1,6 @@
 use super::prelude::*;
 const VALID_SYMBOLS: &[char] = &['\'', '-', ' ', '(', ')', ',', '.', '?', '!', '/', '%'];
-const VALID_END_WORD_CHAR: &[char] = &['.', '?', '!', ')'];
+const VALID_END_WORD_CHAR: &[char] = &[')', '.', '?', '!'];
 const VALID_COMBINATIONS: &[&str] = &[
     // before whitespace
     ") ", ", ", "' ", /* ones' something */
@@ -22,9 +22,9 @@ pub fn check_word(word: &str) -> Result<(), String> {
         return Err("Some symbol not followed by space or number".to_string());
     }
     find_invalid_word_char(word)?;
-    find_invalid_symbol(word)?;
     find_invalid_start_char(word)?;
     find_invalid_end_char(word)?;
+    find_invalid_symbol(word)?;
     Ok(())
 }
 fn find_invalid_symbol(word: &str) -> Result<(), String> {
@@ -50,9 +50,28 @@ fn find_invalid_start_char(word: &str) -> Result<(), String> {
     }
 }
 fn find_invalid_end_char(word: &str) -> Result<(), String> {
-    if word.starts_with(VALID_END_WORD_CHAR) || word.ends_with(|c: char| c.is_ascii_alphabetic()) {
+    if word.ends_with(VALID_END_WORD_CHAR) || word.ends_with(|c: char| c.is_ascii_alphabetic()) {
         Ok(())
     } else {
         Err("End with invalid char".to_string())
+    }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    #[test]
+    fn check() {
+        const VALID: &[&str] = &[
+            "matter (2)", // ok because we support this
+            "Here you are.",
+        ];
+        const INVALID: &[&str] = &[];
+        for word in VALID {
+            assert_eq!(check_word(word), Ok(()));
+        }
+        for &word in INVALID {
+            assert!(check_word(word).is_err(), "sentence: {word}");
+        }
     }
 }

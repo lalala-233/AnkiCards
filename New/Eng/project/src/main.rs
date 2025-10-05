@@ -20,7 +20,7 @@ fn split_header(file: &str) -> (&str, &str) {
 }
 
 mod impure {
-    use checker::{error::Error, MAX_LENGTH_OF_ENGLISH_SENTENCE, MIN_LENGTH_OF_ENGLISH_SENTENCE};
+    use checker::{MAX_LENGTH_OF_ENGLISH_SENTENCE, MIN_LENGTH_OF_ENGLISH_SENTENCE, error::Error};
     use std::{fs::File, io::Write, thread::sleep, time::Duration};
     pub fn read_env() -> String {
         std::env::args().nth(1).expect("Please provide a file name")
@@ -47,12 +47,13 @@ mod impure {
         );
     }
     pub fn copy_error(error_info: Option<(usize, Error)>, len_of_line: usize) {
-        if let Some((line, s)) = error_info {
+        if let Some((line, error)) = error_info {
             let mut board = arboard::Clipboard::new().unwrap();
-            board.set_text(s.to_string()).unwrap();
+            board.set_text(error.to_string()).unwrap();
             sleep(Duration::from_millis(100));
             panic!(
-                "Invalid `{s}` at {}/{}",
+                "Error: {}\nInvalid `{error}` at {}/{}",
+                error.error(),
                 line + crate::HEADER_LENGTH + 1, // count from 0
                 len_of_line + crate::HEADER_LENGTH + 1
             );

@@ -1,4 +1,3 @@
-use crate::prelude::*;
 /// 英语国际音标完整列表 (IPA)
 pub const VALID_SYMBOL: &[&str] = &[
     // ========== 元音 Vowels ==========
@@ -145,11 +144,11 @@ mod tests {
             "英[ɒˈstreɪlɪə] 美[ɔˈstreljə]",           // for invalid `ɔ`
             "英[ˈtiː,ʃɜːt] 美[ˈti,ʃɜːrt]",            // for invalid `,`
         ];
-        for &sentence in VALID {
-            assert_eq!(check_pronunciation(sentence), Ok(()));
+        for &pronunciation in VALID {
+            assert_eq!(check_pronunciation(pronunciation), Ok(()));
         }
-        for &sentence in INVALID {
-            assert!(check_pronunciation(sentence).is_err(), "{sentence}");
+        for &pronunciation in INVALID {
+            assert!(check_pronunciation(pronunciation).is_err(), "{pronunciation}");
         }
     }
 }

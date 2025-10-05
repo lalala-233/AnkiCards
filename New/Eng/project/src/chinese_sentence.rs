@@ -13,10 +13,10 @@ pub fn check_chinese_sentence(sentence: &str) -> Result<(), String> {
     if sentence.contains("  ") {
         return Err("Contains multiple spaces".to_string());
     }
-    find_invalid_sentence_char(sentence)?;
-    find_invalid_symbol(sentence)?;
     find_invalid_start_char(sentence)?;
     find_invalid_end_char(sentence)?;
+    find_invalid_sentence_char(sentence)?;
+    find_invalid_symbol(sentence)?;
 
     Ok(())
 }
@@ -33,7 +33,7 @@ fn find_invalid_end_char(sentence: &str) -> Result<(), String> {
     if VALID_CHINESE_END_CHAR.contains(&end) {
         Ok(())
     } else {
-        Err(end.to_string())
+        Err("End with invalid char".to_string())
     }
 }
 fn find_invalid_start_char(sentence: &str) -> Result<(), String> {
@@ -42,20 +42,16 @@ fn find_invalid_start_char(sentence: &str) -> Result<(), String> {
     {
         Ok(())
     } else {
-        Err("End with invalid char".to_string())
+        Err("Start with invalid char".to_string())
     }
 }
 fn is_valid_sentence_char(c: char) -> bool {
     c.is_alphanumeric() || VALID_SYMBOLS.contains(&c)
 }
 fn find_invalid_symbol(sentence: &str) -> Result<(), String> {
-    find_invalid_symbol_combination(
-        sentence,
-        VALID_SYMBOLS,
-        VALID_COMBINATIONS,
-    )
-    .map(|s| format!("Invalid symbol: {s}"))
-    .map_or(Ok(()), Err)
+    find_invalid_symbol_combination(sentence, VALID_SYMBOLS, VALID_COMBINATIONS)
+        .map(|s| format!("Invalid symbol: {s}"))
+        .map_or(Ok(()), Err)
 }
 #[cfg(test)]
 mod tests {
