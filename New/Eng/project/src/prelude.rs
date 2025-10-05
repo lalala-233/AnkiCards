@@ -4,18 +4,18 @@ const ENGLISH_CHARS_FOLLOWED_BY_SPACE_OR_NUMBER: &[char] = &[
     ',', // $5,000
     ':', // 5:00
 ];
-pub fn have_valid_symbol_combination(
+pub fn find_invalid_symbol_combination(
     checked_str: &str,
-    valid_symbol: &[char],
-    allowed_combination: &[&str],
+    symbols: &[char],
+    valid_combination: &[&str],
 ) -> Option<String> {
-    cartesian_product(valid_symbol, valid_symbol)
+    cartesian_product(symbols, symbols)
         .into_iter()
-        .filter(|s| !allowed_combination.contains(&s.as_str()))
+        .filter(|s| !valid_combination.contains(&s.as_str()))
         .find(|invalid| checked_str.contains(invalid))
 }
-pub fn is_valid_ellipsis_if_present(checked_str: &str) -> bool {
-    !checked_str.contains("..") || checked_str.contains("...")
+pub fn have_valid_ellipsis_if_present(checked_str: &str) -> bool {
+    checked_str.matches("..").count() == checked_str.matches("...").count()
 }
 
 fn cartesian_product(chars_1: &[char], chars_2: &[char]) -> Vec<String> {

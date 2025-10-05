@@ -54,7 +54,12 @@ fn check_line(line: &str) -> Result<(), Error> {
     };
     word::check_word(word)?;
     pronunciation::check_pronunciation(pronunciation)?;
-    english_sentence::check_english_sentence(english_sentence)?;
+    english_sentence::check_english_sentence(english_sentence).map_err(|error| {
+        Error::EnglishSentence {
+            sentence: chinese_sentence.to_string(),
+            error,
+        }
+    })?;
     chinese_sentence::check_chinese_sentence(chinese_sentence).map_err(|error| {
         Error::ChineseSentence {
             sentence: chinese_sentence.to_string(),

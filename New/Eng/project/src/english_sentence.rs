@@ -3,7 +3,7 @@ use crate::{MAX_LENGTH_OF_ENGLISH_SENTENCE, MIN_LENGTH_OF_ENGLISH_SENTENCE};
 const VALID_SYMBOL: &[char] = &[
     '\"', '\'', '-', ' ', '(', ')', ',', '.', '?', '!', '/', '%', ':', ';', '$',
 ];
-const VALID_END_WORD_CHAR: &[char] = &['.', '?', '!'];
+const VALID_END_CHAR: &[char] = &['.', '?', '!'];
 const ALLOWED_COMBINATIONS: &[&str] = &[
     // before whitespace
     ": ", "; ", "% ", "! ", "? ", ") ", ", ", // placeholder for cargo fmt
@@ -15,18 +15,37 @@ const ALLOWED_COMBINATIONS: &[&str] = &[
     // `"` should be matched
     "\".", ".\"", " \"",
 ];
-pub fn check_english_sentence(sentence: &str) -> Result<(), Error> {
-    if sentence.chars().all(is_valid_english_sentence_char)
-        // && have_valid_symbol_combination(sentence, VALID_SYMBOL, ALLOWED_COMBINATIONS)
-        && is_valid_ellipsis_if_present(sentence)
-        && have_valid_quotation_mark(sentence)
-        && have_appropriate_length(sentence)
-        && is_starts_and_ends_with_valid_char(sentence)
-        && check_symbol_followed_by_space_or_number(sentence)
-    {
-        return Ok(());
+pub fn check_english_sentence(sentence: &str) -> Result<(), String> {
+    if !have_valid_ellipsis_if_present(sentence) {
+        return Err("Invalid ellipsis `..` number".to_string());
     }
-    Err(Error::EnglishSentence(sentence.to_string()))
+    if !have_valid_quotation_mark(sentence) {
+        return Err("Invalid question mark `\"` number".to_string());
+    }
+    if !have_appropriate_length(sentence) {
+        return Err(format!("Invalid length {}", sentence.len()));
+    }
+    if !check_symbol_followed_by_space_or_number(sentence) {
+        return Err("some symbol not followed by space or number".to_string());
+    }
+    find_invalid_sentence_char(sentence)?;
+    find_invalid_symbol(sentence)?;
+    find_invalid_start_char(sentence)?;
+    find_invalid_end_char(sentence)?;
+
+    Ok(())
+}
+fn find_invalid_symbol(sentence: &str) -> Result<(), String> {
+    find_invalid_symbol_combination(sentence, VALID_SYMBOL, ALLOWED_COMBINATIONS)
+        .map(|s| format!("Invalid symbol: {s}"))
+        .map_or(Ok(()), Err)
+}
+fn find_invalid_sentence_char(sentence: &str) -> Result<(), String> {
+    sentence
+        .chars()
+        .find(|&c| !is_valid_english_sentence_char(c))
+        .map(|c| format!("Invalid char: {c}"))
+        .map_or(Ok(()), Err)
 }
 const fn have_appropriate_length(checked_str: &str) -> bool {
     checked_str.len() >= MIN_LENGTH_OF_ENGLISH_SENTENCE
@@ -38,18 +57,26 @@ fn have_valid_quotation_mark(checked_str: &str) -> bool {
 fn is_valid_english_sentence_char(c: char) -> bool {
     c.is_ascii_alphanumeric() || VALID_SYMBOL.contains(&c)
 }
-fn is_starts_and_ends_with_valid_char(checked_str: &str) -> bool {
-    let start = checked_str.chars().next().unwrap();
-    let end = checked_str.chars().last().unwrap();
-    is_valid_sentence_start_char(start) && is_valid_sentence_end_char(end)
+
+fn find_invalid_end_char(sentence: &str) -> Result<(), String> {
+    let end = sentence.chars().last().unwrap();
+
+    if VALID_END_CHAR.contains(&end) {
+        Ok(())
+    } else {
+        Err(end.to_string())
+    }
+}
+fn find_invalid_start_char(sentence: &str) -> Result<(), String> {
+    let start = sentence.chars().next().unwrap();
+
+    if start.is_ascii_alphanumeric() {
+        Ok(())
+    } else {
+        Err(start.to_string())
+    }
 }
 
-const fn is_valid_sentence_start_char(c: char) -> bool {
-    c.is_ascii_alphanumeric()
-}
-fn is_valid_sentence_end_char(c: char) -> bool {
-    VALID_END_WORD_CHAR.contains(&c)
-}
 #[cfg(test)]
 mod tests {
     use super::*;
@@ -84,9 +111,9 @@ mod tests {
             assert_eq!(check_english_sentence(sentence), Ok(()));
         }
         for &sentence in INVALID {
-            assert_eq!(
-                check_english_sentence(sentence),
-                Err(Error::EnglishSentence(sentence.to_string()))
+            assert!(
+                check_english_sentence(sentence).is_err(),
+                "sentence: {sentence}"
             );
         }
     }

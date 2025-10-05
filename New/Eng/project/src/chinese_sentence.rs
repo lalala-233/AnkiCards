@@ -8,11 +8,7 @@ const VALID_CHINESE_END_CHAR: &[char] = &['。', '？', '！', '…', '」'];
 const ALLOWED_CHINESE_COMBINATION: &[&str] = &["……", "——", "」。", "。」", ".」"];
 pub fn check_chinese_sentence(sentence: &str) -> Result<(), String> {
     find_invalid_sentence_char(sentence)?;
-
-    find_invalid_symbol(sentence)
-        .map(|s| format!("Invalid symbol: {s}"))
-        .map_or(Ok(()), Err)?;
-
+    find_invalid_symbol(sentence)?;
     find_invalid_start_char(sentence)?;
     find_invalid_end_char(sentence)?;
 
@@ -25,8 +21,8 @@ fn find_invalid_sentence_char(sentence: &str) -> Result<(), String> {
         .map(|c| format!("Invalid char: {c}"))
         .map_or(Ok(()), Err)
 }
-fn find_invalid_end_char(checked_str: &str) -> Result<(), String> {
-    let end = checked_str.chars().last().unwrap();
+fn find_invalid_end_char(sentence: &str) -> Result<(), String> {
+    let end = sentence.chars().last().unwrap();
 
     if VALID_CHINESE_END_CHAR.contains(&end) {
         Ok(())
@@ -34,8 +30,8 @@ fn find_invalid_end_char(checked_str: &str) -> Result<(), String> {
         Err(end.to_string())
     }
 }
-fn find_invalid_start_char(checked_str: &str) -> Result<(), String> {
-    let start = checked_str.chars().next().unwrap();
+fn find_invalid_start_char(sentence: &str) -> Result<(), String> {
+    let start = sentence.chars().next().unwrap();
 
     if start.is_alphanumeric() || VALID_CHINESE_START_CHAR.contains(&start) {
         Ok(())
@@ -46,12 +42,14 @@ fn find_invalid_start_char(checked_str: &str) -> Result<(), String> {
 fn is_valid_sentence_char(c: char) -> bool {
     c.is_alphanumeric() || VALID_CHINESE_SENTENCE_CHAR.contains(&c)
 }
-fn find_invalid_symbol(checked_str: &str) -> Option<String> {
-    have_valid_symbol_combination(
-        checked_str,
+fn find_invalid_symbol(sentence: &str) -> Result<(), String> {
+    find_invalid_symbol_combination(
+        sentence,
         VALID_CHINESE_SENTENCE_CHAR,
         ALLOWED_CHINESE_COMBINATION,
     )
+    .map(|s| format!("Invalid symbol: {s}"))
+    .map_or(Ok(()), Err)
 }
 #[cfg(test)]
 mod tests {
@@ -79,7 +77,10 @@ mod tests {
             assert_eq!(check_chinese_sentence(sentence), Ok(()));
         }
         for &sentence in INVALID {
-            assert!(check_chinese_sentence(sentence).is_err());
+            assert!(
+                check_chinese_sentence(sentence).is_err(),
+                "sentence: {sentence}"
+            );
             //TODO: check error message
         }
     }

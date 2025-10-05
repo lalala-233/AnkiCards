@@ -4,8 +4,8 @@ use thiserror::Error;
 pub enum Error {
     #[error("have {0}/{SEPARATOR_NUMBER} separator `{SEPARATOR}`")]
     WrongSeparatorNumber(usize),
-    #[error("{0}")]
-    EnglishSentence(String),
+    #[error("{sentence}")]
+    EnglishSentence { sentence: String, error: String },
     #[error("{sentence}")]
     ChineseSentence { sentence: String, error: String },
     #[error("{0}")]
@@ -18,7 +18,7 @@ impl Error {
     pub fn inner(&self) -> &str {
         match self {
             Self::WrongSeparatorNumber(_) => SEPARATOR,
-            Self::EnglishSentence(_)
+            Self::EnglishSentence { .. }
             | Self::ChineseSentence { .. }
             | Self::Pronunciation(_)
             | Self::Word(_) => todo!(),

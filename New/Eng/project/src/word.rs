@@ -11,7 +11,7 @@ const ALLOWED_COMBINATIONS: &[&str] = &[
 pub fn check_word(word: &str) -> Result<(), Error> {
     if word.chars().all(is_valid_english_word_char)
         // && have_valid_symbol_combination(word, VALID_WORD_SYMBOL, ALLOWED_COMBINATIONS)
-        && is_valid_ellipsis_if_present(word)
+        && have_valid_ellipsis_if_present(word)
         && is_starts_and_ends_with_valid_char(word)
         && check_symbol_followed_by_space_or_number(word)
     {
