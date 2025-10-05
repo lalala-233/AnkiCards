@@ -3,7 +3,8 @@
 #notetype column:8
 #deck column:1
 #tags column:7
-英语::Words|legitimate|英[lɪˈdʒɪtɪmət] 美[lɪˈdʒɪtɪmət]|adj.合法的；世袭的；婚生的；正当的；合理的<br>vt.使合法；授权；宣布……为合法|I'm not sure that his business is strictly legitimate.|我说不好他的生意是否全部合法。|Word|英语单词模板
+英语::Words|legitimate|英[lɪˈdʒɪtɪmət] 美[lɪˈdʒɪtɪmət]|adj.合法的；世袭的；婚生的；正当的；合理的<br>vt.使合法；授权；宣布……为合法|She raised a legitimate question during the meeting.|她在会议期间提出了一个合理的问题。|Word|英语单词模板
+英语::Words|legitimate (2)|英[lɪˈdʒɪtɪmət] 美[lɪˈdʒɪtɪmət]|adj.合法的；世袭的；婚生的；正当的；合理的<br>vt.使合法；授权；宣布……为合法|The contract is completely legitimate and binding.|该合同完全合法且具有约束力。|Word|英语单词模板
 英语::Words|cluster|英[ˈklʌstə(r)] 美[ˈklʌstər]|n.群；簇；丛；串<br>v.群集；丛生；使成群|A cluster of tourists are waiting for their tour guide.|一群游客正在等他们的导游。|Word|英语单词模板
 英语::Words|institutional|英[ˌɪnstɪˈtjuːʃənl] 美[ˌɪnstɪˈtuːʃənl]|adj.制度上的；惯例的；机构的；学会的|Law is a main institutional component of human society.|法律是人类社会制度的重要部分。|Word|英语单词模板
 英语::Words|depict|英[dɪˈpɪkt] 美[dɪˈpɪkt]|vt.描述；描绘；画|Her novel depicts life in modern London.|她的小说描写的是伦敦现代的生活。|Word|英语单词模板
@@ -64,7 +65,7 @@
 英语::Words|mainstream|英[ˈmeɪnstriːm] 美[ˈmeɪnstriːm]|n.主流<br>adj.主流的<br>v.把……编入学校正规班级；把……纳入主流|There is no problem to be outside the mainstream.|远离主流是没有问题的。|Word|英语单词模板
 英语::Words|rumor|英[ˈruːmə] 美[ˈruːmə]|n.谣言；传闻<br>vt.谣传<br>=<英>rumour|I'm rather bored by the rumor.|这谣传我真听厌烦了。|Word|英语单词模板
 英语::Words|implementation|英[ˌɪmplɪmenˈteɪʃn] 美[ˌɪmplɪmenˈteɪʃn]|n.履行；落实；装置|Effective implementation of the law is as important as its creation.|法律的有效实施与其制定同样重要。|Word|英语单词模板
-英语::Words|longtime|英[ˈlɒŋtaɪm] 美[ˈlɒŋtaɪm]|adj.长期的（持久的）|The unrest follows the death of Guinea's longtime President Lansana Conte on Monday.|动荡的局面是在几内亚长期的总统孔戴于周一去世之后发生。|Word|英语单词模板
+英语::Words|longtime|英[ˈlɒŋtaɪm] 美[ˈlɒŋtaɪm]|adj.长期的（持久的）|After longtime consideration, I've decided to accept the job offer.|经过长期考虑，我决定接受这份工作邀请。|Word|英语单词模板
 英语::Words|legislative|英[ˈledʒɪslətɪv] 美[ˈledʒɪsleɪtɪv]|adj.立法的；有立法权的<br>n.立法机构；立法权|The legislative system needs reforming.|立法机构需要改革。|Word|英语单词模板
 英语::Words|effectiveness|英[ɪˌfekˈtɪvnɪs] 美[ɪˌfekˈtɪvnɪs]|n.有效性；效力|I doubt the effectiveness of the medicine.|我怀疑这种药的有效性。|Word|英语单词模板
 英语::Words|fraud|英[frɔːd] 美[frɔːd]|n.欺骗；诈欺；骗子|She was put on trial for fraud.|她因涉及诈骗罪而受审。|Word|英语单词模板
@@ -10018,5 +10019,4 @@
 英语::Words|leave out|英[liːv aʊt] 美[liːv aʊt]|遗漏；省略；未顾及；不包括；不提及；忽略|Don't leave out any important details in your report.|在你的报告中不要遗漏任何重要细节。|Word|英语单词模板
 英语::Words|either way||不管怎样；无论哪种方式|Either way, we need to make a decision by tomorrow.|无论哪种方式，我们都需要在明天之前做出决定。|Word|英语单词模板
 英语::Words|fill out||填写；变胖；变厚；变圆|Please fill out this application form completely.|请完整填写这份申请表。|Word|英语单词模板
-英语::Words|piecewise|英[ˈpɪsˌwaɪs] 美[ˈpiːsˌwaɪz]
-|adj.[数] 分段的<br>adv.分段地|The function is defined piecewise over different intervals.|这个函数在不同的区间上是分段定义的。|Word|英语单词模板
+英语::Words|piecewise|英[ˈpɪsˌwaɪs] 美[ˈpiːsˌwaɪz]|adj.[数] 分段的<br>adv.分段地|The function is defined piecewise over different intervals.|这个函数在不同的区间上是分段定义的。|Word|英语单词模板

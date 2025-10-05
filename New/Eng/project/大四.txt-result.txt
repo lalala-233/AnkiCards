@@ -3,7 +3,7 @@
 #notetype column:8
 #deck column:1
 #tags column:7
-英语::大学四级英语单词|absolutely|英[ˈæbsəluːtli] 美[ˈæbsəluːtli]|adv.完全地；绝对地；[语]独立地<br>int.（表示赞同）完全正确，一点没错|I trust his discretion absolutely.|我完全相信他的判断。|大学四级英语单词|英语单词模板
+英语::大学四级英语单词|absolutely|英[ˈæbsəluːtli] 美[ˈæbsəluːtli]|adv.完全地；绝对地；[语]独立地<br>int.（表示赞同）完全正确，一点没错|I absolutely agree with your proposal.|我完全同意你的提议。|大学四级英语单词|英语单词模板
 英语::大学四级英语单词|acceleration|英[əkˌseləˈreɪʃn] 美[əkˌseləˈreɪʃn]|n.加速；促进；加速度|Prompt acceleration with high gradients has advantages.|利用高梯度达到瞬间加速有它的好处。|大学四级英语单词|英语单词模板
 英语::大学四级英语单词|acceptable|英[əkˈseptəbl] 美[əkˈseptəbl]|adj.合意的；受欢迎的；可接受的|If these terms are not acceptable to you, we may suggest others.|如果你对这些条件不合意，我们可提出别的条件。|大学四级英语单词|英语单词模板
 英语::大学四级英语单词|acceptance|英[əkˈseptəns] 美[əkˈseptəns]|n.认可；同意；承兑；接受（礼物、邀请、建议等）|The proposal met with general acceptance.|这个建议得到普遍的认可。|大学四级英语单词|英语单词模板
@@ -121,7 +121,7 @@
 英语::大学四级英语单词|capture|英[ˈkæptʃə(r)] 美[ˈkæptʃər]|vt.捕获；占领；夺取；吸引；（用照片等）留存<br>n.捕获；战利品|The animals are captured in nets and sold to local zoos.|那些动物用网捕获后被卖到当地的动物园。|大学四级英语单词|英语单词模板
 英语::大学四级英语单词|career|英[kəˈrɪə(r)] 美[kəˈrɪr]|n.生涯；职业；事业<br>vi.猛冲；飞跑|His early career was not a great success.|他早期的生涯并不很成功。|大学四级英语单词|英语单词模板
 英语::大学四级英语单词|cargo|英[ˈkɑːɡəʊ] 美[ˈkɑːrɡoʊ]|n.货物；船货|The ship is discharging the cargo.|船正在卸货。|大学四级英语单词|英语单词模板
-英语::大学四级英语单词|cart|英[kɑːt] 美[kɑːrt]|n.【C】（二轮或四轮）运货马车；手推车<br>vt.<非正式>（用手推车）运送；（用力；粗鲁地）拖|Don't put the cart before the horse.|[谚]勿本末倒置。|大学四级英语单词|英语单词模板
+英语::大学四级英语单词|cart|英[kɑːt] 美[kɑːrt]|n.【C】（二轮或四轮）运货马车；手推车<br>vt.<非正式>（用手推车）运送；（用力；粗鲁地）拖|We need a cart to carry all these groceries to the car.|我们需要一辆手推车把这些杂货搬到车上。|大学四级英语单词|英语单词模板
 英语::大学四级英语单词|catalog|英[ˈkætəlɔːɡ] 美[ˈkætəlɔːɡ]|n.目录；大学概况手册；商品型录<br>vt.做目录；分类说明；名入列表<br>vi.（商品）在型录中明码标价|You can look for the book in the library catalog.|你可以在图书馆的图书目录上查找这本书。|大学四级英语单词|英语单词模板
 英语::大学四级英语单词|cease|英[siːs] 美[siːs]|v.终止；停止<br>n.停止|He was going to cease working for them.|他将不再为他们干活。|大学四级英语单词|英语单词模板
 英语::大学四级英语单词|cement|英[sɪˈment] 美[sɪˈment]|n.水泥；纽带；接合剂；牙骨质；补牙物；基石<br>vt.用水泥涂；巩固<br>vi.接合起来|The sack of cement hit the ground with a thump.|水泥袋砰的一声落在地上。|大学四级英语单词|英语单词模板
