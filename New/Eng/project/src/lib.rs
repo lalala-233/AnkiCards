@@ -5,6 +5,7 @@ mod prelude;
 mod pronunciation;
 mod word;
 use error::Error;
+pub const SEPARATOR: &str = "|";
 pub const SEPARATOR_NUMBER: usize = 8;
 pub const MAX_LENGTH_OF_ENGLISH_SENTENCE: usize = 80;
 pub const MIN_LENGTH_OF_ENGLISH_SENTENCE: usize = 20;
@@ -54,9 +55,14 @@ fn check_line(line: &str) -> Result<(), Error> {
     word::check_word(word)?;
     pronunciation::check_pronunciation(pronunciation)?;
     english_sentence::check_english_sentence(english_sentence)?;
-    chinese_sentence::check_chinese_sentence(chinese_sentence)?;
+    chinese_sentence::check_chinese_sentence(chinese_sentence).map_err(|error| {
+        Error::ChineseSentence {
+            sentence: chinese_sentence.to_string(),
+            error,
+        }
+    })?;
     Ok(())
 }
 fn extract_line(line: &str) -> Result<[&str; SEPARATOR_NUMBER], Vec<&str>> {
-    line.split('|').collect::<Vec<_>>().try_into()
+    line.split(SEPARATOR).collect::<Vec<_>>().try_into()
 }

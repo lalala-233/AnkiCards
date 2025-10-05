@@ -6,31 +6,48 @@ const VALID_CHINESE_SENTENCE_CHAR: &[char] = &[
 const VALID_CHINESE_START_CHAR: &[char] = &['《', '「'];
 const VALID_CHINESE_END_CHAR: &[char] = &['。', '？', '！', '…', '」'];
 const ALLOWED_CHINESE_COMBINATION: &[&str] = &["……", "——", "」。", "。」", ".」"];
-pub fn check_chinese_sentence(sentence: &str) -> Result<(), Error> {
-    if sentence.chars().all(is_valid_sentence_char)
-        && is_valid_str(sentence)
-        && is_starts_and_ends_with_valid_char(sentence)
-    {
-        return Ok(());
-    }
-    Err(Error::ChineseSentence(sentence.to_string()))
+pub fn check_chinese_sentence(sentence: &str) -> Result<(), String> {
+    find_invalid_sentence_char(sentence)?;
+
+    find_invalid_symbol(sentence)
+        .map(|s| format!("Invalid symbol: {s}"))
+        .map_or(Ok(()), Err)?;
+
+    find_invalid_start_char(sentence)?;
+    find_invalid_end_char(sentence)?;
+
+    Ok(())
 }
-fn is_starts_and_ends_with_valid_char(checked_str: &str) -> bool {
-    let start = checked_str.chars().next().unwrap();
+fn find_invalid_sentence_char(sentence: &str) -> Result<(), String> {
+    sentence
+        .chars()
+        .find(|&c| !is_valid_sentence_char(c))
+        .map(|c| format!("Invalid char: {c}"))
+        .map_or(Ok(()), Err)
+}
+fn find_invalid_end_char(checked_str: &str) -> Result<(), String> {
     let end = checked_str.chars().last().unwrap();
-    is_valid_start_char(start) && is_valid_end_char(end)
+
+    if VALID_CHINESE_END_CHAR.contains(&end) {
+        Ok(())
+    } else {
+        Err(end.to_string())
+    }
 }
-fn is_valid_end_char(c: char) -> bool {
-    VALID_CHINESE_END_CHAR.contains(&c)
-}
-fn is_valid_start_char(c: char) -> bool {
-    c.is_alphanumeric() || VALID_CHINESE_START_CHAR.contains(&c)
+fn find_invalid_start_char(checked_str: &str) -> Result<(), String> {
+    let start = checked_str.chars().next().unwrap();
+
+    if start.is_alphanumeric() || VALID_CHINESE_START_CHAR.contains(&start) {
+        Ok(())
+    } else {
+        Err(start.to_string())
+    }
 }
 fn is_valid_sentence_char(c: char) -> bool {
     c.is_alphanumeric() || VALID_CHINESE_SENTENCE_CHAR.contains(&c)
 }
-fn is_valid_str(checked_str: &str) -> bool {
-    have_valid_combination(
+fn find_invalid_symbol(checked_str: &str) -> Option<String> {
+    have_valid_symbol_combination(
         checked_str,
         VALID_CHINESE_SENTENCE_CHAR,
         ALLOWED_CHINESE_COMBINATION,
@@ -62,10 +79,8 @@ mod tests {
             assert_eq!(check_chinese_sentence(sentence), Ok(()));
         }
         for &sentence in INVALID {
-            assert_eq!(
-                check_chinese_sentence(sentence),
-                Err(Error::ChineseSentence(sentence.to_string()))
-            );
+            assert!(check_chinese_sentence(sentence).is_err());
+            //TODO: check error message
         }
     }
 }

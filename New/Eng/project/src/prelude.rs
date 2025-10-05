@@ -4,15 +4,15 @@ const ENGLISH_CHARS_FOLLOWED_BY_SPACE_OR_NUMBER: &[char] = &[
     ',', // $5,000
     ':', // 5:00
 ];
-pub fn have_valid_combination(
+pub fn have_valid_symbol_combination(
     checked_str: &str,
     valid_symbol: &[char],
     allowed_combination: &[&str],
-) -> bool {
+) -> Option<String> {
     cartesian_product(valid_symbol, valid_symbol)
-        .iter()
+        .into_iter()
         .filter(|s| !allowed_combination.contains(&s.as_str()))
-        .all(|invalid| !checked_str.contains(invalid))
+        .find(|invalid| checked_str.contains(invalid))
 }
 pub fn is_valid_ellipsis_if_present(checked_str: &str) -> bool {
     !checked_str.contains("..") || checked_str.contains("...")

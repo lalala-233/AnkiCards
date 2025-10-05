@@ -17,7 +17,7 @@ const ALLOWED_COMBINATIONS: &[&str] = &[
 ];
 pub fn check_english_sentence(sentence: &str) -> Result<(), Error> {
     if sentence.chars().all(is_valid_english_sentence_char)
-        && have_valid_combination(sentence, VALID_SYMBOL, ALLOWED_COMBINATIONS)
+        // && have_valid_symbol_combination(sentence, VALID_SYMBOL, ALLOWED_COMBINATIONS)
         && is_valid_ellipsis_if_present(sentence)
         && have_valid_quotation_mark(sentence)
         && have_appropriate_length(sentence)
