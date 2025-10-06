@@ -163,7 +163,7 @@
 英语::初中英语单词|to|英[tə] 美[tə]|prep. 对于；为了；（表示方向）到；向；（表示间接关系）给<br>adv.（表示方向）去；（门）关上|This will be a great boost to the economy.|这对于经济发展将是一个巨大的促进。|初中英语单词|英语单词模板
 英语::初中英语单词|meet|英[miːt] 美[miːt]|v. 遇见；满足<br>n. 运动会；集会<br>adj. 合适的|I chanced to meet an old friend in the park today.|今天我在公园碰巧遇见一位老朋友。|初中英语单词|英语单词模板
 英语::初中英语单词|child|英[tʃaɪld] 美[tʃaɪld]|n. 小孩；子女；产物|He's still but a child.|他仅仅是个小孩子。|初中英语单词|英语单词模板
-英语::初中英语单词|children|英[ˈtʃɪldrən] 美[ˈtʃɪldrən]|n. 孩子们，儿童，小孩（名词 child 的复数形式）|Children shouldn't tell tales.|小孩子不应该说谎。|初中英语单词|英语单词模板
+英语::初中英语单词|children|英[ˈtʃɪldrən] 美[ˈtʃɪldrən]|n. 孩子们，儿童，小孩（名词 child 的复数形式）|The children are playing in the park.|孩子们正在公园里玩耍。|初中英语单词|英语单词模板
 英语::初中英语单词|welcome|英[ˈwelkəm] 美[ˈwelkəm]|vt. 欢迎<br>adj. 受欢迎的<br>n. 欢迎<br>int. 欢迎（客人来访或新成员的加入）|I don't welcome intrusions into my privacy.|我不希望有人干扰我的私生活。|初中英语单词|英语单词模板
 英语::初中英语单词|our|英[ˈaʊə(r) ] 美[ˈaʊər]|adj. 我们的|He enrolled our names.|他把我们的名字登记下来了。|初中英语单词|英语单词模板
 英语::初中英语单词|come|英[kʌm] 美[kʌm]|v. 来；来到；来取、来拿；成为；达到；接近；摆出……的样子；处于（某个位置）|The train slowly came to the station.|火车缓缓地进站。|初中英语单词|英语单词模板
@@ -253,7 +253,7 @@
 英语::初中英语单词|hat|英[hæt] 美[hæt]|n. 帽子<br>vt. 给……戴帽子<br>vi. 提供帽子；制造帽子|She bought a hat yesterday.|她昨天买了一顶帽子。|初中英语单词|英语单词模板
 英语::初中英语单词|doctor|英[ˈdɒktə(r)] 美[ˈdɑːktər]|n. 博士；医生<br>v. 篡改，伪造；阉割|He is a Doctor of Philosophy.|他是一位哲学博士。|初中英语单词|英语单词模板
 英语::初中英语单词|worker|英[ˈwɜːkə(r)] 美[ˈwɜːrkər]|n. 工人；工作者|The worker's overalls were badly burned by acid.|这位工人的工作装被酸腐蚀得很厉害。|初中英语单词|英语单词模板
-英语::初中英语单词|guess|英[ɡes] 美[ɡes]|v. 推测；猜中；以为<br>n. 猜测；猜想|I don't really know, I'm just guessing.|我真的不知道，我仅仅是猜想。|初中英语单词|英语单词模板
+英语::初中英语单词|guess|英[ɡes] 美[ɡes]|v. 推测；猜中；以为<br>n. 猜测；猜想|Can you guess how old I am?|你能猜出我多大吗？|初中英语单词|英语单词模板
 英语::初中英语单词|behind|英[bɪˈhaɪnd] 美[bɪˈhaɪnd]|prep. 在……之后；迟于……；落后于；基于；追赶<br>adv. 在后面地；落后地；迟；不如<br>n.<口>屁股|Who is the girl standing behind Richard?|站在理查德后面的那个姑娘是谁？|初中英语单词|英语单词模板
 英语::初中英语单词|chair|英[tʃeə(r)] 美[tʃer]|n. 椅子；（会议的）主席<br>vt. 主持；当……的主席|Her hands rested on the arms of her chair.|她的双手搁在椅子的扶手上。|初中英语单词|英语单词模板
 英语::初中英语单词|ball|英[bɔːl] 美[bɔːl]|n. 球；球状物；炮弹；舞会；愉快的经历；<口>胆量；胡说；（复）睾丸<br>v. 使成球状；呈球状；<俚>性交|The cat made little rushes to and fro after the ball.|猫追着球跑过来跑过去。|初中英语单词|英语单词模板
@@ -1041,7 +1041,10 @@
 英语::初中英语单词|lady|英[ˈleɪdi] 美[ˈleɪdi]|n. 夫人；女士|The lady looked at me with a contented smile.|那位夫人带着满意的微笑看着我。|初中英语单词|英语单词模板
 英语::初中英语单词|library|英[ˈlaɪbrəri] 美[ˈlaɪbreri]|n. 图书馆；藏书；书房|The town has its own public library and public gardens.|那城市有自己的公用图书馆和公园。|初中英语单词|英语单词模板
 英语::初中英语单词|crossing|英[ˈkrɒsɪŋ] 美[ˈkrɔːsɪŋ]|n. 人行横道；十字路口；横渡<br>动词 cross 的现在分词。|We came to a crossing.|我们来到一个十字路口。|初中英语单词|英语单词模板
-英语::初中英语单词|across|英[əˈkrɒs] 美[əˈkrɔːs]|adv. 横过；穿过；朝向特定的方向；在对面；横写地<br>prep. 横过；穿过；在对面；在（身体某部位）上；在…各处|Can you swim across the river?|你能游到河的对岸吗？|初中英语单词|英语单词模板
+英语::初中英语单词|across|英[əˈkrɒs] 美[əˈkrɔːs]|adv. 横过；穿过；朝向特定的方向；在对面；横写地<br>prep. 横过；穿过；在对面；在（身体某部位）上；在…各处|There's a beautiful bridge across the river.|河上有一座美丽的桥。|初中英语单词|英语单词模板
+英语::初中英语单词|across (2)|英[əˈkrɒs] 美[əˈkrɔːs]|adv. 横过；穿过；朝向特定的方向；在对面；横写地<br>prep. 横过；穿过；在对面；在（身体某部位）上；在…各处|We walked across the park to get to the museum.|我们穿过公园到达博物馆。|初中英语单词|英语单词模板
+英语::初中英语单词|across (3)|英[əˈkrɒs] 美[əˈkrɔːs]|adv. 横过；穿过；朝向特定的方向；在对面；横写地<br>prep. 横过；穿过；在对面；在（身体某部位）上；在…各处|The store is right across the street from our office.|商店就在我们办公室的街对面。|初中英语单词|英语单词模板
+英语::初中英语单词|across (4)|英[əˈkrɒs] 美[əˈkrɔːs]|adv. 横过；穿过；朝向特定的方向；在对面；横写地<br>prep. 横过；穿过；在对面；在（身体某部位）上；在…各处|The news spread quickly across the country.|消息迅速传遍了全国。|初中英语单词|英语单词模板
 英语::初中英语单词|miss|英[mɪs] 美[mɪs]|n.[M-]小姐<br>vt. 想念<br>vt. 错过；漏掉|Miss Williams can read and write French very well.|威廉斯小姐能够很自如地用法语看书和写东西。|初中英语单词|英语单词模板
 英语::初中英语单词|church|英[tʃɜːtʃ] 美[tʃɜːrtʃ]|n. 礼拜仪式；教堂；基督教徒<br>adj. 教堂的<br>v. 把……带到教堂接受某种宗教仪式|Church begins at 9 o' clock.|礼拜仪式 9 点开始。|初中英语单词|英语单词模板
 英语::初中英语单词|cafe|英[ˈkæfeɪ] 美[kæˈfeɪ]|n. 咖啡馆；小餐馆|This cafe keeps late into the night.|这家咖啡馆一直开到深夜。|初中英语单词|英语单词模板
@@ -1396,7 +1399,7 @@
 英语::初中英语单词|natural|英[ˈnætʃrəl] 美[ˈnætʃrəl]|adj. 自然的；天然的；私生的|It is natural that he should fall in love with such a beautiful girl.|他爱上那位美丽的姑娘是很自然的事。|初中英语单词|英语单词模板
 英语::初中英语单词|guide|英[ɡaɪd] 美[ɡaɪd]|n. 向导；导游；指南；指导者<br>vt. 指导；引导；为……领路<br>vi. 作导游|As a university graduate, I am seeking a job as a tourist guide.|作为一名大学毕业生，我正在谋求一份当导游的工作。|初中英语单词|英语单词模板
 英语::初中英语单词|underground|英[ˌʌndəˈɡraʊnd] 美[ˌʌndəˈɡraʊnd]|adj. 地下的；秘密的<br>adv. 在地下；秘密地<br>n. 地下；地铁；地道；秘密活动|Listen to the Sound From Underground.|听听地下的声音。|初中英语单词|英语单词模板
-英语::初中英语单词|fossil|英[ˈfɒsl] 美[ˈfɑːsl]|n. 化石；食古不化的人；守旧的事物|Coal is a fossil fuel.|煤是一种矿物燃料。|初中英语单词|英语单词模板
+英语::初中英语单词|fossil|英[ˈfɒsl] 美[ˈfɑːsl]|n. 化石；食古不化的人；守旧的事物|Fossil fuels are non-renewable energy sources.|化石燃料是不可再生能源。|初中英语单词|英语单词模板
 英语::初中英语单词|desert|英[ˈdezət] 美[ˈdezərt]|n. 沙漠；荒地；应得（的惩罚或奖励）<br>v. 遗弃；离弃；放弃；擅离职守|Two thirds of the country is dry or desert.|这个国家有三分之二的地方气候干燥，或者是沙漠。|初中英语单词|英语单词模板
 英语::初中英语单词|Gobi Desert||戈壁[蒙古和中国西北部]|The Gobi Desert is inching south.|戈壁沙漠正在向南扩大。|初中英语单词|英语单词模板
 英语::初中英语单词|human being|英[ˈhjuːmən ˈbiːɪŋ] 美[ˈhjuːmən ˈbiːɪŋ]|n. 人类|The human being struggles with his environment.|人类和竞境环争。|初中英语单词|英语单词模板

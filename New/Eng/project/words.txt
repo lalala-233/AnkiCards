@@ -74,7 +74,7 @@
 英语::Words|integration|英[ˌɪntɪˈɡreɪʃn] 美[ˌɪntɪˈɡreɪʃn]|n.集成；综合；同化|Data warehouse is a representative application of data integration.|数据仓库是数据集成的一个典型应用。|Word|英语单词模板
 英语::Words|recession|英[rɪˈseʃn] 美[rɪˈseʃn]|n.后退；（经济）不景气|A few days later, there was a gradual recession of flood waters.|几天之后，洪水逐渐消退。|Word|英语单词模板
 英语::Words|written|英[ˈrɪtn] 美[ˈrɪtn]|adj.书面的；写成文字的<br>动词 write 的现在分词形式。|I had already issued a written farewell to the troops.|我已向部队发表了书面的告别词。|Word|英语单词模板
-英语::Words|supervisor|英[ˈsuːpəvaɪzə(r)] 美[ˈsuːpərvaɪzər]|n.监督人；主管人；管理人；督学；检查员；导师|If you still want to see this site, someone must type in the supervisor password.|如果仍想查看该站点，必须输入监督人密码。|Word|英语单词模板
+英语::Words|supervisor|英[ˈsuːpəvaɪzə(r)] 美[ˈsuːpərvaɪzər]|n.监督人；主管人；管理人；督学；检查员；导师|My supervisor approved my vacation request.|我的主管批准了我的休假申请。|Word|英语单词模板
 英语::Words|arena|英[əˈriːnə] 美[əˈriːnə]|n.竞技场|The Roman arena was very famous.|罗马竞技场是很出名的。|Word|英语单词模板
 英语::Words|diagnosis|英[ˌdaɪəɡˈnəʊsɪs] 美[ˌdaɪəɡˈnoʊsɪs]|n.诊断；调查分析|The two doctors made different diagnosis of my disease.|两位医生对我的病作出了不同的诊断。|Word|英语单词模板
 英语::Words|consistently|英[kənˈsɪstəntlɪ] 美[kənˈsɪstəntlɪ]|adv.一致地；始终如一地|The old man lives consistently with the laws of health.|这位老人的生活符合健康原则。|Word|英语单词模板
@@ -1078,7 +1078,7 @@
 英语::Words|poetic|英[pəʊˈetɪk] 美[poʊˈetɪk]|adj.诗的；富有诗情的|His poetic license will be taken away.|他的写诗执照就会被没收。|Word|英语单词模板
 英语::Words|interrogation|英[ɪnˌterəˈɡeɪʃn] 美[ɪnˌterəˈɡeɪʃn]|n.审问；问号|Then they were taken to the interrogation center.|然后他们被带到审问中心。|Word|英语单词模板
 英语::Words|sensibility|英[ˌsensəˈbɪləti] 美[ˌsensəˈbɪləti]|n.感情；感受能力；感性；敏感|Her sensibility was potent enough!|她的感情之强简直是超乎寻常！|Word|英语单词模板
-英语::Words|linguistic|英[lɪŋˈɡwɪstɪk] 美[lɪŋˈɡwɪstɪk]|adj.语言的；语言学的|Gorbachev is a master of linguistic gestures.|戈尔巴乔夫精于语言的动作。|Word|英语单词模板
+英语::Words|linguistic|英[lɪŋˈɡwɪstɪk] 美[lɪŋˈɡwɪstɪk]|adj.语言的；语言学的|There are significant linguistic differences between the two regions.|这两个地区之间存在显著的语言差异。|Word|英语单词模板
 英语::Words|reformer|英[rɪˈfɔːmə(r)] 美[rɪˈfɔːrmər]|n.改革家；改革运动者|He became an active social reformer.|他成了一位积极的社会改革家。|Word|英语单词模板
 英语::Words|sticker|英[ˈstɪkə(r)] 美[ˈstɪkər]|n.贴纸；粘附物；固执的人；尖刺|A sticker on a bag caught my interest.|袋子上的贴纸引起了我的兴趣。|Word|英语单词模板
 英语::Words|shooter|英[ˈʃuːtə(r)] 美[ˈʃuːtər]|n.射手；枪炮|Being a shooter is quite interesting.|当一名射手很有意思的。|Word|英语单词模板
