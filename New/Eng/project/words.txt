@@ -81,7 +81,7 @@
 英语::Words|warrior|英[ˈwɒriə(r)] 美[ˈwɔːriər]|n.勇士；战士；武士|The warrior wears a head dress and a red loincloth.|这位勇士头戴饰物，身上戴着红色缠腰带。|Word|英语单词模板
 英语::Words|prediction|英[prɪˈdɪkʃn] 美[prɪˈdɪkʃn]|n.预言；预报|Recent discoveries will bear his prediction out.|近来的种种发现将会证实他的预言。|Word|英语单词模板
 英语::Words|infrastructure|英[ˈɪnfrəstrʌktʃə(r)] 美[ˈɪnfrəstrʌktʃər]|n.基础；基础设施|We actively press ahead with the infrastructure development plan.|我们积极推进基础建设计划。|Word|英语单词模板
-英语::Words|re|英[reɪ] 美[reɪ]|prep.关于<br>pref.再，重新<br>n.长音阶的第二音|I want to speak to you re your behaviour.|[口]关于你的行为，我想跟你谈一谈。|Word|英语单词模板
+英语::Words|re|英[reɪ] 美[reɪ]|prep.关于<br>pref.再，重新<br>n.长音阶的第二音|I want to speak to you re your behaviour.|关于你的行为，我想跟你谈一谈。|Word|英语单词模板
 英语::Words|domain|英[dəˈmeɪn] 美[doʊˈmeɪn]|n.领地；领域；范围|Each of her cousins had charge of his own domain.|她的每一个亲属主管着自己的领地。|Word|英语单词模板
 英语::Words|walking|英[ˈwɔːkɪŋ] 美[ˈwɔːkɪŋ]|adj.活的<br>n.走；路面状况<br>动词 walk 的现在分词。|Are you tired from all the walking?|走了那么久，累了吧？|Word|英语单词模板
 英语::Words|playoff|英[ˈpleɪˌɒf] 美[ˈpleɪˌɒf]|n.延长赛；夺标决赛；季后赛|Is the West playoff race going to remain tough?|西部季后赛的竞争还会那么残酷吗？|Word|英语单词模板
@@ -107,7 +107,7 @@
 英语::Words|profound|英[prəˈfaʊnd] 美[prəˈfaʊnd]|adj.深奥的；渊博的；极度的；意义深远的|Beauty is but superficial while mind is profound.|美貌是肤浅的，而思想才是深邃的。|Word|英语单词模板
 英语::Words|trait|英[treɪt] 美[treɪt]|n.特征；特点；少许；一笔|They suddenly exhibit a striking new trait.|它们突然呈现出一种新的显著特征。|Word|英语单词模板
 英语::Words|corruption|英[kəˈrʌpʃn] 美[kəˈrʌpʃn]|n.贪污；堕落；腐败|Accusations of corruption have been made against him.|对他贪污的控告已经提出。|Word|英语单词模板
-英语::Words|contractor|英[kənˈtræktə(r)] 美[kənˈtræktə]|n.立契约的人；承包商|The prime contractor and the software subcontractor agree to their commitments to each other.|主签约人和子签约人互相接受他们的任务书。|Word|英语单词模板
+英语::Words|contractor|英[kənˈtræktə(r)] 美[kənˈtræktə]|n.立契约的人；承包商|The building contractor submitted the construction schedule.|建筑承包商提交了施工进度表。|Word|英语单词模板
 英语::Words|doctrine|英[ˈdɒktrɪn] 美[ˈdɑːktrɪn]|n.学说；教义；主义；（政府政策的）正式声明|This is the doctrine of the nominalist party.|这是唯名主义学派的学说。|Word|英语单词模板
 英语::Words|behavioral|英[bɪˈheɪvjərəl] 美[bɪˈheɪvjərəl]|adj.行为的|It is the behavioral responses which allow man to live in a cold climate.|这是使人能在寒冷气候下生活的行为反应。|Word|英语单词模板
 英语::Words|exclusive|英[ɪkˈskluːsɪv] 美[ɪkˈskluːsɪv]|adj.排外的；独占的；唯一的；完整的；奢华的<br>n.独家新闻；独权|He is part of an exclusive social circle and belongs to an exclusive club.|他所处的社交圈子很排外，而且参加的又是个很排外的社团。|Word|英语单词模板
@@ -9906,7 +9906,8 @@
 英语::Words|Jew|英[dʒuː] 美[dʒuː]|n.犹太人；犹太教徒|In commerce and usury field , Jew is more activity.|在商业和信贷业领域，犹太人更为活跃。|Word|英语单词模板
 英语::Words|typically|英[ˈtɪpɪkli] 美[ˈtɪpɪkli]|adv.典型地；代表性地；通常，一般；不出所料地|The climate here is typically continental.|这里是典型的大陆性气候。|Word|英语单词模板
 英语::Words|asset|英[ˈæset] 美[ˈæset]|n.资产；优点；有用的东西|It was too early to conclude if there was an asset price bubble.|在现阶段下结论，认为出现资产价格泡沫属言之尚早。|Word|英语单词模板
-英语::Words|priority|英[praɪˈɒrəti] 美[praɪˈɔːrəti]|n.优先权；优先；优先顺序|This is the key and should be given top priority.|这是关键，要放在第一位。|Word|英语单词模板
+英语::Words|priority|英[praɪˈɒrəti] 美[praɪˈɔːrəti]|n.优先；优先权；重点；优先事项|His first priority is to find a new job.|他的首要任务是找一份新工作。|Word|英语单词模板
+英语::Words|priority (2)|英[praɪˈɒrəti] 美[praɪˈɔːrəti]|n.优先；优先权；重点；优先事项|We should give priority to quality over quantity.|我们应该优先考虑质量而不是数量。|Word|英语单词模板
 英语::Words|creation|英[kriˈeɪʃn] 美[kriˈeɪʃn]|n.创造；创作|The creation of life remains a mystery.|生命的创造仍是个谜。|Word|英语单词模板
 英语::Words|prosecutor|英[ˈprɒsɪkjuːtə(r)] 美[ˈprɑːsɪkjuːtər]|n.检举人；告发人；起诉人；公诉人；原告|But the judges did not charge him with genocide, as the prosecutor had requested.|但应检举人要求，法庭并没有指控他犯有种族灭绝罪。|Word|英语单词模板
 英语::Words|funding|英[ˈfʌndɪŋ] 美[ˈfʌndɪŋ]|n.资金<br>动词 fund 的现在分词。|This results in funding risk to the bank.|这会给银行带来资金筹措风险。|Word|英语单词模板
