@@ -232,7 +232,7 @@
 英语::高中英语单词|autonomous|英[ɔːˈtɒnəməs] 美[ɔːˈtɑːnəməs]|adj.自治的|Each of the U.S. states has an autonomous government.|美国的每个州都有一个自治政府。|高中英语单词|英语单词模板
 英语::高中英语单词|available|英[əˈveɪləbl] 美[əˈveɪləbl]|adj.可利用的；可得到的；有空的；有效的；<贬>【政】有资格的，适合的|Do you have a room available?|你们有空房间吗？|高中英语单词|英语单词模板
 英语::高中英语单词|avenue|英[ˈævənjuː] 美[ˈævənuː]|n.林荫道；大街；途径手段|He stands on the corner of a wide avenue.|他站在宽阔的林荫道的角落里。|高中英语单词|英语单词模板
-英语::高中英语单词|average|英[ˈævərɪdʒ] 美[ˈævərɪdʒ]|n.平均数；平均水平<br>adj.平均的；一般的；通常的<br>v.取平均值；达到平均水平|The average of 4,6 and 8 is 6.|4、6、8的平均数是 6。|高中英语单词|英语单词模板
+英语::高中英语单词|average|英[ˈævərɪdʒ] 美[ˈævərɪdʒ]|n.平均数；平均水平<br>adj.平均的；一般的；通常的<br>v.取平均值；达到平均水平|The average of 4,6 and 8 is 6.|4、6、8 的平均数是 6。|高中英语单词|英语单词模板
 英语::高中英语单词|avoid|英[əˈvɔɪd] 美[əˈvɔɪd]|vt.避免；逃避；[律]使无效；撤销|You should avoid unnecessary repetition.|你应避免不必要的重复。|高中英语单词|英语单词模板
 英语::高中英语单词|award|英[əˈwɔːd] 美[əˈwɔːrd]|n.奖品；奖<br>v.授予；给予；判给|It is impossible to honor her with the award.|奖品授给她是不可能的。|高中英语单词|英语单词模板
 英语::高中英语单词|aware|英[əˈweə(r)] 美[əˈwer]|adj.知道的；意识到的|If you were aware of all that, you would change your mind.|如果你知道了那一切，你会改变主意的。|高中英语单词|英语单词模板
@@ -436,9 +436,8 @@
 英语::高中英语单词|caution|英[ˈkɔːʃn] 美[ˈkɔːʃn]|n.警告；慎重；戒备；吸引人眼球的人或物<br>vt.警告；劝告|The teacher gave Tom a caution and told him never to do it again.|老师给了汤姆一次警告，叫他不许再那样做。|高中英语单词|英语单词模板
 英语::高中英语单词|cautious|英[ˈkɔːʃəs] 美[ˈkɔːʃəs]|adj.谨慎的；十分小心的|She is cautious of telling secrets.|她很谨慎，不会泄露秘密。|高中英语单词|英语单词模板
 英语::高中英语单词|cave|英[keɪv] 美[keɪv]|n.洞穴；山洞<br>v.挖空；塌落；屈服|This cave was used by smugglersin the eighteenth century.|这个洞穴是十八世纪走私的人使用的。|高中英语单词|英语单词模板
-英语::高中英语单词|CD-ROM|英[ˌsiːdiːˈrɒm] 美[ˈrɑːm]|abbr.（只读）光盘驱动器<br>=Compact Disc Read-Only Memory|One CD-ROM can hold over 100,000 pages of text.|一张 CD-ROM 可以容纳超过 10 万页的文本。|高中英语单词|英语单词模板
 英语::高中英语单词|ceiling|英[ˈsiːlɪŋ] 美[ˈsiːlɪŋ]|n.天花板；上限|He cracked his nut on the ceiling.|他的头让天花板碰破了。|高中英语单词|英语单词模板
-英语::高中英语单词|celebrate|英[ˈselɪbreɪt] 美[ˈselɪbreɪt]|v.庆祝；庆贺；颂扬|Let's celebrate!|让我们好好庆祝一下吧！|高中英语单词|英语单词模板
+英语::高中英语单词|celebrate|英[ˈselɪbreɪt] 美[ˈselɪbreɪt]|v.庆祝；庆贺；颂扬|We will celebrate his birthday with a surprise party.|我们将举办一个惊喜派对庆祝他的生日。|高中英语单词|英语单词模板
 英语::高中英语单词|celebration|英[ˌselɪˈbreɪʃn] 美[ˌselɪˈbreɪʃn]|n.典礼；宗教仪式；庆祝，祝贺|The hotel had a grand celebration for its opening.|该饭店办了一个盛大的开幕典礼。|高中英语单词|英语单词模板
 英语::高中英语单词|cell|英[sel] 美[sel]|n.单人牢房；小房间；细胞；蜂房的巢室；电池；政治小组；（计算机电子表格的）单元格；<美口>手机|The prisoner was locked in a cell.|那囚犯被关在单人牢房内。|高中英语单词|英语单词模板
 英语::高中英语单词|cellar|英[ˈselə(r)] 美[ˈselər]|n.地窖；地下室<br>vt.把……藏入地窑|This wine cellar stays at an even temperature all year round.|这个酒窖常年保持恒温。|高中英语单词|英语单词模板
@@ -1952,7 +1951,7 @@
 英语::高中英语单词|snowball|英[ˈsnəʊbɔːl] 美[ˈsnoʊbɔːl]|n.雪球；打雪仗；滚雪球式的募捐法<br>v.向……丢雪球；使生长或快速的增长|He was hit by a volley of snowballs.|他被一阵投来的雪球击中了。|高中英语单词|英语单词模板
 英语::高中英语单词|soap|英[səʊp] 美[soʊp]|n.肥皂；肥皂剧<br>vt.用肥皂洗；阿谀奉承|The soap slipped out of my hand.|肥皂从我手上滑落了。|高中英语单词|英语单词模板
 英语::高中英语单词|sob|英[sɒb] 美[sɑːb]|v.抽泣；呜咽<br>n.呜咽；哭泣|Some children often sob themselves to sleep.|有些孩子常哭泣着睡着了。|高中英语单词|英语单词模板
-英语::高中英语单词|social|英[ˈsəʊʃl] 美[ˈsoʊʃl]|adj.社会的；社会阶层的；群居的；社交的；好交际的；合群的<br>n.社交聚会；社会保障|Her research is centred on the social effects of unemployment.|她的研究课题是失业对社会的影响。|高中英语单词|英语单词模板
+英语::高中英语单词|social|英[ˈsəʊʃl] 美[ˈsoʊʃl]|adj.社会的；社会阶层的；群居的；社交的；好交际的；合群的<br>n.社交聚会；社会保障|Social media has changed how people communicate.|社交媒体改变了人们的交流方式。|高中英语单词|英语单词模板
 英语::高中英语单词|socialism|英[ˈsəʊʃəlɪzəm] 美[ˈsoʊʃəlɪzəm]|n.社会主义|From then on we proceeded to build socialism.|从那时起，我们开始建设社会主义。|高中英语单词|英语单词模板
 英语::高中英语单词|socialist|英[ˈsəʊʃəlɪst] 美[ˈsoʊʃəlɪst]|adj.社会主义的<br>n.社会主义者|The state protects socialist public property.|国家保护社会主义的公共财产。|高中英语单词|英语单词模板
 英语::高中英语单词|socket|英[ˈsɒkɪt] 美[ˈsɑːkɪt]|n.插座；插口；窝；穴孔；套接口，套接字<br>vt.装上或插入插座|There is an electric socket in the wall.|墙上有个电源插座。|高中英语单词|英语单词模板
@@ -1979,7 +1978,7 @@
 英语::高中英语单词|sparrow|英[ˈspærəʊ] 美[ˈspæroʊ]|n.麻雀|A sparrow is very alert in its movement.|麻雀的动作很敏捷。|高中英语单词|英语单词模板
 英语::高中英语单词|spear|英[spɪə(r)] 美[spɪr]|n.矛；标枪<br>v.刺穿|The fisher used a spear as his weapon.|渔夫用矛作为武器。|高中英语单词|英语单词模板
 英语::高中英语单词|specialist|英[ˈspeʃəlɪst] 美[ˈspeʃəlɪst]|n.专家；专科医生；专食性动物|We profit from the work of the specialist.|我们从专家的工作中得到益处。|高中英语单词|英语单词模板
-英语::高中英语单词|specific|英[spəˈsɪfɪk] 美[spəˈsɪfɪk]|adj.明确的；特殊的；具有特效的<br>n.特效药；详情；特性|He gave us very specific instructions.|他给我们做了非常具体的指示。|高中英语单词|英语单词模板
+英语::高中英语单词|specific|英[spəˈsɪfɪk] 美[spəˈsɪfɪk]|adj.明确的；特殊的；具有特效的<br>n.特效药；详情；特性|He gave us very specific instructions.|他给了我们非常具体的指示。|高中英语单词|英语单词模板
 英语::高中英语单词|speech|英[spiːtʃ] 美[spiːtʃ]|n.演说；演讲；言语；语言能力|The mayor made a speech at the opening.|市长在开幕式上发表了演说。|高中英语单词|英语单词模板
 英语::高中英语单词|spelling|英[ˈspelɪŋ] 美[ˈspelɪŋ]|n.拼法；拼写|Don't make a mistake in your spelling.|不要在拼法上出错。|高中英语单词|英语单词模板
 英语::高中英语单词|spin|英[spɪn] 美[spɪn]|v.（使）旋转；疾驰；纺织；结网；眩晕<br>n.纺织；旋转；眩晕；疾驰|My sister can spin on her toes like a dancer.|我妹妹能像舞者一样踮着脚尖旋转。|高中英语单词|英语单词模板

@@ -17,7 +17,7 @@ pub fn check_chinese_sentence(sentence: &str) -> Result<(), String> {
     find_invalid_end_char(sentence)?;
     find_invalid_sentence_char(sentence)?;
     find_invalid_symbol(sentence)?;
-
+    find_alphabetic_adjacent_to_ascii_alphanumeric(sentence)?;
     Ok(())
 }
 fn find_invalid_sentence_char(sentence: &str) -> Result<(), String> {
@@ -53,6 +53,7 @@ fn find_invalid_symbol(sentence: &str) -> Result<(), String> {
         .map(|s| format!("Invalid symbol: {s}"))
         .map_or(Ok(()), Err)
 }
+
 #[cfg(test)]
 mod tests {
     use super::*;
@@ -74,6 +75,7 @@ mod tests {
             "他们 35 年的婚姻生活一直保持着浪漫色彩", // for missing `。`
             #[allow(clippy::invisible_characters)]
             "我们对宇宙了解得越多，产生的问题也就越多。​", // for invisible character \u{200B}
+            "我需要为我的音乐收藏买一张新CD。",       // for chinese adjacent to english
         ];
         for sentence in VALID {
             assert_eq!(check_chinese_sentence(sentence), Ok(()));

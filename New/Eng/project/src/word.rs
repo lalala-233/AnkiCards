@@ -25,6 +25,7 @@ pub fn check_word(word: &str) -> Result<(), String> {
     find_invalid_start_char(word)?;
     find_invalid_end_char(word)?;
     find_invalid_symbol(word)?;
+    find_alphabetic_adjacent_to_ascii_alphanumeric(word)?;
     Ok(())
 }
 fn find_invalid_symbol(word: &str) -> Result<(), String> {

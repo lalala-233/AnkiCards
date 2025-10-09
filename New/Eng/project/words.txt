@@ -31,7 +31,7 @@
 英语::Words|cognitive|英[ˈkɒɡnətɪv] 美[ˈkɑːɡnətɪv]|adj.认识的；认知的；有认识力的|Thinking in terms of dualisms is common in our cognitive culture.|我们的认识文化通常具有两重性思考。|Word|英语单词模板
 英语::Words|homeless|英[ˈhəʊmləs] 美[ˈhoʊmləs]|adj.无家可归的|Let's chip in some money to help the homeless.|让我们捐款援助那些无家可归的人。|Word|英语单词模板
 英语::Words|defendant|英[dɪˈfendənt] 美[dɪˈfendənt]|n.被告|The plaintiff accused the defendant of fraud.|原告指控被告欺诈。|Word|英语单词模板
-英语::Words|dramatically|英[drəˈmætɪkli] 美[drəˈmætɪkli]|adv.戏剧地；引人注目地|The use of smartphones has risen dramatically in the past decade.|过去十年，智能手机的使用量急剧上升。|Word|英语单词模板
+英语::Words|dramatically|英[drəˈmætɪkli] 美[drəˈmætɪkli]|adv.剧烈地；明显地；戏剧地；夸张地；引人注目地|Her health improved dramatically after she started exercising regularly.|她开始定期锻炼后，健康状况显著改善。|Word|英语单词模板
 英语::Words|highlight|英[ˈhaɪlaɪt] 美[ˈhaɪlaɪt]|vt.强调；照亮；加亮；使……显得重要；使突出<br>n.加亮区；精彩部分；最重要的细节或事件；闪光点<br>[计算机]醒目|The report will highlight the main findings of the research.|这份报告将重点介绍研究的主要发现。|Word|英语单词模板
 英语::Words|couch|英[kaʊtʃ] 美[kaʊtʃ]|n.长椅；睡椅；长沙发；兽穴<br>vt.表达；躺下<br>vi.埋伏；躺下|Dad is sleeping on the couch.|爸爸在长椅上睡觉。|Word|英语单词模板
 英语::Words|alliance|英[əˈlaɪəns] 美[əˈlaɪəns]|n.联盟；联姻；结盟<br>Alliance [地理名词].|They broke up the alliance.|他们中止了联盟。|Word|英语单词模板
@@ -119,8 +119,9 @@
 英语::Words|frozen|英[ˈfrəʊzn] 美[ˈfroʊzn]|adj.冰冻的<br>动词 freeze 的过去分词。|These frozen foods are the most convenient of all.|这些冷冻食品是最为方便。|Word|英语单词模板
 英语::Words|spouse|英[spaʊs] 美[spaʊs]|n.配偶|He never mentioned his spouse.|他从来不提自己的妻子。|Word|英语单词模板
 英语::Words|promotion|英[prəˈməʊʃn] 美[prəˈmoʊʃn]|n.提升；促进；晋升；促销|There are good chances of promotion in this firm.|这家公司里提升的机会很多。|Word|英语单词模板
-英语::Words|compensation|英[ˌkɒmpenˈseɪʃn] 美[ˌkɑːmpenˈseɪʃn]|n.补偿；赔偿；赔偿金|My job is hard,but it has its compensations.It is a great delight to pursue what I am interested in.|我拍的工作虽苦，但也有所补偿。能够从事我感兴趣的工作让我很开心。|Word|英语单词模板
-英语::Words|pickup|英[ˈpɪkʌp] 美[ˈpɪkʌp]|n.拾起；（开车）去接；搭便车者；获得；加速；拾音器；小型卡车；实况转播；（生意）好转；<美俚>逮捕；发现，截获；固定器；随便买的东西<br>adj.临时的；凑合的|About six weeks after he was paroled, he was drinking beer with a friend in the other man's pickup truck, with a gun rack in the back.|获得假释大约六个星期之后，他和一个朋友在对方的敞蓬货车里喝啤酒，车后部有一个枪架。|Word|英语单词模板
+英语::Words|compensation|英[ˌkɒmpenˈseɪʃn] 美[ˌkɑːmpenˈseɪʃn]|n.补偿；赔偿；赔偿金|The court ordered the company to pay compensation to the victims.|法院命令公司向受害者支付赔偿金。|Word|英语单词模板
+英语::Words|pickup|英[ˈpɪkʌp] 美[ˈpɪkʌp]|n.轻型货车；皮卡货车；改进；好转；改善；接人；收取物品；提货<br>adj.临时的；凑合的|We arranged for airport pickup at 6 PM.|我们安排了晚上 6 点的机场接机。|Word|英语单词模板
+英语::Words|pickup (2)|英[ˈpɪkʌp] 美[ˈpɪkʌp]|n.轻型货车；皮卡货车；改进；好转；改善；接人；收取物品；提货<br>adj.临时的；凑合的|The basketball players organized a pickup game at the park.|篮球运动员们在公园组织了一场临时比赛。|Word|英语单词模板
 英语::Words|timing|英[ˈtaɪmɪŋ] 美[ˈtaɪmɪŋ]|n.时间的掌握；时间的安排；时机；定时|The plan depends on split-second timing.|这计划要想成功就得分秒不差。|Word|英语单词模板
 英语::Words|counterpart|英[ˈkaʊntəpɑːt] 美[ˈkaʊntərpɑːrt]|n.职务相当的人；对应物；相似之物；副本|The secretary of state is the counterpart of the foreign minister.|国务卿相当于外交部长。|Word|英语单词模板
 英语::Words|historically|英[hɪˈstɒrɪkli] 美[hɪˈstɒrɪkli]|adv.历史上地|Historically speaking, colonial writing is of absorbing value.|从历史观点来看，殖民时代的写作，是有其引人入胜之处的。|Word|英语单词模板
@@ -1927,7 +1928,7 @@
 英语::Words|impending|英[ɪmˈpendɪŋ] 美[ɪmˈpendɪŋ]|adj.即将发生的；迫在眉睫的<br>动词 impend 的现在分词。|The dark clouds suggest an impending storm.|乌云表明暴风雨即将来临。|Word|英语单词模板
 英语::Words|mediation|英[ˌmiːdiˈeɪʃn] 美[ˌmiːdiˈeɪʃn]|n.调停；调解；仲裁|Under the mediation of the photographer, all of these will end up with a harmonious entity unfolding in front of us.|而这一切，在摄影家的调停之下，最终又归结为一个和谐的整体向我们展开。|Word|英语单词模板
 英语::Words|broadcasting|英[ˈbrɔːdkɑːstɪŋ] 美[ˈbrɔːdkæstɪŋ]|n.广播；广播事业<br>动词 broadcast 的现在分词形式。|What program is it through the broadcasting?|广播的节目是什么？|Word|英语单词模板
-英语::Words|packed|英[pækt] 美[pækt]|adj.塞满的；收拾好行李的；紧压的<br>动词 pack 的过去式和过去分词。|The chaplain came and preached to a packed church.|牧师来给挤满教堂的人们讲道。|Word|英语单词模板
+英语::Words|packed|英[pækt] 美[pækt]|adj.塞满的；收拾好行李的；紧压的<br>动词 pack 的过去式和过去分词。|The stadium was packed with enthusiastic fans.|体育场挤满了热情的球迷。|Word|英语单词模板
 英语::Words|aroma|英[əˈrəʊmə] 美[əˈroʊmə]|n.浓香；香气|The aroma of coffee always cheers me up.|咖啡的浓香总能给我一份好心情。|Word|英语单词模板
 英语::Words|ye|英[jiː] 美[jiː]|pron. <古>你<br>def.art. <古>这；这个（=the）<br>abbr.也门(=Yemen)|With the concert in an inspiring setting, Ms. Ye Xiaojuan's performance was all the more unforgettable.|在这个振奋人心的音乐胜地，叶小娟的表演是更加令人难忘的。|Word|英语单词模板
 英语::Words|occupant|英[ˈɒkjəpənt] 美[ˈɑːkəpənt]|n.占有者；占领者；居住者|She is the next occupant of the post.|她是该职位的下一任。|Word|英语单词模板

@@ -1,3 +1,4 @@
+use crate::prelude::*;
 /// 英语国际音标完整列表 (IPA)
 pub const VALID_SYMBOL: &[&str] = &[
     // ========== 元音 Vowels ==========
@@ -79,6 +80,8 @@ pub fn check_pronunciation(pronunciation: &str) -> Result<(), String> {
     find_invalid_start(pronunciation)?;
     find_invalid_end(pronunciation)?;
     find_invalid_symbol(pronunciation)?;
+    // find_alphabetic_adjacent_to_ascii_alphanumeric(pronunciation)?; // cannot use because SYMBOLS are not ASCII
+
     Ok(())
 }
 fn find_invalid_start(pronunciation: &str) -> Result<(), String> {
@@ -148,7 +151,10 @@ mod tests {
             assert_eq!(check_pronunciation(pronunciation), Ok(()));
         }
         for &pronunciation in INVALID {
-            assert!(check_pronunciation(pronunciation).is_err(), "{pronunciation}");
+            assert!(
+                check_pronunciation(pronunciation).is_err(),
+                "{pronunciation}"
+            );
         }
     }
 }

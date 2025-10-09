@@ -34,6 +34,21 @@ pub fn check_symbol_followed_by_space_or_number(checked_str: &str) -> bool {
 fn symbol_followed_by_space_or_number(left_and_right: (char, char)) -> bool {
     is_followed_by_space_or_number(left_and_right) && is_followed_by_space(left_and_right)
 }
+pub fn find_alphabetic_adjacent_to_ascii_alphanumeric(sentence: &str) -> Result<(), String> {
+    let left_chars = sentence.chars();
+    let right_chars = sentence.chars().skip(1);
+    left_chars
+        .zip(right_chars)
+        .find(|&(left, right)| alphabetic_adjacent_to_ascii_alphanumeric(left, right))
+        .map(|(left,right)|format!("Invalid alphabetic adjacent to ascii alphanumeric (left: `{left}`, right: `{right}`)"))
+        .map_or(Ok(()),  Err)
+}
+fn alphabetic_adjacent_to_ascii_alphanumeric(left: char, right: char) -> bool {
+    let is_left_only_alphabetic = left.is_alphabetic() && !left.is_ascii_alphanumeric();
+    let is_right_only_alphabetic = right.is_alphabetic() && !right.is_ascii_alphanumeric();
+    (is_left_only_alphabetic && right.is_ascii_alphanumeric())
+        || (is_right_only_alphabetic && left.is_ascii_alphanumeric())
+}
 fn is_followed_by_space_or_number((left, right): (char, char)) -> bool {
     if ENGLISH_CHARS_FOLLOWED_BY_SPACE_OR_NUMBER.contains(&left) {
         right == ' ' || right.is_numeric()
