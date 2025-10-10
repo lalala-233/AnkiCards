@@ -322,7 +322,9 @@
 英语::高中英语单词|bitter|英[ˈbɪtə(r)] 美[ˈbɪtər]|adj.苦的；痛苦的；辛酸的；激烈的<br>adv.激烈地；极其<br>vt.使变苦<br>n.苦涩；苦酒；苦的东西|The medicine has a bitter taste.|这药有苦味。|高中英语单词|英语单词模板
 英语::高中英语单词|blame|英[bleɪm] 美[bleɪm]|vt.责备；把……归咎于<br>n.责备；过失|The driver was not to blame for the accident.|这次事故怪不着司机。|高中英语单词|英语单词模板
 英语::高中英语单词|blank|英[blæŋk] 美[blæŋk]|adj.空白的；茫然的<br>空白；空白处|Give me a blank sheet of paper, please.|请给我一张空白的纸。|高中英语单词|英语单词模板
-英语::高中英语单词|blanket|英[ˈblæŋkɪt] 美[ˈblæŋkɪt]|n.毛毯；覆盖物；排字版<br>vt.覆盖；用毯子裹；扑灭；挡风；使包含<br>adj.包含所有的；适用于所有情形的|He threw a blanket over the injured man.|他急忙给受伤的人披上条毯子。|高中英语单词|英语单词模板
+英语::高中英语单词|blanket|英[ˈblæŋkɪt] 美[ˈblæŋkɪt]|n.毯子，毛毯；覆盖物；气氛，氛围<br>vt.覆盖，盖住，笼罩；用毯子裹；扑灭；挡风；使包含<br>adj.总括的，全面的，通用的|The forest floor was covered with a blanket of fallen leaves.|森林地面上覆盖着一层落叶。|高中英语单词|英语单词模板
+英语::高中英语单词|blanket (2)|英[ˈblæŋkɪt] 美[ˈblæŋkɪt]|n.毯子，毛毯；覆盖物；气氛，氛围<br>vt.覆盖，盖住，笼罩；用毯子裹；扑灭；挡风；使包含<br>adj.总括的，全面的，通用的|The electric blanket kept them warm throughout the night.|电热毯让他们整晚都保持温暖。|高中英语单词|英语单词模板
+英语::高中英语单词|blanket (3)|英[ˈblæŋkɪt] 美[ˈblæŋkɪt]|n.毯子，毛毯；覆盖物；气氛，氛围<br>vt.覆盖，盖住，笼罩；用毯子裹；扑灭；挡风；使包含<br>adj.总括的，全面的，通用的|The new policy applies as a blanket rule to all departments.|新政策作为通用规则适用于所有部门。|高中英语单词|英语单词模板
 英语::高中英语单词|bleed|英[bliːd] 美[bliːd]|v.流血；渗色；榨取；放掉（水或气体）；给……抽血|All the young soldiers are ready to bleed for the country.|所有的年轻战士都愿意为祖国洒热血。|高中英语单词|英语单词模板
 英语::高中英语单词|bless|英[bles] 美[bles]|vt.保佑；祝福；赐福；有幸具有|The grandmother blessed her granddaughter before she left for college.|祖母在孙女离家上大学前为她祈福。|高中英语单词|英语单词模板
 英语::高中英语单词|block|英[blɒk] 美[blɑːk]|n.街区；木块；石块；大楼；一组；阻塞（物）；障碍（物）<br>v.阻塞|Walk two blocks down the street and go past the city hall.|顺这条街走两个街区，过市政厅。|高中英语单词|英语单词模板
@@ -457,7 +459,7 @@
 英语::高中英语单词|chalk|英[tʃɔːk] 美[tʃɔːk]|n.粉笔；白垩<br>v.用粉笔写；记录；使变白；归咎|The teacher wrote on the blackboard with a piece of chalk.|老师用一支粉笔在黑板上写字。|高中英语单词|英语单词模板
 英语::高中英语单词|challenging|英[ˈtʃælɪndʒɪŋ] 美[ˈtʃælɪndʒɪŋ]|adj.挑战性的；有吸引力的<br>动词 challenge 的现在分词。|Jigsaw puzzle is a very challenging game for me.|拼图对我而言是很具挑战性的游戏。|高中英语单词|英语单词模板
 英语::高中英语单词|champion|英[ˈtʃæmpiən] 美[ˈtʃæmpiən]|n.拥护者；冠军；优胜者；勇士<br>vt.拥护；保卫；为……而斗争|He is a champion of women's rights.|他是妇女权利的卫士。|高中英语单词|英语单词模板
-英语::高中英语单词|changeable|英[ˈtʃeɪndʒəbl] 美[ˈtʃeɪndʒəbl]|adj.易变的；可改变的|In the subjects having known the risk factors, more than half of patients still did not adopt any actions on the changeable life styles.|在了解危险因素的同时仍有半数以上患者在可改变的生活方式上未采取行为。|高中英语单词|英语单词模板
+英语::高中英语单词|changeable|英[ˈtʃeɪndʒəbl] 美[ˈtʃeɪndʒəbl]|adj.易变的；可改变的；变化无常的|The stock market is known for its changeable nature.|股票市场以其多变的性质而闻名。|高中英语单词|英语单词模板
 英语::高中英语单词|channel|英[ˈtʃænl] 美[ˈtʃænl]|n.频道；海峡；方法；通道；（消息）渠道<br>vt.引导；形成河道；集中（精力）|This channel comes on the air every morning at 7 am.|这个频道每天早晨 7 点钟开始播放。|高中英语单词|英语单词模板
 英语::高中英语单词|chant|英[tʃɑːnt] 美[tʃænt]|n.圣歌；赞美诗；旋律；喊叫<br>v.吟唱；诵扬；叫喊|What we call Gregorian chant today first appears distinctly in the Roman repertory of the fifth and sixth centuries.|我们现在说的格立高圣歌最早清楚的出现在 5 和 6 世纪的罗马剧目中。|高中英语单词|英语单词模板
 英语::高中英语单词|chaos|英[ˈkeɪɒs] 美[ˈkeɪɑːs]|n.混乱；无秩序；混沌|The wintry weather has caused chaos on the roads.|因风雪交加，道路上混乱不堪。|高中英语单词|英语单词模板

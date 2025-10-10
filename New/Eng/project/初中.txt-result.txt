@@ -567,7 +567,7 @@
 英语::初中英语单词|have a (good) rest||休息|Have a good rest and don't worry about your work.|好好休息，别牵挂工作。|初中英语单词|英语单词模板
 英语::初中英语单词|maths|英[mæθs] 美[mæθs]|n. 数学<br>=mathematics（英）.|The teacher will test us in maths.|老师将测验我们数学。|初中英语单词|英语单词模板
 英语::初中英语单词|math|英[mæθ] 美[mæθ]|n. 数学|Those math problems made me dizzy.|那些数学题弄得我晕头转向。|初中英语单词|英语单词模板
-英语::初中英语单词|fun|英[fʌn] 美[fʌn]|n. 乐趣；玩笑<br>adj. 有趣的|I'm learning to cook, just for the fun of it.|我正在学做饭，做著玩儿而已。|初中英语单词|英语单词模板
+英语::初中英语单词|fun|英[fʌn] 美[fʌn]|n. 乐趣；玩笑<br>adj. 有趣的|We should do something fun for the weekend.|我们应该为周末安排些有趣的活动。|初中英语单词|英语单词模板
 英语::初中英语单词|yeah|英[jeə] 美[jeə]|adv. 是|Yeah, I think that's a great idea!|是啊，我觉得这个主意很棒！|初中英语单词|英语单词模板
 英语::初中英语单词|straight|英[streɪt] 美[streɪt]|adj. 直的；坦率的；正直的；准的；连续的；异性恋的<br>adv. 笔直地；直接；坦率地；连续不断地<br>n. 直的东西；传统的人；异性恋者|Light travels in straight lines.|光是沿直线传播。|初中英语单词|英语单词模板
 英语::初中英语单词|wheel|英[wiːl] 美[wiːl]|n. 方向盘；车轮；旋转；周期<br>vi. 旋转；转动；改变方向<br>vt. 用车运；转动；给……装轮子|They found her slumped over the steering wheel.|他们发现她倒伏在方向盘上。|初中英语单词|英语单词模板
@@ -697,7 +697,7 @@
 英语::初中英语单词|by ship||坐船，乘船|He'll go to America by ship tomorrow.|他明天要乘船去美国。|初中英语单词|英语单词模板
 英语::初中英语单词|air|英[eə(r)] 美[er]|n. 空气；天空；空中；感觉；神态；曲调；装腔作势<br>v. 晾干；使通风；广播|The fresh air in the morning made him feel glad.|早晨的新鲜空气使他觉得愉快。|初中英语单词|英语单词模板
 英语::初中英语单词|sea|英[siː] 美[siː]|n. 海；海洋|The moonlight shone on the calm sea.|月光映在平静的海面上。|初中英语单词|英语单词模板
-英语::初中英语单词|by sea|英[baɪ siː] 美[baɪ siː]|乘船；由海路|May I ask if you are fond of traveling by sea?|我可以问一下你是否喜欢海上旅行？|初中英语单词|英语单词模板
+英语::初中英语单词|by sea|英[baɪ siː] 美[baɪ siː]|乘船；由海路|The storm made travel by sea dangerous.|风暴使海上旅行变得危险。|初中英语单词|英语单词模板
 英语::初中英语单词|take time||花费时间；不急不忙|Such a thing usually takes time to mend.|修理这种东西通常需要时间。|初中英语单词|英语单词模板
 英语::初中英语单词|how long|英[haʊ lɒŋ] 美[haʊ lɔːŋ]|多久|I can't recall how long it has been.|我回忆不起来多长时间了。|初中英语单词|英语单词模板
 英语::初中英语单词|problem|英[ˈprɒbləm] 美[ˈprɑːbləm]|n. 问题；难题；习题<br>adj. 成问题的；难对付的|The teacher helped me with my math problem.|老师帮助我解决了数学问题。|初中英语单词|英语单词模板
@@ -852,7 +852,7 @@
 英语::初中英语单词|twentieth|英[ˈtwentiəθ] 美[ˈtwentiəθ]|n. 二十分之一<br>num. 第二十<br>adj. 第二十|One twentieth of the total output was exported.|产量中有二十分之一出口。|初中英语单词|英语单词模板
 英语::初中英语单词|twenty-first||num. 第二十一<br>n. <英>二十一岁生日|It is the twenty-first Football World Cup.|这是第二十一届足球世界杯。|初中英语单词|英语单词模板
 英语::初中英语单词|museum|英[mjuˈziːəm] 美[mjuˈziːəm]|n. 博物馆；展览馆|The museum has many immemorial cultural relics.|该博物馆收藏了很多极其古老的文物。|初中英语单词|英语单词模板
-英语::初中英语单词|front|英[frʌnt] 美[frʌnt]|n. 正面；前面；前线；【气象学】锋<br>vt. 朝向；面对；对付<br>vi. 面朝；掩护<br>adj. 前面的|The front of the postcard shows a picture of our hotel.|明信片正面是我们旅馆的图片。|初中英语单词|英语单词模板
+英语::初中英语单词|front|英[frʌnt] 美[frʌnt]|n. 正面；前面；前线；【气象学】锋<br>vt. 朝向；面对；对付<br>vi. 面朝；掩护<br>adj. 前面的|There's a small garden at the front of the house.|房子前面有一个小花园。|初中英语单词|英语单词模板
 英语::初中英语单词|left|英[left] 美[left]|adj. 左边的<br>adv. 向左<br>n. 左边；左派分子；【体】左手拳<br>动词 leave 的过去式和过去分词形式。|Do you always write left-handed?|你一向用左手写字吗？|初中英语单词|英语单词模板
 英语::初中英语单词|side|英[saɪd] 美[saɪd]|n. 边；侧；边缘；侧面；（多边形的）边；（立体的）面；一方；方面；旁边；家族<br>adj. 旁的；次要的<br>v. 站在…的一边；支持|My house is the ninth on the right side.|我的房子是右边第九幢。|初中英语单词|英语单词模板
 英语::初中英语单词|all the same|英[ɔːl ðə seɪm] 美[ɔːl ðə seɪm]|仍然；照样地；尽管如此|Though they're twins, they're not all the same in personality.|尽管他们是双胞胎，但他们的性格并不完全相同。|初中英语单词|英语单词模板
@@ -1002,7 +1002,8 @@
 英语::初中英语单词|Spring Festival||春节（中国的传统节日）|It feels like spring festival already!|感觉好像春节已经到了似的！|初中英语单词|英语单词模板
 英语::初中英语单词|exam|英[ɪɡˈzæm] 美[ɪɡˈzæm]|n. 考试|He repeatedly fails to pass the exam.|他考了多次都不及格。|初中英语单词|英语单词模板
 英语::初中英语单词|get-together|英[ɡet təˈɡeðə(r)] 美[ɡet təˈɡeðər]|n. 聚会|At the party, everybody mixed together happily.|在聚会中，大家相处一起很开心。|初中英语单词|英语单词模板
-英语::初中英语单词|shower|英[ˈʃaʊə(r)] 美[ˈʃaʊər]|n. 淋浴；阵雨；送礼会；（大量）涌泻<br>v. 冲（淋浴）；下（阵雨）；倾注|She is taking a shower.|她正在洗淋浴。|初中英语单词|英语单词模板
+英语::初中英语单词|shower|英[ˈʃaʊə(r)] 美[ˈʃaʊər]|n. 淋浴；阵雨；送礼会；（大量）涌泻<br>v. 冲（淋浴）；下（阵雨）；倾注|A light shower is expected in the evening.|预计傍晚会有小雨。|初中英语单词|英语单词模板
+英语::初中英语单词|shower (2)|英[ˈʃaʊə(r)] 美[ˈʃaʊər]|n. 淋浴；阵雨；送礼会；（大量）涌泻<br>v. 冲（淋浴）；下（阵雨）；倾注|A light shower is expected in the evening.|预计傍晚会有小雨。|初中英语单词|英语单词模板
 英语::初中英语单词|showery|英[ˈʃaʊəri] 美[ˈʃaʊəri]|adj. 阵雨的；多雨的|A heavy shower drench the campers.|一阵骤雨把露营者都淋湿了。|初中英语单词|英语单词模板
 英语::初中英语单词|magical|英[ˈmædʒɪkl] 美[ˈmædʒɪkl]|adj. 魔术的；有魔力的；神奇的；迷人的|This magical kit is a must for every professional.|这魔术的成套工具是当务之急为每个专家。|初中英语单词|英语单词模板
 英语::初中英语单词|Berlin||n. 柏林（德国城市）|They were planning to move their office to Berlin.|他们打算把办事处迁到柏林。|初中英语单词|英语单词模板
@@ -1114,7 +1115,8 @@
 英语::初中英语单词|angry|英[ˈæŋɡri] 美[ˈæŋɡri]|adj. 生气的；愤怒的；（伤口等）肿痛的，发炎的；（天空或海洋）天昏地暗的，狂风暴雨的|His imperious look makes us angry.|他那飞扬跋扈的样子令我们生气。|初中英语单词|英语单词模板
 英语::初中英语单词|smell|英[smel] 美[smel]|n. 气味；嗅觉；嗅<br>v. 嗅；闻；散发气味；有臭味；察觉|The strong smell made me throw up.|这强烈的气味使我呕吐了。|初中英语单词|英语单词模板
 英语::初中英语单词|rich|英[rɪtʃ] 美[rɪtʃ]|adj. 富有的；富饶的；丰富的|The rich man left his son nothing in the will.|那位富翁在遗嘱中什么都没给他儿子留下。|初中英语单词|英语单词模板
-英语::初中英语单词|become|英[bɪˈkʌm] 美[bɪˈkʌm]|v. 变成；成为；变得；适合（某人）；使（人）显得漂亮|Vast areas of land have become desert.|广大的地区均已变成沙漠。|初中英语单词|英语单词模板
+英语::初中英语单词|become|英[bɪˈkʌm] 美[bɪˈkʌm]|v. 变成；成为；变得；适合（某人）；使（人）显得漂亮|She wants to become a doctor when she grows up.|她长大后想成为一名医生。|初中英语单词|英语单词模板
+英语::初中英语单词|become (2)|英[bɪˈkʌm] 美[bɪˈkʌm]|v. 变成；成为；变得；适合（某人）；使（人）显得漂亮|He became interested in photography after taking a class.|他上了一门课后对摄影产生了兴趣。|初中英语单词|英语单词模板
 英语::初中英语单词|instead|英[ɪnˈsted] 美[ɪnˈsted]|adv. 代替；反而|I gave him advice instead of money.|我给了他忠告，而不是钱。|初中英语单词|英语单词模板
 英语::初中英语单词|instead of|英[ɪnˈsted əv] 美[ɪnˈsted əv]|prep. 代替；而不是……|I made this ckae specially, with brown sugar instead of white.|我特别地以红糖代替白糖做了这个蛋糕。|初中英语单词|英语单词模板
 英语::初中英语单词|enough|英[ɪˈnʌf] 美[ɪˈnʌf]|adj. 足够的<br>adv. 足够地；充分地；相当；尚<br>pron. 足够|I haven't enough time for reading.|我没有足够的时间读书。|初中英语单词|英语单词模板
