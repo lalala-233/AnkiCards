@@ -8,7 +8,7 @@
 英语::高中英语单词|abnormal|英[æbˈnɔːml] 美[æbˈnɔːrml]|adj.反常的；不正常的；变态的<br>n.不正常的人|We were very surprised at his abnormal behavior.|我们对他的反常行为感到非常吃惊。|高中英语单词|英语单词模板
 英语::高中英语单词|aboard|英[əˈbɔːd] 美[əˈbɔːrd]|adv.在船上；在火车上；在飞机上<br>prep.上船；上飞机；上车|Little Tom and the sailors spent two months aboard.|小汤姆和水手们在船上过了两个月。|高中英语单词|英语单词模板
 英语::高中英语单词|abolish|英[əˈbɒlɪʃ] 美[əˈbɑːlɪʃ]|vt.废除；革除；消灭|Abraham Lincoln abolished slavery in the United States.|亚伯拉罕·林肯在美国废除了奴隶制。|高中英语单词|英语单词模板
-英语::高中英语单词|abortion|英[əˈbɔːʃn] 美[əˈbɔːrʃn]|n.流产；堕胎；（计划等）失败|Abortion is illegal in this country.|人工流产在这个国家是不合法的。|高中英语单词|英语单词模板
+英语::高中英语单词|abortion|英[əˈbɔːʃn] 美[əˈbɔːrʃn]|n.流产；堕胎；（计划等）失败|The ethical debate around abortion involves complex philosophical questions.|围绕堕胎的伦理辩论涉及复杂的哲学问题。|高中英语单词|英语单词模板
 英语::高中英语单词|abrupt|英[əˈbrʌpt] 美[əˈbrʌpt]|adj.突然的；唐突的；意外的；陡峭的|The river takes an abrupt bend to the west.|这河突然向西转弯。|高中英语单词|英语单词模板
 英语::高中英语单词|absence|英[ˈæbsəns] 美[ˈæbsəns]|n.缺席；缺乏|His long absence raised fears about his safety.|他长期不在引起了大家对他的安全的担心。|高中英语单词|英语单词模板
 英语::高中英语单词|absent|英[ˈæbsənt] 美[ˈæbsənt]|adj.缺席的；不在的；缺乏的<br>vt.使缺席|Professor Li is absent, I will take the lesson in the place of him.|李教授不在，我替他上课。|高中英语单词|英语单词模板
@@ -447,7 +447,10 @@
 英语::高中英语单词|ceremony|英[ˈserəməni] 美[ˈserəmoʊni]|n.仪式；礼节；典礼|The marriage ceremony took place in the church.|婚礼在教堂举行。|高中英语单词|英语单词模板
 英语::高中英语单词|certain|英[ˈsɜːtn] 美[ˈsɜːrtn]|adj.确定的；肯定的；某事；某人；某种；（与人名连用；表示不认识此人）一位叫……；特定的；轻微的；微小的<br>pron.某些；某几个|It's certain that every effect must have a cause.|无疑，每个结果必定有其原因。|高中英语单词|英语单词模板
 英语::高中英语单词|certificate|英[səˈtɪfɪkət] 美[sərˈtɪfɪkət]|n.执照；证（明）书<br>vt.认可；批准；发证书给……|The driver's certificate was suspended by the police.|这个司机的驾驶执照被警察吊销了。|高中英语单词|英语单词模板
-英语::高中英语单词|chain|英[tʃeɪn] 美[tʃeɪn]|n.束缚；链条；链；（一）连串；连锁店（常用复数）<br>vt.束缚；用铁链锁住|Though you seek in garments the freedom of privacy you may find in them a harness and a chain.|你们想借着衣服得到隐私的自由，反而却因此为之羁绊和束缚。|高中英语单词|英语单词模板
+英语::高中英语单词|chain|英[tʃeɪn] 美[tʃeɪn]|n.束缚；链条；链；（一）连串；连锁店（常用复数）<br>vt.束缚；用铁链锁住|The prisoner was kept in chains for three days.|这名囚犯被戴上镣铐关了三天。|高中英语单词|英语单词模板
+英语::高中英语单词|chain (2)|英[tʃeɪn] 美[tʃeɪn]|n.束缚；链条；链；（一）连串；连锁店（常用复数）<br>vt.束缚；用铁链锁住|The hotel is part of an international chain.|这家酒店是国际连锁酒店的一部分。|高中英语单词|英语单词模板
+英语::高中英语单词|chain (3)|英[tʃeɪn] 美[tʃeɪn]|n.束缚；链条；链；（一）连串；连锁店（常用复数）<br>vt.束缚；用铁链锁住|The bicycle chain needs to be oiled regularly.|自行车链条需要定期上油。|高中英语单词|英语单词模板
+英语::高中英语单词|chain (4)|英[tʃeɪn] 美[tʃeɪn]|n.束缚；链条；链；（一）连串；连锁店（常用复数）<br>vt.束缚；用铁链锁住|She wore a beautiful gold chain around her neck.|她脖子上戴着一条漂亮的金项链。|高中英语单词|英语单词模板
 英语::高中英语单词|chain store|英[tʃeɪn stɔː] 美[tʃeɪn stɔːr]|连锁商店|The chain store offered discounts to attract more customers.|连锁店提供折扣以吸引更多的顾客。|高中英语单词|英语单词模板
 英语::高中英语单词|chairman|英[ˈtʃeəmən] 美[ˈtʃermən]|n.主席；会长；董事长<br>v.担任……的主席（议长）|The chairman exhorted the party workers to take action.|主席敦促党的工作人员采取行动。|高中英语单词|英语单词模板
 英语::高中英语单词|chairwoman|英[ˈtʃeəwʊmən] 美[ˈtʃerwʊmən]|n.女主席；女董事长|The new chairwoman was very well-spoken.|新上任的女主席很会说话。|高中英语单词|英语单词模板
