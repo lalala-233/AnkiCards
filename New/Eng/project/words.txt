@@ -150,7 +150,9 @@
 英语::Words|regulatory|英[ˈreɡjələtəri] 美[ˈreɡjələtɔːri]|adj.管理的；控制的；调整的|There were privacy and regulatory worries.|另外，还有隐私和管理上的担忧。|Word|英语单词模板
 英语::Words|automatically|英[ˌɔːtəˈmætɪkli] 美[ˌɔːtəˈmætɪkli]|adv.自动地；机械地|The generator shuts off automatically.|这台发动机能自动停止运转。|Word|英语单词模板
 英语::Words|racism|英[ˈreɪsɪzəm] 美[ˈreɪsɪzəm]|n.民族的差别主义；人种偏见，种族主义（通常指基于种族的偏见、暴力、歧视与迫害）|The novel explores the effects of racism on different generations of a family.|这部小说探讨了种族主义对一个家庭不同代人的影响。|Word|英语单词模板
-英语::Words|starter|英[ˈstɑːtə(r)] 美[ˈstɑːrtər]|n.起动机；发射架；开端；发起者；调度员；（竞赛的）参加者；（起跑或开车）发令员；开胃菜|From the point of starter designing, it gives out the technical problems necessary to be solved.|并从永磁起动机设计的角度出发，提出了亟待解决的技术问题。|Word|英语单词模板
+英语::Words|starter|英[ˈstɑːtə(r)] 美[ˈstɑːrtər]|n.启动装置；启动器；参赛者；发令员；开胃菜|This book is perfect for starters who are new to gardening.|这本书非常适合园艺初学者。|Word|英语单词模板
+英语::Words|starter (2)|英[ˈstɑːtə(r)] 美[ˈstɑːrtər]|n.启动装置；启动器；参赛者；发令员；开胃菜|The starter waved the green flag to begin the race.|发令员挥动绿旗开始比赛。|Word|英语单词模板
+英语::Words|starter (3)|英[ˈstɑːtə(r)] 美[ˈstɑːrtər]|n.启动装置；启动器；参赛者；发令员；开胃菜|The menu lists several hot and cold starters.|菜单上列有几种热和冷的开胃菜。|Word|英语单词模板
 英语::Words|banking|英[ˈbæŋkɪŋ] 美[ˈbæŋkɪŋ]|n.银行业；银行业务|He will choose banking as his career.|他将选择银行业做为职业。|Word|英语单词模板
 英语::Words|prevention|英[prɪˈvenʃn] 美[prɪˈvenʃn]|n.阻止；妨碍；预防|Patriotic soldiers appealed for the prevention of a civil war.|爱国士兵呼吁阻止内战的爆发。|Word|英语单词模板
 英语::Words|civic|英[ˈsɪvɪk] 美[ˈsɪvɪk]|adj.公民的；市民的；城市的|It's our civic duty to plant trees.|植树是每个公民的义务。|Word|英语单词模板
@@ -6249,7 +6251,7 @@
 英语::Words|Nordic|英[ˈnɔːdɪk] 美[ˈnɔːrdɪk]|adj.（尤指斯堪的纳维亚的）北欧的；北欧人的；[体育]北欧两项滑雪的<br>n.北欧人；有北欧身形特征的人|What is Nordic in the Nordic Gender System?|北欧社会性别制度中的北欧人是什么？|Word|英语单词模板
 英语::Words|dabble|英[ˈdæbl] 美[ˈdæbl]|v.喷洒；玩水；泼溅；涉猎；浅尝|She dabbled her hands in the fountain.|她把手伸到喷泉中玩水。|Word|英语单词模板
 英语::Words|Pulitzer||n.普利策（Joseph；生于匈牙利的美国新闻业经营者）|A Pulitzer Prize winner.|普立兹奖得主 GG。|Word|英语单词模板
-英语::Words|tycoon|英[taɪˈkuːn] 美[taɪˈkuːn]|n.企业界的大亨；（日本幕府的）将军|The self-made tycoon was bragging about the secret of his success.|那位靠自我奋斗发了财的大亨正在夸耀他成功的秘诀。|Word|英语单词模板
+英语::Words|tycoon|英[taɪˈkuːn] 美[taɪˈkuːn]|n.企业界大亨；巨头；巨富|The tech tycoon donated billions to educational charities.|这位科技大亨向教育慈善机构捐赠了数十亿美元。|Word|英语单词模板
 英语::Words|blower|英[ˈbləʊə(r)] 美[ˈbloʊər]|n.鼓风机；吹风机|He reached over and cranked up the blower.|他手伸过去，调快了鼓风机。|Word|英语单词模板
 英语::Words|agility|英[əˈdʒɪləti] 美[əˈdʒɪləti]|n.敏捷；灵活；轻快|The boy came upstairs with agility.|那男孩敏捷地走上楼来。|Word|英语单词模板
 英语::Words|shyness|英[ˈʃaɪnɪs] 美[ˈʃaɪnɪs]|n.羞怯；胆怯|You may set his silence down to his shyness.|你可以把他的沉默归因于羞怯。|Word|英语单词模板
@@ -8186,7 +8188,8 @@
 英语::Words|baste|英[beɪst] 美[beɪst]|v.疏缝；痛斥；大骂；润以油脂；涂以奶油|They bast me without any reason.|他们无缘无故地大骂我。|Word|英语单词模板
 英语::Words|promiscuous|英[prəˈmɪskjuəs] 美[prəˈmɪskjuəs]|adj.杂乱的；（指性）随便的；不规则的|I didn't understand, did men secretly want promiscuous and emotionally detached women?|我不理解，男人是不是秘密的想要杂乱的且情绪孤立的女人？|Word|英语单词模板
 英语::Words|carol|英[ˈkærəl] 美[ˈkærəl]|n.颂歌；欢乐的歌；卡罗尔（人名）<br>v.欢唱|The bells chimed a Christmas carol.|钟声奏出一曲圣诞颂歌。|Word|英语单词模板
-英语::Words|holocaust|英[ˈhɒləkɔːst] 美[ˈhɑːləkɔːst]|n.大屠杀；浩劫；燔祭|He was a descendent of Holocaust survivors.|他是大屠杀幸存者的后代。|Word|英语单词模板
+英语::Words|holocaust|英[ˈhɒləkɔːst] 美[ˈhɑːləkɔːst]|n.大屠杀<br>n.浩劫；毁灭；灾难|The Holocaust was one of the darkest chapters in human history.|大屠杀是人类历史上最黑暗的篇章之一。|Word|英语单词模板
+英语::Words|holocaust (2)|英[ˈhɒləkɔːst] 美[ˈhɑːləkɔːst]|n.大屠杀<br>n.浩劫；毁灭；灾难|In the story, the dragon's breath created a holocaust in the village.|在故事中，巨龙的吐息给村庄带来了灭顶之灾。|Word|英语单词模板
 英语::Words|life-saving||n.延长寿命|In this case, prolongation of life should trump reproduction.|既然这样，延长寿命就要重于繁衍后代。|Word|英语单词模板
 英语::Words|centuries-old|英[ˈsentʃərɪzˈəʊld] 美[ˈsentʃərɪzˈəʊld]|adj.悠久的|Egypt is an old country in Africa.|埃及是非洲有历史悠久的国家。|Word|英语单词模板
 英语::Words|dictum|英[ˈdɪktəm] 美[ˈdɪktəm]|n.格言；名言；[律]法官的附带意见|defeat the champion||Word|英语单词模板
