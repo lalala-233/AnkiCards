@@ -159,7 +159,9 @@
 英语::Words|collector|英[kəˈlektə(r)] 美[kəˈlektər]|n.收集家；收税员；收取款项的人；收集器|My husband is a stamp collector.|我丈夫是个集邮者。|Word|英语单词模板
 英语::Words|popularity|英[ˌpɒpjuˈlærəti] 美[ˌpɑːpjuˈlærəti]|n.普及；流行；名望；受欢迎|Television has robbed the cinema of its former popularity.|电视使电影不如以往那么普及流行。|Word|英语单词模板
 英语::Words|scary|英[ˈskeəri] 美[ˈskeri]|adj.可怕的；容易受惊的；引起恐慌的|The witch lived in a scary place.|巫婆住在一个可怕的地方。|Word|英语单词模板
-英语::Words|offering|英[ˈɒfərɪŋ] 美[ˈɔːfərɪŋ]|n.供品；作品；出售物<br>动词 offer 的现在分词。|Burning incense is a kind of offering, expressing gratitude and veneration to the Buddha.|烧香是一种对佛陀表达感激及尊敬之情的供品。|Word|英语单词模板
+英语::Words|offering|英[ˈɒfərɪŋ] 美[ˈɔːfərɪŋ]|n.祭品；供品<br>n. 作品；产品；礼品；提供的物品、服务<br>n. 赠品；捐款；捐献物；提供的帮助<br>动词 offer 的现在分词。|The tech firm's service offering now includes cloud storage.|这家科技公司的服务现在包括云存储。|Word|英语单词模板
+英语::Words|offering (2)|英[ˈɒfərɪŋ] 美[ˈɔːfərɪŋ]|n.祭品；供品<br>n. 作品；产品；礼品；提供的物品、服务<br>n. 赠品；捐款；捐献物；提供的帮助<br>动词 offer 的现在分词。|The charity relies on the generous offerings of the public.|该慈善机构依赖于公众的慷慨捐赠。|Word|英语单词模板
+英语::Words|offering (3)|英[ˈɒfərɪŋ] 美[ˈɔːfərɪŋ]|n.祭品；供品<br>n. 作品；产品；礼品；提供的物品、服务<br>n. 赠品；捐款；捐献物；提供的帮助<br>动词 offer 的现在分词。|He made a silent offering, praying for good health.|他默默献上祭品，祈求健康。|Word|英语单词模板
 英语::Words|photography|英[fəˈtɒɡrəfi] 美[fəˈtɑːɡrəfi]|n.摄影|Photography is her favourite pastime.|摄影是她喜爱的消遣。|Word|英语单词模板
 英语::Words|disappointed|英[ˌdɪsəˈpɔɪntɪd] 美[ˌdɪsəˈpɔɪntɪd]|adj.失望的|I'm afraid you're very disappointed with me.|恐怕你对我是非常失望的。|Word|英语单词模板
 英语::Words|hidden|英[ˈhɪdn] 美[ˈhɪdn]|adj.隐藏的；秘密的<br>动词 hide 的过去分词。|He whistled to his friend to keep hidden.|他吹口哨通知朋友继续隐蔽。|Word|英语单词模板
@@ -5581,7 +5583,9 @@
 英语::Words|unsuspecting|英[ˌʌnsəˈspektɪŋ] 美[ˌʌnsəˈspektɪŋ]|adj.无疑心的；无戒心的；未料到的|It is possible to fool unsuspecting buyers.|欺骗那些易轻信的买主是可能的。|Word|英语单词模板
 英语::Words|unexplained|英[ˌʌnɪkˈspleɪnd] 美[ˌʌnɪkˈspleɪnd]|adj.未得到解释的|His unexplained absences fed our suspicions.|他的无故缺席引起了我们对他的怀疑。|Word|英语单词模板
 英语::Words|disband|英[dɪsˈbænd] 美[dɪsˈbænd]|v.解散；遣散|The school was disbanded at noon.|学校在中午被解散了。|Word|英语单词模板
-英语::Words|affix|英[əˈfɪks] 美[əˈfɪks]|v.使附于；署名；粘贴<br>n.附加物；词缀|Please affix some lables on your handle-luggage.|请把这些标签系在您的手提行李上。|Word|英语单词模板
+英语::Words|affix|英[əˈfɪks] 美[əˈfɪks]|v.使固定；署名；粘上<br>n.附加物；词缀|Please affix the stamp to the upper right corner of the envelope.|请将邮票贴在信封的右上角。|Word|英语单词模板
+英语::Words|affix (2)|英[əˈfɪks] 美[əˈfɪks]|v.使固定；署名；粘上<br>n.附加物；词缀|You need to affix your signature on the dotted line.|你需要在虚线上签名。|Word|英语单词模板
+英语::Words|affix (3)|英[əˈfɪks] 美[əˈfɪks]|v.使固定；署名；粘上<br>n.附加物；词缀|Linguists study how affixes change the meaning of words.|语言学家研究词缀如何改变词义。|Word|英语单词模板
 英语::Words|painstakingly|英[ˈpeɪnzteɪkɪŋli] 美[ˈpeɪnzteɪkɪŋli]|adv.费力地；苦心地|||Word|英语单词模板
 英语::Words|bonanza|英[bəˈnænzə] 美[bəˈnænzə]|n.富矿带；带来好运的事物；暴富之源|South Africa's gold and mineral bonanza is beginning to tail off .|南非的丰富黄金矿藏量以及其它矿业资源正在日益枯竭。|Word|英语单词模板
 英语::Words|typify|英[ˈtɪpɪfaɪ] 美[ˈtɪpɪfaɪ]|v.作为某人或某物的典型；代表；象征|The nurses' strike typifies public concern about our hospitals.|这次护士罢工集中地反映出公众对医疗事业的关心。|Word|英语单词模板
