@@ -174,7 +174,8 @@
 英语::Words|verbal|英[ˈvɜːbl] 美[ˈvɜːbl]|adj.口头的；用言语的；用文字的；逐字的；动词的<br>n.动名词|They had made a verbal agreement to sell.|他们达成了口头售货协定。|Word|英语单词模板
 英语::Words|tribal|英[ˈtraɪbl] 美[ˈtraɪbl]|adj.部落的|Vincent's father is a tribal chief.|文森特的父亲是一个部落的酋长。|Word|英语单词模板
 英语::Words|credibility|英[ˌkredəˈbɪləti] 美[ˌkredəˈbɪləti]|n.可信；确实性；可靠|The silly ending robs the plot of any credibility.|这愚蠢的结尾使得整个情节变得一点都不可信。|Word|英语单词模板
-英语::Words|sexually|英[ˈsekʃəli] 美[ˈsekʃəli]|adv.性别地；两性之间地|The study of sexually transmitted diseases.|性病学对性传染疾病的研究|Word|英语单词模板
+英语::Words|sexually|英[ˈsekʃəli] 美[ˈsekʃəli]|adv.性别地；两性之间地|The school provides comprehensive sexually transmitted disease education.|学校提供全面的性传播疾病教育。|Word|英语单词模板
+英语::Words|sexually (2)|英[ˈsekʃəli] 美[ˈsekʃəli]|adv.性别地；两性之间地|The film was rated R for its sexually suggestive content.|这部电影因含有性暗示内容而被评为 R 级。|Word|英语单词模板
 英语::Words|divine|英[dɪˈvaɪn] 美[dɪˈvaɪn]|adj.神圣的；神的<br>vt.推断<br>vi.预言；理解<br>n.牧师；神学家|In the Dragon Pond are divine fish.|可都是龙潭里的神鱼啊。|Word|英语单词模板
 英语::Words|oversee|英[ˌəʊvəˈsiː] 美[ˌoʊvərˈsiː]|vt.监督；监管；监视|He will now oversee global manufacturing and productivity.|他现在将监督全球制造业和生产力。|Word|英语单词模板
 英语::Words|pro|英[prəʊ] 美[proʊ]|n.能手；行家；正面<br>adj.专业的；赞成的<br>adv.正面地<br>prep.赞成|We'll teach you how to dribble, pass and shoot like a pro!|我们将教你如何像一个高手那样运球，传球和投篮！|Word|英语单词模板
@@ -212,7 +213,7 @@
 英语::Words|opposed|英[əˈpəʊzd] 美[əˈpoʊzd]|adj.反对的；对立的；敌对的<br>动词 oppose 的过去式及过去分词。|We are strongly opposed to racial discrimination.|我们强烈反对种族歧视。|Word|英语单词模板
 英语::Words|voting|英[ˈvəʊtɪŋ] 美[ˈvoʊtɪŋ]|n.投票<br>动词 vote 的现在分词形式。|The fist round of voting hasn't finished.|第一轮投票还没有结束。|Word|英语单词模板
 英语::Words|revelation|英[ˌrevəˈleɪʃn] 美[ˌrevəˈleɪʃn]|n.揭露；泄露；发觉；启示|The revelation of his past lead to his resignation.|对他过去的揭露导致了他的辞职。|Word|英语单词模板
-英语::Words|Cuban|英[ˈkjuːbən] 美[ˈkjuːbən]|adj.古巴（人）的<br>n.古巴人|A little later,the Cuban passed around fine Havana cigars.|过了一会，古巴人拿出上好的雪茄烟分给每人一支。|Word|英语单词模板
+英语::Words|Cuban|英[ˈkjuːbən] 美[ˈkjuːbən]|adj.古巴（人）的<br>n.古巴人|Cuban baseball players are known for their exceptional skills.|古巴棒球运动员以其卓越的技术而闻名。|Word|英语单词模板
 英语::Words|wagon|英[ˈwæɡən] 美[ˈwæɡən]|n.四轮马车；货车<br>v.用四轮马车运|An ox pulls a wagon into the village.|有只牛拉着一台四轮车进入村庄。|Word|英语单词模板
 英语::Words|spectacular|英[spekˈtækjələ(r)] 美[spekˈtækjələr]|adj.壮观的；令人惊叹的<br>n.壮观；豪华节目|We watched a spectacular sunset at the beach.|我们在海边欣赏了非常壮观的日落。|Word|英语单词模板
 英语::Words|fascinating|英[ˈfæsɪneɪtɪŋ] 美[ˈfæsɪneɪtɪŋ]|adj.迷人的|The book is fascinating, despite its uninspiring title.|这本书很有意思，虽然书名并不吸引人。|Word|英语单词模板
@@ -470,7 +471,9 @@
 英语::Words|concession|英[kənˈseʃn] 美[kənˈseʃn]|n.让步；特许权；租界；妥协|I hope you can make some concession.|我希望你能做些让步。|Word|英语单词模板
 英语::Words|militia|英[məˈlɪʃə] 美[məˈlɪʃə]|n.民兵组织；义勇军；国民军|The militia captured the castle.|民兵占领了这座城堡。|Word|英语单词模板
 英语::Words|tenure|英[ˈtenjə(r)] 美[ˈtenjər]|n.终身职位；任期；保有|It's still extremely difficult to get tenure.|要取得终身职位仍然极其困难。|Word|英语单词模板
-英语::Words|rejection|英[rɪˈdʒekʃn] 美[rɪˈdʒekʃn]|n.拒绝；被弃；[医]排异|Her rejection of him seems to have made him go back into his shell.|他遭她拒绝后就更不爱吭声了。|Word|英语单词模板
+英语::Words|rejection|英[rɪˈdʒekʃn] 美[rɪˈdʒekʃn]|n.拒绝；被弃；[医]排异|The editor sent a standard rejection letter for the submitted manuscript.|编辑为提交的手稿发送了一封标准的退稿信。|Word|英语单词模板
+英语::Words|rejection (2)|英[rɪˈdʒekʃn] 美[rɪˈdʒekʃn]|n.拒绝；被弃；[医]排异|Fear of rejection often prevents people from pursuing their dreams.|对被拒绝的恐惧常常阻止人们追求梦想。|Word|英语单词模板
+英语::Words|rejection (3)|英[rɪˈdʒekʃn] 美[rɪˈdʒekʃn]|n.拒绝；被弃；[医]排异|Her body showed no signs of rejection after the organ transplant.|器官移植后，她的身体没有出现排斥反应。|Word|英语单词模板
 英语::Words|dome|英[dəʊm] 美[doʊm]|n.圆屋顶；苍穹；<俚>脑袋；圆形的火山口<br>vt.加圆屋顶于……上；使成圆屋顶<br>vi.成圆顶状|Italian architect celebrated for his work during the Florentine Renaissance. His greatest achievement is the octagonal ribbed dome of the Florence cathedral.|布鲁内莱斯基，菲利波1377－1446意大利建筑师，其作品在佛罗伦萨文艺复兴时期享有盛名。其杰作是佛罗伦萨大教堂的八边形肋骨穹隆|Word|英语单词模板
 英语::Words|locker|英[ˈlɒkə(r)] 美[ˈlɑːkər]|n.更衣箱；储物柜；冷藏室；上锁的人|After opening the locker please watch your belongings carefully, so they will not be misplaced.|请您在打开更衣箱后，看管好自己的物品，以防丢失。|Word|英语单词模板
 英语::Words|merger|英[ˈmɜːdʒə(r)] 美[ˈmɜːrdʒər]|n.（企业等的）合并<br>v.（两个或以上公司的）合并|As you are well aware that a merger is a major turning point.|你很清楚合并是一个重要的转折点。|Word|英语单词模板
@@ -521,7 +524,9 @@
 英语::Words|nineteenth|英[ˌnaɪnˈtiːnθ] 美[ˌnaɪnˈtiːnθ]|num.第十九|This scientist lived in the nineteenth century.|这位科学家生活在十九世纪。|Word|英语单词模板
 英语::Words|remarkably|英[rɪˈmɑːkəbli] 美[rɪˈmɑːkəbli]|adv.显著突出地；出乎意外地|She sang remarkably well.|她唱得非常好。|Word|英语单词模板
 英语::Words|literacy|英[ˈlɪtərəsi] 美[ˈlɪtərəsi]|n.识字；读写能力；文化，教养|I can't believe that he failed the literacy test.|我无法相信他识字测试不及格。|Word|英语单词模板
-英语::Words|narrative|英[ˈnærətɪv] 美[ˈnærətɪv]|n.故事；叙述<br>adj.叙述的；叙述体的|She took up the narrative where John had left off.|她接着讲约翰未讲完的故事。|Word|英语单词模板
+英语::Words|narrative|英[ˈnærətɪv] 美[ˈnærətɪv]|n.故事；叙述<br>adj.叙述的；叙述体的|The novel presents a gripping narrative about survival in the wilderness.|这部小说讲述了一个关于荒野求生的扣人心弦的故事。|Word|英语单词模板
+英语::Words|narrative (2)|英[ˈnærətɪv] 美[ˈnærətɪv]|n.故事；叙述<br>adj.叙述的；叙述体的|His personal narrative of overcoming adversity inspired many listeners.|他个人克服逆境的叙述激励了许多听众。|Word|英语单词模板
+英语::Words|narrative (2)|英[ˈnærətɪv] 美[ˈnærətɪv]|n.故事；叙述<br>adj.叙述的；叙述体的|The game features innovative narrative design with multiple branching storylines.|这款游戏具有创新的叙事设计，包含多个分支故事线。|Word|英语单词模板
 英语::Words|trillion|英[ˈtrɪljən] 美[ˈtrɪljən]|n.大量；兆；万亿<br>adj.兆的|The government spends a trillion on education annually.|政府每年花一兆在教育上。|Word|英语单词模板
 英语::Words|loving|英[ˈlʌvɪŋ] 美[ˈlʌvɪŋ]|adj.亲爱的；钟情的；忠诚的<br>动词 love 的现在分词。|He greeted her with a loving hug.|他以一个深情的拥抱来迎接她。|Word|英语单词模板
 英语::Words|homicide|英[ˈhɒmɪsaɪd] 美[ˈhɑːmɪsaɪd]|n.杀人；杀人者|He has been charged with homicide.|他被控告杀人。|Word|英语单词模板
@@ -2126,7 +2131,7 @@
 英语::Words|annoyed|英[əˈnɔɪd] 美[əˈnɔɪd]|adj.恼怒的；气恼的<br>动词 annoy 的过去式和过去分词。|I was so annoyed that I felt impelled to write a letter to the paper.|我非常恼怒，以致觉得非给报社写封信不可。|Word|英语单词模板
 英语::Words|soothing|英[suːðɪŋ] 美[suːðɪŋ]|adj.安慰的；慰藉的；镇静的<br>动词 sooth 的现在分词形式。|Her words had a soothing effect.|她的话起了安慰的作用。|Word|英语单词模板
 英语::Words|commonplace|英[ˈkɒmənpleɪs] 美[ˈkɑːmənpleɪs]|adj.平凡的；陈腐的<br>n.常事；老生常谈；普通的东西|Poets interpret the commonplace freshly.|诗人能把平凡的事物描绘得有声有色。|Word|英语单词模板
-英语::Words|persuasive|英[pəˈsweɪsɪv] 美[pərˈsweɪsɪv]|adj.有说服力的；令人信服的|He raised a persuasive argument.|他提出一个有说服力的论据。|Word|英语单词模板
+英语::Words|persuasive|英[pəˈsweɪsɪv] 美[pərˈsweɪsɪv]|adj.有说服力的；令人信服的|She presented a persuasive argument that changed everyone's mind.|她提出了一个具有说服力的论点，改变了所有人的想法。|Word|英语单词模板
 英语::Words|classified|英[ˈklæsɪfaɪd] 美[ˈklæsɪfaɪd]|adj.分类的；类别的；机密的|The classified advertisement is the simplest one.|分类广告是最简单的一种广告。|Word|英语单词模板
 英语::Words|PhD|英[ˌpiːeɪtʃˈdiː] 美[ˌpiːeɪtʃˈdiː]|n.哲学博士|She's presently working on her PhD.|她目前在攻读哲学博士学位。|Word|英语单词模板
 英语::Words|deregulation|英[ˌdiːˌreɡjuˈleɪʃn] 美[ˌdiːˌreɡjuˈleɪʃn]|n.撤消管制规定；解除管制；自由化|More new is the impact of deregulation.|更多的新的重组都得益于放宽了管制。|Word|英语单词模板
