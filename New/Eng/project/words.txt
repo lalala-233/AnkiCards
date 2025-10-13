@@ -226,7 +226,7 @@
 英语::Words|execution|英[ˌeksɪˈkjuːʃn] 美[ˌeksɪˈkjuːʃn]|n.处决；执行；实施|The execution of the bandits took place today.|匪徒们於今天处决。|Word|英语单词模板
 英语::Words|functional|英[ˈfʌŋkʃənl] 美[ˈfʌŋkʃənl]|adj.功能的；实用的；起作用的<br>n.【数】泛函|What are the functional benefits of the brand?|你的品牌的功能方面的益处是什么？|Word|英语单词模板
 英语::Words|teammate|英[ˈtiːmmeɪt] 美[ˈtiːmmeɪt]|n.队友|The coach, he was a great teammate and player.|对于教练来说，他是一名非常棒的队友与球员。|Word|英语单词模板
-英语::Words|aluminum|英[əˈluːmɪnəm] 美[əˈluːmɪnəm]|n.铝<br>=aluminium（英）.|A metallurgical coating process in which iron or steel is immersed in a powder of another metal, such as zinc, chromium, or aluminum, and heated to a temperature below the melting point of either.|渗碳处理一种冶金镀膜工序，在此工序中把钢或铁浸入另一种金属如锌、铬或铝的粉剂里，并加热至这一金属的熔点温度以下|Word|英语单词模板
+英语::Words|aluminum|英[əˈluːmɪnəm] 美[əˈluːmɪnəm]|n.铝<br>=aluminium（英）.|Aluminum production requires a significant amount of electricity.|铝的生产需要大量电力。|Word|英语单词模板
 英语::Words|verdict|英[ˈvɜːdɪkt] 美[ˈvɜːrdɪkt]|n.裁决；定论|The jury announced their verdict.|陪审团做出了裁决。|Word|英语单词模板
 英语::Words|skull|英[skʌl] 美[skʌl]|n.头骨；骷髅头|Have scientists found Mozart's skull?|科学家们已经找到了莫扎特的头骨吗？|Word|英语单词模板
 英语::Words|self-esteem|英[self ɪˈstiːm] 美[self ɪˈstiːm]|n.自尊；自负|Teenagers' self-esteem is based on how many friends they have.|青少年的自尊建立在自己有多少位朋友之上。|Word|英语单词模板
@@ -526,7 +526,7 @@
 英语::Words|literacy|英[ˈlɪtərəsi] 美[ˈlɪtərəsi]|n.识字；读写能力；文化，教养|I can't believe that he failed the literacy test.|我无法相信他识字测试不及格。|Word|英语单词模板
 英语::Words|narrative|英[ˈnærətɪv] 美[ˈnærətɪv]|n.故事；叙述<br>adj.叙述的；叙述体的|The novel presents a gripping narrative about survival in the wilderness.|这部小说讲述了一个关于荒野求生的扣人心弦的故事。|Word|英语单词模板
 英语::Words|narrative (2)|英[ˈnærətɪv] 美[ˈnærətɪv]|n.故事；叙述<br>adj.叙述的；叙述体的|His personal narrative of overcoming adversity inspired many listeners.|他个人克服逆境的叙述激励了许多听众。|Word|英语单词模板
-英语::Words|narrative (2)|英[ˈnærətɪv] 美[ˈnærətɪv]|n.故事；叙述<br>adj.叙述的；叙述体的|The game features innovative narrative design with multiple branching storylines.|这款游戏具有创新的叙事设计，包含多个分支故事线。|Word|英语单词模板
+英语::Words|narrative (3)|英[ˈnærətɪv] 美[ˈnærətɪv]|n.故事；叙述<br>adj.叙述的；叙述体的|The game features innovative narrative design with multiple branching storylines.|这款游戏具有创新的叙事设计，包含多个分支故事线。|Word|英语单词模板
 英语::Words|trillion|英[ˈtrɪljən] 美[ˈtrɪljən]|n.大量；兆；万亿<br>adj.兆的|The government spends a trillion on education annually.|政府每年花一兆在教育上。|Word|英语单词模板
 英语::Words|loving|英[ˈlʌvɪŋ] 美[ˈlʌvɪŋ]|adj.亲爱的；钟情的；忠诚的<br>动词 love 的现在分词。|He greeted her with a loving hug.|他以一个深情的拥抱来迎接她。|Word|英语单词模板
 英语::Words|homicide|英[ˈhɒmɪsaɪd] 美[ˈhɑːmɪsaɪd]|n.杀人；杀人者|He has been charged with homicide.|他被控告杀人。|Word|英语单词模板
@@ -3001,7 +3001,7 @@
 英语::Words|squadron|英[ˈskwɒdrən] 美[ˈskwɑːdrən]|n.海军（空军）中队；骑兵中队；装甲连；一群|The squadron flew a reconnaissance mission.|该空军中队执行一侦察任务。|Word|英语单词模板
 英语::Words|rosy|英[ˈrəʊzi] 美[ˈroʊzi]|adj.玫瑰色的；美好的|Her normally rosy face took on a deeper hue.|她平常玫瑰色的脸上呈现出更深的色彩。|Word|英语单词模板
 英语::Words|repetitive|英[rɪˈpetətɪv] 美[rɪˈpetətɪv]|adj.重复的；反复的|He has not the patience for repetitive work.|他没有耐心做重复性的工作。|Word|英语单词模板
-英语::Words|coupon|英[ˈkuːpɒn] 美[ˈkuːpɑːn]|n.息票；参赛表；票券；礼券；（购物）优惠券|This coupon can be redeemed at any of our branches.|这种息票可在我们的任何分行兑现。|Word|英语单词模板
+英语::Words|coupon|英[ˈkuːpɒn] 美[ˈkuːpɑːn]|n.优惠券<br>n.息票；参赛表；票券；礼券|I used a 20% off coupon for my online purchase.|我在网上购物时使用了一张八折优惠券。|Word|英语单词模板
 英语::Words|robotic|英[rəʊˈbɒtɪk] 美[roʊˈbɑːtɪk]|adj.机器人的；像机器人的|The robotic cat can wag its tail.|那只机器猫能摇尾巴。|Word|英语单词模板
 英语::Words|shredded|英[ʃred] 美[ʃred]|v.撕成碎片<br>n.碎布条；细片；少许|I was shredding top-secret documents at that time.|我当时正把机密文件切碎。|Word|英语单词模板
 英语::Words|passionately|英[ˈpæʃənətli] 美[ˈpæʃənətli]|adv.激昂地；热烈地|They kissed passionately when she arrived.|她一来到，他们就热烈亲吻。|Word|英语单词模板
