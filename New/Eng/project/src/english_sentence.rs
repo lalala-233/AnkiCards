@@ -31,14 +31,14 @@ pub fn check_english_sentence(sentence: &str) -> Result<(), String> {
     if !have_appropriate_length(sentence) {
         return Err(format!("Invalid length {}", sentence.len()));
     }
-    if !check_symbol_followed_by_space_or_number(sentence) {
-        return Err("Some symbol not followed by space or number".to_string());
-    }
+
     find_invalid_start_char(sentence)?;
     find_invalid_end_char(sentence)?;
     find_invalid_sentence_char(sentence)?;
     find_invalid_symbol(sentence)?;
     find_alphabetic_adjacent_to_ascii_alphanumeric(sentence)?;
+    find_alphabetic_adjacent_to_left_parenthesis(sentence)?;
+    find_specific_symbol_not_followed_by_space_or_number(sentence)?;
 
     Ok(())
 }

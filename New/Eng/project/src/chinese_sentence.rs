@@ -18,6 +18,7 @@ pub fn check_chinese_sentence(sentence: &str) -> Result<(), String> {
     find_invalid_sentence_char(sentence)?;
     find_invalid_symbol(sentence)?;
     find_alphabetic_adjacent_to_ascii_alphanumeric(sentence)?;
+    find_alphabetic_adjacent_to_left_parenthesis(sentence)?;
     Ok(())
 }
 fn find_invalid_sentence_char(sentence: &str) -> Result<(), String> {

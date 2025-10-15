@@ -18,14 +18,13 @@ pub fn check_word(word: &str) -> Result<(), String> {
     if !have_valid_ellipsis_if_present(word) {
         return Err("Invalid ellipsis `..` number".to_string());
     }
-    if !check_symbol_followed_by_space_or_number(word) {
-        return Err("Some symbol not followed by space or number".to_string());
-    }
     find_invalid_word_char(word)?;
     find_invalid_start_char(word)?;
     find_invalid_end_char(word)?;
     find_invalid_symbol(word)?;
     find_alphabetic_adjacent_to_ascii_alphanumeric(word)?;
+    find_alphabetic_adjacent_to_left_parenthesis(word)?;
+    find_specific_symbol_not_followed_by_space_or_number(word)?;
     Ok(())
 }
 fn find_invalid_symbol(word: &str) -> Result<(), String> {
@@ -69,13 +68,13 @@ mod tests {
         ];
         const INVALID: &[&str] = &[
             "matter(2)", // for letters adjacent to `(`
-            "matter ", // for ` `
+            "matter ",   // for ` `
         ];
         for word in VALID {
-            assert_eq!(check_word(word), Ok(()));
+            assert_eq!(check_word(word), Ok(()), "word: {word}");
         }
         for &word in INVALID {
-            assert!(check_word(word).is_err(), "sentence: {word}");
+            assert!(check_word(word).is_err(), "word: {word}");
         }
     }
 }
