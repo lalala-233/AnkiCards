@@ -67,7 +67,10 @@ mod tests {
             "matter (2)", // ok because we support this
             "Here you are.",
         ];
-        const INVALID: &[&str] = &[];
+        const INVALID: &[&str] = &[
+            "matter(2)", // for letters adjacent to `(`
+            "matter ", // for ` `
+        ];
         for word in VALID {
             assert_eq!(check_word(word), Ok(()));
         }

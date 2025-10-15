@@ -7,7 +7,7 @@ mod word;
 use error::Error;
 pub const SEPARATOR: &str = "|";
 pub const SEPARATOR_NUMBER: usize = 8;
-pub const MAX_LENGTH_OF_ENGLISH_SENTENCE: usize = 80;
+pub const MAX_LENGTH_OF_ENGLISH_SENTENCE: usize = 85;
 pub const MIN_LENGTH_OF_ENGLISH_SENTENCE: usize = 20;
 #[must_use]
 pub fn check(checked_str: &str) -> Option<(usize, Error)> {

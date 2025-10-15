@@ -252,7 +252,7 @@
 英语::Words|flexibility|英[ˌfleksəˈbɪləti] 美[ˌfleksəˈbɪləti]|n.灵活性；弹性；适应性；柔韧性|Online education gives students enough flexibility.|网上教育使学生们获得了许多灵活性。|Word|英语单词模板
 英语::Words|instructional|英[ɪnˈstrʌkʃənl] 美[ɪnˈstrʌkʃənl]|adj.指导的；教育的；教学的|The teacher's action was corrective rather than instructional.|老师的行为与其说是指导，还不如说是纠正错误。|Word|英语单词模板
 英语::Words|casino|英[kəˈsiːnəʊ] 美[kəˈsiːnoʊ]|n.娱乐场；赌场；一种牌戏|I took a trip to a casino to play the slots.|我去娱乐场玩了一下老虎机。|Word|英语单词模板
-英语::Words|tumor|英[ˈtjuːmə] 美[ˈtjuːmə]|n.<美>肿瘤；肿块<br>=tumour（英）|A tumor composed of muscle tissue.|肌瘤一种由肌肉组织构成的瘤|Word|英语单词模板
+英语::Words|tumor|英[ˈtjuːmə] 美[ˈtjuːmə]|n.<美>肿瘤；肿块<br>=tumour（英）|Regular screenings can help detect tumors at an early stage.|定期筛查有助于早期发现肿瘤。|Word|英语单词模板
 英语::Words|fixed|英[fɪkst] 美[fɪkst]|adj.固定的；不变的；确定的<br>动词 fix 的过去式和过去分词。|He received the fixed dole every month.|他每个月都能领到固定的救济金。|Word|英语单词模板
 英语::Words|experienced|英[ɪkˈspɪəriənst] 美[ɪkˈspɪriənst]|adj.有经验的|An experienced mechanic is in charge of the job.|一位有经验的机械师负责这工作。|Word|英语单词模板
 英语::Words|donation|英[dəʊˈneɪʃn] 美[doʊˈneɪʃn]|n.捐款；捐赠|He asked for a donation but went away empty handed.|他请求人们捐款，但离开时却一无所获！|Word|英语单词模板
@@ -268,7 +268,7 @@
 英语::Words|franchise|英[ˈfræntʃaɪz] 美[ˈfræntʃaɪz]|n.特许经销权；选举权；特权<br>vt.赋予特权；赋予公民权|That fast food business have expanded through the sale of franchise.|该快餐店通过出售特许经销权而扩大了生意。|Word|英语单词模板
 英语::Words|correctly|英[kəˈrektli] 美[kəˈrektli]|adv.正确地；恰当地|He answered the teacher's question correctly.|他正确地回答了老师的问题。|Word|英语单词模板
 英语::Words|encouraging|英[ɪnˈkʌrɪdʒɪŋ] 美[ɪnˈkʌrɪdʒɪŋ]|adj.令人鼓舞的<br>动词 encourage 的现在分词。|His encouraging words revived my drooping spirits.|他令人鼓舞的话使我颓丧的精神振作起来。|Word|英语单词模板
-英语::Words|dried|英[draid] 美[draɪd]|adj.弄干了的<br>动词 dry 的过去式和过去分词。|Leave the dried beans to soak overnight.|把这些干豆子泡一夜。|Word|英语单词模板
+英语::Words|dried|英[draɪd] 美[draɪd]|adj.弄干了的<br>动词 dry 的过去式和过去分词。|Leave the dried beans to soak overnight.|把这些干豆子泡一夜。|Word|英语单词模板
 英语::Words|backyard|英[ˌbækˈjɑːd] 美[ˌbækˈjɑːrd]|n.后院；后庭<br>adj.后院的|They planted some garden balsams in the backyard.|他们在后院里种了些凤仙花。|Word|英语单词模板
 英语::Words|reminder|英[rɪˈmaɪndə(r)] 美[rɪˈmaɪndər]|n.提醒物；提示；催单|These ruins are an eloquent reminder of the horrors of war.|这些废墟形象地提醒人们不要忘记战争的恐怖。|Word|英语单词模板
 英语::Words|placement|英[ˈpleɪsmənt] 美[ˈpleɪsmənt]|n.方位；位置；实习工作；安排|The next page will discuss the placement of ACLs.|下一页将讨论 ACL 的安放位置。|Word|英语单词模板
@@ -5381,7 +5381,8 @@
 英语::Words|fanciful|英[ˈfænsɪfl] 美[ˈfænsɪfl]|adj.想像的；奇怪的；稀奇的|That story about a trip to the moon is fanciful.|那个有关旅行到月球的故事是假想的。|Word|英语单词模板
 英语::Words|aching|英[ˈeɪkɪŋ] 美[ˈeɪkɪŋ]|adj.疼痛的<br>动词 ach 的现在分词形式。|I laid my aching head back on the pillow and closed my eyes.|我又把阵阵疼痛的头靠在枕头上，闭上了眼。|Word|英语单词模板
 英语::Words|anatomical|英[ˌænəˈtɒmɪkl] 美[ˌænəˈtɒmɪkl]|adj.结构上的；解剖（学）的|In anatomical structure prehistoric man shows close affinity with modern humans.|从解剖结构上看，史前人类与现代人类有着密切的关系。|Word|英语单词模板
-英语::Words|condolence|英[kənˈdəʊləns] 美[kənˈdoʊləns]|n.哀悼；吊唁；慰问|The President also offered his condolence as to family and friends of the victims.|总统还对遇难家属以及他们的朋友表示哀悼。|Word|英语单词模板
+英语::Words|condolence|英[kənˈdəʊləns] 美[kənˈdoʊləns]|n.哀悼；吊唁；慰问|The president issued an official statement of condolence to the victims' families.|总统向遇难者家属发表了官方哀悼声明。|Word|英语单词模板
+英语::Words|condolence (2)|英[kənˈdəʊləns] 美[kənˈdoʊləns]|n.哀悼；吊唁；慰问|Her words of condolence brought some comfort to the family.|她的慰问话语给家人带来了一些安慰。|Word|英语单词模板
 英语::Words|old-time||adj.古时的；过去的|Old weapons were mainly made from iron.|古时的武器多用铁制成。|Word|英语单词模板
 英语::Words|attractiveness|英[əˈtræktɪvnəs] 美[əˈtræktɪvnəs]|n.魅力；吸引力|His attractiveness is partly due to his self-confidence.|他的魅力部分是由于他的自信。|Word|英语单词模板
 英语::Words|delinquent|英[dɪˈlɪŋkwənt] 美[dɪˈlɪŋkwənt]|adj.有过失的；怠忽的；失职的；拖欠的<br>n.行为不良的人；少年犯|Most delinquent children have deprived backgrounds.|多数少年犯都有贫困且未受教育的背景。|Word|英语单词模板
@@ -10039,4 +10040,22 @@
 英语::Words|early on (2)||在初期；在开始阶段；早先|We realized early on that this approach wouldn't work.|我们很早就意识到这种方法行不通。|Word|英语单词模板
 英语::Words|in the first place||究竟；到底；当初；一开始；首先；最初|Why did you choose this major in the first place?|你当初为什么选择这个专业？|Word|英语单词模板
 英语::Words|transferable||adj.可转移的；可调动的；可转让的；可转录的；可中转的|Problem-solving abilities are transferable across different professions.|解决问题的能力可以在不同职业之间转移。|Word|英语单词模板
-
+英语::Words|other than||除了；除了……以外|There's no one here other than us.|这里除了我们没有别人。|Word|英语单词模板
+英语::Words|other than (2)||除了；除了……以外|You can't get there other than by boat.|除了乘船，你无法到达那里。|Word|英语单词模板
+英语::Words|sit back||舒服地坐下；袖手旁观；不采取行动|After a long week, I just want to sit back and relax.|漫长的一周后，我只想坐下来放松一下。|Word|英语单词模板
+英语::Words|sit back (2)||舒服地坐下；袖手旁观；不采取行动|You can't just sit back and expect others to do all the work.|你不能只是袖手旁观，指望别人做所有的工作。|Word|英语单词模板
+英语::Words|sit back (3)||舒服地坐下；袖手旁观；不采取行动|He decided to sit back and let the situation develop naturally.|他决定静观其变，让事态自然发展。|Word|英语单词模板
+英语::Words|take action||采取行动|We must take action immediately before the situation gets worse.|我们必须在情况恶化前立即采取行动。|Word|英语单词模板
+英语::Words|give it a shot||试一试；试试看；尝试一下；给它一次机会|The recipe seems complicated, but I'm willing to give it a shot.|这个食谱看起来复杂，但我愿意试试。|Word|英语单词模板
+英语::Words|look up to||尊敬；钦佩；崇拜|I've always looked up to my older sister for her courage and determination.|我一直很钦佩我姐姐的勇气和决心。|Word|英语单词模板
+英语::Words|along the way||一路上；沿途；在过程中；在这期间；在过程中|We encountered many challenges, but we learned valuable lessons along the way.|我们遇到了许多挑战，但在此过程中学到了宝贵的经验。|Word|英语单词模板
+英语::Words|along the way (2)||一路上；沿途；在过程中；在这期间；在过程中|I took many photographs along the way to document the journey.|我一路拍了很多照片来记录这段旅程。|Word|英语单词模板
+英语::Words|take control of||控制；掌管；掌管；接管|The new manager will take control of the department starting next week.|新任经理将从下周开始接管这个部门。|Word|英语单词模板
+英语::Words|take control of (2)||控制；掌管；掌管；接管|It's time to take control of your career and pursue what you really want.|是时候掌控你的职业生涯，追求你真正想要的东西了。|Word|英语单词模板
+英语::Words|take control of (3)||控制；掌管；掌管；接管|The pilot had to take control of the aircraft manually during the storm.|飞行员不得不在暴风雨中手动控制飞机。|Word|英语单词模板
+英语::Words|end up||最终；结果；到头来|If you don't study, you'll end up failing the exam.|如果你不学习，你最终会考试不及格。|Word|英语单词模板
+英语::Words|end up (2)||最终；结果；到头来|We were looking for a restaurant and ended up at this amazing little place.|我们当时在找餐馆，结果找到了这个很棒的小地方。|Word|英语单词模板
+英语::Words|take charge||掌管；负责；接管；开始管理；承担责任|Someone needs to take charge of this situation before it gets worse.|需要有人来负责这个情况，以免恶化。|Word|英语单词模板
+英语::Words|take charge (2)||掌管；负责；接管；开始管理；承担责任|She took charge of the family business after her father's retirement.|她在父亲退休后接管了家族企业。|Word|英语单词模板
+英语::Words|out of control||失控；不受控制|The project costs are getting out of control due to unexpected expenses.|由于意外开支，项目成本正在失控。|Word|英语单词模板
+英语::Words|out of control (2)||失控；不受控制|She realized that other people's opinions were out of her control.|她意识到别人的意见是她无法控制的。|Word|英语单词模板
