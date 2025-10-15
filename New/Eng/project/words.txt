@@ -294,7 +294,7 @@
 英语::Words|colorful|英[ˈkʌləfəl] 美[ˈkʌləfəl]|adj.华美的；富有色彩的；有趣的|The children from ethnic minorities were featured with colorful costumes.|少数民族的孩子身着华美的服装。|Word|英语单词模板
 英语::Words|eyebrow|英[ˈaɪbraʊ] 美[ˈaɪbraʊ]|n.眉毛；[建]窗头线饰|She raised a questioning eyebrow.|她怀疑地挑起了眉毛。|Word|英语单词模板
 英语::Words|organizational|英[ˌɔːɡənaɪˈzeɪʃənl] 美[ˌɔːɡənaɪˈzeɪʃənl]|adj.组织的|I am pretty independent and have organizational skills.|我非常独立，有组织能力。|Word|英语单词模板
-英语::Words|uh||abbr.上半部分(=upper half)|Ok. Right. Uh, we are at La Traviata restaurant in north beach, and my wife is ... uh ...|是，对了。我们在 Northbeach 的 LaTraviata 餐厅，我的太太……|Word|英语单词模板
+英语::Words|uh|英[ʌ; ɜː] 美[ʌ; ɜː]|int.嗯；呃<br>abbr.上半部分(=upper half)|Uh, I'm not sure if I can make it to the meeting tomorrow.|呃，我不确定明天能否参加会议。|Word|英语单词模板
 英语::Words|emerging|英[ɪˈmɜːdʒɪŋ] 美[ɪˈmɜːdʒɪŋ]|adj.新兴的<br>v.动词 emerge 的现在分词|New emerging forces are invincible.|新生力量是不可战胜的。|Word|英语单词模板
 英语::Words|envision|英[ɪnˈvɪʒn] 美[ɪnˈvɪʒn]|vt.想象；设想|But the competition of man against man is not the simple process envisioned in biology.|但是人反对人的竞争不是象生物学中所想象的那种简单过程。|Word|英语单词模板
 英语::Words|aisle|英[aɪl] 美[aɪl]|n.侧廊；（席位间的）通道|It's down on the end of this aisle.|沿着这条走廊走到底就是。|Word|英语单词模板
@@ -4755,7 +4755,8 @@
 英语::Words|butler|英[ˈbʌtlə(r)] 美[ˈbʌtlər]|n.男管家；仆役长|The butler served him faithfully for 25 years.|这个男管家为他忠耿耿干了 25 年。|Word|英语单词模板
 英语::Words|Parmesan|英[ˈpɑːmɪzæn] 美[ˈpɑːrməzɑːn]|n.用脱脂乳制成的坚硬的意大利干酪|||Word|英语单词模板
 英语::Words|uncomfortably|英[ʌnˈkʌmftəbli] 美[ʌnˈkʌmftəbli]|adv.不舒适地；不愉快地；困难地|As there wasn't anything to do in the place but work they were uncomfortably conspicuous loafing about the streets.|因为这个地方除工作外无事可做，他们在街上到处闲逛，招遥过市。|Word|英语单词模板
-英语::Words|flashback|英[ˈflæʃbæk] 美[ˈflæʃbæk]|n.闪回；倒叙；插叙；迷幻药效幻觉重现|In flashback, he sees the murder in reverse.|闪回，他看到了倒退的谋杀。|Word|英语单词模板
+英语::Words|flashback|英[ˈflæʃbæk] 美[ˈflæʃbæk]|n.闪回；倒叙；迷幻药效幻觉重现|The novel begins with a flashback to the protagonist's childhood.|这部小说以主人公童年的倒叙开始。|Word|英语单词模板
+英语::Words|flashback (2)|英[ˈflæʃbæk] 美[ˈflæʃbæk]|n.闪回；倒叙；迷幻药效幻觉重现|Her flashbacks became less frequent after she started treatment.|她开始治疗后，闪回变得不那么频繁了。|Word|英语单词模板
 英语::Words|beleaguered|英[bɪˈliːɡəd] 美[bɪˈliːɡərd]|adj.围困的；处于困境的；饱受批评的<br>v.动词 beleaguer 的过去式和过去分词|||Word|英语单词模板
 英语::Words|airfield|英[ˈeəfiːld] 美[ˈerfiːld]|n.飞机场|The plane limped toward the airfield.|那驾飞机艰难地驶向飞机|Word|英语单词模板
 英语::Words|mourner|英[ˈmɔːnə(r)] 美[ˈmɔːrnər]|n.悲伤者；吊唁者；送葬者；忏悔者|The mourner stand in silent tributes as the coffin is laid to rest.|灵柩下葬时，送葬者默立致哀。|Word|英语单词模板
