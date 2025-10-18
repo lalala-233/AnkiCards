@@ -322,7 +322,12 @@
 英语::初中英语单词|any|英[ˈeni] 美[ˈeni]|adj. 任何的<br>adv. 稍微；丝毫<br>pron. 任何|I can't see things getting any better.|我看不出事情有丝毫好转。|初中英语单词|英语单词模板
 英语::初中英语单词|animal|英[ˈænɪml] 美[ˈænɪml]|n. 动物；牲畜<br>adj. 动物的；野兽的|The jackal is a wild animal in Africa and Asia.|豺狼是产于亚非的一种野生动物。|初中英语单词|英语单词模板
 英语::初中英语单词|people|英[ˈpiːpl] 美[ˈpiːpl]|n. 人；人民；人们<br>v. 使住人；居住于|Were there many people at the meeting?|集会有很多人吗？|初中英语单词|英语单词模板
-英语::初中英语单词|little|英[ˈlɪtl] 美[ˈlɪtl]|adj. 小的；幼小的；短的；微不足道的；少到几乎没有的<br>adv. 甚少；毫不；难得<br>n. 极少|We have a little bull session after work.|下班后，我们要开一个小的讨论会。|初中英语单词|英语单词模板
+英语::初中英语单词|little|英[ˈlɪtl] 美[ˈlɪtl]|adj. 小的；幼小的；短的；微不足道的；少到几乎没有的<br>adv. 甚少；毫不；难得<br>n. 极少|There's very little time left to finish the project.|完成这个项目的时间所剩无几。|初中英语单词|英语单词模板
+英语::初中英语单词|little (2)|英[ˈlɪtl] 美[ˈlɪtl]|adj. 小的；幼小的；短的；微不足道的；少到几乎没有的<br>adv. 甚少；毫不；难得<br>n. 极少|I know little about quantum physics.|我对量子物理学知之甚少。|初中英语单词|英语单词模板
+英语::初中英语单词|little (3)|英[ˈlɪtl] 美[ˈlɪtl]|adj. 小的；幼小的；短的；微不足道的；少到几乎没有的<br>adv. 甚少；毫不；难得<br>n. 极少|Could you speak a little louder? I can't hear you.|你能说得稍微大声点吗？我听不见。|初中英语单词|英语单词模板
+英语::初中英语单词|little (4)|英[ˈlɪtl] 美[ˈlɪtl]|adj. 小的；幼小的；短的；微不足道的；少到几乎没有的<br>adv. 甚少；毫不；难得<br>n. 极少|He gave a little smile when he saw the surprise.|看到惊喜时，他微微一笑。|初中英语单词|英语单词模板
+英语::初中英语单词|little (5)|英[ˈlɪtl] 美[ˈlɪtl]|adj. 小的；幼小的；短的；微不足道的；少到几乎没有的<br>adv. 甚少；毫不；难得<br>n. 极少|We have little choice but to accept their offer.|我们别无选择，只能接受他们的提议。|初中英语单词|英语单词模板
+英语::初中英语单词|little (6)|英[ˈlɪtl] 美[ˈlɪtl]|adj. 小的；幼小的；短的；微不足道的；少到几乎没有的<br>adv. 甚少；毫不；难得<br>n. 极少|The little dog followed its owner everywhere.|小狗到处跟着它的主人。|初中英语单词|英语单词模板
 英语::初中英语单词|sheep|英[ʃiːp] 美[ʃiːp]|n. 绵羊；羊；羊皮|Can you distinguish goat from sheep?|你能把山羊和绵羊区分开吗？|初中英语单词|英语单词模板
 英语::初中英语单词|come on|英[ˈkʌm ɒn]|v. 突然产生；要求；降临；开始；进步；赶快；上演；上台；成长，发展；<口>加油；别胡扯|Suddenly it came on me where I had lost my keys.|我突然记起把钥匙丢在哪里了。|初中英语单词|英语单词模板
 英语::初中英语单词|red|英[red] 美[red]|adj. 红色的<br>n. 红色|I received a bunch of red roses on my birthday.|生日那天，我收到一束红玫瑰。|初中英语单词|英语单词模板
@@ -649,7 +654,7 @@
 英语::初中英语单词|post office||邮局|Take these letters over to the post office.|把这些信送到对面邮局去。|初中英语单词|英语单词模板
 英语::初中英语单词|study|英[ˈstʌdi] 美[ˈstʌdi]|n. 研究；学习；学科；书房；（绘画或文学）习作；练习曲；沉思；记忆力…的人；台词记得…的人<br>v. 研究；学习；读书；仔细观察；努力|This reference book is very useful to our study.|这本参考书对我们的研究很有用。|初中英语单词|英语单词模板
 英语::初中英语单词|party|英[ˈpɑːti] 美[ˈpɑːrti]|n. 聚会；宴会；政党；一伙人；[律]当事人<br>vi. 开派对|It's a pity that you can't come to the party.|你不能来参加这次聚会，真可惜。|初中英语单词|英语单词模板
-英语::初中英语单词|friendly|英[ˈfrendli] 美[ˈfrendli]|adj. 友好的；友善的<br>adv. 友好地|The meeting is gone on in very friendly atmosphere.|会议在非常友好的气氛中进行。|初中英语单词|英语单词模板
+英语::初中英语单词|friendly|英[ˈfrendli] 美[ˈfrendli]|adj. 友好的；友善的<br>adv. 友好地|The new neighbors are very friendly and welcoming.|新邻居非常友好和热情。|初中英语单词|英语单词模板
 英语::初中英语单词|also|英[ˈɔːlsəʊ] 美[ˈɔːlsoʊ]|adv. 也；而且；同样地|We should also take account of difficulties.|我们也应该考虑到困难。|初中英语单词|英语单词模板
 英语::初中英语单词|medicine|英[ˈmedsn] 美[ˈmedsn]|n. 药；医学|I have a stomachache. May I have some medicine?|我胃痛，能给我开点药吗？|初中英语单词|英语单词模板
 英语::初中英语单词|in the day||在白天|We usually exercise in the day.|我们通常在白天锻炼。|初中英语单词|英语单词模板

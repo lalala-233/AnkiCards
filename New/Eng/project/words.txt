@@ -307,7 +307,7 @@
 英语::Words|terrain|英[təˈreɪn] 美[təˈreɪn]|n.地带；地形|The car blitzed through rough terrain.|这辆汽车长驱穿越了崎岖地带。|Word|英语单词模板
 英语::Words|risky|英[ˈrɪski] 美[ˈrɪski]|adj.危险的；冒险的；大胆的|It is risky to make snap judgements.|匆忙作判断是危险的。|Word|英语单词模板
 英语::Words|pasta|英[ˈpæstə] 美[ˈpɑːstə]|n.意大利面|Do you want chicken or pasta for dinner?|晚餐您喜欢鸡肉还是意大利面？|Word|英语单词模板
-英语::Words|genre|英[ˈʒɒ̃rə] 美[ˈʒɑːnrə]|n.类型；流派|My favorite music genre is blues.|我最喜欢的音乐种类是蓝调。|Word|英语单词模板
+英语::Words|genre|英[ˈʒɒnrə] 美[ˈʒɑːnrə]|n.类型；流派|My favorite music genre is blues.|我最喜欢的音乐种类是蓝调。|Word|英语单词模板
 英语::Words|planner|英[ˈplænə(r)] 美[ˈplænər]|n.计划者；城市规划者；记事簿|The original planners have not given up this plan.|最初的计划者没有放弃这个计划。|Word|英语单词模板
 英语::Words|chunk|英[tʃʌŋk] 美[tʃʌŋk]|n.矮胖的人或物；厚块（片）；相当大的量<br>vt.（高尔夫球）没击中<br>vi.发出猛冲的声音|A chunk of the cliff had cracked off in a storm.|山崖上的一块石头在暴风雨中崩塌下来。|Word|英语单词模板
 英语::Words|closest|英[kˈləʊsɪst] 美[kˈləʊsɪst]|adj.最靠近的|I number her among my closest friends.|我把她归为挚友之列。|Word|英语单词模板
@@ -340,12 +340,17 @@
 英语::Words|parish|英[ˈpærɪʃ] 美[ˈpærɪʃ]|n.教区；教区的全体居民；地方行政区；（路易西安那州的）郡|The Pop will come to this parish tomorrow.|教皇明天来这个教区。|Word|英语单词模板
 英语::Words|commodity|英[kəˈmɒdəti] 美[kəˈmɑːdəti]|n.商品；日用品；有价值之物|Coal is becoming a rare commodity.|煤正在成为一种稀缺商品。|Word|英语单词模板
 英语::Words|developmental|英[dɪˌveləpˈmentl] 美[dɪˌveləpˈmentl]|adj.发展的；进化的；开发的|Believe in each child is own developmental potentiality.|相信每一个儿童都有发展的潜能。|Word|英语单词模板
-英语::Words|faster|英[ˈfaːstə] 美[ˈfaːstə]|adj.更快的<br>adv.更快地|Faster levelling with triple experience gained!|更快的水准与三重的经验！|Word|英语单词模板
+英语::Words|faster|英[fɑːstə(r)] 美[ˈfæstər]|adj.更快的<br>adv.更快地|Faster levelling with triple experience gained!|更快的水准与三重的经验！|Word|英语单词模板
 英语::Words|halfway|英[ˌhɑːfˈweɪ] 美[ˌhæfˈweɪ]|adj.中途的；不彻底的<br>adv.半路地；在…中间；折中地|A pavilion is halfway up the hill.|山的半中腰有一座亭子。|Word|英语单词模板
 英语::Words|cemetery|英[ˈsemətri] 美[ˈseməteri]|n.墓地|He was buried in this cemetery.|他被安葬在这个公墓里。|Word|英语单词模板
 英语::Words|harassment|英[ˈhærəsmənt] 美[həˈræsmənt]|n.骚扰；困扰|The company prohibits any form of harassment.|公司禁止任何形式的骚扰行为。|Word|英语单词模板
 英语::Words|atop|英[əˈtɒp] 美[əˈtɑːp]|adv.在顶上<br>prep.在……的顶上|The picture shows us atop a high hill.|这张照片里我们站在高山顶上。|Word|英语单词模板
-英语::Words|toll|英[təʊl] 美[toʊl]|n.伤亡人数；钟声；通行费；代价<br>v.敲钟|The death toll mounted (to 100).|死亡人数上升（至100).|Word|英语单词模板
+英语::Words|toll|英[təʊl] 美[toʊl]|n.伤亡人数；钟声；通行费；代价<br>v.敲钟|The earthquake took a heavy toll on the local population.|地震给当地居民造成了严重伤亡。|Word|英语单词模板
+英语::Words|toll (2)|英[təʊl] 美[toʊl]|n.伤亡人数；钟声；通行费；代价<br>v.敲钟|The church bell tolls every hour.|教堂的钟每小时敲响一次。|Word|英语单词模板
+英语::Words|toll (3)|英[təʊl] 美[toʊl]|n.伤亡人数；钟声；通行费；代价<br>v.敲钟|The stress of the job is taking its toll on his health.|工作的压力正在损害他的健康。|Word|英语单词模板
+英语::Words|toll (4)|英[təʊl] 美[toʊl]|n.伤亡人数；钟声；通行费；代价<br>v.敲钟|We have to pay a toll to cross this bridge.|过这座桥我们需要支付通行费。|Word|英语单词模板
+英语::Words|toll (5)|英[təʊl] 美[toʊl]|n.伤亡人数；钟声；通行费；代价<br>v.敲钟|The war's death toll continues to rise.|战争的死亡人数持续上升。|Word|英语单词模板
+英语::Words|toll (6)|英[təʊl] 美[toʊl]|n.伤亡人数；钟声；通行费；代价<br>v.敲钟|The economic crisis has taken a significant toll on small businesses.|经济危机对小企业造成了重大打击。|Word|英语单词模板
 英语::Words|embarrassed|英[ɪmˈbærəst] 美[ɪmˈbærəst]|adj.尴尬的；拮据的；局促不安的|The embarrassed boy fiddled with his hat.|那个感到尴尬的孩子摆弄他的帽子。|Word|英语单词模板
 英语::Words|fucking|英[ˈfʌkɪŋ] 美[ˈfʌkɪŋ]|adj. <俚><粗>该死的<br>adv.非常地|Where is all the fucking water coming from?|这些该死的水是从哪里来的？|Word|英语单词模板
 英语::Words|cling|英[klɪŋ] 美[klɪŋ]|vi.紧贴；附着；依恋；坚持<br>n.紧抓；紧贴|The wet clothes clung to his body.|湿衣服紧贴在他身上。|Word|英语单词模板
@@ -354,7 +359,8 @@
 英语::Words|wheelchair|英[ˈwiːltʃeə(r)] 美[ˈwiːltʃer]|n.轮椅|His bad leg condemned him to a wheelchair.|他的残腿使他离不开轮椅。|Word|英语单词模板
 英语::Words|squad|英[skwɒd] 美[skwɑːd]|n.班；小队|They are the precision shooting asset of a squad.|他们是步兵班里的神枪手。|Word|英语单词模板
 英语::Words|eligible|英[ˈelɪdʒəbl] 美[ˈelɪdʒəbl]|adj.有资格的；合适的|Mary is not eligible for an award.|玛丽没有申请助学金的资格。|Word|英语单词模板
-英语::Words|processor|英[ˈprəʊsesə(r)] 美[ˈprɑːsesər]|n.加工者；处理器|Not every farmer and processor will become an agribusiness specialist but their organisations can help them to cope with the new market place.|不是每一个农民和加工者都能成为农业企业的专家，但是他们的组织可以帮助他们适应新的市场。|Word|英语单词模板
+英语::Words|processor|英[ˈprəʊsesə(r)] 美[ˈprɑːsesər]|n.加工机；处理器；处理程序|The new computer has a much faster processor than my old one.|这台新电脑的处理器比我那台旧电脑快得多。|Word|英语单词模板
+英语::Words|processor (2)|英[ˈprəʊsesə(r)] 美[ˈprɑːsesər]|n.加工机；处理器；处理程序|The word processor software makes document editing much easier.|文字处理软件使文档编辑更加容易。|Word|英语单词模板
 英语::Words|demographic|英[ˌdeməˈɡræfɪk] 美[ˌdeməˈɡræfɪk]|adj.人口统计学的，人口的<br>n.具有统计学特征的人群（一般指根据年龄、性别等进行统计的人群）|Could you tell me what demographic you're aiming at?|你能告诉我，你的目标客户是哪些人吗？|Word|英语单词模板
 英语::Words|legislator|英[ˈledʒɪsleɪtə(r)] 美[ˈledʒɪsleɪtər]|n.立法者|Six legislators were elected by local people.|当地人选举了六名立法委员。|Word|英语单词模板
 英语::Words|programming|英[ˈprəʊɡræmɪŋ] 美[ˈproʊɡræmɪŋ]|n.程序设计；[电脑]编程；节目编排<br>动词 program 的现在分词。|All original programming for his system was done in-house.|该系统的整个源程序设计的工作都是在内部完成的。|Word|英语单词模板
@@ -380,7 +386,11 @@
 英语::Words|screening|英[ˈskriːnɪŋ] 美[ˈskriːnɪŋ]|n.遮蔽；屏蔽；筛选；选拔，挑选；防波；上映；放映|However, most screening tests bring with them a certain amount of errors.|然而大多数的筛选测验本身会出现一些错误。|Word|英语单词模板
 英语::Words|brutal|英[ˈbruːtl] 美[ˈbruːtl]|adj.野蛮的；残暴的|The people have been kept down for years by a brutal regime.|人民多年遭受野蛮制度压迫。|Word|英语单词模板
 英语::Words|predator|英[ˈpredətə(r)] 美[ˈpredətər]|n.食肉动物；掠夺者；（动物的）捕食性天敌|Young birds are very vulnerable to predators.|幼小的鸟易受食肉动物伤害。|Word|英语单词模板
-英语::Words|poke|英[pəʊk] 美[poʊk]|n.戳；刺；拨；钱袋<br>v.戳；捅；刺；拨开；伸出|In his view, a pinch, a whack or a poke essentially tugged on a neural rope that then rang a pain alarm bell in the brain.|他的看法是，无论是捏、打或戳的动作，基本上都拉动了某根神经索，而敲响脑中某个疼痛的警铃。|Word|英语单词模板
+英语::Words|poke|英[pəʊk] 美[poʊk]|n.戳；刺；拨；钱袋<br>v.戳；捅；刺；拨开；伸出；探出|I saw a flower poking through the crack in the pavement.|我看到一朵花从人行道的裂缝中探出来。|Word|英语单词模板
+英语::Words|poke (2)|英[pəʊk] 美[poʊk]|n.戳；刺；拨；钱袋<br>v.戳；捅；刺；拨开；伸出；探出|Stop poking me with your elbow!|别用胳膊肘戳我！|Word|英语单词模板
+英语::Words|poke (3)|英[pəʊk] 美[poʊk]|n.戳；刺；拨；钱袋<br>v.戳；捅；刺；拨开；伸出；探出|The boat poked along slowly in the calm water.|船在平静的水面上缓慢行驶。|Word|英语单词模板
+英语::Words|poke (4)|英[pəʊk] 美[poʊk]|n.戳；刺；拨；钱袋<br>v.戳；捅；刺；拨开；伸出；探出|She poked the fire with a stick to make it burn brighter.|她用棍子捅了捅火让它烧得更旺。|Word|英语单词模板
+英语::Words|poke (5)|英[pəʊk] 美[poʊk]|n.戳；刺；拨；钱袋<br>v.戳；捅；刺；拨开；伸出；探出|The doctor gave the patient a gentle poke to test the reflex.|医生轻轻戳了戳病人以测试反射。|Word|英语单词模板
 英语::Words|opt|英[ɒpt] 美[ɑːpt]|vi.选择；决定|They opt for more holiday instead of more pay.|他们选择了延长假期而不是增加工资。|Word|英语单词模板
 英语::Words|forum|英[ˈfɔːrəm] 美[ˈfɔːrəm]|n.讨论会；论坛|This is a forum for education and technology.|这是一个有关教育和技术的讨论会。|Word|英语单词模板
 英语::Words|dancing|英[ˈdɑːnsɪŋ] 美[ˈdænsɪŋ]|n.跳舞<br>动词 dance 的现在分词形式。|His victory was celebrated with music and dancing.|以音乐和舞蹈庆祝他的胜利。|Word|英语单词模板
@@ -393,16 +403,22 @@
 英语::Words|routinely|英[ruːˈtiːnli] 美[ruːˈtiːnli]|adv.日常地；通常地；例行公事地|All procedures are routinely followed.|所有的程序都被日常地执行。|Word|英语单词模板
 英语::Words|regulator|英[ˈreɡjuleɪtə(r)] 美[ˈreɡjuleɪtər]|n.调整者；调整器；监管机构|Will government maintain its role of watchdog and regulator?|政府会继续起到监察者和调控者的作用吗？|Word|英语单词模板
 英语::Words|theological|英[ˌθiːəˈlɒdʒɪkl] 美[ˌθiːəˈlɒdʒɪkl]|adj.神学的<br>=theologic.|He is studying in the theological college.|他在那所神学院学习。|Word|英语单词模板
-英语::Words|old-fashioned|英[ˈəuldˈfæʃənd] 美[ˈəuldˈfæʃənd]|adj.老式的；老派的；守旧的<br>n.古典鸡尾酒|||Word|英语单词模板
+英语::Words|old-fashioned|英[ˈəuldˈfæʃənd] 美[ˈəuldˈfæʃənd]|adj.老式的；老派的；过时的；守旧的；传统的<br>n.古典鸡尾酒|This recipe uses old-fashioned methods that have been passed down for generations.|这个食谱使用了代代相传的传统方法。|Word|英语单词模板
+英语::Words|old-fashioned (2)|英[ˈəuldˈfæʃənd] 美[ˈəuldˈfæʃənd]|adj.老式的；老派的；过时的；守旧的；传统的<br>n.古典鸡尾酒|Some people consider handwritten letters to be old-fashioned.|有些人认为手写信件已经过时了。|Word|英语单词模板
+英语::Words|old-fashioned (3)|英[ˈəuldˈfæʃənd] 美[ˈəuldˈfæʃənd]|adj.老式的；老派的；过时的；守旧的；传统的<br>n.古典鸡尾酒|I actually like the old-fashioned design of this watch.|我其实喜欢这款手表的老式设计。|Word|英语单词模板
 英语::Words|rental|英[ˈrentl] 美[ˈrentl]|n.租费；租借<br>adj.租借的；地租的|Please show me a list of your car rental rates.|请给我看看你们的租车价目表。|Word|英语单词模板
 英语::Words|projection|英[prəˈdʒekʃn] 美[prəˈdʒekʃn]|n.投影；投射；规划；发射；凸出物；预测；放映|The simplest form of projection is a perspective projection.|最简单的投影形式是透视投影。|Word|英语单词模板
 英语::Words|authorize|英[ˈɔːθəraɪz] 美[ˈɔːθəraɪz]|vt.批准；委托；授权|The committee authorized the payment of the money.|委员会批准该款之支付。|Word|英语单词模板
 英语::Words|driveway|英[ˈdraɪvweɪ] 美[ˈdraɪvweɪ]|n.（住宅前的）车道|I saw him drive out the driveway.|我看到他从车道开出去。|Word|英语单词模板
 英语::Words|sexuality|英[ˌsekʃuˈæləti] 美[ˌsekʃuˈæləti]|n.性别；性方面的事情；性欲|He had an inferiority complex about his sexuality.|他对自己的性能力有一种自卑情结。|Word|英语单词模板
 英语::Words|ego|英[ˈiːɡəʊ] 美[ˈiːɡoʊ]|n.自我；自负；自尊心|We can't transcend the limitations of the ego.|我们无法超越自我的局限性。|Word|英语单词模板
-英语::Words|disc|英[dɪsk] 美[dɪsk]|n.唱片；圆盘；盘状物；花盘；磁盘（=disk）<br>pref.表示「盘；盘状物；唱片」<br>abbr.折扣（=discount）|I have many discs.|我有许多唱片。|Word|英语单词模板
+英语::Words|disc|英[dɪsk] 美[dɪsk]|n.唱片；光盘；圆盘；盘状物；花盘；磁盘（=disk）<br>pref.表示「盘；盘状物；唱片」<br>abbr.折扣（=discount）|I found an old music disc in the attic.|我在阁楼发现了一张旧音乐光盘。|Word|英语单词模板
+英语::Words|disc (2)|英[dɪsk] 美[dɪsk]|n.唱片；光盘；圆盘；盘状物；花盘；磁盘（=disk）<br>pref.表示「盘；盘状物；唱片」<br>abbr.折扣（=discount）|The museum has a collection of ancient clay discs.|博物馆收藏有古代陶盘。|Word|英语单词模板
+英语::Words|disc (3)|英[dɪsk] 美[dɪsk]|n.唱片；光盘；圆盘；盘状物；花盘；磁盘（=disk）<br>pref.表示「盘；盘状物；唱片」<br>abbr.折扣（=discount）|I prefer digital downloads over physical discs.|比起实体光盘，我更喜欢数字下载。|Word|英语单词模板
 英语::Words|regain|英[rɪˈɡeɪn] 美[rɪˈɡeɪn]|v.恢复；重回；复得|I did my best to regain my composure.|我尽了最大的努力恢复镇静。|Word|英语单词模板
-英语::Words|rehabilitation|英[ˌriːəˌbɪlɪˈteɪʃn] 美[ˌriːəˌbɪlɪˈteɪʃn]|n.修复；复原；复兴；恢复名誉|The cost of rehabilitation plus betterments approached 40% of the value of the structure.|修复费加上加固费接近建筑物造价的40%25。|Word|英语单词模板
+英语::Words|rehabilitation|英[ˌriːəˌbɪlɪˈteɪʃn] 美[ˌriːəˌbɪlɪˈteɪʃn]|n.恢复；修复；康复；复原；翻新；复兴；恢复名誉|After the surgery, he underwent six months of physical rehabilitation.|手术后，他接受了六个月的物理康复治疗。|Word|英语单词模板
+英语::Words|rehabilitation (2)|英[ˌriːəˌbɪlɪˈteɪʃn] 美[ˌriːəˌbɪlɪˈteɪʃn]|n.恢复；修复；康复；复原；翻新；复兴；恢复名誉|The historical building's rehabilitation will take two years and cost millions.|这座历史建筑的修复将需要两年时间，耗资数百万。|Word|英语单词模板
+英语::Words|rehabilitation (3)|英[ˌriːəˌbɪlɪˈteɪʃn] 美[ˌriːəˌbɪlɪˈteɪʃn]|n.恢复；修复；康复；复原；翻新；复兴；恢复名誉|The government is funding the rehabilitation of the city's public housing.|政府正在资助该市公共住房的改造。|Word|英语单词模板
 英语::Words|favorable|英[ˈfeɪvərəbl] 美[ˈfeɪvərəbəl]|adj.有利的；顺利的；良好的；赞同的|The conditions are favorable for opening a new business.|各种条件有利于开办新企业。|Word|英语单词模板
 英语::Words|integrated|英[ˈɪntɪɡreɪtɪd] 美[ˈɪntɪɡreɪtɪd]|adj.综合的；整合的；融合的<br>动词 integrate 的过去式和过去分词。|Do you feel more integrated into the team now?|你现在觉得自己更好的融合进队伍了吗？|Word|英语单词模板
 英语::Words|premium|英[ˈpriːmiəm] 美[ˈpriːmiəm]|n.额外费用；奖金；保险费<br>n.（商）溢价<br>adj.高价的；优质的|Who will pay the premium for the risk of breakage?|加保破碎险的费用由谁负担？|Word|英语单词模板
@@ -426,7 +442,10 @@
 英语::Words|sovereignty|英[ˈsɒvrənti] 美[ˈsɑːvrənti]|n.主权；独立国|The sovereignty of these islands is in dispute.|这些岛屿的主权有争执。|Word|英语单词模板
 英语::Words|lighting|英[ˈlaɪtɪŋ] 美[ˈlaɪtɪŋ]|n.照明；照明设备；人工照明|Street lighting was dimmed out during the war.|战时街道照明实行半灯火管制。|Word|英语单词模板
 英语::Words|contributor|英[kənˈtrɪbjʊtə] 美[kənˈtrɪbjʊtə]|n.贡献者；捐助者；赠送者；投稿人；原因|In the past life you are a complete contributor.|在过去的生活中，你是一个彻底的贡献者。|Word|英语单词模板
-英语::Words|importantly|英[ɪmˈpɔːtntli] 美[ɪmˈpɔːtntli]|adv.重要地|At the same time, managers gain the employees' engagement, and perhaps, more importantly, managers get to decide who benefits from its leniencies.|同时，经理获得了雇员的用心经营以及或许，最重要地，经理必须决定谁从宽容中更获益。|Word|英语单词模板
+英语::Words|importantly|英[ɪmˈpɔːtntli] 美[ɪmˈpɔːtntli]|adv.重要地；重要的是；自命不凡地|Most importantly, we need to ensure everyone's safety.|最重要的是，我们需要确保每个人的安全。|Word|英语单词模板
+英语::Words|importantly (2)|英[ɪmˈpɔːtntli] 美[ɪmˈpɔːtntli]|adv.重要地；重要的是；自命不凡地|He walked importantly into the room, as if he owned the place.|他神气十足地走进房间，仿佛他是这里的主人。|Word|英语单词模板
+英语::Words|importantly (3)|英[ɪmˈpɔːtntli] 美[ɪmˈpɔːtntli]|adv.重要地；重要的是；自命不凡地|He cleared his throat importantly before making the announcement.|他在宣布之前，煞有介事地清了清嗓子。|Word|英语单词模板
+英语::Words|importantly (4)|英[ɪmˈpɔːtntli] 美[ɪmˈpɔːtntli]|adv.重要地；重要的是；自命不凡地|He straightened his tie importantly before the interview.|面试前，他郑重其事地整了整领带。|Word|英语单词模板
 英语::Words|transit|英[ˈtrænzɪt] 美[ˈtrænzɪt]|n.运输；经过；转变；[天]中天；凌日；经纬仪<br>vt.穿越；旋转<br>vi.越过|The goods were lost in transit.|这些货物在运输中丢失了。|Word|英语单词模板
 英语::Words|seminar|英[ˈsemɪnɑː(r)] 美[ˈsemɪnɑːr]|n.研讨会；（大学的）研究班|The old professor had presided over a seminar for theoretical physicists.|老教授主持了一次理论物理学家的研讨会。|Word|英语单词模板
 英语::Words|accusation|英[ˌækjuˈzeɪʃn] 美[ˌækjuˈzeɪʃn]|n.控告；指控；非难|His father was under an accusation then.|他父亲当时受到控告。|Word|英语单词模板
@@ -439,7 +458,8 @@
 英语::Words|accurately|英[ˈækjərətli] 美[ˈækjərətli]|adv.准确地；精确地|His work is difficult to label accurately.|他的工作很难准确归类。|Word|英语单词模板
 英语::Words|plea|英[pliː] 美[pliː]|n.恳求；申诉；抗辩；借口|The prisoner made a plea for mercy.|囚犯恳求宽恕。|Word|英语单词模板
 英语::Words|flying|英[ˈflaɪɪŋ] 美[ˈflaɪɪŋ]|adj.飞似的；飞行的；会飞的<br>n.飞行；飞机驾驶<br>动词 fly 的现在分词。|He was knocked unconscious by a flying bottle.|他被飞过来的瓶子击昏了。|Word|英语单词模板
-英语::Words|sustainable|英[səˈsteɪnəbl] 美[səˈsteɪnəbl]|adj.可持续的；合理利用的；养得起的；可承受的|In our nation, we've just started to take a fresh look at our sustainable development strategy.|我国开始重新审视我们的可持续发展战略。|Word|英语单词模板
+英语::Words|sustainable|英[səˈsteɪnəbl] 美[səˈsteɪnəbl]|adj.可持续的；合理利用的；养得起的；可承受的|We need to find sustainable sources of energy for the future.|我们需要为未来寻找可持续的能源。|Word|英语单词模板
+英语::Words|sustainable (2)|英[səˈsteɪnəbl] 美[səˈsteɪnəbl]|adj.可持续的；合理利用的；养得起的；可承受的|The company is committed to sustainable business practices.|该公司致力于可持续的商业实践。|Word|英语单词模板
 英语::Words|spine|英[spaɪn] 美[spaɪn]|n.脊柱；脊椎；书脊；尖刺|His spine developed a slight curve.|他的脊柱有点弯曲。|Word|英语单词模板
 英语::Words|managing|英[ˈmænɪdʒɪŋ] 美[ˈmænɪdʒɪŋ]|adj.管理的<br>动词 manage 的现在分词。|Your mother has a genius for managing such things.|你母亲有处这样的事情的天才。|Word|英语单词模板
 英语::Words|organized|英[ˈɔːɡənaɪz] 美[ˈɔːrɡənaɪz]|v.组织；安排；筹办|The meeting was badly organized.|会议组织得很糟。|Word|英语单词模板
@@ -450,7 +470,11 @@
 英语::Words|middle-class||adj.中产阶级的|He made a bid for middle class support.|他努力试图得到中产阶级的支持。|Word|英语单词模板
 英语::Words|chopped|英[tʃɒpt] 美[tʃɒpt]|adj.斩碎的<br>动词 chop 的过去式和过去分词。|Bus services in this area have been chopped.|这一地区的公共汽车班次已大为削减。|Word|英语单词模板
 英语::Words|bizarre|英[bɪˈzɑː(r)] 美[bɪˈzɑːr]|adj.奇异的；怪诞的|The building was of bizarre construction.|这建筑构造奇异。|Word|英语单词模板
-英语::Words|retrieve|英[rɪˈtriːv] 美[rɪˈtriːv]|vt.恢复；挽回；取回<br>vi.找回猎物<br>n.恢复；取回；救出险球|The company is fighting to retrieve its market share.|这个公司正在为恢复其市场份额（占有率）而奋斗。|Word|英语单词模板
+英语::Words|retrieve|英[rɪˈtriːv] 美[rɪˈtriːv]|vt.恢复；挽回；挽救；取回；找回；检索<br>vi.找回猎物<br>n.恢复；取回；救出险球|She managed to retrieve her lost files from the damaged hard drive.|她成功从损坏的硬盘中恢复了丢失的文件。|Word|英语单词模板
+英语::Words|retrieve (2)|英[rɪˈtriːv] 美[rɪˈtriːv]|vt.恢复；挽回；挽救；取回；找回；检索<br>vi.找回猎物<br>n.恢复；取回；救出险球|The system allows users to retrieve information quickly.|该系统允许用户快速检索信息。|Word|英语单词模板
+英语::Words|retrieve (3)|英[rɪˈtriːv] 美[rɪˈtriːv]|vt.恢复；挽回；挽救；取回；找回；检索<br>vi.找回猎物<br>n.恢复；取回；救出险球|The rescue team worked to retrieve the hikers from the mountain.|救援队努力从山上营救徒步旅行者。|Word|英语单词模板
+英语::Words|retrieve (4)|英[rɪˈtriːv] 美[rɪˈtriːv]|vt.恢复；挽回；挽救；取回；找回；检索<br>vi.找回猎物<br>n.恢复；取回；救出险球|She used a special tool to retrieve the ring from the drain.|她使用特殊工具从排水管中取回戒指。|Word|英语单词模板
+英语::Words|retrieve (5)|英[rɪˈtriːv] 美[rɪˈtriːv]|vt.恢复；挽回；挽救；取回；找回；检索<br>vi.找回猎物<br>n.恢复；取回；救出险球|We must retrieve the situation before it gets worse.|我们必须在情况恶化前挽回局面。|Word|英语单词模板
 英语::Words|bomber|英[ˈbɒmə(r)] 美[ˈbɑːmər]|n.轰炸机；投弹手|Out rushed a missile from under the bomber.|一枚导弹突然从轰炸机下面发射出来。|Word|英语单词模板
 英语::Words|skeptical|英[ˈskeptɪkəl] 美[ˈskeptɪkəl]|adj.怀疑的|He is skeptical about everything.|他对于一切事都持怀疑的态度。|Word|英语单词模板
 英语::Words|scrutiny|英[ˈskruːtəni] 美[ˈskruːtəni]|n.监视；细看；周密的调查|Counting is now underway under the close scrutiny of several thousand observers.|现在，计票工作正在几千名观察员的密切监视下进行。|Word|英语单词模板
@@ -933,7 +957,7 @@
 英语::Words|lesbian|英[ˈlezbiən] 美[ˈlezbiən]|adj.同性恋的；莱斯博斯岛的<br>n.同性恋的女性；莱斯博斯岛人|And Batwoman is making a comeback as a lesbian.|蝙蝠女侠将以女同性恋的身份卷土重来。|Word|英语单词模板
 英语::Words|evidently|英[ˈevɪdəntli] 美[ˈevɪdəntli]|adv.明显地；显著地；显而易见地|She was in bed and evidently in great pain.|她躺在床上，明显非常痛苦。|Word|英语单词模板
 英语::Words|fictional|英[ˈfɪkʃənl] 美[ˈfɪkʃənl]|adj.虚构的；小说的|He embellished his account with fictional details.|他以种种虚构的细节来渲染他的叙述。|Word|英语单词模板
-英语::Words|registered|英[ˈredʒɪstəd] 美[ˈredʒɪstəd]|adj.注册的；登记过的；记名的<br>动词 register 的过去式和过去分词。|The registered gage has priority to the unregistered gage.|抵押物已登记的先于未登记的受偿。|Word|英语单词模板
+英语::Words|registered|英[ˈredʒɪstəd] 美[ˈredʒɪstəd]|adj.注册的；登记过的；记名的<br>动词 register 的过去式和过去分词。|This is a registered trademark and cannot be used without permission.|这是一个注册商标，未经许可不得使用。|Word|英语单词模板
 英语::Words|efficiently|英[ɪˈfɪʃntli] 美[ɪˈfɪʃntli]|adv.高效率地；有效地|It is hard to work efficiently in such a confined space.|在这样狭小的空间里工作很难提高效率。|Word|英语单词模板
 英语::Words|implant|英[ˈɪmplɑːnt] 美[ˈɪmplænt]|v.深植；灌输；嵌入；移植<br>n.移植物；植入物|Teachers implant sound principles in the mind of children.|老师把健全的原则灌输在儿童心中。|Word|英语单词模板
 英语::Words|dietary|英[ˈdaɪətəri] 美[ˈdaɪətəri]|adj.饮食的；饭食的<br>n.规定的食物；饮食的规定|You'll have to change your dietary habits.|你必须改变你的饮食习惯。|Word|英语单词模板
@@ -1548,7 +1572,8 @@
 英语::Words|hiring|英[ˈhaɪərɪŋ] 美[ˈhaɪərɪŋ]|adj.雇佣的；租赁的<br>动词 hire 的现在分词形式。|The company's hiring more men next week.|该公司下周要再雇些男工。|Word|英语单词模板
 英语::Words|progression|英[prəˈɡreʃn] 美[prəˈɡreʃn]|n.前进；进展；连续|Career progression from trainee to junior management levels can be rapid.|从培训生到初级管理者的职业发展是迅速的。|Word|英语单词模板
 英语::Words|runoff|英[ˈrʌnˌɔːf] 美[ˈrʌnˌɔːf]|n.径流量；流出；流放口；决赛|The streams are flushwith the spring runoff.|溪涧涨满春水。|Word|英语单词模板
-英语::Words|professionally|英[prəˈfeʃənəli] 美[prəˈfeʃənəli]|adv.职业上；专业地；内行地；非业余地|The product has been marketed very professionally.|这项产品的推销一直很讲究专业技巧。|Word|英语单词模板
+英语::Words|professionally|英[prəˈfeʃənəli] 美[prəˈfeʃənəli]|adv.职业上；专业地；内行地；非业余地|She always dresses professionally for work.|她上班时总是穿得很专业。|Word|英语单词模板
+英语::Words|professionally (2)|英[prəˈfeʃənəli] 美[prəˈfeʃənəli]|adv.职业上；专业地；内行地；非业余地|He handled the difficult situation very professionally.|他非常专业地处理了这个棘手的情况。|Word|英语单词模板
 英语::Words|empathy|英[ˈempəθi] 美[ˈempəθi]|n.移情作用；共鸣；[心]神入|I must have a certain gift for empathy.|我一定有移情的天赋。|Word|英语单词模板
 英语::Words|collide|英[kəˈlaɪd] 美[kəˈlaɪd]|vi.碰撞；互撞；砥触|The bus and the van collided.|公共汽车与客货车相撞。|Word|英语单词模板
 英语::Words|bargaining|英[ˈbɑːɡənɪŋ] 美[ˈbɑːrɡənɪŋ]|n.交易；契约；交涉，商讨，商谈；讨价还价<br>v.讨价还价，商谈（bargain 的现在分词）|It took weeks of bargaining to consummate the deal.|达成这项交易耗费了几周的时间。|Word|英语单词模板
@@ -2387,7 +2412,7 @@
 英语::Words|inadvertently|英[ˌɪnədˈvɜːtəntli] 美[ˌɪnədˈvɜːrtəntli]|adv.不注意地；疏忽地；非故意地|At present, if too many turtles are inadvertently caught in Hawaiian waters, the entire fishery is closed down.|现在，在夏威夷海域，如果海龟被不注意地捕捞过多，整个渔场就被关闭。|Word|英语单词模板
 英语::Words|sighting|英[ˈsaɪtɪŋ] 美[ˈsaɪtɪŋ]|n.看见<br>动词 sight 的现在分词形式。|They wandered about in the Caribbean for over a week yet before sighting land.|他们游荡在加勒比海一个多星期仍然没有看见陆地。|Word|英语单词模板
 英语::Words|enclave|英[ˈenkleɪv] 美[ˈenkleɪv]|n.飞地；被包围的领土|But California is not America's only green enclave.|不过加里福利亚州并不是美国唯一的绿色领地。|Word|英语单词模板
-英语::Words|psychologically|英[ˌsaɪkəˈlɒdʒɪkli] 美[ˌsaɪkəˈlɒdʒɪkli]|adv.精神上地；心理上地|Relating to or being a method of childbirth in which the expectant mother is prepared psychologically and physically to give birth without the use of drugs.|心理助产法的与一种生孩子方法有关的或这种方法的，在该法中怀孕的母亲不借助麻醉药而是在心理和身体上作充分的准备|Word|英语单词模板
+英语::Words|psychologically|英[ˌsaɪkəˈlɒdʒɪkli] 美[ˌsaɪkəˈlɒdʒɪkli]|adv.精神上地；心理上地|The experience was psychologically damaging for the survivors.|这次经历对幸存者造成了心理创伤。|Word|英语单词模板
 英语::Words|depressing|英[dɪˈpresɪŋ] 美[dɪˈpresɪŋ]|adj.令人沮丧的<br>动词 depress 的现在分词。|The conclusion, alas, is depressing.|唉，结论是令人沮丧的。|Word|英语单词模板
 英语::Words|anthrax|英[ˈænθræks] 美[ˈænθræks]|n.炭疽病|It is not a good idea to culture anthrax in your home.|在家中培育炭疽病毒可不是好玩的。|Word|英语单词模板
 英语::Words|leftist|英[ˈleftɪst] 美[ˈleftɪst]|n.左翼的人<br>adj.左派的；急进派的|I had no idea that Bob used to be such a leftist.|我一点儿都不知道鲍勃以前曾是个如此激进的人。|Word|英语单词模板
@@ -2677,7 +2702,8 @@
 英语::Words|defiance|英[dɪˈfaɪəns] 美[dɪˈfaɪəns]|n.蔑视；违抗；挑衅|His defiance of the law cost him dearly.|蔑视法律使他付出沈重的代价。|Word|英语单词模板
 英语::Words|poisoning|英[ˈpɔɪzənɪŋ] 美[ˈpɔɪzənɪŋ]|n.中毒|Chronic poisoning may lead to death from inanition.|慢性中毒也可能由虚弱导致死亡。|Word|英语单词模板
 英语::Words|caretaker|英[ˈkeəteɪkə(r)] 美[ˈkerteɪkər]|adj.临时代理的<br>n.看门人；看管人|This block of flats has a non-resident caretaker.|这座公寓的管理员不在公寓里住。|Word|英语单词模板
-英语::Words|defining|英[dɪˈfaɪnɪŋ] 美[dɪˈfaɪnɪŋ]|adj.定义性的；限定的<br>动词 define 的现在分词。|In computer programming, to resolve a string of characters, representing for example a program statement, into its elemental parts as defined by(say) the programming language.|在计算机程序设计中，从字符串（例如代表程序的语句）中分辨出程序设计语言中所定义的基本语法成分。参阅 compiler。|Word|英语单词模板
+英语::Words|defining|英[dɪˈfaɪnɪŋ] 美[dɪˈfaɪnɪŋ]|adj.决定性的；关键的；典型的；定义性的；限定的<br>动词 define 的现在分词。|The Industrial Revolution was a defining period in human history.|工业革命是人类历史上一个关键时期。|Word|英语单词模板
+英语::Words|defining (2)|英[dɪˈfaɪnɪŋ] 美[dɪˈfaɪnɪŋ]|adj.决定性的；关键的；典型的；定义性的；限定的<br>动词 define 的现在分词。|The Eiffel Tower is a defining landmark of Paris.|埃菲尔铁塔是巴黎的标志性地标。|Word|英语单词模板
 英语::Words|mower|英[ˈməʊə(r)] 美[ˈmoʊər]|n.割草机；割草人|The gardener asked me for a rotary lawn mower.|园丁向我要一台旋转式割草机。|Word|英语单词模板
 英语::Words|staggering|英[ˈstæɡərɪŋ] 美[ˈstæɡərɪŋ]|adj.摇晃的；惊人的<br>动词 stagger 的现在分词。|The amounts involved are staggering, Rogers said.|所涉及的金额是惊人的，罗杰斯说。|Word|英语单词模板
 英语::Words|incarnation|英[ˌɪnkɑːˈneɪʃn] 美[ˌɪnkɑːrˈneɪʃn]|n.赋与肉体；具人形；化身；（生活中的）特殊阶段|She's the very incarnation of goodness.|她是美德的化身。|Word|英语单词模板
@@ -3465,7 +3491,11 @@
 英语::Words|distorted|英[dɪsˈtɔːtɪd] 美[dɪsˈtɔːtɪd]|adj.扭歪的；歪曲的；受到曲解的<br>动词 distort 的过去式和过去分词。|When viewers become seduced by TV's aura of authenticity, the potential exists for distorted reality to become society's reality.|观众被电视营造的真实气氛引入歧途时，被歪曲的现实就有可能成为真的社会现实。|Word|英语单词模板
 英语::Words|outfielder|英[ˈaʊtfiːlde(r)] 美[ˈaʊtfiːlder]|n.[棒球]外场手|The outfielder couldn't reach the flare in time.|外场手没能及时接住这个高飞球。|Word|英语单词模板
 英语::Words|familial|英[fəˈmɪliəl] 美[fəˈmɪliəl]|adj.家庭的；家族遗传的|Troop units were indeed familial in feeling.|军营中的确弥漫着相亲相爱的感情。|Word|英语单词模板
-英语::Words|hopelessly|英[ˈhəʊpləsli] 美[ˈhəʊpləsli]|adv.绝望地；无望的；无可救药的|They were hopelessly deadlocked in almost total differences of opinionoutlook.|他们绝望地陷于意见和观点分歧的僵局之中。|Word|英语单词模板
+英语::Words|hopelessly|英[ˈhəʊpləsli] 美[ˈhəʊpləsli]|adv.极其；完全；彻底；绝望地；无望地；无可救药的|She sighed hopelessly when she saw the massive pile of work.|看到堆积如山的工作，她绝望地叹了口气。|Word|英语单词模板
+英语::Words|hopelessly (2)|英[ˈhəʊpləsli] 美[ˈhəʊpləsli]|adv.极其；完全；彻底；绝望地；无望地；无可救药的|My phone battery is hopelessly dead.|我的手机电池彻底没电了。|Word|英语单词模板
+英语::Words|hopelessly (3)|英[ˈhəʊpləsli] 美[ˈhəʊpləsli]|adv.极其；完全；彻底；绝望地；无望地；无可救药的|The instructions were hopelessly confusing.|说明书让人完全摸不着头脑。|Word|英语单词模板
+英语::Words|hopelessly (4)|英[ˈhəʊpləsli] 美[ˈhəʊpləsli]|adv.极其；完全；彻底；绝望地；无望地；无可救药的|I'm hopelessly late for the meeting already.|我已经迟到得太离谱，赶不上会议了。|Word|英语单词模板
+英语::Words|hopelessly (5)|英[ˈhəʊpləsli] 美[ˈhəʊpləsli]|adv.极其；完全；彻底；绝望地；无望地；无可救药的|She is hopelessly romantic, always dreaming of fairy-tale endings.|她极其浪漫，总是梦想着童话般的结局。|Word|英语单词模板
 英语::Words|recapture|英[ˌriːˈkæptʃə(r)] 美[ˌriːˈkæptʃər]|v.重新获得；再次经历；重温；再俘获<br>n.重获；重获之物；再捕获|The military forces managed to recapture the fort.|军队设法夺回了要塞。|Word|英语单词模板
 英语::Words|porn|英[pɔːn] 美[pɔːrn]|n.<口>色情文学，色情描写，色情刊物<br>adj.<口>色情的，色情文学的<br>=pornography/pornographic|Since then she has made me go to church and stop watching porn.|自那以后，她使我去教会，并停止观看色情。|Word|英语单词模板
 英语::Words|remembrance|英[rɪˈmembrəns] 美[rɪˈmembrəns]|n.回想；记忆；纪念品|He had a lively remembrance of his childhood.|他对他的童年生活记忆犹新。|Word|英语单词模板
@@ -4996,7 +5026,8 @@
 英语::Words|boiled|英[bɔɪld] 美[bɔɪld]|adj.煮熟的<br>动词 boil 的过去式和过去分词。|Do you want a boiled egg for breakfast?|你早饭要吃煮鸡蛋吗？|Word|英语单词模板
 英语::Words|predispose|英[ˌpriːdɪˈspəʊz] 美[ˌpriːdɪˈspoʊz]|v.（使）易罹患；（使）预先偏向于|The inhabitants are predisposed to rheumatism by the damp climate.|因气候潮湿，居民易患风湿症。|Word|英语单词模板
 英语::Words|mane|英[meɪn] 美[meɪn]|n.（马等的）鬃毛；浓密的头发|Angry animals erect the mane.|动物发怒时鬃毛会竖起。|Word|英语单词模板
-英语::Words|furry|英[ˈfɜːri] 美[ˈfɜːri]|adj.毛皮的；盖着毛皮的；似毛皮的；有舌苔的；沙哑的|You should not kill furry little animals.|你不应该杀毛茸茸的小动物。|Word|英语单词模板
+英语::Words|furry|英[ˈfɜːri] 美[ˈfɜːri]|adj.毛皮的；盖着毛皮的；似毛皮的；有舌苔的；沙哑的|My daughter loves her furry teddy bear more than any other toy.|我女儿爱她毛茸茸的泰迪熊胜过任何其他玩具。|Word|英语单词模板
+英语::Words|furry (2)|英[ˈfɜːri] 美[ˈfɜːri]|adj.毛皮的；盖着毛皮的；似毛皮的；有舌苔的；沙哑的|He wore a furry hat to protect his ears from the cold.|他戴了一顶毛茸茸的帽子保护耳朵不受冻。|Word|英语单词模板
 英语::Words|painkiller|英[ˈpeɪnkɪlə(r)] 美[ˈpeɪnkɪlər]|n.止痛药|Tylenol, my painkiller of choice, has this as the main active ingredient.|是我常用的止痛药，泰诺的主要成分。|Word|英语单词模板
 英语::Words|roomy|英[ˈruːmi] 美[ˈruːmi]|adj.广阔的；宽敞的|The room was as roomy as a barn.|那间屋子象一个仓房一样广阔。|Word|英语单词模板
 英语::Words|hangover|英[ˈhæŋəʊvə(r)] 美[ˈhæŋoʊvər]|n.残留物；遗物；宿醉|His cough is a hangover from a bad illness he had.|他的咳嗽是一场重病的后遗症。|Word|英语单词模板
@@ -9874,7 +9905,9 @@
 英语::Words|naturalism|英[ˈnætʃrəlɪzəm] 美[ˈnætʃrəlɪzəm]|n.自然主义|We are the supporter and practioner of Naturalism.|我们是自然主义的拥护者和实践者。|Word|英语单词模板
 英语::Words|laudable|英[ˈlɔːdəbl] 美[ˈlɔːdəbl]|adj.值得称赞的|Her work for charity is highly laudable.|她的慈善工作值得高度赞扬。|Word|英语单词模板
 英语::Words|centralization|英[ˌsentrəlaɪˈzeɪʃn] 美[ˌsentrəlaɪˈzeɪʃn]|n.集中；中央集权化|The most important aspect of centralization and unification is unifying our thinking.|而集中统一，最重要的是思想的统一。|Word|英语单词模板
-英语::Words|guy|英[ɡaɪ] 美[ɡaɪ]|n.家伙；（男）人<br>n.拉索；牵索<br>vt.嘲笑|This ordinary quiet guy just freaked out and shot ten people.|这个平时温和的家伙简直发疯了，开枪打死了十个人。|Word|英语单词模板
+英语::Words|guy|英[ɡaɪ] 美[ɡaɪ]|n.家伙；伙计；（男）人<br>n.拉索；牵索<br>vt.嘲笑|That guy over there is my new colleague.|那边那个家伙是我的新同事。|Word|英语单词模板
+英语::Words|guy (2)|英[ɡaɪ] 美[ɡaɪ]|n.家伙；伙计；（男）人<br>n.拉索；牵索<br>vt.嘲笑|Hey guys, wait for me! I'm coming too!|嘿伙计们，等等我！我也来！|Word|英语单词模板
+英语::Words|guy (3)|英[ɡaɪ] 美[ɡaɪ]|n.家伙；伙计；（男）人<br>n.拉索；牵索<br>vt.嘲笑|I met some interesting guys at the conference yesterday.|昨天我在会议上遇到了一些有趣的人。|Word|英语单词模板
 英语::Words|including|英[ɪnˈkluːdɪŋ] 美[ɪnˈkluːdɪŋ]|prep.包含；包括<br>v.包括，包含（动词 include 的现在分词）|A lens is an optical system including two refracting surfaces.|一个透镜是包含两个折射面的光学系统。|Word|英语单词模板
 英语::Words|according|英[əˈkɔːdɪŋ] 美[əˈkɔːdɪŋ]|adv.根据；按照<br>adj.相符的，一致的，相应的；和谐的，调和的|According to expert opinions, they gave up the experiment immediately.|根据专家们的意见，他们马上放弃了这项试验。|Word|英语单词模板
 英语::Words|True|英[truː] 美[truː]|adj.真实的；真的；准确的；精确的；忠诚的<br>adv.真实地；准确地<br>n.真相；精确<br>vt.使……平衡|She gave the true account of what had happened.|她如实地讲述了发生的事情。|Word|英语单词模板
@@ -9953,7 +9986,8 @@
 英语::Words|marketing|英[ˈmɑːkɪtɪŋ] 美[ˈmɑːrkɪtɪŋ]|n.市场营销；行销|This company puts a high value on marketing.|这家公司高度重视市场营销。|Word|英语单词模板
 英语::Words|competitive|英[kəmˈpetətɪv] 美[kəmˈpetətɪv]|adj.竞争的；有竞争力的；胜过或超过他人的|It's getting very competitive in the car industry.|汽车工业方面的竞争日益加剧。|Word|英语单词模板
 英语::Words|congressional|英[kənˈɡreʃənl] 美[kənˈɡreʃənl]|adj.议会的；国会的；会议的|The congressional opponents zeroed in on the bill.|国会中的反对派把矛头集中指向那项议案。|Word|英语单词模板
-英语::Words|involvement|英[ɪnˈvɒlvmənt] 美[ɪnˈvɑːlvmənt]|n.卷入；牵连；参与；兴趣；恋爱关系；性关系|His involvement in the scandal was a blot on his reputation.|他因卷入丑闻，在名誉上留下污点。|Word|英语单词模板
+英语::Words|involvement|英[ɪnˈvɒlvmənt] 美[ɪnˈvɑːlvmənt]|n.卷入；牵连；参与；兴趣；恋爱关系；性关系|Her involvement in the community project was greatly appreciated.|她参与社区项目的行为受到高度赞赏。|Word|英语单词模板
+英语::Words|involvement (2)|英[ɪnˈvɒlvmənt] 美[ɪnˈvɑːlvmənt]|n.卷入；牵连；参与；兴趣；恋爱关系；性关系|He denied any involvement in the financial scandal.|他否认与财务丑闻有任何牵连。|Word|英语单词模板
 英语::Words|dominate|英[ˈdɒmɪneɪt] 美[ˈdɑːmɪneɪt]|v.支配；控制；统治；占优势；俯视；高耸于|That way, he can dominate the game.|那样他才能支配比赛。|Word|英语单词模板
 英语::Words|championship|英[ˈtʃæmpiənʃɪp] 美[ˈtʃæmpiənʃɪp]|n.锦标赛；冠军；拥护|How did the team prepare for the team championship?|你们的队伍是怎么准备这次锦标赛的？|Word|英语单词模板
 英语::Words|maker|英[ˈmeɪkə(r)] 美[ˈmeɪkər]|n.制造者；制定者<br>Maker：上帝。|The auto- maker recalls a lot of cars that are unsafe.|汽车制造商召回许多不安全的车辆。|Word|英语单词模板
@@ -10071,3 +10105,6 @@
 英语::Words|take charge (2)||掌管；负责；接管；开始管理；承担责任|She took charge of the family business after her father's retirement.|她在父亲退休后接管了家族企业。|Word|英语单词模板
 英语::Words|out of control||失控；不受控制|The project costs are getting out of control due to unexpected expenses.|由于意外开支，项目成本正在失控。|Word|英语单词模板
 英语::Words|out of control (2)||失控；不受控制|She realized that other people's opinions were out of her control.|她意识到别人的意见是她无法控制的。|Word|英语单词模板
+英语::Words|welcoming|英[ˈwelkəmɪŋ] 美[ˈwelkəmɪŋ]|adj. 欢迎的，热情的；舒适的；迎接（某人）的<br>v. 欢迎（welcome 的现在分词）|The restaurant has a cozy and welcoming atmosphere.|这家餐厅有舒适温馨的氛围。|Word|英语单词模板
+英语::Words|welcoming (2)|英[ˈwelkəmɪŋ] 美[ˈwelkəmɪŋ]|adj. 欢迎的，热情的；舒适的；迎接（某人）的<br>v. 欢迎（welcome 的现在分词）|He extended a welcoming hand to the new team members.|他向新团队成员伸出了欢迎之手。|Word|英语单词模板
+英语::Words|welcoming (3)|英[ˈwelkəmɪŋ] 美[ˈwelkəmɪŋ]|adj. 欢迎的，热情的；舒适的；迎接（某人）的<br>v. 欢迎（welcome 的现在分词）|He extended a welcoming hand to the new team members.|他向新团队成员伸出了欢迎之手。|Word|英语单词模板
