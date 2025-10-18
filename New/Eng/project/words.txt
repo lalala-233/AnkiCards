@@ -296,11 +296,14 @@
 英语::Words|organizational|英[ˌɔːɡənaɪˈzeɪʃənl] 美[ˌɔːɡənaɪˈzeɪʃənl]|adj.组织的|I am pretty independent and have organizational skills.|我非常独立，有组织能力。|Word|英语单词模板
 英语::Words|uh|英[ʌ; ɜː] 美[ʌ; ɜː]|int.嗯；呃<br>abbr.上半部分(=upper half)|Uh, I'm not sure if I can make it to the meeting tomorrow.|呃，我不确定明天能否参加会议。|Word|英语单词模板
 英语::Words|emerging|英[ɪˈmɜːdʒɪŋ] 美[ɪˈmɜːdʒɪŋ]|adj.新兴的<br>v.动词 emerge 的现在分词|New emerging forces are invincible.|新生力量是不可战胜的。|Word|英语单词模板
-英语::Words|envision|英[ɪnˈvɪʒn] 美[ɪnˈvɪʒn]|vt.想象；设想|But the competition of man against man is not the simple process envisioned in biology.|但是人反对人的竞争不是象生物学中所想象的那种简单过程。|Word|英语单词模板
+英语::Words|envision|英[ɪnˈvɪʒn] 美[ɪnˈvɪʒn]|vt.想象；设想|I envision a future where renewable energy powers our entire world.|我展望一个可再生能源为整个世界供电的未来。|Word|英语单词模板
+英语::Words|envision (2)|英[ɪnˈvɪʒn] 美[ɪnˈvɪʒn]|vt.想象；设想|The architect envisioned a building that would blend with the natural surroundings.|建筑师设想了一座与自然环境融为一体的建筑。|Word|英语单词模板
+英语::Words|envision (3)|英[ɪnˈvɪʒn] 美[ɪnˈvɪʒn]|vt.想象；设想|It's hard to envision how different our lives will be in 50 years.|很难想象 50 年后我们的生活会有多么不同。|Word|英语单词模板
 英语::Words|aisle|英[aɪl] 美[aɪl]|n.侧廊；（席位间的）通道|It's down on the end of this aisle.|沿着这条走廊走到底就是。|Word|英语单词模板
 英语::Words|vocal|英[ˈvəʊkl] 美[ˈvoʊkl]|adj.声音的；口头的；声乐的；直言不讳的<br>n.元音；声乐作品|The tongue is one of the vocals.|舌头是发声器官之一。|Word|英语单词模板
 英语::Words|marketplace|英[ˈmɑːkɪtpleɪs] 美[ˈmɑːrkɪtpleɪs]|n.集会场所；市场|Sifang Street is a very busy marketplace.|四方街是一个热闹的集市。|Word|英语单词模板
-英语::Words|openly|英[ˈəʊpənli] 美[ˈoʊpənli]|adv.公开地；公然地；直率地|He speaks more and more openly about his problem.|他越来越公开地谈他的问题，|Word|英语单词模板
+英语::Words|openly|英[ˈəʊpənli] 美[ˈoʊpənli]|adv.公开地；公然地；直率地|She openly expressed her disagreement with the company's new policy.|她公开表达了对公司新政策的不同意见。|Word|英语单词模板
+英语::Words|openly (2)|英[ˈəʊpənli] 美[ˈoʊpənli]|adv.公开地；公然地；直率地|They talked openly about their relationship problems with the counselor.|他们向咨询师坦率地谈论了他们的关系问题。|Word|英语单词模板
 英语::Words|terrain|英[təˈreɪn] 美[təˈreɪn]|n.地带；地形|The car blitzed through rough terrain.|这辆汽车长驱穿越了崎岖地带。|Word|英语单词模板
 英语::Words|risky|英[ˈrɪski] 美[ˈrɪski]|adj.危险的；冒险的；大胆的|It is risky to make snap judgements.|匆忙作判断是危险的。|Word|英语单词模板
 英语::Words|pasta|英[ˈpæstə] 美[ˈpɑːstə]|n.意大利面|Do you want chicken or pasta for dinner?|晚餐您喜欢鸡肉还是意大利面？|Word|英语单词模板
@@ -1201,7 +1204,15 @@
 英语::Words|immunity|英[ɪˈmjuːnəti] 美[ɪˈmjuːnəti]|n.免疫；免疫性；免除；豁免|Children who have gotten the chickenpox build an immunity to it so that they do not get it a second time.|已经得过水痘的小孩会对它免疫，所以不会再得第二次。|Word|英语单词模板
 英语::Words|Halloween|英[ˌhæləʊˈiːn] 美[ˌhæloʊˈiːn]|n.万圣节前夕；《月光光心慌慌》（一部经典的美国恐怖电影）|Yet many grown people observe Halloween, too.|不过许多成年人也庆祝万圣节前夕。|Word|英语单词模板
 英语::Words|planetary|英[ˈplænətri] 美[ˈplænəteri]|adj.行星的；有轨道的|He formulated the theory of planetary movement.|他系统阐述了行星运动理论。|Word|英语单词模板
-英语::Words|heck|英[hek] 美[hek]|int. <口>（hell 的委婉语）见鬼<br>n. <俚>用以加强语气|My Black raise heck when he saw the dented fender. He endlessly blamed the other drivers.|布莱克先生看见那被撞坏的挡泥板吟就大吵大闹起来，没完没了地责备其他司机。|Word|英语单词模板
+英语::Words|heck|英[hek] 美[hek]|int. 糟糕；见鬼<br>n. 该死；见鬼<br>hell 的委婉语，多用于加强语气|What the heck is going on here?|这到底是怎么回事？|Word|英语单词模板
+英语::Words|heck (2)|英[hek] 美[hek]|int. 糟糕；见鬼<br>n. 该死；见鬼<br>hell 的委婉语，多用于加强语气|Oh heck, I forgot to bring my wallet!|哦，见鬼，我忘记带钱包了！|Word|英语单词模板
+英语::Words|heck (3)|英[hek] 美[hek]|int. 糟糕；见鬼<br>n. 该死；见鬼<br>hell 的委婉语，多用于加强语气|It's cold as heck outside today.|今天外面冷得要命。|Word|英语单词模板
+英语::Words|heck (4)|英[hek] 美[hek]|int. 糟糕；见鬼<br>n. 该死；见鬼<br>hell 的委婉语，多用于加强语气|Who the heck left the door open?|到底是哪个家伙把门开着的？|Word|英语单词模板
+英语::Words|heck (5)|英[hek] 美[hek]|int. 糟糕；见鬼<br>n. 该死；见鬼<br>hell 的委婉语，多用于加强语气|This is one heck of a good movie!|这真是一部超棒的电影！|Word|英语单词模板
+英语::Words|heck (6)|英[hek] 美[hek]|int. 糟糕；见鬼<br>n. 该死；见鬼<br>hell 的委婉语，多用于加强语气|Heck, I might as well give it a try.|管他呢，我不妨试一试。|Word|英语单词模板
+英语::Words|heck (7)|英[hek] 美[hek]|int. 糟糕；见鬼<br>n. 该死；见鬼<br>hell 的委婉语，多用于加强语气|That was one heck of a storm last night.|昨晚那场暴风雨真是够猛的。|Word|英语单词模板
+英语::Words|heck (8)|英[hek] 美[hek]|int. 糟糕；见鬼<br>n. 该死；见鬼<br>hell 的委婉语，多用于加强语气|Heck no, I'm not going to that boring party.|才不呢，我才不去参加那个无聊的派对。|Word|英语单词模板
+英语::Words|heck (9)|英[hek] 美[hek]|int. 糟糕；见鬼<br>n. 该死；见鬼<br>hell 的委婉语，多用于加强语气|How the heck did you manage to solve that problem?|你到底是怎么解决那个问题的？|Word|英语单词模板
 英语::Words|declining|英[dɪˈklaɪnɪŋ] 美[dɪˈklaɪnɪŋ]|adj.下降的；衰落的<br>动词 decline 的现在分词。|No medical certificate would compensate for a declining sales graph.|任何医疗证明都不能使下降的销售指数得到报偿。|Word|英语单词模板
 英语::Words|blonde|英[blɒnd] 美[blɑːnd]|adj.金发碧眼的；白皙的；（头发）亚麻色的<br>n.金发女郎|This blond man delivers newspaper every morning.|这个白肤金发碧眼的男人每天早晨送报纸。|Word|英语单词模板
 英语::Words|conform|英[kənˈfɔːm] 美[kənˈfɔːrm]|v.使一致；遵从|His ideas do not conform to mine.|他的想法和我的不一致。|Word|英语单词模板
