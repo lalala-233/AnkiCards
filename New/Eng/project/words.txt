@@ -482,14 +482,14 @@
 英语::Words|consistency|英[kənˈsɪstənsɪ] 美[kənˈsɪstənsɪ]|n.连贯；一致性；强度；硬度；浓稠度|These accounts show no consistency.|这些报道前后不一。|Word|英语单词模板
 英语::Words|videotape|英[ˈvɪdiəʊteɪp] 美[ˈvɪdioʊteɪp]|n.录像带<br>vt.录像|This kind of videotape rewinds automatically.|这种录像带能自动倒回。|Word|英语单词模板
 英语::Words|developed|英[dɪˈveləpt] 美[dɪˈveləpt]|adj.发达的；成熟的<br>动词 develop 的过去式和过去分词。|The dolphin has evolved a highly developed jaw.|海豚已经进化形成高度发达的下颌。|Word|英语单词模板
-英语::Words|interactive|英[ˌɪntərˈæktɪv] 美[ˌɪntərˈæktɪv]|adj.相互作用的；交互的|sports bulletin||Word|英语单词模板
+英语::Words|interactive|英[ˌɪntərˈæktɪv] 美[ˌɪntərˈæktɪv]|adj.互动的；交互式的|The museum has many interactive exhibits that children love.|这个博物馆有许多孩子们喜欢的互动展品。|Word|英语单词模板
+英语::Words|interactive (2)|英[ˌɪntərˈæktɪv] 美[ˌɪntərˈæktɪv]|adj.互动的、交互式的|This is an interactive map that shows real-time traffic conditions.|这是一张显示实时交通状况的交互式地图。|Word|英语单词模板
 英语::Words|loser|英[ˈluːzə(r)] 美[ˈluːzər]|n.失败者；输家；遗失者|The loser sat slumped in dejection.|失败者垂头丧气地坐着，全身瘫软。|Word|英语单词模板
 英语::Words|skiing|英[ˈskiːɪŋ] 美[ˈskiːɪŋ]|n.滑雪；滑雪术|The skiing instructor was a tall, sunburnt man.|滑雪教练是一个高高个子晒得黑黑的男子。|Word|英语单词模板
 英语::Words|critique|英[krɪˈtiːk] 美[krɪˈtiːk]|n.批评；批评法；评论|He plays down Mr. Brown's idea in his critique.|他在自己的评论中大肆批评布朗先生的想法。|Word|英语单词模板
 英语::Words|congregation|英[ˌkɒŋɡrɪˈɡeɪʃn] 美[ˌkɑːŋɡrɪˈɡeɪʃn]|n.教堂会众；人群；（物）群；集合|The congregation in the church knelt in prayer.|教堂的会众跪下来祈祷。|Word|英语单词模板
 英语::Words|compassion|英[kəmˈpæʃn] 美[kəmˈpæʃn]|n.怜悯；同情|I had compassion for him.|我怜悯他。|Word|英语单词模板
 英语::Words|Iranian|英[ɪˈreɪniən] 美[ɪˈreɪniən]|n.伊朗人；伊朗语<br>adj.伊朗的；伊朗人的；伊朗语的|Do you still remember that my roommate is an Iranian?|你们忘了，原来和我一个宿舍的是伊朗人呀。|Word|英语单词模板
-英语::Words|GOP|英[ˌdʒiːəʊˈpiː] 美[oʊ]|abbr.大老党（美国共和党的别称）(=Grand Old Party )<br>abbr.地面观测站(=Ground Observer Post)|Biden wasn't the only one who dropped the ball. Newsweek has learned that Sen.Strom Thurmond, the ranking Republican on Judiciary, didn't tell all the five GOP members of the allegations.|犯错的不只拜登一人。《新闻周刊》获悉司法委员会资深共和党参议员瑟曼未将指控告知所有 5 位共和党委员。|Word|英语单词模板
 英语::Words|legendary|英[ˈledʒəndri] 美[ˈledʒənderi]|adj.传说的；传奇的；著名的|He is a legendary hero.|他是个传奇式的英雄。|Word|英语单词模板
 英语::Words|complication|英[ˌkɒmplɪˈkeɪʃn] 美[ˌkɑːmplɪˈkeɪʃn]|n.复杂；并发症；纠纷|This was an unforeseen complication.|这是未预见到的复杂情况。|Word|英语单词模板
 英语::Words|marijuana|英[ˌmærəˈwɑːnə] 美[ˌmærəˈwɑːnə]|n.大麻|He was busted for possession of marijuana.|他因怀有大麻而被捕。|Word|英语单词模板
@@ -501,8 +501,10 @@
 英语::Words|rejection|英[rɪˈdʒekʃn] 美[rɪˈdʒekʃn]|n.拒绝；被弃；[医]排异|The editor sent a standard rejection letter for the submitted manuscript.|编辑为提交的手稿发送了一封标准的退稿信。|Word|英语单词模板
 英语::Words|rejection (2)|英[rɪˈdʒekʃn] 美[rɪˈdʒekʃn]|n.拒绝；被弃；[医]排异|Fear of rejection often prevents people from pursuing their dreams.|对被拒绝的恐惧常常阻止人们追求梦想。|Word|英语单词模板
 英语::Words|rejection (3)|英[rɪˈdʒekʃn] 美[rɪˈdʒekʃn]|n.拒绝；被弃；[医]排异|Her body showed no signs of rejection after the organ transplant.|器官移植后，她的身体没有出现排斥反应。|Word|英语单词模板
-英语::Words|dome|英[dəʊm] 美[doʊm]|n.圆屋顶；苍穹；<俚>脑袋；圆形的火山口<br>vt.加圆屋顶于……上；使成圆屋顶<br>vi.成圆顶状|Italian architect celebrated for his work during the Florentine Renaissance. His greatest achievement is the octagonal ribbed dome of the Florence cathedral.|布鲁内莱斯基，菲利波1377－1446意大利建筑师，其作品在佛罗伦萨文艺复兴时期享有盛名。其杰作是佛罗伦萨大教堂的八边形肋骨穹隆|Word|英语单词模板
-英语::Words|locker|英[ˈlɒkə(r)] 美[ˈlɑːkər]|n.更衣箱；储物柜；冷藏室；上锁的人|After opening the locker please watch your belongings carefully, so they will not be misplaced.|请您在打开更衣箱后，看管好自己的物品，以防丢失。|Word|英语单词模板
+英语::Words|dome|英[dəʊm] 美[doʊm]|n.圆屋顶；苍穹；<俚>脑袋；圆形的火山口<br>vt.加圆屋顶于……上；使成圆屋顶<br>vi.成圆顶状|The ancient building features a beautifully decorated dome.|这座古建筑有一个装饰精美的穹顶。|Word|英语单词模板
+英语::Words|dome (2)|英[dəʊm] 美[doʊm]|n.圆屋顶；苍穹；<俚>脑袋；圆形的火山口<br>vt.加圆屋顶于……上；使成圆屋顶<br>vi.成圆顶状|The building's dome is supported by massive columns.|建筑的圆顶由巨大的柱子支撑。|Word|英语单词模板
+英语::Words|locker|英[ˈlɒkə(r)] 美[ˈlɑːkər]|n.柜；更衣柜；储物柜；冷冻柜|The football team gathered in the locker room for a pep talk before the match.|橄榄球队在更衣室集合，进行赛前鼓舞谈话。|Word|英语单词模板
+英语::Words|locker (2)|英[ˈlɒkə(r)] 美[ˈlɑːkər]|n.柜；更衣柜；储物柜；冷冻柜|Please remember to lock your locker after you put your bag in.|请把包放进去后记得锁好储物柜。|Word|英语单词模板
 英语::Words|merger|英[ˈmɜːdʒə(r)] 美[ˈmɜːrdʒər]|n.（企业等的）合并<br>v.（两个或以上公司的）合并|As you are well aware that a merger is a major turning point.|你很清楚合并是一个重要的转折点。|Word|英语单词模板
 英语::Words|completion|英[kəmˈpliːʃn] 美[kəmˈpliːʃn]|n.完成；结束|The job is at last nearing completion.|这项工作终于快要完成了。|Word|英语单词模板
 英语::Words|surge|英[sɜːdʒ] 美[sɜːrdʒ]|n.汹涌；波涛；猛增<br>v.汹涌；涌起；激增；[海]缆绳滑脱|A surge of demonstrators broke through the fence.|汹涌而来的示威者冲破了围栏。|Word|英语单词模板
@@ -515,7 +517,6 @@
 英语::Words|stunning|英[ˈstʌnɪŋ] 美[ˈstʌnɪŋ]|adj.令人震惊的；<口>极好的；极漂亮的|The President's final decision came with stunning suddenness.|总统之最后决定的突然性令人吃惊。|Word|英语单词模板
 英语::Words|trout|英[traʊt] 美[traʊt]|n.鳟鱼；鳟鱼肉|I caught seven trout in fifteen minutes.|我十五分钟内捉到七条鳟鱼。|Word|英语单词模板
 英语::Words|inappropriate|英[ˌɪnəˈprəʊpriət] 美[ˌɪnəˈproʊpriət]|adj.不适当的；不合宜的|Your bright red coat would be quite inappropriate for a funeral.|你鲜艳的红大衣很不适合葬礼。|Word|英语单词模板
-英语::Words|fuck|英[fʌk] 美[fʌk]|他妈的<br>v.与……发生性关系；欺骗；利用；诅咒<br>n.性交；性对象|Yeah, that's what I thought. Stay the fuck away from her.|嗯|Word|英语单词模板
 英语::Words|countless|英[ˈkaʊntləs] 美[ˈkaʊntləs]|adj.无数的；多的数不清的|There are countless stars in the sky.|天上有无数的星星。|Word|英语单词模板
 英语::Words|upcoming|英[ˈʌpkʌmɪŋ] 美[ˈʌpkʌmɪŋ]|adj.即将来临的；预定将要|I want everyone here to talk up our upcoming dance.|我希望这儿的每个人都为我们即将来临的舞会做宣传。|Word|英语单词模板
 英语::Words|lyrics|英[ˈlɪrɪks] 美[ˈlɪrɪks]|n.抒情诗；歌词|Schubert set some of Goethe's lyrics to music.|舒伯特把歌德的一些抒情诗谱成了歌曲。|Word|英语单词模板
@@ -524,7 +525,8 @@
 英语::Words|medieval|英[ˌmediˈiːvl] 美[ˌmediˈiːvl]|adj.中世纪的|Knighthood was an ideal in medieval Europe.|在中世纪的欧洲，成为骑士是理想。|Word|英语单词模板
 英语::Words|learner|英[ˈlɜːnə(r)] 美[ˈlɜːrnər]|n.学习者|Good learner can use their time well.|好的学习者能善用他们的时间。|Word|英语单词模板
 英语::Words|reasonably|英[ˈriːznəbli] 美[ˈriːznəbli]|adv.适度地；相当地；合理地；有理性地|The first one is reasonably good.|第一个相当地好。|Word|英语单词模板
-英语::Words|advocacy|英[ˈædvəkəsi] 美[ˈædvəkəsi]|n.拥护；支持；鼓吹|The police have already rejected applications by different pet advocacy groups to stage demonstrations.|警方已拒绝不同的宠物拥护团体举行游行的申请。|Word|英语单词模板
+英语::Words|advocacy|英[ˈædvəkəsi] 美[ˈædvəkəsi]|n.拥护；支持；鼓吹；提倡；辩护|Effective advocacy in court requires thorough preparation.|在法庭上进行有效的辩护需要充分的准备。|Word|英语单词模板
+英语::Words|advocacy (2)|英[ˈædvəkəsi] 美[ˈædvəkəsi]|n.拥护；支持；鼓吹；提倡；辩护|The company's advocacy for sustainable technology has attracted many investors.|该公司对可持续技术的倡导吸引了许多投资者。|Word|英语单词模板
 英语::Words|monetary|英[ˈmʌnɪtri] 美[ˈmʌnɪteri]|adj.货币的；金融的|The monetary unit of the US is the dollar.|美国的货币单位是元。|Word|英语单词模板
 英语::Words|antibiotic|英[ˌæntibaɪˈɒtɪk] 美[ˌæntibaɪˈɑːtɪk]|adj.抗菌的<br>n.抗生素|When rhinosinusitis patients were not responsive to empiric antibiotic treatment in the Outpatient Clinic, specimens were taken from the middle meatus with cotton-tipped sticks.|在门诊中，当鼻腔鼻窦炎病患对抗生素治疗无效时，我们利用棉签从中鼻道取标本做嗜氧菌及厌氧菌的培养来决定正确的抗生素。|Word|英语单词模板
 英语::Words|creator|英[kriˈeɪtə(r)] 美[kriˈeɪtər]|n.创造者；[计]创建者<br>Creator.<br>n.上帝|He is the creator of all things good and beautiful.|他是一切美善事物的创造者。|Word|英语单词模板
@@ -808,7 +810,8 @@
 英语::Words|recreational|英[ˌrekriˈeɪʃənl] 美[ˌrekriˈeɪʃənl]|adj.娱乐的；消遣的|There are few recreational facilities in our school.|我们学校里几乎没有什么娱乐设施。|Word|英语单词模板
 英语::Words|educated|英[ˈedʒukeɪtɪd] 美[ˈedʒukeɪtɪd]|adj.受过教育的；有教养的<br>动词 educate 的过去式和过去分词。|The educated middle class led the move towards independence.|受过教育的中产阶级发起了走向独立的运动。|Word|英语单词模板
 英语::Words|predominantly|英[prɪˈdɒmɪnəntli] 美[prɪˈdɑːmɪnəntli]|adv.主要地；占优势地；压倒性地|Vancouver is predominantly a service center.|温哥华主要是一个服务中心。|Word|英语单词模板
-英语::Words|unaware|英[ˌʌnəˈweə(r)] 美[ˌʌnəˈwer]|adj.没有发觉的；不知道的|This might harm the shaikh in a way that the murid is unaware of.|这可能以一种门人不知道的方式伤害筛海。|Word|英语单词模板
+英语::Words|unaware|英[ˌʌnəˈweə(r)] 美[ˌʌnəˈwer]|adj.没有发觉的；不知道的|He was completely unaware of the changes happening around him.|他完全没意识到周围发生的变化。|Word|英语单词模板
+英语::Words|unaware (2)|英[ˌʌnəˈweə(r)] 美[ˌʌnəˈwer]|adj.没有发觉的；不知道的|I was unaware that the meeting had been canceled.|我不知道会议已经被取消了。|Word|英语单词模板
 英语::Words|courthouse|英[ˈkɔːthaʊs] 美[ˈkɔːrthaʊs]|n.法院大楼|The Republicans had to come to the courthouse to register to vote.|共和党人需要到法院大楼登记才能参加选举投票。|Word|英语单词模板
 英语::Words|vulnerability|英[ˌvʌlnərəˈbɪləti] 美[ˌvʌlnərəˈbɪləti]|n.易受攻击；弱点，脆弱；[计]漏洞|Japan has a unique vulnerability to negative stock-price momentum.|支撑日本股价的动力有着其特有的弱点。|Word|英语单词模板
 英语::Words|additionally|英[əˈdɪʃənəli] 美[əˈdɪʃənəli]|adv.另外；同时；此外|Additionally, the bus service will run on Sundays, every two hours.|此外，公共汽车将于星期天运行服务，每两小时一班。|Word|英语单词模板
@@ -3650,7 +3653,8 @@
 英语::Words|construe|英[kənˈstruː] 美[kənˈstruː]|v.解释；翻译；作句法分析|His remarks were wrongly construed.|他的话被错误地解释了。|Word|英语单词模板
 英语::Words|suggested|英[səˈdʒestɪd] 美[səˈdʒestɪd]|adj.建议的；暗示的<br>动词 suggest 的过去式和过去分词。|I've tried every treatment the vet suggested.|兽医建议的每一种治疗方法我都试过了。|Word|英语单词模板
 英语::Words|prep|英[prep] 美[prep]|n.准备；预备学校； <非正式>课外作业<br>v.进预备学校；预备；准备<br>abbr.准备（=preparation）<br>abbr.介词（=preposition）|The lead-up to the race war intensifies and inmates of all colors prep their weapons.|种族之战处于一触即发的状态，各个种族的囚徒们都在准备着武器。|Word|英语单词模板
-英语::Words|specificity|英[ˌspesɪˈfɪsəti] 美[ˌspesɪˈfɪsəti]|n.特性；特征；特效；特殊性；专一性|Respecting these principles conserves the quality and the specificity of each grape-variety.|遵守这些原则就能保证品质和维持每种葡萄的差异特性。|Word|英语单词模板
+英语::Words|specificity|英[ˌspesɪˈfɪsəti] 美[ˌspesɪˈfɪsəti]|n.特性；特征；特异性；专一性|Researchers are working to increase the specificity of the drug to reduce its side effects.|研究人员正在努力提高这种药物的特异性以减少其副作用。|Word|英语单词模板
+英语::Words|specificity (2)|英[ˌspesɪˈfɪsəti] 美[ˌspesɪˈfɪsəti]|n.特性；特征；特异性；专一性|To get helpful advice, you need to describe your problem with greater specificity.|要获得有用的建议，你需要更具体地描述你的问题。|Word|英语单词模板
 英语::Words|booze|英[buːz] 美[buːz]|v.豪饮<br>n.酒；酒宴|Their neighbors booze it up every weekend .|他们的邻居每个周末都喝个痛快。|Word|英语单词模板
 英语::Words|campfire|英[ˈkæmpfaɪə(r)] 美[ˈkæmpfaɪər]|n.营火；篝火；篝火晚会|The campfire flared up in a sudden wind.|随着一阵突起的风，营火又燃烧了起来。|Word|英语单词模板
 英语::Words|Taiwanese|英[ˌtaiwɑːˈniːz] 美[ˌtaɪwɑˈniz]|adj.台湾的；台湾人的<br>n.台湾人；台湾话|The Taiwanese media always likes to report gossip.|台湾的媒体总是喜欢报导八卦新闻。|Word|英语单词模板
@@ -6324,7 +6328,7 @@
 英语::Words|soft-spoken||adj.说话温和的；善于言辞的|||Word|英语单词模板
 英语::Words|nuts|英[nʌts] 美[nʌts]|adj.疯的；狂热的<br>int.呸；胡说<br>n.坚果，果仁；螺帽；怪人（名词 nut 的复数形式）|He'd be nuts to take the job.|他一定是疯了才做这份工作。|Word|英语单词模板
 英语::Words|escalator|英[ˈeskəleɪtə(r)] 美[ˈeskəleɪtər]|n.自动扶梯|Take the escalator over there down one floor.|在那边下一层楼后乘自动扶梯。|Word|英语单词模板
-英语::Words|dizziness|英[ˈdɪzinəs] 美[ˈdɪzinəs]|n.头昏眼花；眩晕|Unlike nonspecific lightheadedness or dizziness, vertigo has relatively few causes.|眩晕与头昏眼花及头昏情形不同，是由一些特有的原因所导致的。|Word|英语单词模板
+英语::Words|dizziness|英[ˈdɪzinəs] 美[ˈdɪzinəs]|n.头晕；头昏眼花|He took a break to alleviate the dizziness.|他休息了一下以缓解头晕。|Word|英语单词模板
 英语::Words|Basque|英[bɑːsk] 美[bæsk]|n.紧身女上衣<br>Basque.<br>n.巴斯克人；巴斯克语<br>adj.巴斯克人的；巴斯克语的|And Clemente, blamed for all, joined his Basque countryman Zubizarreta on the breadline as sacrificial lamb.|也许巴斯克人特有的刚强和激情，能够更好地对抗懒散的尼日利亚人。|Word|英语单词模板
 英语::Words|innuendo|英[ˌɪnjuˈendəʊ] 美[ˌɪnjuˈendoʊ]|n.讽刺；含沙射影；讥讽<br>v.说讽刺话|Mark told by innuendo that the opposing team would lose the game.|马克暗讽地说敌队会在比赛中输掉。|Word|英语单词模板
 英语::Words|howling|英[ˈhaʊlɪŋ] 美[ˈhaʊlɪŋ]|adj.咆哮的；哭哭啼啼的；寂寥的|The book was a howling success.|那本书倍受赞誉。|Word|英语单词模板
@@ -8361,7 +8365,7 @@
 英语::Words|oeuvre|英[ˈɜːvrə] 美[ˈɜːvrə]|n.全部作品|But no one else has duplicated his own oeuvre so perfectly.|但却没有谁如此完美地复制过他自己的作品。|Word|英语单词模板
 英语::Words|backtrack|英[ˈbæktræk] 美[ˈbæktræk]|v.由原路返回；走回头路|This will often cause them to backtrack.|这往往会导致他们走回头路。|Word|英语单词模板
 英语::Words|enchanting|英[ɪnˈtʃɑːntɪŋ] 美[ɪnˈtʃæntɪŋ]|adj.迷人的<br>动词 enchant 的现在分词。|What an enchanting little girl!|多么可爱的小姑娘！|Word|英语单词模板
-英语::Words|self-awareness||n.自我意识|You can get into self awareness groups or look into physical enhancement programs.|会加入自我意识的集体或者促进身体健康的活动。|Word|英语单词模板
+英语::Words|self-awareness||n.自我意识|Developing self-awareness is crucial for personal growth.|培养自我意识对个人成长至关重要。|Word|英语单词模板
 英语::Words|inordinate|英[ɪnˈɔːdɪnət] 美[ɪnˈɔːrdɪnət]|adj.过度的；非常的；无法无天的|She had an inordinate fondness for junk food.|她喜欢吃零食到了无节制的程度。|Word|英语单词模板
 英语::Words|downsizing|英[ˈdaʊnsaɪzɪŋ] 美[ˈdaʊnsaɪzɪŋ]|n.缩小规模<br>动词 downsize 的现在分词。|Downsizing is one way to reduce costs.|缩编是降低成本的途径之一。|Word|英语单词模板
 英语::Words|petitioner|英[pəˈtɪʃənə(r)] 美[pəˈtɪʃənər]|n.请愿人；[法]上诉人；离婚案原告|The petitioner ask for a variation in her maintenance order.|上诉人要求对她生活费的命令的条件进行变更。|Word|英语单词模板
