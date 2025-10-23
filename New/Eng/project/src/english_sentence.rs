@@ -1,5 +1,7 @@
 use crate::prelude::*;
 use crate::{MAX_LENGTH_OF_ENGLISH_SENTENCE, MIN_LENGTH_OF_ENGLISH_SENTENCE};
+const MAX_WORDS_IN_SENTENCE: usize = 15;
+const MIN_WORDS_IN_SENTENCE: usize = 5;
 const VALID_SYMBOLS: &[char] = &[
     '\"', '\'', '-', ' ', '(', ')', ',', '.', '?', '!', '/', '%', ':', ';', '$',
 ];
@@ -54,9 +56,11 @@ fn find_invalid_sentence_char(sentence: &str) -> Result<(), String> {
         .map(|c| format!("Invalid char: {c}"))
         .map_or(Ok(()), Err)
 }
-const fn have_appropriate_length(checked_str: &str) -> bool {
-    checked_str.len() >= MIN_LENGTH_OF_ENGLISH_SENTENCE
-        && checked_str.len() <= MAX_LENGTH_OF_ENGLISH_SENTENCE
+fn have_appropriate_length(checked_str: &str) -> bool {
+    let length = checked_str.len();
+    let word_count = checked_str.split(' ').count();
+    (MIN_LENGTH_OF_ENGLISH_SENTENCE..=MAX_LENGTH_OF_ENGLISH_SENTENCE).contains(&length)
+        || (MIN_WORDS_IN_SENTENCE..=MAX_WORDS_IN_SENTENCE).contains(&word_count)
 }
 fn have_valid_quotation_mark(checked_str: &str) -> bool {
     checked_str.matches('\"').count().is_multiple_of(2) && checked_str.matches("\"\"").count() == 0
@@ -98,6 +102,7 @@ mod tests {
             "English has five main vowel letters: A, E, I, O, U.",
             "You can abbreviate \"Example\" to \"e.g.\" in formal writing.",
             "Let me see... where did I leave my hat?",
+            "The company is committed to producing high-quality yet affordable smartphones for the global market.", // long but words count is valid
         ];
         const INVALID: &[&str] = &[
             "If I had the time, I 'd make something better.", // for ` '`

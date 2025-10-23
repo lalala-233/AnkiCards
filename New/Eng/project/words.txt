@@ -528,7 +528,8 @@
 英语::Words|advocacy|英[ˈædvəkəsi] 美[ˈædvəkəsi]|n.拥护；支持；鼓吹；提倡；辩护|Effective advocacy in court requires thorough preparation.|在法庭上进行有效的辩护需要充分的准备。|Word|英语单词模板
 英语::Words|advocacy (2)|英[ˈædvəkəsi] 美[ˈædvəkəsi]|n.拥护；支持；鼓吹；提倡；辩护|The company's advocacy for sustainable technology has attracted many investors.|该公司对可持续技术的倡导吸引了许多投资者。|Word|英语单词模板
 英语::Words|monetary|英[ˈmʌnɪtri] 美[ˈmʌnɪteri]|adj.货币的；金融的|The monetary unit of the US is the dollar.|美国的货币单位是元。|Word|英语单词模板
-英语::Words|antibiotic|英[ˌæntibaɪˈɒtɪk] 美[ˌæntibaɪˈɑːtɪk]|adj.抗菌的<br>n.抗生素|When rhinosinusitis patients were not responsive to empiric antibiotic treatment in the Outpatient Clinic, specimens were taken from the middle meatus with cotton-tipped sticks.|在门诊中，当鼻腔鼻窦炎病患对抗生素治疗无效时，我们利用棉签从中鼻道取标本做嗜氧菌及厌氧菌的培养来决定正确的抗生素。|Word|英语单词模板
+英语::Words|antibiotic|英[ˌæntibaɪˈɒtɪk] 美[ˌæntibaɪˈɑːtɪk]|adj.抗菌的<br>n.抗生素|The doctor prescribed a course of antibiotics to fight the bacterial infection.|医生开了一个疗程的抗生素来对抗细菌感染。|Word|英语单词模板
+英语::Words|antibiotic (2)|英[ˌæntibaɪˈɒtɪk] 美[ˌæntibaɪˈɑːtɪk]|adj.抗菌的<br>n.抗生素|The scientist discovered a new antibiotic substance in the soil sample.|这位科学家在土壤样本中发现了一种新的抗生物质。|Word|英语单词模板
 英语::Words|creator|英[kriˈeɪtə(r)] 美[kriˈeɪtər]|n.创造者；[计]创建者<br>Creator.<br>n.上帝|He is the creator of all things good and beautiful.|他是一切美善事物的创造者。|Word|英语单词模板
 英语::Words|biologist|英[baɪˈɒlədʒɪst] 美[baɪˈɑːlədʒɪst]|n.生物学家|He is sure to be a biologist in the future.|他将来肯定能成为一名生物学家。|Word|英语单词模板
 英语::Words|electoral|英[ɪˈlektərəl] 美[ɪˈlektərəl]|adj.选举的；选举人的|They are pushing for electoral reform.|他们迫切要求改革选举制度。|Word|英语单词模板
@@ -574,16 +575,16 @@
 英语::Words|homeowner|英[ˈhəʊməʊnə(r)] 美[ˈhoʊmoʊnər]|n.房主|Homeowner loan is a loan guarantee.|房主贷款是一种担保贷款。|Word|英语单词模板
 英语::Words|hierarchy|英[ˈhaɪərɑːki] 美[ˈhaɪərɑːrki]|n.等级制度；统治集团；[生]级系|There is a hierarchy in all living creatures.|一切生物均可按等级分类。|Word|英语单词模板
 英语::Words|reconstruction|英[ˌriːkənˈstrʌkʃn] 美[ˌriːkənˈstrʌkʃn]|n.复兴；改造；再建|The World Bank was created with European reconstruction in mind.|世界银行是考虑到为欧洲复兴而创建的。|Word|英语单词模板
-英语::Words|condom|英[ˈkɒndɒm] 美[ˈkɑːndəm]|n.安全套；避孕套|||Word|英语单词模板
+英语::Words|condom|英[ˈkɒndɒm] 美[ˈkɑːndəm]|n.安全套；避孕套|It's important to check the expiration date on a condom package before use.|使用前检查避孕套包装上的有效期很重要。|Word|英语单词模板
 英语::Words|hostility|英[hɒˈstɪləti] 美[hɑːˈstɪləti]|n.敌意；敌对状态；公开战争|I feel no hostility towards anyone.|我对任何人均无敌意。|Word|英语单词模板
 英语::Words|temporarily|英[ˈtemprərəli] 美[ˈtemprərəli]|adv.暂时地；临时地|He is temporarily acting for her in that post.|他是暂时代理她的职务。|Word|英语单词模板
 英语::Words|litigation|英[ˌlɪtɪˈɡeɪʃn] 美[ˌlɪtɪˈɡeɪʃn]|n.诉讼；起诉|Some business disputes require litigation.|有些商业争端需提出诉讼。|Word|英语单词模板
 英语::Words|comet|英[ˈkɒmɪt] 美[ˈkɑːmət]|n.彗星|That comet is invisible to the unaided eye.|那颗彗星只用肉眼是看不到的。|Word|英语单词模板
 英语::Words|explicitly|英[ɪkˈsplɪsɪtli] 美[ɪkˈsplɪsɪtli]|adv.明白地；明确地|He explicitly said that he wouldn't be retiring from the match.|他已明白表示不会退出比赛。|Word|英语单词模板
 英语::Words|cocktail|英[ˈkɒkteɪl] 美[ˈkɑːkteɪl]|n.鸡尾酒；混合物；开胃品<br>n.截短尾巴的马<br>adj.鸡尾酒的|Would you care for a cocktail or wine?|你喜欢鸡尾酒还是葡萄酒？|Word|英语单词模板
-英语::Words|twenty-five|英[ˈtwentɪfaɪv] 美[ˈtwentɪfaɪv]|num.二十五|The packet weighs twenty - five grams.|这个包裹重二十五克。|Word|英语单词模板
+英语::Words|twenty-five|英[ˈtwentɪfaɪv] 美[ˈtwentɪfaɪv]|num.二十五|The recipe requires twenty-five grams of sugar.|这个食谱需要二十五克糖。|Word|英语单词模板
 英语::Words|preservation|英[ˌprezəˈveɪʃn] 美[ˌprezərˈveɪʃn]|n.保存；维护；防腐|The paintings were in an excellent state of preservation.|这些画保存的非常好。|Word|英语单词模板
-英语::Words|affordable|英[əˈfɔːdəbl] 美[əˈfɔːdəbl]|adj.支付得起的；不太昂贵的|Prepaid billing and affordable handsets on their own are not enough to ensure a rapid adoption of mobile phones, however.|然而，预付费系统以及支付得起的手机本身并并不足以确保移动电话的快速普及。|Word|英语单词模板
+英语::Words|affordable|英[əˈfɔːdəbl] 美[əˈfɔːdəbl]|adj.支付得起的；不太昂贵的|The company is committed to producing high-quality yet affordable smartphones for the global market.|该公司致力于为全球市场生产高质量且价格实惠的智能手机。|Word|英语单词模板
 英语::Words|abruptly|英[əˈbrʌptli] 美[əˈbrʌptli]|adv.突然地；莽撞地；陡峭地；不连贯地|He turned abruptly and walked away without saying goodbye.|他突然转身，没有告别就走开了。|Word|英语单词模板
 英语::Words|cult|英[kʌlt] 美[kʌlt]|n.宗教膜拜仪式；异教；狂热崇拜；个人崇拜|The cult of the Virgin Mary was extremely popular.|对圣母马利亚的膜拜当时非常流行。|Word|英语单词模板
 英语::Words|enlist|英[ɪnˈlɪst] 美[ɪnˈlɪst]|vt.征募；使入伍；获得……支持<br>vi.入伍；参与|We must enlist more men.|我们必须征募更多士兵。|Word|英语单词模板
@@ -1598,7 +1599,8 @@
 英语::Words|enjoyment|英[ɪnˈdʒɔɪmənt] 美[ɪnˈdʒɔɪmənt]|n.享受；令人愉快的事|I didn't get much enjoyment out of that novel.|我并没有从那本小说里得到多少乐趣。|Word|英语单词模板
 英语::Words|convicted|英[kənˈvɪktɪd] 美[kənˈvɪktɪd]|adj.已被判刑的；被宣布有罪的<br>动词 convict 的过去式和过去分词形式。|Convicted criminals are debarred from voting in elections.|已判刑的罪犯均被剥夺选举投票权。|Word|英语单词模板
 英语::Words|rightly|英[ˈraɪtli] 美[ˈraɪtli]|adv.正当地；公义地；正确地|He rightly deserves respect for his scholarship.|他学识渊博，理应受到尊敬。|Word|英语单词模板
-英语::Words|advertiser|英[ˈædvətaɪzə(r)] 美[ˈædvərtaɪzər]|n.广告商；广告客户|How'd the meeting with the advertiser go?|和广告商的见面怎么样？|Word|英语单词模板
+英语::Words|advertiser|英[ˈædvətaɪzə(r)] 美[ˈædvərtaɪzər]|n.广告商；广告客户|Every advertiser must carefully consider their target audience before launching a campaign.|每个广告商在发起广告活动前都必须仔细考虑其目标受众。|Word|英语单词模板
+英语::Words|advertiser (2)|英[ˈædvətaɪzə(r)] 美[ˈædvərtaɪzər]|n.广告商；广告客户|We hired an advertiser to handle all our promotional materials for the product launch.|我们聘请了一家广告商来处理产品发布的所有宣传材料。|Word|英语单词模板
 英语::Words|poultry|英[ˈpəʊltri] 美[ˈpoʊltri]|n.家禽；家禽肉|The poultry are being fed.|家禽正在吃饲料。|Word|英语单词模板
 英语::Words|heterosexual|英[ˌhetərəˈsekʃuəl] 美[ˌhetərəˈsekʃuəl]|n.异性恋者<br>adj.异性恋的|In this case, an erotic preference for males, would, of course, have to be considered heterosexual.|该例中，他的性偏好是男性，当然，毫无疑问地被认为是异性恋者。|Word|英语单词模板
 英语::Words|dictatorship|英[ˌdɪkˈteɪtəʃɪp] 美[ˌdɪkˈteɪtərʃɪp]|n.专政；独裁（权）|The dictatorship of the proletariat is one of the aims of Communism.|无产阶级专政是共产主义的目标之一。|Word|英语单词模板
@@ -2856,7 +2858,8 @@
 英语::Words|geometric|英[ˌdʒiːəˈmetrɪk] 美[ˌdʒiːəˈmetrɪk]|adj.几何学的；几何学图形的|It provides numerous geometric predicates and functions.|它提供很多的几何学的述语和功能。|Word|英语单词模板
 英语::Words|seductive|英[sɪˈdʌktɪv] 美[sɪˈdʌktɪv]|adj.诱惑的；引人注意的；有魅力的|The traditional modest woman of the day erupts into the naked seductive woman of the night.|白天那个传统谦和的女人变成为夜晚那个赤裸的充满诱惑的女人。|Word|英语单词模板
 英语::Words|called|英[kɔːl] 美[kɔːl]|vt.呼叫；打电话；把……称为<br>n.打电话；访问；召唤；呼叫；把……看作<br>vi.呼叫；（短暂的）拜访|The shouting boy did not hear his mother call him.|大声叫嚷的孩子听不到妈妈的叫唤。|Word|英语单词模板
-英语::Words|problem-solving||adj.问题解决的|The awareness of the problem is the beginning of the solution.|意识到问题的存在就是问题解决的开端。|Word|英语单词模板
+英语::Words|problem-solving||adj.问题解决的<br>n. 解决问题|Effective problem-solving requires both critical thinking and creativity.|有效的问题解决需要批判性思维和创造力。|Word|英语单词模板
+英语::Words|problem-solving (2)||adj.问题解决的<br>n. 解决问题|Children should be encouraged to develop problem-solving skills from a young age.|应该鼓励孩子们从小培养解决问题的能力。|Word|英语单词模板
 英语::Words|proprietary|英[prəˈpraɪətri] 美[prəˈpraɪəteri]|adj.专利的；所有权的<br>n.所有权；所有人|We have some proprietary specific medicine .|我们有些专卖特效药。|Word|英语单词模板
 英语::Words|disposable|英[dɪˈspəʊzəbl] 美[dɪˈspoʊzəbl]|adj.可任意处理的；一次性的<br>n.用完即可丢弃的东西|The brochure is disposable after the meeting.|会议结束后，可以任意处理这本小册子。|Word|英语单词模板
 英语::Words|warhead|英[ˈwɔːhed] 美[ˈwɔːrhed]|n.弹头|The country's amassment of atomic warhead made its neighbors nervous.|该国积聚了大量的核弹头，使其邻国紧张不安。|Word|英语单词模板
@@ -5671,7 +5674,8 @@
 英语::Words|stairs|英[steəz] 美[steəz]|n.楼梯|We climbed the winding stairs to the tower.|我们爬上通往塔楼的盘旋的楼梯。|Word|英语单词模板
 英语::Words|distressing|英[dɪˈstresɪŋ] 美[dɪˈstresɪŋ]|adj.使人痛苦的；令人烦恼的<br>动词词 distress 的现在分词形式。|A suffering animal is a distressing sight.|看到动物受痛苦是很难受的。|Word|英语单词模板
 英语::Words|counterpoint|英[ˈkaʊntəpɔɪnt] 美[ˈkaʊntərpɔɪnt]|n.[音]对位法；旋律配合；重复旋律；对比物；对比|The two melodies are played in counterpoint.|用对位法来演奏这两首曲调。|Word|英语单词模板
-英语::Words|responsiveness|英[rɪˈspɒnsɪvnəs] 美[rɪˈspɒnsɪvnəs]|n.响应性；反应性|He constantly sought to maintain control over the company to ensure its flexibility and responsiveness.|他一直在想保持对这个公司的控制，以保持弹性和快速响应性。|Word|英语单词模板
+英语::Words|responsiveness|英[rɪˈspɒnsɪvnəs] 美[rɪˈspɒnsɪvnəs]|n.响应性；反应性|The doctor tested the patient's nerve responsiveness by tapping on his knee.|医生通过轻敲病人的膝盖来测试其神经反应性。|Word|英语单词模板
+英语::Words|responsiveness (2)|英[rɪˈspɒnsɪvnəs] 美[rɪˈspɒnsɪvnəs]|n.响应性；反应性|A strong relationship is built on mutual understanding and emotional responsiveness.|牢固的关系建立在相互理解和情感回应之上。|Word|英语单词模板
 英语::Words|triad|英[ˈtraɪæd] 美[ˈtraɪæd]|n.三个一组；三合会；<音>三和弦|This coordinate system is called the triad at the point.|这个坐标系叫做该点的三面形坐标系。|Word|英语单词模板
 英语::Words|fiat|英[ˈfiːæt] 美[ˈfiːæt]|n.命令；法令<br>n.（F~）菲亚特（意大利汽车公司名或其出产的轿车品牌名）|The opening of a market stall is governed by municipal fiat.|开设市场摊位受市政法令管制。|Word|英语单词模板
 英语::Words|one-fifth|英[ˈwʌnfˈɪfθ] 美[ˈwʌnfˈɪfθ]|num.五分之一|He passed me one fifth of the cake.|他递给我五分之一个蛋糕。|Word|英语单词模板
@@ -7145,7 +7149,9 @@
 英语::Words|self-consciousness||n.自我意识|Most Aritificial Intelligence applications are not dealing with consciousness.|大部分人工智能系统并不触及自我意识的领域。|Word|英语单词模板
 英语::Words|unannounced|英[ˌʌnəˈnaʊnst] 美[ˌʌnəˈnaʊnst]|adj.未经宣布的；未通知的；未打招呼的|You're working on an unannounced MMO.|你们正在开发一款未公布的网络游戏。|Word|英语单词模板
 英语::Words|encampment|英[ɪnˈkæmpmənt] 美[ɪnˈkæmpmənt]|n.设营；野营；扎营；营地|Our vigilance was stimulated by our finding traces of a large encampment?|我们发现了一次大规模的驻营痕迹，这促使我们提高警觉。|Word|英语单词模板
-英语::Words|unchallenged|英[ʌnˈtʃælɪndʒd] 美[ʌnˈtʃælɪndʒd]|adj.未受过挑战的；未受质疑的|He is in a position of unchallenged authority.|他拥有绝对的权威。|Word|英语单词模板
+英语::Words|unchallenged|英[ʌnˈtʃælɪndʒd] 美[ʌnˈtʃælɪndʒd]|adj.未受过挑战的；未受质疑的；未受阻挠的|The scientific theory remained unchallenged until new evidence emerged.|这一科学理论一直未受质疑，直到新的证据出现。|Word|英语单词模板
+英语::Words|unchallenged (2)|英[ʌnˈtʃælɪndʒd] 美[ʌnˈtʃælɪndʒd]|adj.未受过挑战的；未受质疑的；未受阻挠的|The rumor spread unchallenged across social media, causing unnecessary panic.|谣言在社交媒体上不受控制地传播，造成了不必要的恐慌。|Word|英语单词模板
+英语::Words|unchallenged (3)|英[ʌnˈtʃælɪndʒd] 美[ʌnˈtʃælɪndʒd]|adj.未受过挑战的；未受质疑的；未受阻挠的|His courage remained unchallenged until he faced a real crisis.|他的勇气直到面临真正的危机时才受到考验。|Word|英语单词模板
 英语::Words|recline|英[rɪˈklaɪn] 美[rɪˈklaɪn]|v.躺；靠在；斜倚；倚靠；依赖|I recline upon the still unwithered grass and whisper to myself, "Perfect day"|那绿草尚未枯黄，我躺在草地之上，喃喃地自言自语道：「大好的秋光！」|Word|英语单词模板
 英语::Words|reheat|英[ˌriːˈhiːt] 美[ˌriːˈhiːt]|vt.再热；对……重新加热|Let us reheat the cold boiled water.|让我们把凉白开水再热一下。|Word|英语单词模板
 英语::Words|unassuming|英[ˌʌnəˈsjuːmɪŋ] 美[ˌʌnəˈsuːmɪŋ]|adj.谦逊的；不装腔作势的|He is emphatically a retiring and unassuming man.|他的确是一个与世无争和谦虚纯朴的人。|Word|英语单词模板
