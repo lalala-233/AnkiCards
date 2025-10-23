@@ -15,6 +15,7 @@ pub fn find_invalid_symbol_combination(
 }
 pub fn have_valid_ellipsis_if_present(checked_str: &str) -> bool {
     checked_str.matches("..").count() == checked_str.matches("...").count()
+        && checked_str.matches(" .").count() == checked_str.matches(" ..").count()
 }
 fn cartesian_product(chars_1: &[char], chars_2: &[char]) -> Vec<String> {
     chars_1

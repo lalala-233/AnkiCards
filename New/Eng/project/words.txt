@@ -2860,7 +2860,8 @@
 英语::Words|called|英[kɔːl] 美[kɔːl]|vt.呼叫；打电话；把……称为<br>n.打电话；访问；召唤；呼叫；把……看作<br>vi.呼叫；（短暂的）拜访|The shouting boy did not hear his mother call him.|大声叫嚷的孩子听不到妈妈的叫唤。|Word|英语单词模板
 英语::Words|problem-solving||adj.问题解决的<br>n. 解决问题|Effective problem-solving requires both critical thinking and creativity.|有效的问题解决需要批判性思维和创造力。|Word|英语单词模板
 英语::Words|problem-solving (2)||adj.问题解决的<br>n. 解决问题|Children should be encouraged to develop problem-solving skills from a young age.|应该鼓励孩子们从小培养解决问题的能力。|Word|英语单词模板
-英语::Words|proprietary|英[prəˈpraɪətri] 美[prəˈpraɪəteri]|adj.专利的；所有权的<br>n.所有权；所有人|We have some proprietary specific medicine .|我们有些专卖特效药。|Word|英语单词模板
+英语::Words|proprietary|英[prəˈpraɪətri] 美[prəˈpraɪəteri]|adj.专利的；所有权的<br>n.所有权；所有人|This software uses a proprietary algorithm that is not available to the public.|该软件使用一种不向公众开放的专有算法。|Word|英语单词模板
+英语::Words|proprietary (2)|英[prəˈpraɪətri] 美[prəˈpraɪəteri]|adj.专利的；所有权的<br>n.所有权；所有人|The document established her proprietary over the intellectual property.|该文件确立了她对这项知识产权的所有权。|Word|英语单词模板
 英语::Words|disposable|英[dɪˈspəʊzəbl] 美[dɪˈspoʊzəbl]|adj.可任意处理的；一次性的<br>n.用完即可丢弃的东西|The brochure is disposable after the meeting.|会议结束后，可以任意处理这本小册子。|Word|英语单词模板
 英语::Words|warhead|英[ˈwɔːhed] 美[ˈwɔːrhed]|n.弹头|The country's amassment of atomic warhead made its neighbors nervous.|该国积聚了大量的核弹头，使其邻国紧张不安。|Word|英语单词模板
 英语::Words|sling|英[slɪŋ] 美[slɪŋ]|v.投掷；抛；吊起；悬挂；驱逐；遣送<br>n.投石器；投掷；吊索；悬带；斯林酒|The boys slung stones at the miserable cat.|这些男孩向那只可怜的猫扔石头。|Word|英语单词模板

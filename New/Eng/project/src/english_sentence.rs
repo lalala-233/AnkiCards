@@ -25,7 +25,7 @@ pub fn check_english_sentence(sentence: &str) -> Result<(), String> {
         return Err("Contains multiple spaces".to_string());
     }
     if !have_valid_ellipsis_if_present(sentence) {
-        return Err("Invalid ellipsis `..` number".to_string());
+        return Err("Invalid ellipsis `..` or ` .` number".to_string());
     }
     if !have_valid_quotation_mark(sentence) {
         return Err("Invalid question mark `\"` number".to_string());
@@ -114,9 +114,13 @@ mod tests {
             "Some of them--alas--will never return.",                           // for `--`
             "Late last year an allied Taliban faction tried to seize large tracts of the Swat valley in the North-West Frontier Province.", // too long
             "Let me see.. where did I leave my hat?", // for `..`
+            "We have some proprietary specific medicine .", // for ` .`
         ];
         for sentence in VALID {
-            assert_eq!(check_english_sentence(sentence), Ok(()));
+            assert!(
+                check_english_sentence(sentence).is_ok(),
+                "sentence: {sentence}"
+            );
         }
         for &sentence in INVALID {
             assert!(
