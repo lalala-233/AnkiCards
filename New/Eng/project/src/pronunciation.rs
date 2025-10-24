@@ -1,4 +1,5 @@
-use crate::prelude::*;
+use crate::prelude::{find_empty, find_multiple_spaces};
+
 /// 英语国际音标完整列表 (IPA)
 pub const VALID_SYMBOL: &[&str] = &[
     // ========== 元音 Vowels ==========
@@ -68,12 +69,11 @@ const START_STR: &[&str] = &["英[", "美["];
 const END_STR: &str = "]";
 
 pub fn check_pronunciation(pronunciation: &str) -> Result<(), String> {
-    if pronunciation.is_empty() {
+    if find_empty(pronunciation).is_err() {
+        // Allow empty
         return Ok(());
     }
-    if pronunciation.contains("  ") {
-        return Err("Contains multiple spaces".to_string());
-    }
+    find_multiple_spaces(pronunciation)?;
     if !have_balanced_symbol(pronunciation) {
         return Err("Unbalanced symbol".to_string());
     }

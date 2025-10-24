@@ -1,8 +1,30 @@
 const ENGLISH_CHARS_FOLLOWED_BY_SPACE: &[char] = &[';'];
+const SYMBOLS_FOLLOWING_ASCII_DIGIT: &[char] = &['%'];
 const SHOULD_BE_FOLLOWED_BY_SPACE_OR_NUMBER: &[char] = &[
     ',', // $5,000
     ':', // 5:00
 ];
+pub fn find_empty(checked_str: &str) -> Result<(), String> {
+    if checked_str.is_empty() {
+        Err("Empty".to_string())
+    } else {
+        Ok(())
+    }
+}
+pub fn find_multiple_spaces(checked_str: &str) -> Result<(), String> {
+    if checked_str.contains("  ") {
+        Err("Contains multiple spaces".to_string())
+    } else {
+        Ok(())
+    }
+}
+pub fn find_invalid_ellipsis_if_present(checked_str: &str) -> Result<(), String> {
+    if have_valid_ellipsis_if_present(checked_str) {
+        Ok(())
+    } else {
+        Err("Invalid ellipsis `..` or ` .` number".to_string())
+    }
+}
 pub fn find_invalid_symbol_combination(
     checked_str: &str,
     symbols: &[char],
@@ -45,6 +67,11 @@ pub fn find_alphabetic_adjacent_to_left_parenthesis(sentence: &str) -> Result<()
         })
         .map_or(Ok(()), Err)
 }
+pub fn find_ascii_digit_not_followed_by_symbols(sentence: &str) -> Result<(), String> {
+    find_from_adjacent_text(sentence, is_ascii_digit_not_followed_by_symbols)
+        .map(|(left, right)|format!("Invalid alphabetic adjacent to ascii alphanumeric (left: `{left}`, right: `{right}`)"))
+        .map_or(Ok(()), Err)
+}
 fn alphabetic_adjacent_to_ascii_alphanumeric(left: char, right: char) -> bool {
     let is_left_only_alphabetic = left.is_alphabetic() && !left.is_ascii_alphanumeric();
     let is_right_only_alphabetic = right.is_alphabetic() && !right.is_ascii_alphanumeric();
@@ -53,6 +80,13 @@ fn alphabetic_adjacent_to_ascii_alphanumeric(left: char, right: char) -> bool {
 }
 fn alphabetic_adjacent_to_left_parenthesis(left: char, right: char) -> bool {
     left.is_alphabetic() && right == '('
+}
+fn is_ascii_digit_not_followed_by_symbols(left: char, right: char) -> bool {
+    if SYMBOLS_FOLLOWING_ASCII_DIGIT.contains(&right) {
+        !left.is_ascii_digit()
+    } else {
+        false
+    }
 }
 fn is_specific_symbol_followed_by_space_or_number(left: char, right: char) -> bool {
     if SHOULD_BE_FOLLOWED_BY_SPACE_OR_NUMBER.contains(&left) {

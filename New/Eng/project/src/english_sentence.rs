@@ -18,15 +18,9 @@ const VALID_COMBINATIONS: &[&str] = &[
     "\".", ".\"", " \"",
 ];
 pub fn check_english_sentence(sentence: &str) -> Result<(), String> {
-    if sentence.is_empty() {
-        return Err("Empty sentence".to_string());
-    }
-    if sentence.contains("  ") {
-        return Err("Contains multiple spaces".to_string());
-    }
-    if !have_valid_ellipsis_if_present(sentence) {
-        return Err("Invalid ellipsis `..` or ` .` number".to_string());
-    }
+    find_empty(sentence)?;
+    find_multiple_spaces(sentence)?;
+    find_invalid_ellipsis_if_present(sentence)?;
     if !have_valid_quotation_mark(sentence) {
         return Err("Invalid question mark `\"` number".to_string());
     }
@@ -40,6 +34,7 @@ pub fn check_english_sentence(sentence: &str) -> Result<(), String> {
     find_invalid_symbol(sentence)?;
     find_alphabetic_adjacent_to_ascii_alphanumeric(sentence)?;
     find_alphabetic_adjacent_to_left_parenthesis(sentence)?;
+    find_ascii_digit_not_followed_by_symbols(sentence)?;
     find_specific_symbol_not_followed_by_space_or_number(sentence)?;
 
     Ok(())
@@ -103,6 +98,7 @@ mod tests {
             "You can abbreviate \"Example\" to \"e.g.\" in formal writing.",
             "Let me see... where did I leave my hat?",
             "The company is committed to producing high-quality yet affordable smartphones for the global market.", // long but words count is valid
+            "She has a 40% holding in the company.",
         ];
         const INVALID: &[&str] = &[
             "If I had the time, I 'd make something better.", // for ` '`
@@ -115,6 +111,7 @@ mod tests {
             "Late last year an allied Taliban faction tried to seize large tracts of the Swat valley in the North-West Frontier Province.", // too long
             "Let me see.. where did I leave my hat?", // for `..`
             "We have some proprietary specific medicine .", // for ` .`
+            "She has a 40 % holding in the company.",
         ];
         for sentence in VALID {
             assert!(

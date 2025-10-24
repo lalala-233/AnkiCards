@@ -590,7 +590,8 @@
 英语::Words|enlist|英[ɪnˈlɪst] 美[ɪnˈlɪst]|vt.征募；使入伍；获得……支持<br>vi.入伍；参与|We must enlist more men.|我们必须征募更多士兵。|Word|英语单词模板
 英语::Words|disclosure|英[dɪsˈkləʊʒə(r)] 美[dɪsˈkloʊʒər]|n.揭发；公开；透露|That is a startling disclosure of police brutality.|那是一个揭发警察暴行的惊人消息。|Word|英语单词模板
 英语::Words|juvenile|英[ˈdʒuːvənaɪl] 美[ˈdʒuːvənl]|adj.青少年的；幼稚的<br>n.青少年；青少年读物；幼雏；扮演少年的演员|I'm afraid he'll ultimately become a juvenile delinquent.|我恐怕他最终会成为一名青少年罪犯。|Word|英语单词模板
-英语::Words|notably|英[ˈnəʊtəbli] 美[ˈnoʊtəbli]|adv.显著地；值得注意地；特别地|British writer known for his essays and children's books, notably The Wind in the Willows(1908).|格雷厄姆，肯尼思1859－1932英国作家，以其散文和儿童文学著名，著名的有杨柳风（1908年）|Word|英语单词模板
+英语::Words|notably|英[ˈnəʊtəbli] 美[ˈnoʊtəbli]|adv.显著地；值得注意地；特别地|The company's profits have increased notably in the past quarter.|公司的利润在过去一个季度显著增长。|Word|英语单词模板
+英语::Words|notably (2)|英[ˈnəʊtəbli] 美[ˈnoʊtəbli]|adv.显著地；值得注意地；特别地|Many fruits are rich in vitamin C, notably oranges and kiwis.|许多水果富含维生素 C，尤其是橙子和猕猴桃。|Word|英语单词模板
 英语::Words|persistent|英[pəˈsɪstənt] 美[pərˈsɪstənt]|adj.坚持的；连续的；固执的|He is a persistent pursuer of truth.|他是个坚持不懈追求真理的人。|Word|英语单词模板
 英语::Words|correlate|英[ˈkɒrəleɪt] 美[ˈkɔːrəleɪt]|vt.使相互关联<br>vi.关联<br>n.相关物|Research workers find it hard to correlate the two sets of figures.|研究人员发现很难使这两组数字互相关连。|Word|英语单词模板
 英语::Words|exile|英[ˈeksaɪl] 美[ˈekzaɪl]|n.放逐；流放；被放逐者<br>vt.放逐；流放|The king was sent into exile.|国王遭到放逐。|Word|英语单词模板
@@ -610,7 +611,10 @@
 英语::Words|established|英[ɪˈstæblɪʃt] 美[ɪˈstæblɪʃt]|adj.确定的；建立的；制定的<br>动词 establish 的过去式和过去分词形式。|She is reading a book that challenges established beliefs.|她在读一本对确定的信念表示异议的书籍。|Word|英语单词模板
 英语::Words|lobbyist|英[ˈlɒbiɪst] 美[ˈlɒbiɪst]|n.活动议案通过者；说客|In an hour long philippic, the legislator denounced the lobbyist opposing his bill.|在一个小时的漫骂演说中，立法者猛烈抨击议案通过者反对他的议案。|Word|英语单词模板
 英语::Words|allege|英[əˈledʒ] 美[əˈledʒ]|vt.断言；宣称|The newspapers allege that the police shot the suspect without warning.|报纸指称说警察未经示警就枪杀那位嫌疑犯。|Word|英语单词模板
-英语::Words|holding|英[ˈhəʊldɪŋ] 美[ˈhoʊldɪŋ]|n.股份；耕地；举行；收藏品<br>动词 hold 的现在分词形式。|She has a 40% holding in the company.|她持有公司40%25的股份。|Word|英语单词模板
+英语::Words|holding|英[ˈhəʊldɪŋ] 美[ˈhoʊldɪŋ]|n.股份；耕地；举行；收藏品<br>动词 hold 的现在分词形式。|She has a 40% holding in the company.|她持有公司 40% 的股份。|Word|英语单词模板
+英语::Words|holding (2)|英[ˈhəʊldɪŋ] 美[ˈhoʊldɪŋ]|n.股份；耕地；举行；收藏品<br>动词 hold 的现在分词形式。|The document proves his legal holding of the patent.|该文件证明他合法持有这项专利。|Word|英语单词模板
+英语::Words|holding (3)|英[ˈhəʊldɪŋ] 美[ˈhoʊldɪŋ]|n.股份；耕地；举行；收藏品<br>动词 hold 的现在分词形式。|The government seized the criminal organization's illegal holdings.|政府没收了该犯罪组织的非法财产。|Word|英语单词模板
+英语::Words|holding (4)|英[ˈhəʊldɪŋ] 美[ˈhoʊldɪŋ]|n.股份；耕地；举行；收藏品<br>动词 hold 的现在分词形式。|The holding corporation owns several subsidiaries in different industries.|该控股公司拥有多家不同行业的子公司。|Word|英语单词模板
 英语::Words|rising|英[ˈraɪzɪŋ] 美[ˈraɪzɪŋ]|n.上升；造反或叛乱<br>adj.上升的；高涨的|He is in the habit of rising early.|他有早起的习惯。|Word|英语单词模板
 英语::Words|insider|英[ɪnˈsaɪdə(r)] 美[ɪnˈsaɪdər]|n.局内人；知情人|The situation was described by one insider as "absolute chaos".|据一名内部人士说，实情是乱作一团。|Word|英语单词模板
 英语::Words|assertion|英[əˈsɜːʃn] 美[əˈsɜːrʃn]|n.断言；主张；论断；自信，坚定；被维护的东西|This assertion rests on a misunderstanding.|这种断言是由一种误解而来。|Word|英语单词模板
@@ -8093,7 +8097,7 @@
 英语::Words|chromium|英[ˈkrəʊmiəm] 美[ˈkroʊmiəm]|n.铬|I am going to rub up the chromium on the car.|我准备把汽车上的镀铬部件擦亮。|Word|英语单词模板
 英语::Words|prohibited|英[prəˈhɪbɪtɪd] 美[prəˈhɪbɪtɪd]|adj.被禁止的<br>动词 prohibit 的过去式和过去分词。|Smoking is strictly prohibited.|严禁吸烟。|Word|英语单词模板
 英语::Words|drive-by||adj.飞车而过的<br>n.从行驶的汽车上的射击|||Word|英语单词模板
-英语::Words|optimization|英[ˌɒptɪmaɪˈzeɪʃən] 美[ˌɒptɪmaɪˈzeɪʃən]|n.优化；最佳化|It also incorporate new optimization specific to particular server and local database format.|它也把新的优化细节合并到特殊服务器与本地数据库格式中。|Word|英语单词模板
+英语::Words|optimization|英[ˌɒptɪmaɪˈzeɪʃən] 美[ˌɒptɪmaɪˈzeɪʃən]|n.优化；最佳化|The optimization of the production line led to a 20% increase in output.|生产线的优化使产量提高了 20%。|Word|英语单词模板
 英语::Words|overheated|英[ˌəʊvəˈhiːtɪd] 美[ˌoʊvərˈhiːtɪd]|adj.过热的；过烧的<br>动词 overheat 的过去式和过去分词形式。|If you wrap the baby in too many wool covers,he will get overheated.|如果你用过多的毛外套把婴儿包起来，他会感到过热的。|Word|英语单词模板
 英语::Words|beau|英[bəʊ] 美[boʊ]|n.男朋友；花花公子|My beau though he is, he doesn't love me.|虽然他是我的男朋友，他并不爱我。|Word|英语单词模板
 英语::Words|nullify|英[ˈnʌlɪfaɪ] 美[ˈnʌləˌfaɪ]|v.使无效；废除；取消|The election results were nullified because of voter fraud.|因为选民舞弊，选举结果无效。|Word|英语单词模板
@@ -9969,7 +9973,9 @@
 英语::Words|surprised|英[səˈpraɪzd] 美[sərˈpraɪzd]|adj.惊讶的，吃惊的，惊奇的<br>动词 surprise 的过去式和过去分词。|You can imagine how surprised I was.|你可以想象我是多么惊讶。|Word|英语单词模板
 英语::Words|intervention|英[ˌɪntəˈvenʃn] 美[ˌɪntəˈvenʃn]|n.介入；干预；调停|His untimely intervention annoyed me.|他那不合时宜的干涉让我生气。|Word|英语单词模板
 英语::Words|cite|英[saɪt] 美[saɪt]|vt.引用；传讯；表扬；举（例）|The lawyer cited a previous case to support his argument.|律师引用了以前的案例来支持他的论点。|Word|英语单词模板
-英语::Words|specifically|英[spəˈsɪfɪkli] 美[spəˈsɪfɪkli]|adv.特别地；明确地；具体地|You were specifically warned not to eat fish.|已经特别叮嘱过你不要吃鱼。|Word|英语单词模板
+英语::Words|specifically|英[spəˈsɪfɪkli] 美[spəˈsɪfɪkli]|adv.特别地；明确地；具体地|The instructions state specifically not to use hot water.|说明书明确说明不要使用热水。|Word|英语单词模板
+英语::Words|specifically (2)|英[spəˈsɪfɪkli] 美[spəˈsɪfɪkli]|adv.特别地；明确地；具体地|We need to target young adults, specifically those aged 18 to 24.|我们需要以年轻人为目标，确切地说是 18 至 24 岁的人群。|Word|英语单词模板
+英语::Words|specifically (3)|英[spəˈsɪfɪkli] 美[spəˈsɪfɪkli]|adv.特别地；明确地；具体地|The tool was created specifically for this complex task.|这个工具是为了这项复杂任务而专门创造的。|Word|英语单词模板
 英语::Words|fewer|英[ˈfjuːə] 美[ˈfjuːə]|adj.少的；越来越少的<br>adj.较少的<br>int.较少数|There will be fewer trees in the future.|未来将会有更少的树。|Word|英语单词模板
 英语::Words|sector|英[ˈsektə(r)] 美[ˈsektər]|n.部门；部分；区域<br>n.[计]扇形；扇区<br>vt.使分成部分|perceive superficially||Word|英语单词模板
 英语::Words|increased|英[ɪnˈkriːst] 美[ɪnˈkriːst]|adj.增加的<br>动词 increase 的过去式和过去分词。|Rising prices neutralized increased wages.|上涨的物价使增加的工资化为乌有。|Word|英语单词模板

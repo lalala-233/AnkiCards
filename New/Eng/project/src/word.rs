@@ -9,15 +9,9 @@ const VALID_COMBINATIONS: &[&str] = &[
     ". ", "..", " .",
 ];
 pub fn check_word(word: &str) -> Result<(), String> {
-    if word.is_empty() {
-        return Err("Empty word".to_string());
-    }
-    if word.contains("  ") {
-        return Err("Contains multiple spaces".to_string());
-    }
-    if !have_valid_ellipsis_if_present(word) {
-        return Err("Invalid ellipsis `..` number".to_string());
-    }
+    find_empty(word)?;
+    find_multiple_spaces(word)?;
+    find_invalid_ellipsis_if_present(word)?;
     find_invalid_word_char(word)?;
     find_invalid_start_char(word)?;
     find_invalid_end_char(word)?;

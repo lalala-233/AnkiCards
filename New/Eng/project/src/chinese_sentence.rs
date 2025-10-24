@@ -1,24 +1,21 @@
 use crate::prelude::*;
 
 const VALID_SYMBOLS: &[char] = &[
-    '，', '。', '：', '！', '？', '《', '》', '…', ' ', '—', '、', '「', '」', '·', '.',
+    '，', '。', '：', '！', '？', '《', '》', '…', ' ', '—', '、', '「', '」', '·', '.', '%',
 ];
 const VALID_CHINESE_START_CHAR: &[char] = &['《', '「'];
 const VALID_CHINESE_END_CHAR: &[char] = &['。', '？', '！', '…', '」'];
-const VALID_COMBINATIONS: &[&str] = &["……", "——", "」。", "。」", ".」"];
+const VALID_COMBINATIONS: &[&str] = &["……", "——", "」。", "。」", ".」", "% "];
 pub fn check_chinese_sentence(sentence: &str) -> Result<(), String> {
-    if sentence.is_empty() {
-        return Err("Empty sentence".to_string());
-    }
-    if sentence.contains("  ") {
-        return Err("Contains multiple spaces".to_string());
-    }
+    find_empty(sentence)?;
+    find_multiple_spaces(sentence)?;
     find_invalid_start_char(sentence)?;
     find_invalid_end_char(sentence)?;
     find_invalid_sentence_char(sentence)?;
     find_invalid_symbol(sentence)?;
     find_alphabetic_adjacent_to_ascii_alphanumeric(sentence)?;
     find_alphabetic_adjacent_to_left_parenthesis(sentence)?;
+    find_ascii_digit_not_followed_by_symbols(sentence)?;
     Ok(())
 }
 fn find_invalid_sentence_char(sentence: &str) -> Result<(), String> {
@@ -66,6 +63,7 @@ mod tests {
             "亚伯拉罕·林肯在美国废除了奴隶制。",
             "《钢琴家》是第 4 部获得最佳影片提名的电影。",
             "在正式写作中，你可以将「Example」缩写为「e.g.」。",
+            "她持有公司 40% 的股份。",
         ];
         const INVALID: &[&str] = &[
             "人行道/路面上不许停车。",                // for `/``
@@ -77,15 +75,15 @@ mod tests {
             #[allow(clippy::invisible_characters)]
             "我们对宇宙了解得越多，产生的问题也就越多。​", // for invisible character \u{200B}
             "我需要为我的音乐收藏买一张新CD。",       // for chinese adjacent to english
+            "她持有公司 40 % 的股份。",               // for ` %`
         ];
         for sentence in VALID {
-            assert_eq!(check_chinese_sentence(sentence), Ok(()));
+            let result = check_chinese_sentence(sentence);
+            assert!(result.is_ok(), "sentence: {sentence}\ndetails: {result:?}",);
         }
         for &sentence in INVALID {
-            assert!(
-                check_chinese_sentence(sentence).is_err(),
-                "sentence: {sentence}"
-            );
+            let result = check_chinese_sentence(sentence);
+            assert!(result.is_err(), "sentence: {sentence}\ndetails: {result:?}",);
             //TODO: check error message
         }
     }
