@@ -654,18 +654,18 @@
 英语::Words|ethnicity|英[eθˈnɪsəti] 美[eθˈnɪsəti]|n.种族划分；属于少数民族|The whole idea of ethnicity is a spurious hangover from the past anyway.|无论怎么说，整个种族划分思想都是过去的荒谬残留。|Word|英语单词模板
 英语::Words|fulfill|英[fʊlˈfɪl] 美[fʊlˈfɪl]|vt.完成；履行；执行；满足|Whatever happens I'm determined to fulfill it.|不管发生什么，我都决心完成它。|Word|英语单词模板
 英语::Words|assassination|英[əˌsæsɪˈneɪʃn] 美[əˌsæsɪˈneɪʃn]|n.暗杀|The press disclosed an assassination attempt.|报界披露了一暗杀企图。|Word|英语单词模板
-英语::Words|geographic|英[ˌdʒiːəˈɡræfɪk] 美[ˌdʒiːəˈɡræfɪk]|adj.地理的；地理学的|It considers that the pest biological characteristics and its geographic information are important to prediction of pest potential establishment area.|认为有害生物的生物学特性及地理学的资料在研究有害生物适生性方面具有十分重要的作用。|Word|英语单词模板
+英语::Words|geographic|英[ˌdʒiːəˈɡræfɪk] 美[ˌdʒiːəˈɡræfɪk]|adj.地理的；地理学的|Geographic factors greatly influence the climate of an area.|地理因素极大地影响一个地区的气候。|Word|英语单词模板
 英语::Words|crying|英[ˈkraɪɪŋ] 美[ˈkraɪɪŋ]|adj.紧急的；令人震惊的<br>n.哭喊<br>动词 cry 的现在分词。|There is a crying need for more funds.|资金需求紧急。|Word|英语单词模板
 英语::Words|handling|英[ˈhændlɪŋ] 美[ˈhændlɪŋ]|n.处理；操作；管理；触摸；装卸<br>动词 handle 的现在分词。|His handling of the crisis could make or mar his career.|他对这一危机的处理可能决定他事业的成败。|Word|英语单词模板
 英语::Words|holder|英[ˈhəʊldə(r)] 美[ˈhoʊldər]|n.持有者；支持物|He is a holder of an insurance policy.|他是保险单持有人。|Word|英语单词模板
 英语::Words|guerrilla|英[ɡəˈrɪlə] 美[ɡəˈrɪlə]|n.游击队员<br>adj.游击队的|He is a guerrilla fighting for his people.|他是一名游击队员，为自己的人民而战。|Word|英语单词模板
 英语::Words|environmentalist|英[ɪnˌvaɪrənˈmentəlɪst] 美[ɪnˌvaɪrənˈmentəlɪst]|n.环保人士；环境论者|On the internet, anyone can be an environmentalist.|在互联网上，任何人都能成为环保人士。|Word|英语单词模板
 英语::Words|ironic|英[aɪˈrɒnɪk] 美[aɪˈrɑːnɪk]|adj.说反话的；讽刺的|At the early stage of Requirements Definition, brainstorming assumes a somewhat ironic purpose.|在需求定义阶段的早期进行头脑风暴在某种程度上呈现出一种说反话的意图。|Word|英语单词模板
-英语::Words|parenting|英[ˈpeərəntɪŋ] 美[ˈperəntɪŋ]|n.（父母）对孩子的养育<br>动词 parent 的现在分词。|Parents also learned positive parenting practices such as constructive discipline and providing consistent routines for their kids.|父母也学会积极的养育方法，例如给予孩子适当的惩罚，并且提出必须遵守的规定。|Word|英语单词模板
+英语::Words|parenting|英[ˈpeərəntɪŋ] 美[ˈperəntɪŋ]|n.（父母）对孩子的养育<br>动词 parent 的现在分词。|Parenting styles can vary significantly across different cultures.|不同文化中的育儿方式可能有很大差异。|Word|英语单词模板
 英语::Words|gospel|英[ˈɡɒspl] 美[ˈɡɑːspl]|n.新约圣经四福书之一；福音；真理|The man was preaching the Gospel.|此人在传布福音。|Word|英语单词模板
 英语::Words|cutting|英[ˈkʌtɪŋ] 美[ˈkʌtɪŋ]|n.切断；切下；开凿；插条；剪报<br>adj.挖苦的；刺骨的<br>动词 cut 的现在分词。|He took a cutting from a rose.|他从玫瑰树上剪下一枝插条。|Word|英语单词模板
 英语::Words|financially|英[fəˈnænʃəli] 美[fəˈnænʃəli]|adv.财政上（金融上）|Now your company will end up financially in the red.|现在你们公司将在财政上以赤字告终。|Word|英语单词模板
-英语::Words|statistically|英[stəˈtɪstɪkli] 美[stəˈtɪstɪkli]|adv.统计上地；统计学地|||Word|英语单词模板
+英语::Words|statistically|英[stəˈtɪstɪkli] 美[stəˈtɪstɪkli]|adv.统计上地；统计学地|The difference between the two groups was not statistically significant.|两组之间的差异在统计上并不显著。|Word|英语单词模板
 英语::Words|backup|英[ˈbækʌp] 美[ˈbækʌp]|n.后备|When the main system fails, the backup system take over.|当主系统不能工作时，后备系统立即投入工作代替之。|Word|英语单词模板
 英语::Words|grid|英[ɡrɪd] 美[ɡrɪd]|n.格子；栅栏；电网；网格；赛车起跑线|The cloth has a grid with square cells.|那块布有正方形的小格子。|Word|英语单词模板
 英语::Words|psychiatric|英[ˌsaɪkiˈætrɪk] 美[ˌsaɪkiˈætrɪk]|adj.精神病的；治疗精神病的|It must be so small that present methods of psychiatric diagnosis cannot find it.|这一定很小，目前精神病的诊断方法还发现不了。|Word|英语单词模板
@@ -2099,7 +2099,7 @@
 英语::Words|zoning||n.分区<br>动词 zone 的现在分词形式。|This city was the first town to adopt zoning laws.|这个城市是第一个制定分区法律的城市。|Word|英语单词模板
 英语::Words|nebula|英[ˈnebjələ] 美[ˈnebjələ]|n.[天]星云；[医]角膜云翳|Fine dust in the nebula reflects the light.|星云中细致的尘埃反射了星光。|Word|英语单词模板
 英语::Words|guided|英[ˈɡaɪdɪd] 美[ˈɡaɪdɪd]|adj.有指导的；【军事】制导的<br>动词 guide 的过去式和过去分词形式。|Be guided by your sense of what is right and just.|做事要有是非观念和正义感。|Word|英语单词模板
-英语::Words|diversify|英[daɪˈvɜːsɪfaɪ] 美[daɪˈvɜːrsɪfaɪ]|vt.使多样化；使变化；使不同<br>vi.多样化|We were told to diversify our portfolio.|我们被告知我们的投资组合需多样化。|Word|英语单词模板
+英语::Words|diversify|英[daɪˈvɜːsɪfaɪ] 美[daɪˈvɜːrsɪfaɪ]|vt.使多样化；使变化；使不同<br>vi.多样化|We need to diversify our investment portfolio to spread the risk.|我们需要使我们的投资组合多样化以分散风险。|Word|英语单词模板
 英语::Words|muffin|英[ˈmʌfɪn] 美[ˈmʌfɪn]|n.松饼|I'll have a bite of your muffin if it isn't too sweet.|如果你的松饼不太甜的话，我要吃一口。|Word|英语单词模板
 英语::Words|doctorate|英[ˈdɒktərət] 美[ˈdɑːktərət]|n.博士学位|He earned his doctorate in philosophy.|他获得了哲学博士学位。|Word|英语单词模板
 英语::Words|fort|英[fɔːt] 美[fɔːrt]|n.堡垒；要塞|The men in the fort sallied at dawn.|堡垒里的人在黎明时出击。|Word|英语单词模板
@@ -2253,7 +2253,7 @@
 英语::Words|Navajo|英[ˈnævəhəʊ] 美[ˈnævəhoʊ]|n.纳瓦霍人（美国最大的印第安部落）；纳瓦霍语<br>=Navaho.|There some manned distant outposts, maintaining contact in Navajo by radio.|在那里他们中的一些加入了侦察部队，用纳瓦霍语通过无线电相互联系。|Word|英语单词模板
 英语::Words|illicit|英[ɪˈlɪsɪt] 美[ɪˈlɪsɪt]|adj.非法的；违禁的；不正当的|The police chief was talking about the illicit sale of drugs.|警长在讲毒品的非法贩卖。|Word|英语单词模板
 英语::Words|three-dimensional|英[θriː dɪˈmenʃənəl] 美[θriː dɪˈmenʃənəl]|adj.三维的；三度的；立体的；生动的|Appreciation of sculpture depends upon the ability to respond to form in three dimensions.|对雕塑的鉴赏力，依赖于对立体的反应能力。|Word|英语单词模板
-英语::Words|challenger|英[ˈtʃælɪndʒə(r)] 美[ˈtʃælɪndʒər]|n.挑战者；需要全力对付的事物|The champion and the challenger meet next week.|下星期冠军将迎战挑战者。|Word|英语单词模板
+英语::Words|challenger|英[ˈtʃælɪndʒə(r)] 美[ˈtʃælɪndʒər]|n.挑战者；需要全力对付的事物|Despite being the underdog, the challenger displayed remarkable skill throughout the competition.|尽管处于劣势，但挑战者在整个比赛中展现出非凡的技巧。|Word|英语单词模板
 英语::Words|freelance|英[ˈfriːlɑːns] 美[ˈfriːlæns]|adj.自由择业的；兼职的<br>v.兼做<br>n.自由职业者|He set himself up as a freelance engineer.|他开始从事自由职业工程师的工作。|Word|英语单词模板
 英语::Words|mole|英[məʊl] 美[moʊl]|n.痣<br>n.鼹鼠；钱鼠；间谍；凿岩机<br>n.防波堤<br>n.摩尔；克分子|She has a tiny mole on her cheek.|她面颊上有一颗小痣。|Word|英语单词模板
 英语::Words|antibody|英[ˈæntibɒdi] 美[ˈæntibɑːdi]|n.抗体|Our end product is an anti-cancer antibody.|我们的最终产品是一种抗癌抗体。|Word|英语单词模板
@@ -6543,7 +6543,7 @@
 英语::Words|befit|英[bɪˈfɪt] 美[bɪˈfɪt]|vt.适合；适宜；对……适当|Maria's clothes befit the occasion.|玛莉亚的衣服适合这个场合。|Word|英语单词模板
 英语::Words|dark-haired|英[ˈdaːkheə(r)d] 美[ˈdaːkheə(r)d]|adj.黑头发的|My daughter has a weakness for tall boys with dark hair.|我女儿特别喜欢黑头发的高个男子。|Word|英语单词模板
 英语::Words|remission|英[rɪˈmɪʃn] 美[rɪˈmɪʃn]|n.宽恕；赦免；（疾病等）减轻；豁免；减刑|Remission of sins is promised to those who repent.|悔过自新的人会得到宽恕。|Word|英语单词模板
-英语::Words|diversified|英[daɪˈvɜːsɪfaɪd] 美[daɪˈvɜːsəˌfaɪd]|adj.多样化的；多种多样的<br>动词 diversify 的过去式和过去分词。|The Department of Commerce is a highly diversified organization.|商业部是个高度多样化的机构。|Word|英语单词模板
+英语::Words|diversified|英[daɪˈvɜːsɪfaɪd] 美[daɪˈvɜːsəˌfaɪd]|adj.多样化的；多种多样的<br>动词 diversify 的过去式和过去分词。|The forest contains a highly diversified ecosystem with hundreds of species.|这片森林包含一个高度多样化的生态系统，有数百个物种。|Word|英语单词模板
 英语::Words|payer|英[ˈpeɪə(r)] 美[ˈpeɪər]|n.支付者；付款人|He is well known as a slow payer.|他是出名的债务拖欠者。|Word|英语单词模板
 英语::Words|maniac|英[ˈmeɪniæk] 美[ˈmeɪniæk]|n.疯子；热衷者；躁狂者|He drives like a maniac.|他象疯子似地开车。|Word|英语单词模板
 英语::Words|ontological|英[ˌɒntəˈlɒdʒɪkl] 美[ˌɒntəˈlɒdʒɪkl]|adj.存在论的；本体论的|Questioning closely means existential ontological questing.|追问乃是对生存本体论的寻求。|Word|英语单词模板
@@ -9141,7 +9141,6 @@
 英语::Words|runny|英[ˈrʌni] 美[ˈrʌni]|adj.流鼻涕的；松软的；水分过多的|You've got a runny nose!|你流鼻涕了！|Word|英语单词模板
 英语::Words|unfaithful|英[ʌnˈfeɪθfl] 美[ʌnˈfeɪθfl]|adj.不诚实的；不可靠的；不忠实的|People do not like an unfaithful child.|人们不喜欢不诚实的孩子。|Word|英语单词模板
 英语::Words|unquestioned|英[ʌnˈkwestʃənd] 美[ʌnˈkwestʃənd]|adj.无可争议的|His courage remains unquestioned.|他的勇敢仍然不容置疑。|Word|英语单词模板
-英语::Words|video-game|英[ˈvɪdiːəʊɡˈeɪm] 美[ˈvɪdiːəʊɡˈeɪm]|n.视频游戏|The program can emulate any video game in the market.|这个节目能够模仿市场上的任何视频游戏。|Word|英语单词模板
 英语::Words|causation|英[kɔːˈzeɪʃn] 美[kɔːˈzeɪʃn]|n.因果关系；原因|In legal discourse causation is particularly important.|在法律推论中，因果关系特别重要。|Word|英语单词模板
 英语::Words|pessimist|英[ˈpesɪmɪst] 美[ˈpesɪmɪst]|n.悲观主义者|He is a pessimist and a defeatist.|他是悲观主义者，也是失败主义者。|Word|英语单词模板
 英语::Words|uncertainly|英[ʌnˈsɜːtnli] 美[ʌnˈsɜːrtnli]|adv.不明确地；怀疑地|I wobbled uncertainly for a couple of paces, then over I went.|我踉跄了几步就跌倒了。|Word|英语单词模板
