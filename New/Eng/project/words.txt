@@ -669,7 +669,8 @@
 英语::Words|backup|英[ˈbækʌp] 美[ˈbækʌp]|n.后备|When the main system fails, the backup system take over.|当主系统不能工作时，后备系统立即投入工作代替之。|Word|英语单词模板
 英语::Words|grid|英[ɡrɪd] 美[ɡrɪd]|n.格子；栅栏；电网；网格；赛车起跑线|The cloth has a grid with square cells.|那块布有正方形的小格子。|Word|英语单词模板
 英语::Words|psychiatric|英[ˌsaɪkiˈætrɪk] 美[ˌsaɪkiˈætrɪk]|adj.精神病的；治疗精神病的|It must be so small that present methods of psychiatric diagnosis cannot find it.|这一定很小，目前精神病的诊断方法还发现不了。|Word|英语单词模板
-英语::Words|recount|英[rɪˈkaʊnt] 美[rɪˈkaʊnt]|vt.详述；列举；重新计算<br>n.重新计算|I will not recount all his offenses again but I will draw attention to some of the more grievous incidents that led to this decision.|我不再会详述所有他的进攻，但是我将引起对那导致这个决定的某些的注意更加悲伤的事件。|Word|英语单词模板
+英语::Words|recount|英[rɪˈkaʊnt] 美[rɪˈkaʊnt]|vt.详述；列举；重新计算<br>n.重新计算|The witness was asked to recount exactly what she saw on the night of the incident.|证人被要求详细描述她在事发当晚所看到的准确情况。|Word|英语单词模板
+英语::Words|recount (2)|英[rɪˈkaʊnt] 美[rɪˈkaʊnt]|vt.详述；列举；重新计算<br>n.重新计算|We need to recount the inventory to ensure the numbers are accurate.|我们需要重新清点库存以确保数字准确。|Word|英语单词模板
 英语::Words|spotlight|英[ˈspɒtlaɪt] 美[ˈspɑːtlaɪt]|n.照明灯；车头灯；公众注意中心<br>vt.用聚光灯照；使瞩目|She is tired of being in the spotlight.|她厌倦到处拋头露面。|Word|英语单词模板
 英语::Words|superintendent|英[ˌsuːpərɪnˈtendənt] 美[ˌsuːpərɪnˈtendənt]|n.监督人；管理人；所长|"I hope he went fishing and comes back tomorrow, but I wouldn't bet my paycheck on it, " said state police superintendent Clinton Pagano ...|州警察局长帕加诺说，"我希望他钓鱼去了，明天就回来。但是我可不愿意拿我的薪水打赌（并无十分把握）。"...|Word|英语单词模板
 英语::Words|prey|英[preɪ] 美[preɪ]|n.牺牲者；被掠食者，猎物<br>vi.掠夺；捕食；使……苦恼|She fell (a) prey to melancholy.|她为忧郁所折磨。|Word|英语单词模板
@@ -10124,3 +10125,4 @@
 英语::Words|welcoming|英[ˈwelkəmɪŋ] 美[ˈwelkəmɪŋ]|adj. 欢迎的，热情的；舒适的；迎接（某人）的<br>v. 欢迎（welcome 的现在分词）|The restaurant has a cozy and welcoming atmosphere.|这家餐厅有舒适温馨的氛围。|Word|英语单词模板
 英语::Words|welcoming (2)|英[ˈwelkəmɪŋ] 美[ˈwelkəmɪŋ]|adj. 欢迎的，热情的；舒适的；迎接（某人）的<br>v. 欢迎（welcome 的现在分词）|He extended a welcoming hand to the new team members.|他向新团队成员伸出了欢迎之手。|Word|英语单词模板
 英语::Words|welcoming (3)|英[ˈwelkəmɪŋ] 美[ˈwelkəmɪŋ]|adj. 欢迎的，热情的；舒适的；迎接（某人）的<br>v. 欢迎（welcome 的现在分词）|He extended a welcoming hand to the new team members.|他向新团队成员伸出了欢迎之手。|Word|英语单词模板
+英语::Words|mindset|英[ˈmaɪndset] 美[ˈmaɪndset]|n. 心态；观念；看法；思维模式|Her positive mindset helped her overcome many challenges in her career.|她积极的心态帮助她克服了职业生涯中的许多挑战。|Word|英语单词模板
