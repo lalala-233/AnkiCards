@@ -1,9 +1,10 @@
 [package]
-name = "a"
-version = "0.1.8"
+name = "checker"
+version = "0.2.4"
 edition = "2024"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 arboard = "3.6"
+thiserror = "2.0"
