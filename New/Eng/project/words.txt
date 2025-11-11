@@ -672,7 +672,7 @@
 英语::Words|recount|英[rɪˈkaʊnt] 美[rɪˈkaʊnt]|vt.详述；列举；重新计算<br>n.重新计算|The witness was asked to recount exactly what she saw on the night of the incident.|证人被要求详细描述她在事发当晚所看到的准确情况。|Word|英语单词模板
 英语::Words|recount (2)|英[rɪˈkaʊnt] 美[rɪˈkaʊnt]|vt.详述；列举；重新计算<br>n.重新计算|We need to recount the inventory to ensure the numbers are accurate.|我们需要重新清点库存以确保数字准确。|Word|英语单词模板
 英语::Words|spotlight|英[ˈspɒtlaɪt] 美[ˈspɑːtlaɪt]|n.照明灯；车头灯；公众注意中心<br>vt.用聚光灯照；使瞩目|She is tired of being in the spotlight.|她厌倦到处拋头露面。|Word|英语单词模板
-英语::Words|superintendent|英[ˌsuːpərɪnˈtendənt] 美[ˌsuːpərɪnˈtendənt]|n.监督人；管理人；所长|"I hope he went fishing and comes back tomorrow, but I wouldn't bet my paycheck on it, " said state police superintendent Clinton Pagano ...|州警察局长帕加诺说，"我希望他钓鱼去了，明天就回来。但是我可不愿意拿我的薪水打赌（并无十分把握）。"...|Word|英语单词模板
+英语::Words|superintendent|英[ˌsuːpərɪnˈtendənt] 美[ˌsuːpərɪnˈtendənt]|n.监督人；管理人；警长|He reported the issue directly to the superintendent of the maintenance department.|他将问题直接报告给了维修部主管。|Word|英语单词模板
 英语::Words|prey|英[preɪ] 美[preɪ]|n.牺牲者；被掠食者，猎物<br>vi.掠夺；捕食；使……苦恼|She fell (a) prey to melancholy.|她为忧郁所折磨。|Word|英语单词模板
 英语::Words|audit|英[ˈɔːdɪt] 美[ˈɔːdɪt]|n.审计；查帐<br>vt.旁听；审计|As usual, the yearly audit will take place in December.|跟往常一样，年度审计将在十二月份进行。|Word|英语单词模板
 英语::Words|supporting|英[səˈpɔːtɪŋ] 美[səˈpɔːrtɪŋ]|adj.支持的；次要的；辅助性的<br>动词 support 的现在分词。|Cartilage serves as a supporting framework for softer tissues.|软骨对于软组织起到一种支持框架作用。|Word|英语单词模板
@@ -685,7 +685,7 @@
 英语::Words|frightening|英[ˈfraɪtnɪŋ] 美[ˈfraɪtnɪŋ]|adj.令人恐惧的；令人害怕的<br>动词 frighten 的现在分词。|I can't forget that frightening experience.|我无法忘记那段令人恐惧的经历。|Word|英语单词模板
 英语::Words|repeated|英[rɪˈpiːtɪd] 美[rɪˈpiːtɪd]|adj.重复的<br>动词 repeat 的过去式和过去分词。|I was embittered by repeated failures.|我因屡次失败而苦恼。|Word|英语单词模板
 英语::Words|rocky|英[ˈrɒki] 美[ˈrɑːki]|adj.岩石的；像岩石的；坚硬的；麻木的；困难重重的；摇晃的，不稳定的|Only little rocky islets could have been seen.|人们只能看见一些多岩石的小岛。|Word|英语单词模板
-英语::Words|obsession|英[əbˈseʃn] 美[əbˈseʃn]|n.困扰；沉迷；着魔；妄想|Winning is no longer just a goal;it becomes an obsession.|打赢官司不再仅仅是一个目标，更成为一种无法摆脱的困扰。|Word|英语单词模板
+英语::Words|obsession|英[əbˈseʃn] 美[əbˈseʃn]|n.困扰；沉迷；痴迷；着魔；妄想|She has an unhealthy obsession with being thin, which worries her family.|她对变瘦有着不健康的痴迷，这让她家人很担心。|Word|英语单词模板
 英语::Words|corpse|英[kɔːps] 美[kɔːrps]|n.尸体|The corpse was laid out by the undertaker.|承办殡葬者准备埋葬尸体。|Word|英语单词模板
 英语::Words|Turkish|英[ˈtɜːkɪʃ] 美[ˈtɜːrkɪʃ]|n.土耳其语；土耳其人<br>adj.土耳其的；土耳其人的；土耳其语的|Turkish is an agglutinative language.|土耳其语是一种胶著语。|Word|英语单词模板
 英语::Words|problematic|英[ˌprɒbləˈmætɪk] 美[ˌprɑːbləˈmætɪk]|adj.问题的；有疑问的|Then we speak of a test of the problematic premise.|那么我们就涉及对有问题的前提的检验。|Word|英语单词模板
@@ -696,7 +696,9 @@
 英语::Words|mining|英[ˈmaɪnɪŋ] 美[ˈmaɪnɪŋ]|n.采矿；矿业|He was trained there as a mining engineer.|他在那里被培养成一名采矿工程师。|Word|英语单词模板
 英语::Words|fundamentally|英[ˌfʌndəˈmentəli] 美[ˌfʌndəˈmentəli]|adv.从根本上；基本地|They remained fundamentally opposed to the plan.|他们依然从根本上反对这项计划。|Word|英语单词模板
 英语::Words|wildly|英[ˈwaɪldli] 美[ˈwaɪldli]|adv.狂热地；激动地；剧烈地；轻率地；鲁莽地|The spectators applauded wildly.|观众拼命地鼓掌。|Word|英语单词模板
-英语::Words|evenly|英[ˈiːvnli] 美[ˈiːvnli]|adv.平衡地；平坦地；平等地|The steam will make moisturizing conditioners work more effectively by allowing the conditioner to be evenly absorbed into each hair strand.|蒸汽会使得保湿护发调理更有效的进行，使护发素可以平衡地被每一根发丝吸收。|Word|英语单词模板
+英语::Words|evenly|英[ˈiːvnli] 美[ˈiːvnli]|adv.平衡地；均匀地；平坦地；平等地；势均力敌地；不相上下地|The chef sliced the vegetables evenly into thin pieces.|厨师将蔬菜均匀地切成薄片。|Word|英语单词模板
+英语::Words|evenly (2)|英[ˈiːvnli] 美[ˈiːvnli]|adv.平衡地；均匀地；平坦地；平等地；势均力敌地；不相上下地|The new policy will apply evenly to all employees, regardless of position.|新政策将平等适用于所有员工，无论职位如何。|Word|英语单词模板
+英语::Words|evenly (3)|英[ˈiːvnli] 美[ˈiːvnli]|adv.平衡地；均匀地；平坦地；平等地；势均力敌地；不相上下地|The two teams were evenly matched throughout the game.|整场比赛中两队势均力敌。|Word|英语单词模板
 英语::Words|precede|英[prɪˈsiːd] 美[prɪˈsiːd]|vt.在……之前；先于<br>vi.在前面；领先|He precede his speech with a welcome to the guest.|他演讲前先对来宾表示欢迎。|Word|英语单词模板
 英语::Words|dual|英[ˈdjuːəl] 美[ˈduːəl]|adj.双重的；成双的<br>n.双数|She has dual nationality.|她有双重国籍。|Word|英语单词模板
 英语::Words|newcomer|英[ˈnjuːkʌmə(r)] 美[ˈnuːkʌmər]|n.新来的人；新手；新近出现的事物|I don't like the newcomer.|我不喜欢那个新来的人。|Word|英语单词模板
@@ -10126,3 +10128,10 @@
 英语::Words|welcoming (2)|英[ˈwelkəmɪŋ] 美[ˈwelkəmɪŋ]|adj. 欢迎的，热情的；舒适的；迎接（某人）的<br>v. 欢迎（welcome 的现在分词）|He extended a welcoming hand to the new team members.|他向新团队成员伸出了欢迎之手。|Word|英语单词模板
 英语::Words|welcoming (3)|英[ˈwelkəmɪŋ] 美[ˈwelkəmɪŋ]|adj. 欢迎的，热情的；舒适的；迎接（某人）的<br>v. 欢迎（welcome 的现在分词）|He extended a welcoming hand to the new team members.|他向新团队成员伸出了欢迎之手。|Word|英语单词模板
 英语::Words|mindset|英[ˈmaɪndset] 美[ˈmaɪndset]|n. 心态；观念；看法；思维模式|Her positive mindset helped her overcome many challenges in her career.|她积极的心态帮助她克服了职业生涯中的许多挑战。|Word|英语单词模板
+英语::Words|groundbreaking|英[ˈɡraʊndbreɪkɪŋ] 美[ˈɡraʊndbreɪkɪŋ]|adj. 开创性的；突破性的；具有重大历史意义的|The company announced a groundbreaking new technology that could revolutionize renewable energy.|该公司宣布了一项可能彻底改变可再生能源的开创性新技术。|Word|英语单词模板
+英语::Words|groundbreaking (2)|英[ˈɡraʊndbreɪkɪŋ] 美[ˈɡraʊndbreɪkɪŋ]|adj. 开创性的；突破性的；具有重大历史意义的|The peace agreement was a groundbreaking moment in the region's history.|这项和平协议是该地区历史上具有重大意义的时刻。|Word|英语单词模板
+英语::Words|collocation|英[ˌkɒləˈkeɪʃn] 美[ˌkɑːləˈkeɪʃn]|n. 词组；搭配；组合；排列；布局|This dictionary provides useful information about word collocations.|这本词典提供了有关词语搭配的有用信息。|Word|英语单词模板
+英语::Words|collocation (2)|英[ˌkɒləˈkeɪʃn] 美[ˌkɑːləˈkeɪʃn]|n. 词组；搭配；组合；排列；布局|The collocation of buildings in the new development maximizes natural light.|新开发项目中建筑物的布局最大限度地利用了自然光。|Word|英语单词模板
+英语::Words|graded|英[ˈɡreɪdɪd] 美[ˈɡreɪdɪd]|adj. 分等级的；经过评分的|The language program offers graded lessons for beginners to advanced learners.|这个语言项目为初学者到高级学习者提供分级课程。|Word|英语单词模板
+英语::Words|graded (2)|英[ˈɡreɪdɪd] 美[ˈɡreɪdɪd]|adj. 分等级的；经过评分的|The system automatically generates graded reports for each student.|系统自动为每个学生生成评分报告。|Word|英语单词模板
+
